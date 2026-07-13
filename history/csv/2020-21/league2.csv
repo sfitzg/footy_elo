@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+12/09/2020,Barrow,Stevenage,1,1,D
+12/09/2020,Bolton Wanderers,Forest Green Rovers,0,1,A
+12/09/2020,Bradford City,Colchester United,0,0,D
+12/09/2020,Cambridge United,Carlisle United,3,0,H
+12/09/2020,Cheltenham Town,Morecambe,1,2,A
+12/09/2020,Walsall,Grimsby Town,1,0,H
+12/09/2020,Mansfield Town,Tranmere Rovers,0,0,D
+12/09/2020,Oldham Athletic,Leyton Orient,0,1,A
+12/09/2020,Port Vale,Crawley Town,2,0,H
+12/09/2020,Salford City,Exeter City,2,2,D
+12/09/2020,Scunthorpe United,Newport County,1,1,D
+12/09/2020,Southend United,Harrogate Town,0,4,A
+19/09/2020,Carlisle United,Southend United,2,0,H
+19/09/2020,Colchester United,Bolton Wanderers,2,0,H
+19/09/2020,Crawley Town,Scunthorpe United,1,0,H
+19/09/2020,Exeter City,Port Vale,0,2,A
+19/09/2020,Morecambe,Cambridge United,0,5,A
+19/09/2020,Stevenage,Oldham Athletic,3,0,H
+19/09/2020,Forest Green Rovers,Bradford City,2,2,D
+19/09/2020,Grimsby Town,Salford City,0,4,A
+19/09/2020,Harrogate Town,Walsall,2,2,D
+19/09/2020,Leyton Orient,Mansfield Town,2,2,D
+19/09/2020,Newport County,Barrow,2,1,H
+19/09/2020,Tranmere Rovers,Cheltenham Town,0,3,A
+26/09/2020,Barrow,Colchester United,1,1,D
+26/09/2020,Bolton Wanderers,Newport County,0,2,A
+26/09/2020,Bradford City,Stevenage,2,1,H
+26/09/2020,Cambridge United,Tranmere Rovers,0,0,D
+26/09/2020,Mansfield Town,Exeter City,1,2,A
+26/09/2020,Oldham Athletic,Crawley Town,2,3,A
+26/09/2020,Port Vale,Harrogate Town,0,0,D
+26/09/2020,Salford City,Forest Green Rovers,0,0,D
+26/09/2020,Scunthorpe United,Carlisle United,1,0,H
+26/09/2020,Southend United,Morecambe,1,2,A
+03/10/2020,Tranmere Rovers,Scunthorpe United,2,0,H
+03/10/2020,Leyton Orient,Cheltenham Town,0,2,A
+03/10/2020,Carlisle United,Barrow,1,0,H
+03/10/2020,Colchester United,Oldham Athletic,3,3,D
+03/10/2020,Crawley Town,Southend United,1,1,D
+03/10/2020,Exeter City,Cambridge United,2,0,H
+03/10/2020,Morecambe,Port Vale,1,0,H
+03/10/2020,Stevenage,Salford City,0,1,A
+03/10/2020,Forest Green Rovers,Walsall,1,1,D
+03/10/2020,Harrogate Town,Bolton Wanderers,1,2,A
+03/10/2020,Newport County,Mansfield Town,2,1,H
+10/10/2020,Scunthorpe United,Forest Green Rovers,1,4,A
+10/10/2020,Southend United,Exeter City,2,2,D
+10/10/2020,Salford City,Tranmere Rovers,2,2,D
+10/10/2020,Barrow,Leyton Orient,1,1,D
+10/10/2020,Bolton Wanderers,Grimsby Town,0,0,D
+10/10/2020,Cambridge United,Newport County,2,1,H
+10/10/2020,Cheltenham Town,Crawley Town,2,0,H
+10/10/2020,Walsall,Colchester United,1,1,D
+10/10/2020,Mansfield Town,Stevenage,0,0,D
+10/10/2020,Oldham Athletic,Morecambe,2,3,A
+10/10/2020,Port Vale,Carlisle United,0,1,A
+12/10/2020,Bradford City,Harrogate Town,0,1,A
+13/10/2020,Walsall,Leyton Orient,2,1,H
+13/10/2020,Cheltenham Town,Grimsby Town,1,3,A
+17/10/2020,Leyton Orient,Grimsby Town,2,3,A
+17/10/2020,Bolton Wanderers,Oldham Athletic,1,2,A
+17/10/2020,Carlisle United,Colchester United,3,2,H
+17/10/2020,Crawley Town,Morecambe,4,0,H
+17/10/2020,Walsall,Exeter City,0,0,D
+17/10/2020,Forest Green Rovers,Stevenage,1,0,H
+17/10/2020,Harrogate Town,Barrow,1,0,H
+17/10/2020,Mansfield Town,Bradford City,1,3,A
+17/10/2020,Newport County,Tranmere Rovers,1,0,H
+17/10/2020,Port Vale,Salford City,1,0,H
+17/10/2020,Scunthorpe United,Cambridge United,0,5,A
+17/10/2020,Southend United,Cheltenham Town,0,2,A
+20/10/2020,Salford City,Southend United,3,0,H
+20/10/2020,Cheltenham Town,Scunthorpe United,1,0,H
+20/10/2020,Morecambe,Mansfield Town,1,1,D
+20/10/2020,Barrow,Bolton Wanderers,3,3,D
+20/10/2020,Cambridge United,Port Vale,3,1,H
+20/10/2020,Colchester United,Forest Green Rovers,1,0,H
+20/10/2020,Exeter City,Crawley Town,2,1,H
+20/10/2020,Stevenage,Newport County,0,1,A
+20/10/2020,Oldham Athletic,Carlisle United,1,1,D
+20/10/2020,Tranmere Rovers,Leyton Orient,0,1,A
+20/10/2020,Bradford City,Walsall,1,1,D
+20/10/2020,Grimsby Town,Harrogate Town,1,2,A
+24/10/2020,Tranmere Rovers,Southend United,2,0,H
+24/10/2020,Exeter City,Scunthorpe United,3,1,H
+24/10/2020,Barrow,Walsall,2,2,D
+24/10/2020,Bradford City,Newport County,0,3,A
+24/10/2020,Cambridge United,Bolton Wanderers,1,1,D
+24/10/2020,Cheltenham Town,Mansfield Town,0,0,D
+24/10/2020,Colchester United,Harrogate Town,2,1,H
+24/10/2020,Morecambe,Forest Green Rovers,1,2,A
+24/10/2020,Stevenage,Leyton Orient,0,2,A
+24/10/2020,Grimsby Town,Carlisle United,1,1,D
+24/10/2020,Oldham Athletic,Port Vale,1,2,A
+24/10/2020,Salford City,Crawley Town,1,1,D
+27/10/2020,Mansfield Town,Barrow,2,4,A
+27/10/2020,Crawley Town,Tranmere Rovers,4,0,H
+27/10/2020,Carlisle United,Morecambe,3,1,H
+27/10/2020,Walsall,Cambridge United,0,2,A
+27/10/2020,Forest Green Rovers,Grimsby Town,1,0,H
+27/10/2020,Harrogate Town,Stevenage,0,0,D
+27/10/2020,Leyton Orient,Exeter City,1,1,D
+27/10/2020,Bolton Wanderers,Bradford City,1,0,H
+27/10/2020,Newport County,Colchester United,2,1,H
+27/10/2020,Port Vale,Cheltenham Town,2,1,H
+27/10/2020,Southend United,Oldham Athletic,1,2,A
+31/10/2020,Southend United,Port Vale,0,2,A
+31/10/2020,Salford City,Oldham Athletic,2,0,H
+31/10/2020,Exeter City,Carlisle United,1,0,H
+31/10/2020,Barrow,Bradford City,1,0,H
+31/10/2020,Cheltenham Town,Forest Green Rovers,2,1,H
+31/10/2020,Crawley Town,Cambridge United,2,1,H
+31/10/2020,Stevenage,Grimsby Town,0,0,D
+31/10/2020,Leyton Orient,Bolton Wanderers,4,0,H
+31/10/2020,Mansfield Town,Walsall,1,1,D
+31/10/2020,Newport County,Harrogate Town,2,1,H
+31/10/2020,Tranmere Rovers,Morecambe,0,1,A
+03/11/2020,Grimsby Town,Barrow,1,0,H
+03/11/2020,Bolton Wanderers,Mansfield Town,1,1,D
+03/11/2020,Harrogate Town,Tranmere Rovers,0,1,A
+03/11/2020,Oldham Athletic,Cheltenham Town,2,1,H
+03/11/2020,Morecambe,Exeter City,2,2,D
+03/11/2020,Bradford City,Southend United,3,0,H
+03/11/2020,Cambridge United,Salford City,2,1,H
+03/11/2020,Carlisle United,Newport County,3,2,H
+03/11/2020,Colchester United,Stevenage,3,1,H
+03/11/2020,Walsall,Crawley Town,1,0,H
+03/11/2020,Forest Green Rovers,Leyton Orient,2,1,H
+13/11/2020,Bolton Wanderers,Salford City,2,0,H
+14/11/2020,Oldham Athletic,Scunthorpe United,0,2,A
+14/11/2020,Forest Green Rovers,Mansfield Town,1,2,A
+14/11/2020,Port Vale,Tranmere Rovers,3,4,A
+14/11/2020,Harrogate Town,Crawley Town,1,1,D
+14/11/2020,Bradford City,Exeter City,2,2,D
+14/11/2020,Cambridge United,Barrow,1,1,D
+14/11/2020,Carlisle United,Cheltenham Town,1,2,A
+14/11/2020,Colchester United,Leyton Orient,2,1,H
+14/11/2020,Morecambe,Stevenage,1,1,D
+14/11/2020,Walsall,Southend United,0,1,A
+17/11/2020,Port Vale,Scunthorpe United,0,1,A
+20/11/2020,Mansfield Town,Colchester United,1,1,D
+21/11/2020,Newport County,Port Vale,1,0,H
+21/11/2020,Leyton Orient,Harrogate Town,3,0,H
+21/11/2020,Salford City,Bradford City,3,0,H
+21/11/2020,Scunthorpe United,Morecambe,1,1,D
+21/11/2020,Crawley Town,Carlisle United,0,3,A
+21/11/2020,Barrow,Forest Green Rovers,2,2,D
+21/11/2020,Cheltenham Town,Walsall,3,0,H
+21/11/2020,Exeter City,Oldham Athletic,1,2,A
+21/11/2020,Stevenage,Bolton Wanderers,1,2,A
+21/11/2020,Tranmere Rovers,Grimsby Town,5,0,H
+24/11/2020,Southend United,Forest Green Rovers,0,1,A
+24/11/2020,Tranmere Rovers,Carlisle United,1,0,H
+24/11/2020,Scunthorpe United,Bolton Wanderers,0,1,A
+24/11/2020,Salford City,Morecambe,2,1,H
+24/11/2020,Newport County,Walsall,1,1,D
+24/11/2020,Barrow,Oldham Athletic,3,4,A
+24/11/2020,Cheltenham Town,Cambridge United,1,1,D
+24/11/2020,Crawley Town,Grimsby Town,1,2,A
+24/11/2020,Exeter City,Colchester United,6,1,H
+24/11/2020,Stevenage,Port Vale,2,1,H
+24/11/2020,Leyton Orient,Bradford City,1,0,H
+24/11/2020,Mansfield Town,Harrogate Town,0,1,A
+28/11/2020,Bolton Wanderers,Southend United,3,0,H
+28/11/2020,Port Vale,Leyton Orient,2,3,A
+01/12/2020,Harrogate Town,Scunthorpe United,2,5,A
+01/12/2020,Grimsby Town,Exeter City,1,4,A
+01/12/2020,Bradford City,Cheltenham Town,1,2,A
+01/12/2020,Oldham Athletic,Tranmere Rovers,0,1,A
+01/12/2020,Colchester United,Crawley Town,1,1,D
+01/12/2020,Morecambe,Barrow,1,0,H
+01/12/2020,Forest Green Rovers,Newport County,1,1,D
+02/12/2020,Walsall,Stevenage,1,1,D
+02/12/2020,Carlisle United,Salford City,2,1,H
+02/12/2020,Cambridge United,Mansfield Town,0,1,A
+05/12/2020,Newport County,Morecambe,2,1,H
+05/12/2020,Colchester United,Grimsby Town,2,1,H
+05/12/2020,Tranmere Rovers,Walsall,1,3,A
+05/12/2020,Mansfield Town,Crawley Town,3,3,D
+05/12/2020,Harrogate Town,Forest Green Rovers,0,1,A
+05/12/2020,Scunthorpe United,Leyton Orient,2,0,H
+05/12/2020,Barrow,Salford City,0,1,A
+05/12/2020,Bolton Wanderers,Port Vale,3,6,A
+05/12/2020,Bradford City,Carlisle United,0,1,A
+05/12/2020,Cambridge United,Oldham Athletic,1,2,A
+05/12/2020,Cheltenham Town,Exeter City,5,3,H
+05/12/2020,Stevenage,Southend United,0,0,D
+08/12/2020,Grimsby Town,Newport County,0,2,A
+08/12/2020,Scunthorpe United,Colchester United,0,1,A
+12/12/2020,Salford City,Cheltenham Town,0,0,D
+12/12/2020,Port Vale,Colchester United,1,1,D
+12/12/2020,Southend United,Scunthorpe United,1,0,H
+12/12/2020,Carlisle United,Stevenage,4,0,H
+12/12/2020,Crawley Town,Barrow,4,2,H
+12/12/2020,Exeter City,Tranmere Rovers,5,0,H
+12/12/2020,Morecambe,Harrogate Town,1,0,H
+12/12/2020,Walsall,Bolton Wanderers,2,1,H
+12/12/2020,Forest Green Rovers,Cambridge United,2,0,H
+12/12/2020,Grimsby Town,Mansfield Town,1,1,D
+12/12/2020,Leyton Orient,Newport County,2,1,H
+12/12/2020,Oldham Athletic,Bradford City,3,1,H
+15/12/2020,Southend United,Grimsby Town,3,1,H
+15/12/2020,Crawley Town,Bradford City,1,1,D
+15/12/2020,Cheltenham Town,Bolton Wanderers,0,1,A
+15/12/2020,Morecambe,Leyton Orient,2,1,H
+15/12/2020,Carlisle United,Mansfield Town,1,0,H
+15/12/2020,Oldham Athletic,Walsall,2,3,A
+15/12/2020,Port Vale,Forest Green Rovers,1,1,D
+15/12/2020,Salford City,Newport County,1,1,D
+15/12/2020,Scunthorpe United,Barrow,2,1,H
+15/12/2020,Cambridge United,Colchester United,2,1,H
+15/12/2020,Exeter City,Harrogate Town,1,2,A
+19/12/2020,Mansfield Town,Southend United,1,1,D
+19/12/2020,Harrogate Town,Salford City,0,1,A
+19/12/2020,Leyton Orient,Crawley Town,1,2,A
+19/12/2020,Grimsby Town,Scunthorpe United,1,0,H
+19/12/2020,Barrow,Cheltenham Town,3,0,H
+19/12/2020,Bolton Wanderers,Tranmere Rovers,0,3,A
+19/12/2020,Bradford City,Cambridge United,1,0,H
+19/12/2020,Colchester United,Morecambe,1,2,A
+19/12/2020,Walsall,Port Vale,4,3,H
+19/12/2020,Forest Green Rovers,Carlisle United,1,0,H
+19/12/2020,Newport County,Oldham Athletic,2,4,A
+22/12/2020,Grimsby Town,Bradford City,1,2,A
+26/12/2020,Cheltenham Town,Stevenage,1,1,D
+26/12/2020,Tranmere Rovers,Bradford City,0,1,A
+26/12/2020,Salford City,Walsall,2,0,H
+26/12/2020,Port Vale,Barrow,0,2,A
+26/12/2020,Cambridge United,Leyton Orient,2,1,H
+26/12/2020,Exeter City,Forest Green Rovers,1,1,D
+26/12/2020,Scunthorpe United,Mansfield Town,2,3,A
+26/12/2020,Southend United,Colchester United,2,0,H
+26/12/2020,Carlisle United,Bolton Wanderers,3,3,D
+26/12/2020,Oldham Athletic,Harrogate Town,1,2,A
+26/12/2020,Crawley Town,Newport County,1,1,D
+26/12/2020,Morecambe,Grimsby Town,3,1,H
+29/12/2020,Walsall,Scunthorpe United,1,2,A
+29/12/2020,Barrow,Tranmere Rovers,1,1,D
+29/12/2020,Leyton Orient,Southend United,2,0,H
+29/12/2020,Grimsby Town,Oldham Athletic,0,0,D
+29/12/2020,Stevenage,Cambridge United,1,0,H
+29/12/2020,Bradford City,Port Vale,0,0,D
+29/12/2020,Colchester United,Cheltenham Town,0,0,D
+29/12/2020,Forest Green Rovers,Crawley Town,1,2,A
+02/01/2021,Walsall,Carlisle United,0,2,A
+02/01/2021,Mansfield Town,Port Vale,4,0,H
+02/01/2021,Grimsby Town,Cambridge United,1,2,A
+02/01/2021,Bolton Wanderers,Crawley Town,0,1,A
+02/01/2021,Leyton Orient,Salford City,1,0,H
+02/01/2021,Stevenage,Scunthorpe United,3,1,H
+05/01/2021,Mansfield Town,Salford City,2,1,H
+09/01/2021,Cambridge United,Harrogate Town,2,1,H
+09/01/2021,Southend United,Barrow,1,0,H
+09/01/2021,Port Vale,Grimsby Town,3,0,H
+12/01/2021,Scunthorpe United,Salford City,0,1,A
+12/01/2021,Exeter City,Bolton Wanderers,1,1,D
+13/01/2021,Oldham Athletic,Mansfield Town,2,3,A
+16/01/2021,Walsall,Oldham Athletic,1,1,D
+16/01/2021,Bolton Wanderers,Cheltenham Town,1,1,D
+16/01/2021,Barrow,Scunthorpe United,1,0,H
+16/01/2021,Grimsby Town,Southend United,0,0,D
+16/01/2021,Colchester United,Cambridge United,1,1,D
+16/01/2021,Forest Green Rovers,Port Vale,1,1,D
+16/01/2021,Leyton Orient,Morecambe,2,0,H
+16/01/2021,Stevenage,Tranmere Rovers,0,0,D
+16/01/2021,Newport County,Salford City,0,0,D
+19/01/2021,Southend United,Cambridge United,1,2,A
+19/01/2021,Harrogate Town,Exeter City,0,0,D
+19/01/2021,Cheltenham Town,Newport County,1,1,D
+19/01/2021,Morecambe,Walsall,1,1,D
+19/01/2021,Tranmere Rovers,Forest Green Rovers,3,2,H
+22/01/2021,Salford City,Harrogate Town,2,2,D
+23/01/2021,Exeter City,Stevenage,3,1,H
+23/01/2021,Scunthorpe United,Grimsby Town,3,0,H
+23/01/2021,Leyton Orient,Forest Green Rovers,0,1,A
+23/01/2021,Cambridge United,Bradford City,0,0,D
+23/01/2021,Southend United,Mansfield Town,0,1,A
+23/01/2021,Port Vale,Walsall,1,3,A
+23/01/2021,Oldham Athletic,Newport County,3,2,H
+23/01/2021,Morecambe,Colchester United,3,0,H
+23/01/2021,Tranmere Rovers,Bolton Wanderers,2,1,H
+26/01/2021,Cheltenham Town,Oldham Athletic,2,0,H
+26/01/2021,Stevenage,Colchester United,0,0,D
+26/01/2021,Scunthorpe United,Port Vale,2,0,H
+26/01/2021,Southend United,Bradford City,1,3,A
+26/01/2021,Tranmere Rovers,Harrogate Town,3,2,H
+26/01/2021,Exeter City,Morecambe,0,2,A
+29/01/2021,Colchester United,Scunthorpe United,0,1,A
+30/01/2021,Bolton Wanderers,Leyton Orient,2,0,H
+30/01/2021,Bradford City,Barrow,2,1,H
+30/01/2021,Cambridge United,Crawley Town,3,1,H
+30/01/2021,Forest Green Rovers,Cheltenham Town,0,0,D
+30/01/2021,Grimsby Town,Stevenage,1,2,A
+30/01/2021,Harrogate Town,Newport County,2,1,H
+30/01/2021,Oldham Athletic,Salford City,2,1,H
+30/01/2021,Port Vale,Southend United,5,1,H
+30/01/2021,Morecambe,Tranmere Rovers,0,1,A
+30/01/2021,Carlisle United,Exeter City,1,0,H
+02/02/2021,Crawley Town,Leyton Orient,0,0,D
+02/02/2021,Carlisle United,Forest Green Rovers,1,2,A
+02/02/2021,Stevenage,Exeter City,0,1,A
+06/02/2021,Tranmere Rovers,Port Vale,3,1,H
+06/02/2021,Crawley Town,Harrogate Town,1,3,A
+06/02/2021,Stevenage,Morecambe,2,2,D
+06/02/2021,Leyton Orient,Colchester United,0,0,D
+06/02/2021,Newport County,Grimsby Town,1,0,H
+06/02/2021,Barrow,Cambridge United,0,2,A
+06/02/2021,Exeter City,Bradford City,3,2,H
+09/02/2021,Tranmere Rovers,Stevenage,0,1,A
+09/02/2021,Newport County,Southend United,0,1,A
+09/02/2021,Harrogate Town,Cheltenham Town,0,1,A
+09/02/2021,Bolton Wanderers,Morecambe,1,1,D
+09/02/2021,Salford City,Cambridge United,4,1,H
+09/02/2021,Walsall,Mansfield Town,1,1,D
+13/02/2021,Cambridge United,Southend United,0,0,D
+13/02/2021,Bolton Wanderers,Stevenage,1,0,H
+14/02/2021,Colchester United,Mansfield Town,2,2,D
+16/02/2021,Harrogate Town,Carlisle United,1,0,H
+16/02/2021,Newport County,Exeter City,1,1,D
+16/02/2021,Salford City,Barrow,1,0,H
+16/02/2021,Crawley Town,Stevenage,0,1,A
+16/02/2021,Forest Green Rovers,Oldham Athletic,4,3,H
+16/02/2021,Bradford City,Morecambe,2,1,H
+16/02/2021,Walsall,Cheltenham Town,1,2,A
+17/02/2021,Mansfield Town,Bolton Wanderers,2,3,A
+20/02/2021,Stevenage,Walsall,1,1,D
+20/02/2021,Crawley Town,Colchester United,1,0,H
+20/02/2021,Mansfield Town,Cambridge United,0,3,A
+20/02/2021,Salford City,Carlisle United,1,1,D
+20/02/2021,Scunthorpe United,Harrogate Town,3,1,H
+20/02/2021,Cheltenham Town,Bradford City,0,2,A
+20/02/2021,Barrow,Morecambe,1,2,A
+20/02/2021,Leyton Orient,Port Vale,1,1,D
+20/02/2021,Tranmere Rovers,Oldham Athletic,2,2,D
+20/02/2021,Southend United,Bolton Wanderers,0,1,A
+21/02/2021,Newport County,Forest Green Rovers,0,2,A
+23/02/2021,Cambridge United,Cheltenham Town,0,1,A
+23/02/2021,Morecambe,Salford City,2,1,H
+23/02/2021,Bradford City,Leyton Orient,1,0,H
+23/02/2021,Bolton Wanderers,Scunthorpe United,2,0,H
+23/02/2021,Port Vale,Stevenage,0,0,D
+23/02/2021,Oldham Athletic,Barrow,0,1,A
+23/02/2021,Harrogate Town,Mansfield Town,1,0,H
+23/02/2021,Grimsby Town,Crawley Town,2,1,H
+23/02/2021,Colchester United,Exeter City,1,2,A
+23/02/2021,Carlisle United,Tranmere Rovers,2,3,A
+24/02/2021,Forest Green Rovers,Southend United,1,3,A
+24/02/2021,Walsall,Newport County,0,1,A
+27/02/2021,Bolton Wanderers,Barrow,1,0,H
+27/02/2021,Harrogate Town,Grimsby Town,1,0,H
+27/02/2021,Forest Green Rovers,Colchester United,3,0,H
+27/02/2021,Southend United,Salford City,0,0,D
+27/02/2021,Scunthorpe United,Cheltenham Town,0,2,A
+27/02/2021,Crawley Town,Exeter City,2,0,H
+27/02/2021,Newport County,Stevenage,0,0,D
+27/02/2021,Mansfield Town,Morecambe,1,0,H
+27/02/2021,Carlisle United,Oldham Athletic,1,3,A
+27/02/2021,Walsall,Bradford City,1,2,A
+27/02/2021,Leyton Orient,Tranmere Rovers,1,3,A
+27/02/2021,Port Vale,Cambridge United,0,1,A
+02/03/2021,Tranmere Rovers,Newport County,1,0,H
+02/03/2021,Oldham Athletic,Bolton Wanderers,0,2,A
+02/03/2021,Grimsby Town,Leyton Orient,0,1,A
+02/03/2021,Stevenage,Forest Green Rovers,3,0,H
+02/03/2021,Exeter City,Walsall,0,0,D
+02/03/2021,Colchester United,Carlisle United,2,1,H
+02/03/2021,Cheltenham Town,Southend United,1,0,H
+02/03/2021,Cambridge United,Scunthorpe United,0,1,A
+02/03/2021,Bradford City,Mansfield Town,1,0,H
+02/03/2021,Barrow,Harrogate Town,0,1,A
+02/03/2021,Morecambe,Crawley Town,3,1,H
+02/03/2021,Salford City,Port Vale,1,0,H
+06/03/2021,Tranmere Rovers,Crawley Town,0,1,A
+06/03/2021,Barrow,Mansfield Town,2,0,H
+06/03/2021,Bradford City,Bolton Wanderers,1,1,D
+06/03/2021,Cambridge United,Walsall,1,0,H
+06/03/2021,Cheltenham Town,Port Vale,3,2,H
+06/03/2021,Salford City,Scunthorpe United,1,1,D
+06/03/2021,Colchester United,Newport County,0,2,A
+06/03/2021,Morecambe,Carlisle United,3,1,H
+06/03/2021,Stevenage,Harrogate Town,1,0,H
+06/03/2021,Grimsby Town,Forest Green Rovers,1,2,A
+06/03/2021,Oldham Athletic,Southend United,0,0,D
+06/03/2021,Exeter City,Leyton Orient,4,0,H
+09/03/2021,Southend United,Tranmere Rovers,0,2,A
+09/03/2021,Scunthorpe United,Exeter City,0,2,A
+09/03/2021,Port Vale,Oldham Athletic,0,0,D
+09/03/2021,Newport County,Bradford City,2,1,H
+09/03/2021,Mansfield Town,Cheltenham Town,3,1,H
+09/03/2021,Crawley Town,Salford City,1,0,H
+09/03/2021,Harrogate Town,Colchester United,3,0,H
+09/03/2021,Forest Green Rovers,Morecambe,2,2,D
+09/03/2021,Carlisle United,Grimsby Town,1,1,D
+09/03/2021,Bolton Wanderers,Cambridge United,2,1,H
+09/03/2021,Leyton Orient,Stevenage,0,0,D
+12/03/2021,Walsall,Barrow,0,1,A
+13/03/2021,Carlisle United,Bradford City,3,1,H
+13/03/2021,Leyton Orient,Scunthorpe United,1,1,D
+13/03/2021,Morecambe,Newport County,1,3,A
+13/03/2021,Crawley Town,Mansfield Town,1,0,H
+13/03/2021,Grimsby Town,Colchester United,0,0,D
+13/03/2021,Forest Green Rovers,Harrogate Town,2,1,H
+13/03/2021,Oldham Athletic,Cambridge United,2,4,A
+13/03/2021,Port Vale,Bolton Wanderers,0,1,A
+13/03/2021,Southend United,Stevenage,0,0,D
+13/03/2021,Exeter City,Cheltenham Town,0,1,A
+16/03/2021,Mansfield Town,Carlisle United,1,1,D
+16/03/2021,Port Vale,Newport County,2,1,H
+16/03/2021,Scunthorpe United,Oldham Athletic,1,1,D
+16/03/2021,Cheltenham Town,Barrow,0,2,A
+16/03/2021,Crawley Town,Walsall,1,1,D
+16/03/2021,Salford City,Colchester United,0,0,D
+17/03/2021,Grimsby Town,Tranmere Rovers,0,0,D
+20/03/2021,Newport County,Leyton Orient,0,1,A
+20/03/2021,Barrow,Crawley Town,3,2,H
+20/03/2021,Stevenage,Carlisle United,3,1,H
+20/03/2021,Cambridge United,Forest Green Rovers,1,0,H
+20/03/2021,Bolton Wanderers,Walsall,2,1,H
+20/03/2021,Bradford City,Oldham Athletic,0,0,D
+20/03/2021,Cheltenham Town,Salford City,2,0,H
+20/03/2021,Colchester United,Port Vale,0,1,A
+20/03/2021,Harrogate Town,Morecambe,0,1,A
+20/03/2021,Scunthorpe United,Southend United,1,1,D
+20/03/2021,Tranmere Rovers,Exeter City,2,1,H
+20/03/2021,Mansfield Town,Grimsby Town,2,2,D
+23/03/2021,Colchester United,Tranmere Rovers,2,2,D
+23/03/2021,Carlisle United,Leyton Orient,0,1,A
+23/03/2021,Scunthorpe United,Bradford City,2,0,H
+23/03/2021,Southend United,Walsall,0,0,D
+23/03/2021,Barrow,Grimsby Town,0,1,A
+23/03/2021,Mansfield Town,Forest Green Rovers,0,0,D
+23/03/2021,Oldham Athletic,Exeter City,2,1,H
+27/03/2021,Leyton Orient,Oldham Athletic,2,1,H
+27/03/2021,Tranmere Rovers,Mansfield Town,1,1,D
+27/03/2021,Stevenage,Barrow,2,1,H
+27/03/2021,Morecambe,Cheltenham Town,1,0,H
+27/03/2021,Harrogate Town,Southend United,0,1,A
+27/03/2021,Grimsby Town,Walsall,1,1,D
+27/03/2021,Crawley Town,Port Vale,1,3,A
+27/03/2021,Colchester United,Bradford City,1,2,A
+27/03/2021,Carlisle United,Cambridge United,1,2,A
+27/03/2021,Exeter City,Salford City,1,0,H
+27/03/2021,Forest Green Rovers,Bolton Wanderers,0,1,A
+30/03/2021,Carlisle United,Crawley Town,2,0,H
+02/04/2021,Port Vale,Exeter City,1,0,H
+02/04/2021,Oldham Athletic,Stevenage,0,1,A
+02/04/2021,Mansfield Town,Leyton Orient,0,2,A
+02/04/2021,Salford City,Grimsby Town,1,1,D
+02/04/2021,Cheltenham Town,Tranmere Rovers,4,0,H
+02/04/2021,Walsall,Harrogate Town,0,0,D
+02/04/2021,Cambridge United,Morecambe,2,1,H
+02/04/2021,Bradford City,Forest Green Rovers,4,1,H
+02/04/2021,Barrow,Newport County,2,1,H
+02/04/2021,Scunthorpe United,Crawley Town,0,0,D
+02/04/2021,Bolton Wanderers,Colchester United,0,0,D
+03/04/2021,Southend United,Carlisle United,0,2,A
+05/04/2021,Crawley Town,Oldham Athletic,1,4,A
+05/04/2021,Exeter City,Mansfield Town,0,0,D
+05/04/2021,Tranmere Rovers,Cambridge United,1,1,D
+05/04/2021,Stevenage,Bradford City,1,1,D
+05/04/2021,Forest Green Rovers,Salford City,0,2,A
+05/04/2021,Newport County,Bolton Wanderers,1,0,H
+05/04/2021,Grimsby Town,Cheltenham Town,1,1,D
+05/04/2021,Harrogate Town,Port Vale,0,2,A
+05/04/2021,Leyton Orient,Walsall,0,0,D
+05/04/2021,Colchester United,Barrow,1,1,D
+06/04/2021,Morecambe,Southend United,1,1,D
+06/04/2021,Carlisle United,Scunthorpe United,2,0,H
+09/04/2021,Mansfield Town,Newport County,1,1,D
+09/04/2021,Oldham Athletic,Colchester United,5,2,H
+10/04/2021,Walsall,Forest Green Rovers,2,1,H
+10/04/2021,Barrow,Carlisle United,2,2,D
+10/04/2021,Bolton Wanderers,Harrogate Town,2,1,H
+10/04/2021,Southend United,Crawley Town,0,0,D
+10/04/2021,Bradford City,Grimsby Town,1,0,H
+10/04/2021,Cambridge United,Exeter City,1,4,A
+10/04/2021,Port Vale,Morecambe,1,0,H
+10/04/2021,Scunthorpe United,Tranmere Rovers,0,0,D
+10/04/2021,Salford City,Stevenage,2,1,H
+10/04/2021,Cheltenham Town,Leyton Orient,1,0,H
+13/04/2021,Newport County,Carlisle United,0,0,D
+13/04/2021,Barrow,Exeter City,2,1,H
+13/04/2021,Salford City,Bolton Wanderers,0,1,A
+13/04/2021,Morecambe,Scunthorpe United,4,1,H
+13/04/2021,Harrogate Town,Leyton Orient,2,2,D
+13/04/2021,Bradford City,Crawley Town,0,2,A
+13/04/2021,Walsall,Tranmere Rovers,1,0,H
+16/04/2021,Crawley Town,Cheltenham Town,1,0,H
+17/04/2021,Leyton Orient,Barrow,2,0,H
+17/04/2021,Harrogate Town,Bradford City,2,1,H
+17/04/2021,Grimsby Town,Bolton Wanderers,2,1,H
+17/04/2021,Tranmere Rovers,Salford City,0,0,D
+17/04/2021,Newport County,Cambridge United,0,1,A
+17/04/2021,Carlisle United,Port Vale,0,0,D
+17/04/2021,Exeter City,Southend United,0,0,D
+17/04/2021,Morecambe,Oldham Athletic,4,3,H
+17/04/2021,Stevenage,Mansfield Town,0,1,A
+17/04/2021,Forest Green Rovers,Scunthorpe United,3,2,H
+17/04/2021,Colchester United,Walsall,2,1,H
+20/04/2021,Mansfield Town,Scunthorpe United,3,0,H
+20/04/2021,Stevenage,Cheltenham Town,0,1,A
+20/04/2021,Newport County,Crawley Town,2,0,H
+20/04/2021,Leyton Orient,Cambridge United,2,4,A
+20/04/2021,Harrogate Town,Oldham Athletic,0,3,A
+20/04/2021,Barrow,Port Vale,0,2,A
+20/04/2021,Bradford City,Tranmere Rovers,0,1,A
+20/04/2021,Colchester United,Southend United,2,0,H
+20/04/2021,Grimsby Town,Morecambe,0,3,A
+20/04/2021,Walsall,Salford City,0,2,A
+20/04/2021,Forest Green Rovers,Exeter City,0,0,D
+20/04/2021,Bolton Wanderers,Carlisle United,1,0,H
+24/04/2021,Salford City,Mansfield Town,2,0,H
+24/04/2021,Scunthorpe United,Walsall,0,2,A
+24/04/2021,Southend United,Leyton Orient,2,1,H
+24/04/2021,Port Vale,Bradford City,2,1,H
+24/04/2021,Crawley Town,Forest Green Rovers,0,0,D
+24/04/2021,Cambridge United,Stevenage,0,1,A
+24/04/2021,Carlisle United,Harrogate Town,1,1,D
+24/04/2021,Cheltenham Town,Colchester United,1,0,H
+24/04/2021,Oldham Athletic,Grimsby Town,1,2,A
+24/04/2021,Exeter City,Newport County,0,0,D
+24/04/2021,Morecambe,Bolton Wanderers,0,1,A
+24/04/2021,Tranmere Rovers,Barrow,1,0,H
+27/04/2021,Bradford City,Salford City,0,1,A
+27/04/2021,Forest Green Rovers,Barrow,0,2,A
+27/04/2021,Exeter City,Grimsby Town,3,2,H
+27/04/2021,Cheltenham Town,Carlisle United,1,1,D
+27/04/2021,Newport County,Scunthorpe United,4,0,H
+30/04/2021,Harrogate Town,Cambridge United,5,4,H
+01/05/2021,Barrow,Southend United,1,2,A
+01/05/2021,Bolton Wanderers,Exeter City,1,2,A
+01/05/2021,Bradford City,Scunthorpe United,0,0,D
+01/05/2021,Colchester United,Salford City,1,0,H
+01/05/2021,Stevenage,Crawley Town,3,3,D
+01/05/2021,Walsall,Morecambe,0,2,A
+01/05/2021,Forest Green Rovers,Tranmere Rovers,2,1,H
+01/05/2021,Grimsby Town,Port Vale,1,0,H
+01/05/2021,Leyton Orient,Carlisle United,2,3,A
+01/05/2021,Mansfield Town,Oldham Athletic,4,1,H
+01/05/2021,Newport County,Cheltenham Town,1,0,H
+08/05/2021,Cambridge United,Grimsby Town,3,0,H
+08/05/2021,Carlisle United,Walsall,0,0,D
+08/05/2021,Cheltenham Town,Harrogate Town,4,1,H
+08/05/2021,Crawley Town,Bolton Wanderers,1,4,A
+08/05/2021,Exeter City,Barrow,1,1,D
+08/05/2021,Morecambe,Bradford City,2,0,H
+08/05/2021,Oldham Athletic,Forest Green Rovers,0,3,A
+08/05/2021,Port Vale,Mansfield Town,0,3,A
+08/05/2021,Salford City,Leyton Orient,3,0,H
+08/05/2021,Scunthorpe United,Stevenage,0,1,A
+08/05/2021,Southend United,Newport County,1,1,D
+08/05/2021,Tranmere Rovers,Colchester United,0,0,D

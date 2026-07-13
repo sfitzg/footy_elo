@@ -1,0 +1,558 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+09/08/2024,Blackburn Rovers,Derby County,4,2,H
+09/08/2024,Preston North End,Sheffield United,0,2,A
+10/08/2024,Cardiff City,Sunderland,0,2,A
+10/08/2024,Hull City,Bristol City,1,1,D
+10/08/2024,Leeds United,Portsmouth,3,3,D
+10/08/2024,Middlesbrough,Swansea City,1,0,H
+10/08/2024,Millwall,Watford,2,3,A
+10/08/2024,Oxford United,Norwich City,2,0,H
+10/08/2024,Queens Park Rangers,West Bromwich Albion,1,3,A
+10/08/2024,Stoke City,Coventry City,1,0,H
+11/08/2024,Sheffield Wednesday,Plymouth Argyle,4,0,H
+12/08/2024,Luton Town,Burnley,1,4,A
+16/08/2024,Coventry City,Oxford United,3,2,H
+17/08/2024,Derby County,Middlesbrough,1,0,H
+17/08/2024,Portsmouth,Luton Town,0,0,D
+17/08/2024,West Bromwich Albion,Leeds United,0,0,D
+17/08/2024,Bristol City,Millwall,4,3,H
+17/08/2024,Burnley,Cardiff City,5,0,H
+17/08/2024,Norwich City,Blackburn Rovers,2,2,D
+17/08/2024,Plymouth Argyle,Hull City,1,1,D
+17/08/2024,Sheffield United,Queens Park Rangers,2,2,D
+17/08/2024,Swansea City,Preston North End,3,0,H
+17/08/2024,Watford,Stoke City,3,0,H
+18/08/2024,Sunderland,Sheffield Wednesday,4,0,H
+23/08/2024,Sheffield Wednesday,Leeds United,0,2,A
+24/08/2024,Bristol City,Coventry City,1,1,D
+24/08/2024,Hull City,Millwall,0,0,D
+24/08/2024,Queens Park Rangers,Plymouth Argyle,1,1,D
+24/08/2024,Watford,Derby County,2,1,H
+24/08/2024,Blackburn Rovers,Oxford United,2,1,H
+24/08/2024,Middlesbrough,Portsmouth,2,2,D
+24/08/2024,Norwich City,Sheffield United,1,1,D
+24/08/2024,Preston North End,Luton Town,1,0,H
+24/08/2024,Stoke City,West Bromwich Albion,1,2,A
+24/08/2024,Sunderland,Burnley,1,0,H
+25/08/2024,Swansea City,Cardiff City,1,1,D
+30/08/2024,Luton Town,Queens Park Rangers,1,2,A
+31/08/2024,Burnley,Blackburn Rovers,1,1,D
+31/08/2024,Cardiff City,Middlesbrough,0,2,A
+31/08/2024,Coventry City,Norwich City,0,1,A
+31/08/2024,Derby County,Bristol City,3,0,H
+31/08/2024,Leeds United,Hull City,2,0,H
+31/08/2024,Millwall,Sheffield Wednesday,3,0,H
+31/08/2024,Oxford United,Preston North End,3,1,H
+31/08/2024,Plymouth Argyle,Stoke City,0,1,A
+31/08/2024,Portsmouth,Sunderland,1,3,A
+31/08/2024,West Bromwich Albion,Swansea City,1,0,H
+01/09/2024,Sheffield United,Watford,1,0,H
+13/09/2024,Hull City,Sheffield United,0,2,A
+14/09/2024,Leeds United,Burnley,0,1,A
+14/09/2024,Millwall,Luton Town,0,1,A
+14/09/2024,Oxford United,Stoke City,1,0,H
+14/09/2024,Blackburn Rovers,Bristol City,3,0,H
+14/09/2024,Derby County,Cardiff City,1,0,H
+14/09/2024,Middlesbrough,Preston North End,1,1,D
+14/09/2024,Plymouth Argyle,Sunderland,3,2,H
+14/09/2024,Sheffield Wednesday,Queens Park Rangers,1,1,D
+14/09/2024,Swansea City,Norwich City,1,0,H
+14/09/2024,Watford,Coventry City,1,1,D
+15/09/2024,Portsmouth,West Bromwich Albion,0,3,A
+20/09/2024,Stoke City,Hull City,1,3,A
+21/09/2024,Norwich City,Watford,4,1,H
+21/09/2024,Queens Park Rangers,Millwall,1,1,D
+21/09/2024,Sunderland,Middlesbrough,1,0,H
+21/09/2024,Bristol City,Oxford United,2,1,H
+21/09/2024,Burnley,Portsmouth,2,1,H
+21/09/2024,Cardiff City,Leeds United,0,2,A
+21/09/2024,Coventry City,Swansea City,1,2,A
+21/09/2024,Luton Town,Sheffield Wednesday,2,1,H
+21/09/2024,Sheffield United,Derby County,1,0,H
+21/09/2024,West Bromwich Albion,Plymouth Argyle,1,0,H
+22/09/2024,Preston North End,Blackburn Rovers,0,0,D
+27/09/2024,Plymouth Argyle,Luton Town,3,1,H
+28/09/2024,Blackburn Rovers,Queens Park Rangers,2,0,H
+28/09/2024,Derby County,Norwich City,2,3,A
+28/09/2024,Sheffield Wednesday,West Bromwich Albion,3,2,H
+28/09/2024,Hull City,Cardiff City,4,1,H
+28/09/2024,Leeds United,Coventry City,3,0,H
+28/09/2024,Middlesbrough,Stoke City,2,0,H
+28/09/2024,Millwall,Preston North End,3,1,H
+28/09/2024,Oxford United,Burnley,0,0,D
+28/09/2024,Portsmouth,Sheffield United,0,0,D
+28/09/2024,Watford,Sunderland,2,1,H
+29/09/2024,Swansea City,Bristol City,1,1,D
+01/10/2024,Burnley,Plymouth Argyle,1,0,H
+01/10/2024,Cardiff City,Millwall,1,0,H
+01/10/2024,Coventry City,Blackburn Rovers,3,0,H
+01/10/2024,Luton Town,Oxford United,2,2,D
+01/10/2024,Queens Park Rangers,Hull City,1,3,A
+01/10/2024,Sunderland,Derby County,2,0,H
+01/10/2024,Norwich City,Leeds United,1,1,D
+01/10/2024,West Bromwich Albion,Middlesbrough,0,1,A
+02/10/2024,Sheffield United,Swansea City,1,0,H
+02/10/2024,Preston North End,Watford,3,0,H
+02/10/2024,Stoke City,Portsmouth,6,1,H
+02/10/2024,Bristol City,Sheffield Wednesday,0,0,D
+04/10/2024,Sunderland,Leeds United,2,2,D
+05/10/2024,Burnley,Preston North End,0,0,D
+05/10/2024,Norwich City,Hull City,4,0,H
+05/10/2024,Portsmouth,Oxford United,1,1,D
+05/10/2024,Coventry City,Sheffield Wednesday,1,2,A
+05/10/2024,Derby County,Queens Park Rangers,2,0,H
+05/10/2024,Plymouth Argyle,Blackburn Rovers,2,1,H
+05/10/2024,Sheffield United,Luton Town,2,0,H
+05/10/2024,Swansea City,Stoke City,0,0,D
+05/10/2024,Watford,Middlesbrough,2,1,H
+05/10/2024,West Bromwich Albion,Millwall,0,0,D
+06/10/2024,Bristol City,Cardiff City,1,1,D
+18/10/2024,Leeds United,Sheffield United,2,0,H
+19/10/2024,Cardiff City,Plymouth Argyle,5,0,H
+19/10/2024,Luton Town,Watford,3,0,H
+19/10/2024,Oxford United,West Bromwich Albion,1,1,D
+19/10/2024,Preston North End,Coventry City,1,0,H
+19/10/2024,Blackburn Rovers,Swansea City,1,0,H
+19/10/2024,Middlesbrough,Bristol City,0,2,A
+19/10/2024,Millwall,Derby County,1,1,D
+19/10/2024,Queens Park Rangers,Portsmouth,1,2,A
+19/10/2024,Sheffield Wednesday,Burnley,0,2,A
+19/10/2024,Stoke City,Norwich City,1,1,D
+20/10/2024,Hull City,Sunderland,0,1,A
+22/10/2024,Cardiff City,Portsmouth,2,0,H
+22/10/2024,Leeds United,Watford,2,1,H
+22/10/2024,Oxford United,Derby County,1,1,D
+22/10/2024,Preston North End,Norwich City,2,2,D
+22/10/2024,Sheffield Wednesday,Swansea City,0,0,D
+22/10/2024,Stoke City,Bristol City,2,2,D
+22/10/2024,Queens Park Rangers,Coventry City,1,1,D
+23/10/2024,Hull City,Burnley,1,1,D
+23/10/2024,Blackburn Rovers,West Bromwich Albion,0,0,D
+23/10/2024,Luton Town,Sunderland,1,2,A
+23/10/2024,Millwall,Plymouth Argyle,1,0,H
+23/10/2024,Middlesbrough,Sheffield United,1,0,H
+25/10/2024,Portsmouth,Sheffield Wednesday,1,2,A
+26/10/2024,Bristol City,Leeds United,0,0,D
+26/10/2024,Coventry City,Luton Town,3,2,H
+26/10/2024,Watford,Blackburn Rovers,1,0,H
+26/10/2024,Burnley,Queens Park Rangers,0,0,D
+26/10/2024,Derby County,Hull City,1,1,D
+26/10/2024,Plymouth Argyle,Preston North End,3,3,D
+26/10/2024,Sheffield United,Stoke City,2,0,H
+26/10/2024,Sunderland,Oxford United,2,0,H
+26/10/2024,Swansea City,Millwall,0,1,A
+26/10/2024,West Bromwich Albion,Cardiff City,0,0,D
+27/10/2024,Norwich City,Middlesbrough,3,3,D
+01/11/2024,Luton Town,West Bromwich Albion,1,1,D
+02/11/2024,Blackburn Rovers,Sheffield United,0,2,A
+02/11/2024,Oxford United,Swansea City,1,2,A
+02/11/2024,Stoke City,Derby County,2,1,H
+02/11/2024,Cardiff City,Norwich City,2,1,H
+02/11/2024,Hull City,Portsmouth,1,1,D
+02/11/2024,Leeds United,Plymouth Argyle,3,0,H
+02/11/2024,Middlesbrough,Coventry City,0,3,A
+02/11/2024,Preston North End,Bristol City,1,3,A
+02/11/2024,Queens Park Rangers,Sunderland,0,0,D
+02/11/2024,Sheffield Wednesday,Watford,2,6,A
+03/11/2024,Millwall,Burnley,1,0,H
+05/11/2024,Bristol City,Sheffield United,1,2,A
+05/11/2024,Oxford United,Hull City,1,0,H
+05/11/2024,Queens Park Rangers,Middlesbrough,1,4,A
+05/11/2024,Sheffield Wednesday,Norwich City,2,0,H
+05/11/2024,Plymouth Argyle,Portsmouth,1,0,H
+05/11/2024,Swansea City,Watford,1,0,H
+06/11/2024,Millwall,Leeds United,1,0,H
+06/11/2024,Blackburn Rovers,Stoke City,0,2,A
+06/11/2024,Coventry City,Derby County,1,2,A
+06/11/2024,Luton Town,Cardiff City,1,0,H
+06/11/2024,Preston North End,Sunderland,0,0,D
+07/11/2024,West Bromwich Albion,Burnley,0,0,D
+08/11/2024,Watford,Oxford United,1,0,H
+09/11/2024,Cardiff City,Blackburn Rovers,1,3,A
+09/11/2024,Middlesbrough,Luton Town,5,1,H
+09/11/2024,Stoke City,Millwall,1,1,D
+09/11/2024,Derby County,Plymouth Argyle,1,1,D
+09/11/2024,Leeds United,Queens Park Rangers,2,0,H
+09/11/2024,Norwich City,Bristol City,0,2,A
+09/11/2024,Portsmouth,Preston North End,3,1,H
+09/11/2024,Sunderland,Coventry City,2,2,D
+10/11/2024,Sheffield United,Sheffield Wednesday,1,0,H
+10/11/2024,Hull City,West Bromwich Albion,1,2,A
+10/11/2024,Burnley,Swansea City,1,0,H
+22/11/2024,Plymouth Argyle,Watford,2,2,D
+23/11/2024,Bristol City,Burnley,0,1,A
+23/11/2024,Coventry City,Sheffield United,2,2,D
+23/11/2024,Sheffield Wednesday,Cardiff City,1,1,D
+23/11/2024,Luton Town,Hull City,1,0,H
+23/11/2024,Millwall,Sunderland,1,1,D
+23/11/2024,Oxford United,Middlesbrough,2,6,A
+23/11/2024,Preston North End,Derby County,1,1,D
+23/11/2024,Queens Park Rangers,Stoke City,1,1,D
+23/11/2024,West Bromwich Albion,Norwich City,2,2,D
+24/11/2024,Swansea City,Leeds United,3,4,A
+26/11/2024,Burnley,Coventry City,2,0,H
+26/11/2024,Hull City,Sheffield Wednesday,0,2,A
+26/11/2024,Norwich City,Plymouth Argyle,6,1,H
+26/11/2024,Sheffield United,Oxford United,3,0,H
+26/11/2024,Stoke City,Preston North End,0,0,D
+26/11/2024,Watford,Bristol City,1,0,H
+26/11/2024,Sunderland,West Bromwich Albion,0,0,D
+27/11/2024,Leeds United,Luton Town,3,0,H
+27/11/2024,Cardiff City,Queens Park Rangers,0,2,A
+27/11/2024,Middlesbrough,Blackburn Rovers,0,1,A
+27/11/2024,Derby County,Swansea City,1,2,A
+29/11/2024,Sheffield United,Sunderland,1,0,H
+30/11/2024,Middlesbrough,Hull City,3,1,H
+30/11/2024,Oxford United,Millwall,1,1,D
+30/11/2024,Watford,Queens Park Rangers,0,0,D
+30/11/2024,Blackburn Rovers,Leeds United,1,0,H
+30/11/2024,Bristol City,Plymouth Argyle,4,0,H
+30/11/2024,Coventry City,Cardiff City,2,2,D
+30/11/2024,Norwich City,Luton Town,4,2,H
+30/11/2024,Preston North End,West Bromwich Albion,1,1,D
+30/11/2024,Stoke City,Burnley,0,2,A
+30/11/2024,Swansea City,Portsmouth,2,2,D
+01/12/2024,Derby County,Sheffield Wednesday,1,2,A
+06/12/2024,Burnley,Middlesbrough,1,1,D
+07/12/2024,Leeds United,Derby County,2,0,H
+07/12/2024,Sheffield Wednesday,Preston North End,1,1,D
+07/12/2024,Sunderland,Stoke City,2,1,H
+07/12/2024,Hull City,Blackburn Rovers,0,1,A
+07/12/2024,Luton Town,Swansea City,1,1,D
+07/12/2024,Millwall,Coventry City,0,1,A
+07/12/2024,Portsmouth,Bristol City,3,0,H
+07/12/2024,Queens Park Rangers,Norwich City,3,0,H
+08/12/2024,West Bromwich Albion,Sheffield United,2,2,D
+10/12/2024,Burnley,Derby County,0,0,D
+10/12/2024,Luton Town,Stoke City,2,1,H
+10/12/2024,Plymouth Argyle,Swansea City,1,2,A
+10/12/2024,Portsmouth,Norwich City,0,0,D
+10/12/2024,Sheffield Wednesday,Blackburn Rovers,0,1,A
+10/12/2024,Sunderland,Bristol City,1,1,D
+10/12/2024,Leeds United,Middlesbrough,3,1,H
+11/12/2024,Millwall,Sheffield United,0,1,A
+11/12/2024,Cardiff City,Preston North End,0,2,A
+11/12/2024,Hull City,Watford,1,1,D
+11/12/2024,Queens Park Rangers,Oxford United,2,0,H
+11/12/2024,West Bromwich Albion,Coventry City,2,0,H
+13/12/2024,Derby County,Portsmouth,4,0,H
+14/12/2024,Bristol City,Queens Park Rangers,1,1,D
+14/12/2024,Coventry City,Hull City,2,1,H
+14/12/2024,Preston North End,Leeds United,1,1,D
+14/12/2024,Blackburn Rovers,Luton Town,2,0,H
+14/12/2024,Middlesbrough,Millwall,1,0,H
+14/12/2024,Oxford United,Sheffield Wednesday,1,3,A
+14/12/2024,Sheffield United,Plymouth Argyle,2,0,H
+14/12/2024,Stoke City,Cardiff City,2,2,D
+14/12/2024,Swansea City,Sunderland,2,3,A
+15/12/2024,Watford,West Bromwich Albion,2,1,H
+15/12/2024,Norwich City,Burnley,1,2,A
+20/12/2024,Luton Town,Derby County,2,1,H
+21/12/2024,Hull City,Swansea City,2,1,H
+21/12/2024,Portsmouth,Coventry City,4,1,H
+21/12/2024,Sheffield Wednesday,Stoke City,2,0,H
+21/12/2024,Burnley,Watford,2,1,H
+21/12/2024,Cardiff City,Sheffield United,0,2,A
+21/12/2024,Leeds United,Oxford United,4,0,H
+21/12/2024,Millwall,Blackburn Rovers,1,0,H
+21/12/2024,Plymouth Argyle,Middlesbrough,3,3,D
+21/12/2024,Queens Park Rangers,Preston North End,2,1,H
+21/12/2024,Sunderland,Norwich City,2,1,H
+22/12/2024,West Bromwich Albion,Bristol City,2,0,H
+26/12/2024,Blackburn Rovers,Sunderland,2,2,D
+26/12/2024,Bristol City,Luton Town,1,0,H
+26/12/2024,Coventry City,Plymouth Argyle,4,0,H
+26/12/2024,Middlesbrough,Sheffield Wednesday,3,3,D
+26/12/2024,Norwich City,Millwall,2,1,H
+26/12/2024,Oxford United,Cardiff City,3,2,H
+26/12/2024,Preston North End,Hull City,1,0,H
+26/12/2024,Sheffield United,Burnley,0,2,A
+26/12/2024,Swansea City,Queens Park Rangers,3,0,H
+26/12/2024,Watford,Portsmouth,2,1,H
+26/12/2024,Derby County,West Bromwich Albion,2,1,H
+26/12/2024,Stoke City,Leeds United,0,2,A
+29/12/2024,Norwich City,Queens Park Rangers,1,1,D
+29/12/2024,Preston North End,Sheffield Wednesday,3,1,H
+29/12/2024,Sheffield United,West Bromwich Albion,1,1,D
+29/12/2024,Blackburn Rovers,Hull City,0,1,A
+29/12/2024,Bristol City,Portsmouth,3,0,H
+29/12/2024,Coventry City,Millwall,0,0,D
+29/12/2024,Oxford United,Plymouth Argyle,2,0,H
+29/12/2024,Stoke City,Sunderland,1,0,H
+29/12/2024,Swansea City,Luton Town,2,1,H
+29/12/2024,Watford,Cardiff City,1,2,A
+29/12/2024,Derby County,Leeds United,0,1,A
+29/12/2024,Middlesbrough,Burnley,0,0,D
+01/01/2025,Plymouth Argyle,Bristol City,2,2,D
+01/01/2025,Queens Park Rangers,Watford,3,1,H
+01/01/2025,Millwall,Oxford United,0,1,A
+01/01/2025,Leeds United,Blackburn Rovers,1,1,D
+01/01/2025,Luton Town,Norwich City,0,1,A
+01/01/2025,Portsmouth,Swansea City,4,0,H
+01/01/2025,Sheffield Wednesday,Derby County,4,2,H
+01/01/2025,West Bromwich Albion,Preston North End,3,1,H
+01/01/2025,Burnley,Stoke City,0,0,D
+01/01/2025,Cardiff City,Coventry City,1,1,D
+01/01/2025,Hull City,Middlesbrough,0,1,A
+01/01/2025,Sunderland,Sheffield United,2,1,H
+04/01/2025,Blackburn Rovers,Burnley,0,1,A
+04/01/2025,Stoke City,Plymouth Argyle,0,0,D
+04/01/2025,Swansea City,West Bromwich Albion,1,1,D
+04/01/2025,Bristol City,Derby County,1,0,H
+04/01/2025,Hull City,Leeds United,3,3,D
+04/01/2025,Middlesbrough,Cardiff City,1,1,D
+04/01/2025,Norwich City,Coventry City,2,1,H
+04/01/2025,Preston North End,Oxford United,1,1,D
+04/01/2025,Sheffield Wednesday,Millwall,2,2,D
+04/01/2025,Watford,Sheffield United,1,2,A
+05/01/2025,Sunderland,Portsmouth,1,0,H
+06/01/2025,Queens Park Rangers,Luton Town,2,1,H
+14/01/2025,Cardiff City,Watford,1,1,D
+14/01/2025,Plymouth Argyle,Oxford United,1,1,D
+15/01/2025,Blackburn Rovers,Portsmouth,3,0,H
+17/01/2025,Burnley,Sunderland,0,0,D
+18/01/2025,Cardiff City,Swansea City,3,0,H
+18/01/2025,Millwall,Hull City,0,1,A
+18/01/2025,Plymouth Argyle,Queens Park Rangers,0,1,A
+18/01/2025,Coventry City,Bristol City,1,0,H
+18/01/2025,Derby County,Watford,0,2,A
+18/01/2025,Luton Town,Preston North End,0,0,D
+18/01/2025,Oxford United,Blackburn Rovers,1,0,H
+18/01/2025,Portsmouth,Middlesbrough,2,1,H
+18/01/2025,Sheffield United,Norwich City,2,0,H
+18/01/2025,West Bromwich Albion,Stoke City,1,1,D
+19/01/2025,Leeds United,Sheffield Wednesday,3,0,H
+21/01/2025,Blackburn Rovers,Coventry City,0,2,A
+21/01/2025,Derby County,Sunderland,0,1,A
+21/01/2025,Hull City,Queens Park Rangers,1,2,A
+21/01/2025,Middlesbrough,West Bromwich Albion,2,0,H
+21/01/2025,Oxford United,Luton Town,3,2,H
+21/01/2025,Swansea City,Sheffield United,1,2,A
+21/01/2025,Watford,Preston North End,1,2,A
+21/01/2025,Millwall,Cardiff City,2,2,D
+22/01/2025,Leeds United,Norwich City,2,0,H
+22/01/2025,Portsmouth,Stoke City,3,1,H
+22/01/2025,Sheffield Wednesday,Bristol City,2,2,D
+22/01/2025,Plymouth Argyle,Burnley,0,5,A
+24/01/2025,Sheffield United,Hull City,0,3,A
+25/01/2025,Luton Town,Millwall,0,1,A
+25/01/2025,Norwich City,Swansea City,5,1,H
+25/01/2025,Stoke City,Oxford United,0,0,D
+25/01/2025,Bristol City,Blackburn Rovers,2,1,H
+25/01/2025,Cardiff City,Derby County,2,1,H
+25/01/2025,Coventry City,Watford,2,1,H
+25/01/2025,Preston North End,Middlesbrough,2,1,H
+25/01/2025,Queens Park Rangers,Sheffield Wednesday,0,2,A
+25/01/2025,Sunderland,Plymouth Argyle,2,2,D
+25/01/2025,West Bromwich Albion,Portsmouth,5,1,H
+27/01/2025,Burnley,Leeds United,0,0,D
+28/01/2025,Portsmouth,Millwall,0,1,A
+31/01/2025,Blackburn Rovers,Preston North End,2,1,H
+01/02/2025,Oxford United,Bristol City,1,1,D
+01/02/2025,Plymouth Argyle,West Bromwich Albion,2,1,H
+01/02/2025,Watford,Norwich City,0,1,A
+01/02/2025,Derby County,Sheffield United,0,1,A
+01/02/2025,Hull City,Stoke City,1,2,A
+01/02/2025,Leeds United,Cardiff City,7,0,H
+01/02/2025,Millwall,Queens Park Rangers,2,1,H
+01/02/2025,Portsmouth,Burnley,0,0,D
+01/02/2025,Sheffield Wednesday,Luton Town,1,1,D
+01/02/2025,Swansea City,Coventry City,0,2,A
+03/02/2025,Middlesbrough,Sunderland,2,3,A
+04/02/2025,Burnley,Oxford United,1,0,H
+04/02/2025,Queens Park Rangers,Blackburn Rovers,2,1,H
+05/02/2025,Coventry City,Leeds United,0,2,A
+08/02/2025,Sunderland,Watford,2,2,D
+08/02/2025,West Bromwich Albion,Sheffield Wednesday,2,1,H
+08/02/2025,Norwich City,Derby County,1,1,D
+08/02/2025,Sheffield United,Portsmouth,2,1,H
+09/02/2025,Bristol City,Swansea City,0,1,A
+11/02/2025,Coventry City,Queens Park Rangers,1,0,H
+11/02/2025,Derby County,Oxford United,0,0,D
+11/02/2025,Portsmouth,Cardiff City,2,1,H
+11/02/2025,Watford,Leeds United,0,4,A
+11/02/2025,Norwich City,Preston North End,0,1,A
+12/02/2025,Bristol City,Stoke City,2,0,H
+12/02/2025,Plymouth Argyle,Millwall,5,1,H
+12/02/2025,Swansea City,Sheffield Wednesday,0,1,A
+12/02/2025,Burnley,Hull City,2,0,H
+12/02/2025,Sunderland,Luton Town,2,0,H
+12/02/2025,Sheffield United,Middlesbrough,3,1,H
+12/02/2025,West Bromwich Albion,Blackburn Rovers,0,2,A
+14/02/2025,Queens Park Rangers,Derby County,4,0,H
+15/02/2025,Cardiff City,Bristol City,1,1,D
+15/02/2025,Oxford United,Portsmouth,0,2,A
+15/02/2025,Preston North End,Burnley,0,0,D
+15/02/2025,Blackburn Rovers,Plymouth Argyle,2,0,H
+15/02/2025,Hull City,Norwich City,1,1,D
+15/02/2025,Luton Town,Sheffield United,0,1,A
+15/02/2025,Middlesbrough,Watford,0,1,A
+15/02/2025,Millwall,West Bromwich Albion,1,1,D
+15/02/2025,Sheffield Wednesday,Coventry City,1,2,A
+15/02/2025,Stoke City,Swansea City,3,1,H
+17/02/2025,Leeds United,Sunderland,2,1,H
+18/02/2025,Preston North End,Millwall,1,1,D
+19/02/2025,Luton Town,Plymouth Argyle,1,1,D
+21/02/2025,Bristol City,Middlesbrough,2,1,H
+21/02/2025,Burnley,Sheffield Wednesday,4,0,H
+22/02/2025,Derby County,Millwall,0,1,A
+22/02/2025,Plymouth Argyle,Cardiff City,1,1,D
+22/02/2025,Sunderland,Hull City,0,1,A
+22/02/2025,Coventry City,Preston North End,2,1,H
+22/02/2025,Norwich City,Stoke City,4,2,H
+22/02/2025,Portsmouth,Queens Park Rangers,2,1,H
+22/02/2025,Swansea City,Blackburn Rovers,3,0,H
+22/02/2025,West Bromwich Albion,Oxford United,2,0,H
+23/02/2025,Watford,Luton Town,2,0,H
+24/02/2025,Sheffield United,Leeds United,1,3,A
+25/02/2025,Cardiff City,Hull City,1,0,H
+25/02/2025,Stoke City,Middlesbrough,1,3,A
+28/02/2025,Sheffield Wednesday,Sunderland,1,2,A
+01/03/2025,Blackburn Rovers,Norwich City,1,1,D
+01/03/2025,Leeds United,West Bromwich Albion,1,1,D
+01/03/2025,Oxford United,Coventry City,2,3,A
+01/03/2025,Luton Town,Portsmouth,1,0,H
+01/03/2025,Middlesbrough,Derby County,1,0,H
+01/03/2025,Queens Park Rangers,Sheffield United,1,2,A
+01/03/2025,Stoke City,Watford,0,0,D
+04/03/2025,Cardiff City,Burnley,1,2,A
+04/03/2025,Hull City,Plymouth Argyle,2,0,H
+04/03/2025,Millwall,Bristol City,0,2,A
+04/03/2025,Preston North End,Swansea City,0,0,D
+07/03/2025,Norwich City,Oxford United,1,1,D
+08/03/2025,Coventry City,Stoke City,3,2,H
+08/03/2025,Watford,Millwall,1,2,A
+08/03/2025,Bristol City,Hull City,1,1,D
+08/03/2025,Burnley,Luton Town,4,0,H
+08/03/2025,Derby County,Blackburn Rovers,2,1,H
+08/03/2025,Plymouth Argyle,Sheffield Wednesday,0,3,A
+08/03/2025,Sheffield United,Preston North End,1,0,H
+08/03/2025,Sunderland,Cardiff City,2,1,H
+08/03/2025,Swansea City,Middlesbrough,1,0,H
+08/03/2025,West Bromwich Albion,Queens Park Rangers,1,0,H
+09/03/2025,Portsmouth,Leeds United,1,0,H
+11/03/2025,Burnley,West Bromwich Albion,1,1,D
+11/03/2025,Cardiff City,Luton Town,1,2,A
+11/03/2025,Derby County,Coventry City,2,0,H
+11/03/2025,Middlesbrough,Queens Park Rangers,2,1,H
+11/03/2025,Sunderland,Preston North End,1,1,D
+11/03/2025,Norwich City,Sheffield Wednesday,2,3,A
+11/03/2025,Sheffield United,Bristol City,1,1,D
+12/03/2025,Portsmouth,Plymouth Argyle,1,2,A
+12/03/2025,Hull City,Oxford United,2,1,H
+12/03/2025,Leeds United,Millwall,2,0,H
+12/03/2025,Watford,Swansea City,1,0,H
+12/03/2025,Stoke City,Blackburn Rovers,1,0,H
+14/03/2025,Bristol City,Norwich City,2,1,H
+15/03/2025,Millwall,Stoke City,1,0,H
+15/03/2025,Queens Park Rangers,Leeds United,2,2,D
+15/03/2025,Blackburn Rovers,Cardiff City,1,2,A
+15/03/2025,Coventry City,Sunderland,3,0,H
+15/03/2025,Luton Town,Middlesbrough,0,0,D
+15/03/2025,Oxford United,Watford,1,0,H
+15/03/2025,Plymouth Argyle,Derby County,2,3,A
+15/03/2025,Preston North End,Portsmouth,2,1,H
+15/03/2025,Swansea City,Burnley,0,2,A
+15/03/2025,West Bromwich Albion,Hull City,1,1,D
+16/03/2025,Sheffield Wednesday,Sheffield United,0,1,A
+28/03/2025,Sheffield United,Coventry City,3,1,H
+29/03/2025,Watford,Plymouth Argyle,0,0,D
+29/03/2025,Hull City,Luton Town,0,1,A
+29/03/2025,Sunderland,Millwall,1,0,H
+29/03/2025,Cardiff City,Sheffield Wednesday,1,1,D
+29/03/2025,Burnley,Bristol City,1,0,H
+29/03/2025,Middlesbrough,Oxford United,2,1,H
+29/03/2025,Leeds United,Swansea City,2,2,D
+29/03/2025,Norwich City,West Bromwich Albion,1,0,H
+29/03/2025,Portsmouth,Blackburn Rovers,1,0,H
+29/03/2025,Stoke City,Queens Park Rangers,3,1,H
+02/04/2025,Derby County,Preston North End,2,0,H
+04/04/2025,Blackburn Rovers,Middlesbrough,0,2,A
+05/04/2025,Coventry City,Burnley,1,2,A
+05/04/2025,Luton Town,Leeds United,1,1,D
+05/04/2025,West Bromwich Albion,Sunderland,0,1,A
+05/04/2025,Bristol City,Watford,2,1,H
+05/04/2025,Millwall,Portsmouth,2,1,H
+05/04/2025,Oxford United,Sheffield United,1,0,H
+05/04/2025,Plymouth Argyle,Norwich City,2,1,H
+05/04/2025,Preston North End,Stoke City,1,1,D
+05/04/2025,Queens Park Rangers,Cardiff City,0,0,D
+05/04/2025,Sheffield Wednesday,Hull City,0,1,A
+05/04/2025,Swansea City,Derby County,1,0,H
+08/04/2025,Blackburn Rovers,Sheffield Wednesday,2,2,D
+08/04/2025,Bristol City,West Bromwich Albion,2,1,H
+08/04/2025,Norwich City,Sunderland,0,0,D
+08/04/2025,Preston North End,Cardiff City,2,2,D
+08/04/2025,Sheffield United,Millwall,0,1,A
+08/04/2025,Stoke City,Luton Town,1,1,D
+08/04/2025,Watford,Hull City,1,0,H
+08/04/2025,Derby County,Burnley,0,0,D
+08/04/2025,Middlesbrough,Leeds United,0,1,A
+09/04/2025,Oxford United,Queens Park Rangers,1,3,A
+09/04/2025,Swansea City,Plymouth Argyle,3,0,H
+09/04/2025,Coventry City,Portsmouth,1,0,H
+11/04/2025,Burnley,Norwich City,2,1,H
+12/04/2025,Leeds United,Preston North End,2,1,H
+12/04/2025,Plymouth Argyle,Sheffield United,2,1,H
+12/04/2025,Cardiff City,Stoke City,0,1,A
+12/04/2025,Luton Town,Blackburn Rovers,0,1,A
+12/04/2025,Millwall,Middlesbrough,1,0,H
+12/04/2025,Portsmouth,Derby County,2,2,D
+12/04/2025,Queens Park Rangers,Bristol City,1,1,D
+12/04/2025,Sheffield Wednesday,Oxford United,0,1,A
+12/04/2025,Sunderland,Swansea City,0,1,A
+12/04/2025,West Bromwich Albion,Watford,2,1,H
+14/04/2025,Hull City,Coventry City,1,1,D
+18/04/2025,Derby County,Luton Town,0,1,A
+18/04/2025,Blackburn Rovers,Millwall,4,1,H
+18/04/2025,Bristol City,Sunderland,2,1,H
+18/04/2025,Coventry City,West Bromwich Albion,2,0,H
+18/04/2025,Middlesbrough,Plymouth Argyle,2,1,H
+18/04/2025,Watford,Burnley,1,2,A
+18/04/2025,Norwich City,Portsmouth,3,5,A
+18/04/2025,Preston North End,Queens Park Rangers,1,2,A
+18/04/2025,Stoke City,Sheffield Wednesday,2,0,H
+18/04/2025,Swansea City,Hull City,1,0,H
+18/04/2025,Sheffield United,Cardiff City,2,0,H
+18/04/2025,Oxford United,Leeds United,0,1,A
+21/04/2025,Cardiff City,Oxford United,1,1,D
+21/04/2025,Hull City,Preston North End,2,1,H
+21/04/2025,Leeds United,Stoke City,6,0,H
+21/04/2025,Luton Town,Bristol City,3,1,H
+21/04/2025,Millwall,Norwich City,3,1,H
+21/04/2025,Plymouth Argyle,Coventry City,3,1,H
+21/04/2025,Portsmouth,Watford,1,0,H
+21/04/2025,Queens Park Rangers,Swansea City,1,2,A
+21/04/2025,Sheffield Wednesday,Middlesbrough,2,1,H
+21/04/2025,Sunderland,Blackburn Rovers,0,1,A
+21/04/2025,West Bromwich Albion,Derby County,1,3,A
+21/04/2025,Burnley,Sheffield United,2,1,H
+25/04/2025,Stoke City,Sheffield United,0,2,A
+26/04/2025,Luton Town,Coventry City,1,0,H
+26/04/2025,Queens Park Rangers,Burnley,0,5,A
+26/04/2025,Blackburn Rovers,Watford,2,1,H
+26/04/2025,Cardiff City,West Bromwich Albion,0,0,D
+26/04/2025,Hull City,Derby County,0,1,A
+26/04/2025,Middlesbrough,Norwich City,0,0,D
+26/04/2025,Millwall,Swansea City,1,0,H
+26/04/2025,Oxford United,Sunderland,2,0,H
+26/04/2025,Preston North End,Plymouth Argyle,1,2,A
+26/04/2025,Sheffield Wednesday,Portsmouth,1,1,D
+28/04/2025,Leeds United,Bristol City,4,0,H
+03/05/2025,Bristol City,Preston North End,2,2,D
+03/05/2025,Burnley,Millwall,3,1,H
+03/05/2025,Coventry City,Middlesbrough,2,0,H
+03/05/2025,Derby County,Stoke City,0,0,D
+03/05/2025,Norwich City,Cardiff City,4,2,H
+03/05/2025,Plymouth Argyle,Leeds United,1,2,A
+03/05/2025,Portsmouth,Hull City,1,1,D
+03/05/2025,Sheffield United,Blackburn Rovers,1,1,D
+03/05/2025,Sunderland,Queens Park Rangers,0,1,A
+03/05/2025,Swansea City,Oxford United,3,3,D
+03/05/2025,Watford,Sheffield Wednesday,1,1,D
+03/05/2025,West Bromwich Albion,Luton Town,5,3,H
+08/05/2025,Bristol City,Sheffield United,0,3,A
+09/05/2025,Coventry City,Sunderland,1,2,A
+12/05/2025,Sheffield United,Bristol City,3,0,H
+13/05/2025,Sunderland,Coventry City,1,1,D
+24/05/2025,Sheffield United,Sunderland,1,2,A

@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+05/08/2023,Blackpool,Burton Albion,2,0,H
+05/08/2023,Bolton Wanderers,Lincoln City,3,0,H
+05/08/2023,Cambridge United,Oxford United,2,0,H
+05/08/2023,Carlisle United,Fleetwood Town,1,1,D
+05/08/2023,Charlton Athletic,Leyton Orient,1,0,H
+05/08/2023,Derby County,Wigan Athletic,1,2,A
+05/08/2023,Barnsley,Port Vale,7,0,H
+05/08/2023,Reading,Peterborough United,0,1,A
+05/08/2023,Northampton Town,Stevenage,0,1,A
+05/08/2023,Portsmouth,Bristol Rovers,1,1,D
+05/08/2023,Shrewsbury Town,Cheltenham Town,1,0,H
+05/08/2023,Wycombe Wanderers,Exeter City,0,3,A
+12/08/2023,Bristol Rovers,Barnsley,1,1,D
+12/08/2023,Burton Albion,Derby County,0,3,A
+12/08/2023,Cheltenham Town,Bolton Wanderers,0,3,A
+12/08/2023,Exeter City,Blackpool,0,0,D
+12/08/2023,Stevenage,Shrewsbury Town,2,0,H
+12/08/2023,Fleetwood Town,Cambridge United,0,2,A
+12/08/2023,Leyton Orient,Portsmouth,0,4,A
+12/08/2023,Lincoln City,Wycombe Wanderers,3,0,H
+12/08/2023,Oxford United,Carlisle United,1,0,H
+12/08/2023,Peterborough United,Charlton Athletic,1,0,H
+12/08/2023,Port Vale,Reading,1,0,H
+12/08/2023,Wigan Athletic,Northampton Town,2,1,H
+15/08/2023,Blackpool,Port Vale,0,0,D
+15/08/2023,Bolton Wanderers,Fleetwood Town,3,1,H
+15/08/2023,Cambridge United,Stevenage,1,2,A
+15/08/2023,Carlisle United,Wigan Athletic,1,1,D
+15/08/2023,Charlton Athletic,Bristol Rovers,1,2,A
+15/08/2023,Derby County,Oxford United,1,2,A
+15/08/2023,Barnsley,Peterborough United,1,3,A
+15/08/2023,Northampton Town,Lincoln City,2,2,D
+15/08/2023,Shrewsbury Town,Burton Albion,2,1,H
+15/08/2023,Wycombe Wanderers,Leyton Orient,3,2,H
+15/08/2023,Portsmouth,Exeter City,1,0,H
+15/08/2023,Reading,Cheltenham Town,1,0,H
+19/08/2023,Bolton Wanderers,Wigan Athletic,0,4,A
+19/08/2023,Blackpool,Leyton Orient,0,0,D
+19/08/2023,Cambridge United,Bristol Rovers,2,0,H
+19/08/2023,Carlisle United,Exeter City,0,2,A
+19/08/2023,Charlton Athletic,Port Vale,2,3,A
+19/08/2023,Derby County,Fleetwood Town,1,0,H
+19/08/2023,Barnsley,Oxford United,1,3,A
+19/08/2023,Reading,Stevenage,2,0,H
+19/08/2023,Northampton Town,Peterborough United,1,0,H
+19/08/2023,Portsmouth,Cheltenham Town,0,0,D
+19/08/2023,Shrewsbury Town,Lincoln City,0,1,A
+19/08/2023,Wycombe Wanderers,Burton Albion,0,0,D
+26/08/2023,Bristol Rovers,Wycombe Wanderers,1,2,A
+26/08/2023,Burton Albion,Bolton Wanderers,1,1,D
+26/08/2023,Cheltenham Town,Northampton Town,0,1,A
+26/08/2023,Exeter City,Reading,2,1,H
+26/08/2023,Stevenage,Portsmouth,0,0,D
+26/08/2023,Fleetwood Town,Shrewsbury Town,0,1,A
+26/08/2023,Leyton Orient,Cambridge United,2,0,H
+26/08/2023,Lincoln City,Blackpool,3,0,H
+26/08/2023,Oxford United,Charlton Athletic,2,1,H
+26/08/2023,Peterborough United,Derby County,2,4,A
+26/08/2023,Port Vale,Carlisle United,1,0,H
+26/08/2023,Wigan Athletic,Barnsley,0,2,A
+02/09/2023,Blackpool,Wigan Athletic,2,1,H
+02/09/2023,Bolton Wanderers,Derby County,2,1,H
+02/09/2023,Bristol Rovers,Lincoln City,1,1,D
+02/09/2023,Burton Albion,Exeter City,0,1,A
+02/09/2023,Carlisle United,Shrewsbury Town,2,0,H
+02/09/2023,Charlton Athletic,Fleetwood Town,2,1,H
+02/09/2023,Cheltenham Town,Barnsley,0,2,A
+02/09/2023,Leyton Orient,Stevenage,0,3,A
+02/09/2023,Northampton Town,Wycombe Wanderers,0,1,A
+02/09/2023,Oxford United,Port Vale,1,2,A
+02/09/2023,Portsmouth,Peterborough United,3,1,H
+04/09/2023,Cambridge United,Reading,1,0,H
+09/09/2023,Stevenage,Carlisle United,2,2,D
+09/09/2023,Exeter City,Leyton Orient,1,2,A
+16/09/2023,Wigan Athletic,Cambridge United,2,1,H
+16/09/2023,Shrewsbury Town,Bristol Rovers,0,2,A
+16/09/2023,Port Vale,Northampton Town,1,0,H
+16/09/2023,Peterborough United,Leyton Orient,1,1,D
+16/09/2023,Lincoln City,Carlisle United,1,1,D
+16/09/2023,Fleetwood Town,Oxford United,0,3,A
+16/09/2023,Stevenage,Charlton Athletic,1,1,D
+16/09/2023,Reading,Bolton Wanderers,2,1,H
+16/09/2023,Barnsley,Burton Albion,2,0,H
+16/09/2023,Wycombe Wanderers,Blackpool,2,0,H
+16/09/2023,Derby County,Portsmouth,1,1,D
+16/09/2023,Exeter City,Cheltenham Town,1,0,H
+19/09/2023,Peterborough United,Cheltenham Town,3,0,H
+19/09/2023,Port Vale,Burton Albion,2,3,A
+19/09/2023,Barnsley,Portsmouth,2,3,A
+23/09/2023,Oxford United,Exeter City,3,0,H
+23/09/2023,Portsmouth,Lincoln City,2,1,H
+23/09/2023,Northampton Town,Barnsley,1,2,A
+23/09/2023,Leyton Orient,Shrewsbury Town,1,0,H
+23/09/2023,Cheltenham Town,Stevenage,0,3,A
+23/09/2023,Charlton Athletic,Wycombe Wanderers,3,1,H
+23/09/2023,Carlisle United,Derby County,0,2,A
+23/09/2023,Blackpool,Reading,4,1,H
+23/09/2023,Bolton Wanderers,Peterborough United,1,1,D
+23/09/2023,Bristol Rovers,Wigan Athletic,4,1,H
+23/09/2023,Burton Albion,Fleetwood Town,1,1,D
+23/09/2023,Cambridge United,Port Vale,1,1,D
+30/09/2023,Port Vale,Bolton Wanderers,0,1,A
+30/09/2023,Wigan Athletic,Portsmouth,1,2,A
+30/09/2023,Shrewsbury Town,Charlton Athletic,0,0,D
+30/09/2023,Peterborough United,Bristol Rovers,2,0,H
+30/09/2023,Lincoln City,Cheltenham Town,2,0,H
+30/09/2023,Fleetwood Town,Leyton Orient,1,0,H
+30/09/2023,Stevenage,Oxford United,1,3,A
+30/09/2023,Derby County,Cambridge United,0,0,D
+30/09/2023,Exeter City,Northampton Town,0,2,A
+30/09/2023,Barnsley,Blackpool,0,1,A
+30/09/2023,Reading,Burton Albion,0,0,D
+30/09/2023,Wycombe Wanderers,Carlisle United,2,0,H
+03/10/2023,Charlton Athletic,Exeter City,4,1,H
+03/10/2023,Cheltenham Town,Fleetwood Town,0,2,A
+03/10/2023,Portsmouth,Wycombe Wanderers,2,1,H
+03/10/2023,Northampton Town,Reading,3,1,H
+03/10/2023,Oxford United,Shrewsbury Town,3,0,H
+03/10/2023,Carlisle United,Peterborough United,1,1,D
+03/10/2023,Cambridge United,Barnsley,0,4,A
+03/10/2023,Blackpool,Derby County,1,3,A
+03/10/2023,Bolton Wanderers,Stevenage,3,2,H
+03/10/2023,Bristol Rovers,Port Vale,3,0,H
+03/10/2023,Burton Albion,Wigan Athletic,2,1,H
+07/10/2023,Portsmouth,Port Vale,2,0,H
+07/10/2023,Peterborough United,Lincoln City,2,0,H
+07/10/2023,Leyton Orient,Reading,2,1,H
+07/10/2023,Fleetwood Town,Wycombe Wanderers,1,4,A
+07/10/2023,Stevenage,Wigan Athletic,1,0,H
+07/10/2023,Exeter City,Barnsley,0,1,A
+07/10/2023,Shrewsbury Town,Northampton Town,1,0,H
+07/10/2023,Cheltenham Town,Derby County,1,1,D
+07/10/2023,Oxford United,Bristol Rovers,2,1,H
+07/10/2023,Bolton Wanderers,Carlisle United,1,3,A
+07/10/2023,Charlton Athletic,Blackpool,2,2,D
+09/10/2023,Burton Albion,Cambridge United,2,1,H
+14/10/2023,Blackpool,Stevenage,3,0,H
+14/10/2023,Cambridge United,Shrewsbury Town,1,1,D
+14/10/2023,Lincoln City,Burton Albion,0,1,A
+14/10/2023,Carlisle United,Leyton Orient,0,1,A
+21/10/2023,Leyton Orient,Barnsley,1,1,D
+21/10/2023,Exeter City,Wigan Athletic,0,2,A
+21/10/2023,Oxford United,Blackpool,1,1,D
+21/10/2023,Peterborough United,Wycombe Wanderers,2,2,D
+21/10/2023,Portsmouth,Carlisle United,1,0,H
+21/10/2023,Stevenage,Port Vale,0,0,D
+21/10/2023,Fleetwood Town,Lincoln City,0,1,A
+21/10/2023,Shrewsbury Town,Derby County,1,0,H
+21/10/2023,Cheltenham Town,Cambridge United,1,0,H
+21/10/2023,Charlton Athletic,Reading,4,0,H
+21/10/2023,Burton Albion,Bristol Rovers,4,1,H
+21/10/2023,Bolton Wanderers,Northampton Town,2,1,H
+24/10/2023,Derby County,Exeter City,2,0,H
+24/10/2023,Lincoln City,Charlton Athletic,3,1,H
+24/10/2023,Barnsley,Shrewsbury Town,3,0,H
+24/10/2023,Carlisle United,Burton Albion,2,1,H
+24/10/2023,Cambridge United,Portsmouth,0,0,D
+24/10/2023,Bristol Rovers,Stevenage,1,1,D
+24/10/2023,Blackpool,Cheltenham Town,3,2,H
+24/10/2023,Port Vale,Peterborough United,0,1,A
+24/10/2023,Wigan Athletic,Oxford United,2,0,H
+24/10/2023,Wycombe Wanderers,Bolton Wanderers,2,4,A
+24/10/2023,Reading,Fleetwood Town,1,2,A
+24/10/2023,Northampton Town,Leyton Orient,2,2,D
+28/10/2023,Bristol Rovers,Northampton Town,2,1,H
+28/10/2023,Burton Albion,Leyton Orient,0,0,D
+28/10/2023,Cambridge United,Carlisle United,1,0,H
+28/10/2023,Charlton Athletic,Bolton Wanderers,0,2,A
+28/10/2023,Exeter City,Lincoln City,1,1,D
+28/10/2023,Barnsley,Fleetwood Town,2,2,D
+28/10/2023,Reading,Portsmouth,2,3,A
+28/10/2023,Stevenage,Derby County,3,1,H
+28/10/2023,Wigan Athletic,Shrewsbury Town,2,0,H
+28/10/2023,Oxford United,Wycombe Wanderers,2,2,D
+28/10/2023,Port Vale,Cheltenham Town,1,2,A
+28/10/2023,Blackpool,Peterborough United,2,4,A
+31/10/2023,Lincoln City,Oxford United,0,2,A
+31/10/2023,Wigan Athletic,Charlton Athletic,2,3,A
+31/10/2023,Wycombe Wanderers,Cambridge United,0,0,D
+31/10/2023,Derby County,Northampton Town,4,0,H
+01/11/2023,Fleetwood Town,Blackpool,3,3,D
+07/11/2023,Shrewsbury Town,Bolton Wanderers,0,2,A
+07/11/2023,Reading,Bristol Rovers,1,1,D
+07/11/2023,Wigan Athletic,Peterborough United,2,1,H
+11/11/2023,Leyton Orient,Oxford United,2,3,A
+11/11/2023,Fleetwood Town,Exeter City,3,0,H
+11/11/2023,Derby County,Barnsley,3,0,H
+11/11/2023,Wycombe Wanderers,Stevenage,0,1,A
+11/11/2023,Lincoln City,Port Vale,1,1,D
+11/11/2023,Northampton Town,Burton Albion,2,0,H
+11/11/2023,Portsmouth,Charlton Athletic,2,2,D
+11/11/2023,Shrewsbury Town,Reading,3,2,H
+11/11/2023,Peterborough United,Cambridge United,5,0,H
+11/11/2023,Bolton Wanderers,Blackpool,1,0,H
+11/11/2023,Carlisle United,Bristol Rovers,0,1,A
+11/11/2023,Cheltenham Town,Wigan Athletic,1,1,D
+18/11/2023,Stevenage,Lincoln City,1,0,H
+18/11/2023,Blackpool,Shrewsbury Town,4,0,H
+21/11/2023,Leyton Orient,Lincoln City,0,1,A
+25/11/2023,Wycombe Wanderers,Reading,1,2,A
+25/11/2023,Leyton Orient,Wigan Athletic,1,1,D
+25/11/2023,Fleetwood Town,Stevenage,0,3,A
+25/11/2023,Derby County,Bristol Rovers,2,1,H
+25/11/2023,Cheltenham Town,Oxford United,2,0,H
+25/11/2023,Carlisle United,Charlton Athletic,1,1,D
+25/11/2023,Bolton Wanderers,Exeter City,7,0,H
+25/11/2023,Northampton Town,Cambridge United,2,1,H
+25/11/2023,Peterborough United,Burton Albion,4,0,H
+25/11/2023,Portsmouth,Blackpool,0,4,A
+25/11/2023,Shrewsbury Town,Port Vale,2,1,H
+25/11/2023,Lincoln City,Barnsley,2,2,D
+28/11/2023,Blackpool,Northampton Town,1,2,A
+28/11/2023,Bristol Rovers,Leyton Orient,1,1,D
+28/11/2023,Burton Albion,Portsmouth,0,2,A
+28/11/2023,Cambridge United,Lincoln City,0,3,A
+28/11/2023,Charlton Athletic,Cheltenham Town,2,1,H
+28/11/2023,Exeter City,Shrewsbury Town,0,0,D
+28/11/2023,Barnsley,Wycombe Wanderers,1,0,H
+28/11/2023,Stevenage,Peterborough United,2,2,D
+28/11/2023,Port Vale,Derby County,0,1,A
+28/11/2023,Wigan Athletic,Fleetwood Town,3,0,H
+28/11/2023,Reading,Carlisle United,5,1,H
+28/11/2023,Oxford United,Bolton Wanderers,0,0,D
+02/12/2023,Northampton Town,Portsmouth,0,3,A
+09/12/2023,Northampton Town,Fleetwood Town,3,0,H
+09/12/2023,Leyton Orient,Derby County,0,3,A
+09/12/2023,Reading,Barnsley,1,3,A
+09/12/2023,Exeter City,Port Vale,0,1,A
+09/12/2023,Charlton Athletic,Cambridge United,2,2,D
+09/12/2023,Bristol Rovers,Cheltenham Town,1,1,D
+09/12/2023,Blackpool,Carlisle United,3,0,H
+09/12/2023,Wigan Athletic,Lincoln City,0,0,D
+09/12/2023,Wycombe Wanderers,Shrewsbury Town,0,1,A
+09/12/2023,Burton Albion,Stevenage,1,2,A
+09/12/2023,Peterborough United,Oxford United,3,0,H
+11/12/2023,Portsmouth,Bolton Wanderers,2,0,H
+12/12/2023,Reading,Oxford United,1,1,D
+16/12/2023,Cambridge United,Blackpool,2,1,H
+16/12/2023,Carlisle United,Northampton Town,2,2,D
+16/12/2023,Cheltenham Town,Leyton Orient,1,2,A
+16/12/2023,Derby County,Wycombe Wanderers,1,1,D
+16/12/2023,Barnsley,Charlton Athletic,1,1,D
+16/12/2023,Lincoln City,Reading,1,1,D
+16/12/2023,Shrewsbury Town,Portsmouth,0,3,A
+16/12/2023,Port Vale,Wigan Athletic,3,2,H
+16/12/2023,Oxford United,Burton Albion,3,0,H
+16/12/2023,Stevenage,Exeter City,1,1,D
+16/12/2023,Fleetwood Town,Peterborough United,0,1,A
+16/12/2023,Bolton Wanderers,Bristol Rovers,1,2,A
+21/12/2023,Derby County,Lincoln City,3,1,H
+22/12/2023,Cambridge United,Exeter City,2,0,H
+23/12/2023,Northampton Town,Oxford United,2,1,H
+23/12/2023,Carlisle United,Cheltenham Town,0,1,A
+23/12/2023,Bolton Wanderers,Leyton Orient,3,2,H
+23/12/2023,Blackpool,Bristol Rovers,3,1,H
+23/12/2023,Charlton Athletic,Burton Albion,1,1,D
+23/12/2023,Barnsley,Stevenage,2,1,H
+23/12/2023,Reading,Wigan Athletic,2,0,H
+23/12/2023,Wycombe Wanderers,Port Vale,1,1,D
+23/12/2023,Shrewsbury Town,Peterborough United,1,2,A
+23/12/2023,Portsmouth,Fleetwood Town,1,1,D
+26/12/2023,Leyton Orient,Charlton Athletic,1,0,H
+26/12/2023,Bristol Rovers,Portsmouth,2,1,H
+26/12/2023,Burton Albion,Blackpool,1,0,H
+26/12/2023,Cheltenham Town,Shrewsbury Town,2,0,H
+26/12/2023,Exeter City,Wycombe Wanderers,1,0,H
+26/12/2023,Stevenage,Northampton Town,3,0,H
+26/12/2023,Fleetwood Town,Carlisle United,1,1,D
+26/12/2023,Wigan Athletic,Derby County,0,1,A
+26/12/2023,Port Vale,Barnsley,2,3,A
+26/12/2023,Peterborough United,Reading,2,2,D
+26/12/2023,Oxford United,Cambridge United,2,1,H
+26/12/2023,Lincoln City,Bolton Wanderers,0,1,A
+29/12/2023,Oxford United,Derby County,2,3,A
+29/12/2023,Port Vale,Blackpool,3,0,H
+29/12/2023,Peterborough United,Barnsley,2,2,D
+29/12/2023,Lincoln City,Northampton Town,1,2,A
+29/12/2023,Leyton Orient,Wycombe Wanderers,0,0,D
+29/12/2023,Fleetwood Town,Bolton Wanderers,0,2,A
+29/12/2023,Exeter City,Portsmouth,0,0,D
+29/12/2023,Cheltenham Town,Reading,2,2,D
+29/12/2023,Burton Albion,Shrewsbury Town,1,0,H
+29/12/2023,Bristol Rovers,Charlton Athletic,2,1,H
+29/12/2023,Wigan Athletic,Carlisle United,2,0,H
+01/01/2024,Northampton Town,Cheltenham Town,1,0,H
+01/01/2024,Portsmouth,Stevenage,2,1,H
+01/01/2024,Barnsley,Wigan Athletic,1,1,D
+01/01/2024,Derby County,Peterborough United,2,3,A
+01/01/2024,Charlton Athletic,Oxford United,1,2,A
+01/01/2024,Shrewsbury Town,Fleetwood Town,3,1,H
+01/01/2024,Wycombe Wanderers,Bristol Rovers,3,2,H
+01/01/2024,Carlisle United,Port Vale,2,1,H
+01/01/2024,Cambridge United,Leyton Orient,0,2,A
+01/01/2024,Bolton Wanderers,Burton Albion,1,0,H
+01/01/2024,Blackpool,Lincoln City,2,0,H
+01/01/2024,Reading,Exeter City,3,2,H
+06/01/2024,Port Vale,Charlton Athletic,3,3,D
+06/01/2024,Fleetwood Town,Derby County,1,3,A
+06/01/2024,Burton Albion,Wycombe Wanderers,1,1,D
+06/01/2024,Cheltenham Town,Portsmouth,2,1,H
+06/01/2024,Exeter City,Carlisle United,2,1,H
+13/01/2024,Cambridge United,Fleetwood Town,2,1,H
+13/01/2024,Carlisle United,Oxford United,1,3,A
+13/01/2024,Wycombe Wanderers,Lincoln City,1,1,D
+13/01/2024,Barnsley,Bristol Rovers,2,1,H
+13/01/2024,Northampton Town,Wigan Athletic,1,1,D
+13/01/2024,Portsmouth,Leyton Orient,0,3,A
+13/01/2024,Charlton Athletic,Peterborough United,1,2,A
+13/01/2024,Shrewsbury Town,Stevenage,0,1,A
+13/01/2024,Blackpool,Exeter City,2,0,H
+15/01/2024,Derby County,Burton Albion,3,2,H
+16/01/2024,Barnsley,Carlisle United,2,1,H
+20/01/2024,Bristol Rovers,Blackpool,1,2,A
+20/01/2024,Burton Albion,Charlton Athletic,2,0,H
+20/01/2024,Fleetwood Town,Portsmouth,0,1,A
+20/01/2024,Leyton Orient,Bolton Wanderers,1,0,H
+20/01/2024,Lincoln City,Derby County,0,0,D
+20/01/2024,Peterborough United,Shrewsbury Town,2,1,H
+20/01/2024,Wigan Athletic,Reading,1,0,H
+20/01/2024,Exeter City,Cambridge United,0,0,D
+23/01/2024,Reading,Derby County,1,0,H
+23/01/2024,Bolton Wanderers,Cheltenham Town,1,0,H
+23/01/2024,Charlton Athletic,Northampton Town,2,3,A
+23/01/2024,Bristol Rovers,Exeter City,0,1,A
+23/01/2024,Oxford United,Barnsley,0,1,A
+23/01/2024,Wigan Athletic,Wycombe Wanderers,1,0,H
+27/01/2024,Northampton Town,Shrewsbury Town,0,2,A
+27/01/2024,Barnsley,Exeter City,1,2,A
+27/01/2024,Port Vale,Portsmouth,0,1,A
+27/01/2024,Derby County,Cheltenham Town,2,1,H
+27/01/2024,Carlisle United,Bolton Wanderers,1,4,A
+27/01/2024,Cambridge United,Burton Albion,0,0,D
+27/01/2024,Bristol Rovers,Oxford United,3,1,H
+27/01/2024,Wigan Athletic,Stevenage,2,3,A
+27/01/2024,Wycombe Wanderers,Fleetwood Town,2,2,D
+27/01/2024,Blackpool,Charlton Athletic,1,1,D
+27/01/2024,Lincoln City,Peterborough United,0,0,D
+27/01/2024,Reading,Leyton Orient,1,1,D
+30/01/2024,Oxford United,Portsmouth,2,2,D
+03/02/2024,Stevenage,Blackpool,1,0,H
+03/02/2024,Cheltenham Town,Wycombe Wanderers,1,3,A
+03/02/2024,Charlton Athletic,Derby County,0,1,A
+03/02/2024,Burton Albion,Lincoln City,0,1,A
+03/02/2024,Bolton Wanderers,Barnsley,1,1,D
+03/02/2024,Oxford United,Reading,1,1,D
+03/02/2024,Fleetwood Town,Port Vale,3,0,H
+03/02/2024,Leyton Orient,Carlisle United,3,2,H
+03/02/2024,Peterborough United,Wigan Athletic,2,3,A
+03/02/2024,Portsmouth,Northampton Town,4,1,H
+03/02/2024,Shrewsbury Town,Cambridge United,1,2,A
+03/02/2024,Exeter City,Bristol Rovers,0,1,A
+06/02/2024,Bristol Rovers,Fleetwood Town,0,2,A
+06/02/2024,Port Vale,Leyton Orient,0,1,A
+06/02/2024,Exeter City,Peterborough United,2,1,H
+06/02/2024,Stevenage,Reading,0,1,A
+10/02/2024,Bristol Rovers,Burton Albion,1,2,A
+10/02/2024,Barnsley,Leyton Orient,2,1,H
+10/02/2024,Port Vale,Stevenage,2,2,D
+10/02/2024,Reading,Charlton Athletic,2,0,H
+10/02/2024,Cambridge United,Cheltenham Town,0,1,A
+10/02/2024,Carlisle United,Portsmouth,0,1,A
+10/02/2024,Lincoln City,Fleetwood Town,2,1,H
+10/02/2024,Wigan Athletic,Exeter City,1,2,A
+10/02/2024,Derby County,Shrewsbury Town,1,1,D
+10/02/2024,Wycombe Wanderers,Peterborough United,5,2,H
+10/02/2024,Blackpool,Oxford United,1,1,D
+10/02/2024,Northampton Town,Bolton Wanderers,1,1,D
+13/02/2024,Shrewsbury Town,Barnsley,1,1,D
+13/02/2024,Portsmouth,Cambridge United,3,1,H
+13/02/2024,Cheltenham Town,Blackpool,2,0,H
+13/02/2024,Exeter City,Derby County,0,3,A
+13/02/2024,Charlton Athletic,Lincoln City,1,1,D
+13/02/2024,Bolton Wanderers,Wycombe Wanderers,2,1,H
+13/02/2024,Leyton Orient,Northampton Town,4,3,H
+13/02/2024,Stevenage,Bristol Rovers,2,3,A
+13/02/2024,Fleetwood Town,Reading,1,1,D
+13/02/2024,Oxford United,Wigan Athletic,4,2,H
+17/02/2024,Shrewsbury Town,Wigan Athletic,0,1,A
+17/02/2024,Wycombe Wanderers,Oxford United,0,0,D
+17/02/2024,Lincoln City,Exeter City,1,0,H
+17/02/2024,Derby County,Stevenage,1,0,H
+17/02/2024,Leyton Orient,Burton Albion,1,2,A
+17/02/2024,Fleetwood Town,Barnsley,1,2,A
+17/02/2024,Cheltenham Town,Port Vale,3,2,H
+17/02/2024,Carlisle United,Cambridge United,0,4,A
+17/02/2024,Bolton Wanderers,Charlton Athletic,3,3,D
+17/02/2024,Peterborough United,Blackpool,1,2,A
+17/02/2024,Portsmouth,Reading,4,1,H
+17/02/2024,Northampton Town,Bristol Rovers,3,1,H
+20/02/2024,Reading,Port Vale,2,0,H
+20/02/2024,Cambridge United,Bolton Wanderers,1,2,A
+20/02/2024,Oxford United,Northampton Town,2,2,D
+23/02/2024,Wigan Athletic,Cheltenham Town,1,1,D
+24/02/2024,Bristol Rovers,Carlisle United,2,1,H
+24/02/2024,Charlton Athletic,Portsmouth,0,0,D
+24/02/2024,Exeter City,Fleetwood Town,1,1,D
+24/02/2024,Blackpool,Bolton Wanderers,4,1,H
+24/02/2024,Reading,Shrewsbury Town,2,3,A
+24/02/2024,Stevenage,Wycombe Wanderers,1,0,H
+24/02/2024,Burton Albion,Northampton Town,0,2,A
+24/02/2024,Oxford United,Leyton Orient,1,2,A
+24/02/2024,Port Vale,Lincoln City,0,2,A
+24/02/2024,Cambridge United,Peterborough United,0,1,A
+24/02/2024,Barnsley,Derby County,2,1,H
+27/02/2024,Wigan Athletic,Bolton Wanderers,1,0,H
+27/02/2024,Burton Albion,Carlisle United,0,1,A
+27/02/2024,Port Vale,Fleetwood Town,2,2,D
+27/02/2024,Derby County,Charlton Athletic,1,2,A
+27/02/2024,Stevenage,Cambridge United,1,0,H
+27/02/2024,Leyton Orient,Blackpool,1,0,H
+27/02/2024,Lincoln City,Shrewsbury Town,3,0,H
+27/02/2024,Wycombe Wanderers,Cheltenham Town,2,0,H
+02/03/2024,Lincoln City,Stevenage,0,0,D
+02/03/2024,Northampton Town,Charlton Athletic,1,1,D
+02/03/2024,Peterborough United,Exeter City,2,1,H
+02/03/2024,Shrewsbury Town,Blackpool,0,2,A
+02/03/2024,Wycombe Wanderers,Barnsley,2,4,A
+02/03/2024,Portsmouth,Oxford United,2,1,H
+02/03/2024,Leyton Orient,Bristol Rovers,0,1,A
+02/03/2024,Fleetwood Town,Wigan Athletic,4,2,H
+02/03/2024,Bolton Wanderers,Cambridge United,2,0,H
+02/03/2024,Carlisle United,Reading,1,3,A
+02/03/2024,Cheltenham Town,Burton Albion,0,0,D
+02/03/2024,Derby County,Port Vale,3,0,H
+05/03/2024,Barnsley,Bolton Wanderers,2,2,D
+05/03/2024,Cheltenham Town,Charlton Athletic,1,3,A
+05/03/2024,Peterborough United,Northampton Town,5,1,H
+09/03/2024,Charlton Athletic,Carlisle United,3,2,H
+09/03/2024,Wigan Athletic,Leyton Orient,1,0,H
+09/03/2024,Port Vale,Shrewsbury Town,1,2,A
+09/03/2024,Oxford United,Cheltenham Town,2,1,H
+09/03/2024,Stevenage,Fleetwood Town,0,0,D
+09/03/2024,Blackpool,Portsmouth,0,0,D
+09/03/2024,Bristol Rovers,Derby County,0,3,A
+09/03/2024,Reading,Wycombe Wanderers,1,2,A
+09/03/2024,Cambridge United,Northampton Town,1,1,D
+09/03/2024,Burton Albion,Peterborough United,1,3,A
+09/03/2024,Exeter City,Bolton Wanderers,2,2,D
+09/03/2024,Barnsley,Lincoln City,1,5,A
+12/03/2024,Wycombe Wanderers,Wigan Athletic,1,0,H
+12/03/2024,Shrewsbury Town,Exeter City,0,3,A
+12/03/2024,Bolton Wanderers,Oxford United,5,0,H
+12/03/2024,Portsmouth,Burton Albion,2,1,H
+12/03/2024,Northampton Town,Blackpool,0,1,A
+12/03/2024,Lincoln City,Cambridge United,6,0,H
+12/03/2024,Carlisle United,Barnsley,2,3,A
+12/03/2024,Derby County,Reading,2,1,H
+12/03/2024,Fleetwood Town,Bristol Rovers,0,0,D
+12/03/2024,Leyton Orient,Port Vale,0,0,D
+13/03/2024,Peterborough United,Stevenage,3,1,H
+16/03/2024,Port Vale,Oxford United,0,2,A
+16/03/2024,Wigan Athletic,Blackpool,1,0,H
+16/03/2024,Wycombe Wanderers,Northampton Town,2,0,H
+16/03/2024,Peterborough United,Portsmouth,0,1,A
+16/03/2024,Lincoln City,Bristol Rovers,5,0,H
+16/03/2024,Shrewsbury Town,Carlisle United,1,0,H
+16/03/2024,Derby County,Bolton Wanderers,1,0,H
+16/03/2024,Exeter City,Burton Albion,1,0,H
+16/03/2024,Barnsley,Cheltenham Town,0,0,D
+16/03/2024,Reading,Cambridge United,4,0,H
+16/03/2024,Stevenage,Leyton Orient,0,1,A
+16/03/2024,Fleetwood Town,Charlton Athletic,1,1,D
+23/03/2024,Carlisle United,Stevenage,2,2,D
+23/03/2024,Burton Albion,Port Vale,0,1,A
+23/03/2024,Northampton Town,Derby County,1,0,H
+29/03/2024,Port Vale,Bristol Rovers,2,0,H
+29/03/2024,Peterborough United,Carlisle United,1,3,A
+29/03/2024,Shrewsbury Town,Oxford United,1,1,D
+29/03/2024,Wigan Athletic,Burton Albion,1,1,D
+29/03/2024,Wycombe Wanderers,Portsmouth,1,3,A
+29/03/2024,Stevenage,Bolton Wanderers,0,0,D
+29/03/2024,Lincoln City,Leyton Orient,1,0,H
+29/03/2024,Fleetwood Town,Cheltenham Town,1,2,A
+29/03/2024,Reading,Northampton Town,1,0,H
+29/03/2024,Barnsley,Cambridge United,0,2,A
+29/03/2024,Exeter City,Charlton Athletic,1,1,D
+29/03/2024,Derby County,Blackpool,1,0,H
+01/04/2024,Oxford United,Fleetwood Town,4,0,H
+01/04/2024,Cambridge United,Wigan Athletic,3,1,H
+01/04/2024,Burton Albion,Barnsley,1,3,A
+01/04/2024,Bristol Rovers,Shrewsbury Town,0,0,D
+01/04/2024,Bolton Wanderers,Reading,5,2,H
+01/04/2024,Charlton Athletic,Stevenage,0,0,D
+01/04/2024,Cheltenham Town,Exeter City,1,2,A
+01/04/2024,Blackpool,Wycombe Wanderers,0,0,D
+01/04/2024,Leyton Orient,Peterborough United,1,2,A
+01/04/2024,Northampton Town,Port Vale,2,0,H
+01/04/2024,Carlisle United,Lincoln City,1,3,A
+02/04/2024,Portsmouth,Derby County,2,2,D
+06/04/2024,Blackpool,Cambridge United,1,0,H
+06/04/2024,Bristol Rovers,Bolton Wanderers,0,2,A
+06/04/2024,Wigan Athletic,Port Vale,0,0,D
+06/04/2024,Portsmouth,Shrewsbury Town,3,1,H
+06/04/2024,Northampton Town,Carlisle United,2,0,H
+06/04/2024,Leyton Orient,Cheltenham Town,3,1,H
+06/04/2024,Charlton Athletic,Barnsley,2,1,H
+06/04/2024,Exeter City,Stevenage,1,0,H
+06/04/2024,Reading,Lincoln City,1,1,D
+06/04/2024,Burton Albion,Oxford United,0,4,A
+09/04/2024,Charlton Athletic,Wigan Athletic,2,2,D
+09/04/2024,Bristol Rovers,Reading,0,2,A
+09/04/2024,Blackpool,Fleetwood Town,1,0,H
+09/04/2024,Leyton Orient,Exeter City,2,2,D
+09/04/2024,Stevenage,Barnsley,2,1,H
+09/04/2024,Cheltenham Town,Carlisle United,0,1,A
+10/04/2024,Wycombe Wanderers,Derby County,0,0,D
+10/04/2024,Peterborough United,Port Vale,3,0,H
+13/04/2024,Port Vale,Exeter City,2,4,A
+13/04/2024,Shrewsbury Town,Wycombe Wanderers,0,2,A
+13/04/2024,Lincoln City,Wigan Athletic,1,2,A
+13/04/2024,Fleetwood Town,Northampton Town,2,0,H
+13/04/2024,Stevenage,Burton Albion,1,2,A
+13/04/2024,Barnsley,Reading,2,2,D
+13/04/2024,Derby County,Leyton Orient,3,0,H
+13/04/2024,Cheltenham Town,Bristol Rovers,1,3,A
+13/04/2024,Carlisle United,Blackpool,0,1,A
+13/04/2024,Bolton Wanderers,Portsmouth,1,1,D
+13/04/2024,Cambridge United,Charlton Athletic,1,1,D
+13/04/2024,Oxford United,Peterborough United,5,0,H
+16/04/2024,Bristol Rovers,Cambridge United,1,0,H
+16/04/2024,Burton Albion,Cheltenham Town,1,2,A
+16/04/2024,Bolton Wanderers,Shrewsbury Town,2,2,D
+16/04/2024,Oxford United,Lincoln City,0,1,A
+16/04/2024,Portsmouth,Barnsley,3,2,H
+16/04/2024,Port Vale,Wycombe Wanderers,1,2,A
+16/04/2024,Peterborough United,Fleetwood Town,4,1,H
+19/04/2024,Oxford United,Stevenage,1,1,D
+20/04/2024,Cheltenham Town,Lincoln City,1,2,A
+20/04/2024,Portsmouth,Wigan Athletic,1,2,A
+20/04/2024,Northampton Town,Exeter City,1,2,A
+20/04/2024,Blackpool,Barnsley,3,2,H
+20/04/2024,Bolton Wanderers,Port Vale,2,0,H
+20/04/2024,Bristol Rovers,Peterborough United,0,2,A
+20/04/2024,Burton Albion,Reading,3,2,H
+20/04/2024,Cambridge United,Derby County,0,1,A
+20/04/2024,Carlisle United,Wycombe Wanderers,1,3,A
+20/04/2024,Charlton Athletic,Shrewsbury Town,1,1,D
+20/04/2024,Leyton Orient,Fleetwood Town,0,1,A
+23/04/2024,Cambridge United,Wycombe Wanderers,1,1,D
+23/04/2024,Cheltenham Town,Peterborough United,2,0,H
+27/04/2024,Derby County,Carlisle United,2,0,H
+27/04/2024,Exeter City,Oxford United,1,2,A
+27/04/2024,Barnsley,Northampton Town,1,1,D
+27/04/2024,Reading,Blackpool,3,2,H
+27/04/2024,Stevenage,Cheltenham Town,2,1,H
+27/04/2024,Fleetwood Town,Burton Albion,3,0,H
+27/04/2024,Lincoln City,Portsmouth,0,2,A
+27/04/2024,Peterborough United,Bolton Wanderers,3,3,D
+27/04/2024,Port Vale,Cambridge United,0,0,D
+27/04/2024,Shrewsbury Town,Leyton Orient,1,3,A
+27/04/2024,Wigan Athletic,Bristol Rovers,2,0,H
+27/04/2024,Wycombe Wanderers,Charlton Athletic,1,0,H

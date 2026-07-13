@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+06/08/2016,Maidstone United,York City,1,1,D
+06/08/2016,Barrow,Aldershot Town,1,0,H
+06/08/2016,Boreham Wood,Forest Green Rovers,1,0,H
+06/08/2016,Bromley,Tranmere Rovers,0,2,A
+06/08/2016,Dagenham & Redbridge,Southport,3,0,H
+06/08/2016,Eastleigh,Guiseley,2,1,H
+06/08/2016,Gateshead,Chester,3,0,H
+06/08/2016,Macclesfield Town,Torquay United,2,0,H
+06/08/2016,North Ferriby United,Braintree Town,0,0,D
+06/08/2016,Sutton United,Solihull Moors,1,3,A
+06/08/2016,Woking,Lincoln City,1,3,A
+06/08/2016,Wrexham,Dover Athletic,0,0,D
+09/08/2016,Aldershot Town,Maidstone United,1,0,H
+09/08/2016,Braintree Town,Eastleigh,1,1,D
+09/08/2016,Chester,Dagenham & Redbridge,3,0,H
+09/08/2016,Dover Athletic,Boreham Wood,1,4,A
+09/08/2016,Forest Green Rovers,Sutton United,1,1,D
+09/08/2016,Guiseley,Wrexham,2,3,A
+09/08/2016,Lincoln City,North Ferriby United,6,1,H
+09/08/2016,Solihull Moors,Woking,2,2,D
+09/08/2016,Southport,Gateshead,0,3,A
+09/08/2016,Torquay United,Bromley,1,0,H
+09/08/2016,Tranmere Rovers,Barrow,2,0,H
+09/08/2016,York City,Macclesfield Town,1,0,H
+13/08/2016,Aldershot Town,Wrexham,2,0,H
+13/08/2016,Braintree Town,Macclesfield Town,1,3,A
+13/08/2016,Chester,Maidstone United,1,3,A
+13/08/2016,Dover Athletic,North Ferriby United,2,0,H
+13/08/2016,Forest Green Rovers,Gateshead,1,0,H
+13/08/2016,Guiseley,Dagenham & Redbridge,0,2,A
+13/08/2016,Lincoln City,Sutton United,1,3,A
+13/08/2016,Solihull Moors,Bromley,1,0,H
+13/08/2016,Southport,Woking,2,1,H
+13/08/2016,Torquay United,Barrow,1,1,D
+13/08/2016,Tranmere Rovers,Eastleigh,2,1,H
+13/08/2016,York City,Boreham Wood,1,1,D
+16/08/2016,Barrow,Chester,3,2,H
+16/08/2016,Boreham Wood,Tranmere Rovers,0,1,A
+16/08/2016,Bromley,Aldershot Town,2,2,D
+16/08/2016,Dagenham & Redbridge,Lincoln City,1,0,H
+16/08/2016,Eastleigh,Dover Athletic,2,4,A
+16/08/2016,Gateshead,York City,6,1,H
+16/08/2016,Macclesfield Town,Southport,3,1,H
+16/08/2016,Maidstone United,Braintree Town,2,1,H
+16/08/2016,North Ferriby United,Guiseley,3,2,H
+16/08/2016,Sutton United,Torquay United,2,0,H
+16/08/2016,Woking,Forest Green Rovers,0,1,A
+16/08/2016,Wrexham,Solihull Moors,1,0,H
+20/08/2016,Boreham Wood,Chester,1,1,D
+20/08/2016,Braintree Town,Aldershot Town,2,0,H
+20/08/2016,Bromley,Gateshead,3,2,H
+20/08/2016,Dover Athletic,Barrow,3,1,H
+20/08/2016,Forest Green Rovers,York City,2,1,H
+20/08/2016,Lincoln City,Southport,4,0,H
+20/08/2016,North Ferriby United,Torquay United,1,0,H
+20/08/2016,Solihull Moors,Guiseley,3,2,H
+20/08/2016,Sutton United,Macclesfield Town,2,0,H
+20/08/2016,Tranmere Rovers,Maidstone United,2,1,H
+20/08/2016,Woking,Dagenham & Redbridge,1,3,A
+20/08/2016,Wrexham,Eastleigh,0,0,D
+27/08/2016,Dagenham & Redbridge,Wrexham,3,0,H
+27/08/2016,Aldershot Town,North Ferriby United,2,0,H
+27/08/2016,Barrow,Braintree Town,2,1,H
+27/08/2016,Chester,Sutton United,4,0,H
+27/08/2016,Eastleigh,Solihull Moors,2,0,H
+27/08/2016,Gateshead,Boreham Wood,1,1,D
+27/08/2016,Guiseley,Bromley,1,4,A
+27/08/2016,Macclesfield Town,Lincoln City,1,2,A
+27/08/2016,Maidstone United,Forest Green Rovers,1,4,A
+27/08/2016,Southport,Tranmere Rovers,1,1,D
+27/08/2016,Torquay United,Dover Athletic,2,1,H
+27/08/2016,York City,Woking,4,1,H
+29/08/2016,Boreham Wood,Maidstone United,0,1,A
+29/08/2016,Braintree Town,Torquay United,1,3,A
+29/08/2016,Bromley,Eastleigh,0,5,A
+29/08/2016,Dover Athletic,Aldershot Town,1,2,A
+29/08/2016,Forest Green Rovers,Southport,5,1,H
+29/08/2016,Lincoln City,Gateshead,3,0,H
+29/08/2016,North Ferriby United,Barrow,0,1,A
+29/08/2016,Solihull Moors,Macclesfield Town,2,3,A
+29/08/2016,Sutton United,Dagenham & Redbridge,1,0,H
+29/08/2016,Woking,Chester,3,1,H
+29/08/2016,Wrexham,York City,2,1,H
+29/08/2016,Tranmere Rovers,Guiseley,1,0,H
+03/09/2016,Aldershot Town,Tranmere Rovers,3,1,H
+03/09/2016,Barrow,Bromley,1,1,D
+03/09/2016,Chester,Forest Green Rovers,1,2,A
+03/09/2016,Dagenham & Redbridge,Boreham Wood,0,2,A
+03/09/2016,Eastleigh,North Ferriby United,2,0,H
+03/09/2016,Gateshead,Sutton United,1,0,H
+03/09/2016,Guiseley,Braintree Town,0,0,D
+03/09/2016,Macclesfield Town,Woking,3,1,H
+03/09/2016,Maidstone United,Wrexham,2,2,D
+03/09/2016,Southport,Dover Athletic,0,1,A
+03/09/2016,York City,Solihull Moors,4,0,H
+03/09/2016,Torquay United,Lincoln City,1,2,A
+10/09/2016,Dover Athletic,Forest Green Rovers,4,3,H
+10/09/2016,Aldershot Town,Chester,0,0,D
+10/09/2016,Barrow,Boreham Wood,1,1,D
+10/09/2016,Braintree Town,Gateshead,1,4,A
+10/09/2016,Bromley,Macclesfield Town,0,1,A
+10/09/2016,Eastleigh,Southport,1,1,D
+10/09/2016,Guiseley,Woking,1,1,D
+10/09/2016,North Ferriby United,Maidstone United,0,2,A
+10/09/2016,Solihull Moors,Dagenham & Redbridge,2,5,A
+10/09/2016,Torquay United,York City,2,0,H
+10/09/2016,Tranmere Rovers,Lincoln City,0,1,A
+10/09/2016,Wrexham,Sutton United,1,0,H
+13/09/2016,Boreham Wood,Aldershot Town,1,1,D
+13/09/2016,Chester,Guiseley,2,0,H
+13/09/2016,Dagenham & Redbridge,Dover Athletic,2,0,H
+13/09/2016,Forest Green Rovers,Eastleigh,1,1,D
+13/09/2016,Gateshead,North Ferriby United,0,1,A
+13/09/2016,Lincoln City,Solihull Moors,0,0,D
+13/09/2016,Maidstone United,Bromley,0,2,A
+13/09/2016,Southport,Barrow,1,4,A
+13/09/2016,Sutton United,Braintree Town,1,2,A
+13/09/2016,Woking,Torquay United,3,1,H
+13/09/2016,York City,Tranmere Rovers,0,0,D
+17/09/2016,Sutton United,Tranmere Rovers,1,0,H
+17/09/2016,Boreham Wood,Torquay United,2,0,H
+17/09/2016,Chester,Braintree Town,1,0,H
+17/09/2016,Dagenham & Redbridge,North Ferriby United,2,0,H
+17/09/2016,Forest Green Rovers,Bromley,1,0,H
+17/09/2016,Gateshead,Solihull Moors,0,0,D
+17/09/2016,Lincoln City,Barrow,1,2,A
+17/09/2016,Macclesfield Town,Eastleigh,0,1,A
+17/09/2016,Maidstone United,Guiseley,1,1,D
+17/09/2016,Southport,Aldershot Town,1,1,D
+17/09/2016,Woking,Wrexham,2,0,H
+17/09/2016,York City,Dover Athletic,0,1,A
+24/09/2016,Wrexham,Chester,0,0,D
+24/09/2016,Aldershot Town,Gateshead,3,0,H
+24/09/2016,Barrow,York City,2,0,H
+24/09/2016,Braintree Town,Forest Green Rovers,0,1,A
+24/09/2016,Bromley,Dagenham & Redbridge,1,3,A
+24/09/2016,Dover Athletic,Lincoln City,2,0,H
+24/09/2016,Eastleigh,Sutton United,2,1,H
+24/09/2016,Guiseley,Macclesfield Town,1,2,A
+24/09/2016,North Ferriby United,Southport,0,1,A
+24/09/2016,Solihull Moors,Boreham Wood,1,1,D
+24/09/2016,Torquay United,Maidstone United,2,3,A
+24/09/2016,Tranmere Rovers,Woking,3,1,H
+27/09/2016,Macclesfield Town,Wrexham,3,0,H
+01/10/2016,Boreham Wood,Wrexham,0,1,A
+01/10/2016,Chester,Dover Athletic,5,0,H
+01/10/2016,Forest Green Rovers,Barrow,0,0,D
+01/10/2016,Gateshead,Torquay United,0,0,D
+01/10/2016,Lincoln City,Braintree Town,3,0,H
+01/10/2016,Macclesfield Town,North Ferriby United,1,0,H
+01/10/2016,Maidstone United,Solihull Moors,2,4,A
+01/10/2016,Southport,Bromley,1,2,A
+01/10/2016,Sutton United,Guiseley,1,0,H
+01/10/2016,Woking,Eastleigh,3,3,D
+01/10/2016,York City,Aldershot Town,0,1,A
+01/10/2016,Dagenham & Redbridge,Tranmere Rovers,0,0,D
+04/10/2016,Aldershot Town,Forest Green Rovers,0,4,A
+04/10/2016,Barrow,Macclesfield Town,1,1,D
+04/10/2016,Braintree Town,Boreham Wood,1,2,A
+04/10/2016,Bromley,Woking,2,1,H
+04/10/2016,Dover Athletic,Sutton United,3,1,H
+04/10/2016,Eastleigh,Maidstone United,3,0,H
+04/10/2016,Guiseley,York City,6,1,H
+04/10/2016,North Ferriby United,Chester,0,1,A
+04/10/2016,Solihull Moors,Southport,4,0,H
+04/10/2016,Torquay United,Dagenham & Redbridge,1,0,H
+04/10/2016,Tranmere Rovers,Gateshead,0,1,A
+04/10/2016,Wrexham,Lincoln City,1,2,A
+08/10/2016,Tranmere Rovers,Wrexham,2,0,H
+08/10/2016,Aldershot Town,Solihull Moors,2,0,H
+08/10/2016,Barrow,Maidstone United,3,0,H
+08/10/2016,Braintree Town,York City,1,1,D
+08/10/2016,Bromley,Lincoln City,1,1,D
+08/10/2016,Chester,Torquay United,1,0,H
+08/10/2016,Eastleigh,Dagenham & Redbridge,0,1,A
+08/10/2016,Gateshead,Dover Athletic,4,2,H
+08/10/2016,Guiseley,Southport,2,1,H
+08/10/2016,Macclesfield Town,Boreham Wood,0,2,A
+08/10/2016,North Ferriby United,Forest Green Rovers,0,3,A
+08/10/2016,Sutton United,Woking,4,1,H
+22/10/2016,Boreham Wood,North Ferriby United,1,0,H
+22/10/2016,Dagenham & Redbridge,Macclesfield Town,1,1,D
+22/10/2016,Dover Athletic,Braintree Town,6,1,H
+22/10/2016,Forest Green Rovers,Guiseley,3,0,H
+22/10/2016,Lincoln City,Eastleigh,0,0,D
+22/10/2016,Maidstone United,Gateshead,0,2,A
+22/10/2016,Solihull Moors,Tranmere Rovers,0,3,A
+22/10/2016,Southport,Sutton United,1,1,D
+22/10/2016,Torquay United,Aldershot Town,0,0,D
+22/10/2016,Woking,Barrow,1,1,D
+22/10/2016,Wrexham,Bromley,2,1,H
+22/10/2016,York City,Chester,1,1,D
+25/10/2016,Bromley,Dover Athletic,0,2,A
+25/10/2016,Dagenham & Redbridge,Aldershot Town,1,0,H
+25/10/2016,Eastleigh,Torquay United,3,0,H
+25/10/2016,Guiseley,Gateshead,1,1,D
+25/10/2016,Lincoln City,Boreham Wood,2,0,H
+25/10/2016,Macclesfield Town,Chester,0,0,D
+25/10/2016,Solihull Moors,Forest Green Rovers,0,1,A
+25/10/2016,Southport,York City,2,0,H
+25/10/2016,Sutton United,Maidstone United,2,2,D
+25/10/2016,Tranmere Rovers,North Ferriby United,1,0,H
+25/10/2016,Woking,Braintree Town,2,3,A
+25/10/2016,Wrexham,Barrow,2,2,D
+29/10/2016,Barrow,Eastleigh,4,0,H
+29/10/2016,Aldershot Town,Guiseley,1,0,H
+29/10/2016,Boreham Wood,Woking,2,1,H
+29/10/2016,Braintree Town,Solihull Moors,0,1,A
+29/10/2016,Chester,Lincoln City,2,5,A
+29/10/2016,Dover Athletic,Tranmere Rovers,1,4,A
+29/10/2016,Forest Green Rovers,Dagenham & Redbridge,1,1,D
+29/10/2016,Gateshead,Wrexham,2,2,D
+29/10/2016,Maidstone United,Macclesfield Town,2,1,H
+29/10/2016,North Ferriby United,Bromley,1,2,A
+29/10/2016,Torquay United,Southport,1,2,A
+29/10/2016,York City,Sutton United,2,2,D
+05/11/2016,Forest Green Rovers,Aldershot Town,2,1,H
+05/11/2016,North Ferriby United,Wrexham,0,0,D
+12/11/2016,Bromley,Boreham Wood,1,0,H
+12/11/2016,Dagenham & Redbridge,Gateshead,0,5,A
+12/11/2016,Eastleigh,York City,1,1,D
+12/11/2016,Guiseley,Torquay United,2,0,H
+12/11/2016,Lincoln City,Aldershot Town,3,3,D
+12/11/2016,Macclesfield Town,Forest Green Rovers,0,1,A
+12/11/2016,Solihull Moors,Dover Athletic,2,3,A
+12/11/2016,Southport,Maidstone United,3,2,H
+12/11/2016,Sutton United,Barrow,0,0,D
+12/11/2016,Tranmere Rovers,Chester,2,2,D
+12/11/2016,Wrexham,Braintree Town,0,1,A
+12/11/2016,Woking,North Ferriby United,1,1,D
+19/11/2016,Forest Green Rovers,Lincoln City,2,3,A
+19/11/2016,Aldershot Town,Macclesfield Town,1,2,A
+19/11/2016,Barrow,Solihull Moors,2,1,H
+19/11/2016,Boreham Wood,Southport,2,0,H
+19/11/2016,Braintree Town,Tranmere Rovers,0,1,A
+19/11/2016,Chester,Bromley,1,1,D
+19/11/2016,Dover Athletic,Guiseley,2,0,H
+19/11/2016,Gateshead,Eastleigh,2,2,D
+19/11/2016,Maidstone United,Woking,0,3,A
+19/11/2016,North Ferriby United,Sutton United,2,1,H
+19/11/2016,Torquay United,Wrexham,1,1,D
+19/11/2016,York City,Dagenham & Redbridge,0,2,A
+22/11/2016,Aldershot Town,Eastleigh,0,1,A
+22/11/2016,Barrow,Guiseley,3,0,H
+22/11/2016,Boreham Wood,Sutton United,1,0,H
+22/11/2016,Braintree Town,Bromley,2,2,D
+22/11/2016,Chester,Southport,2,2,D
+22/11/2016,Dover Athletic,Woking,3,1,H
+22/11/2016,Forest Green Rovers,Tranmere Rovers,2,2,D
+22/11/2016,Gateshead,Macclesfield Town,1,1,D
+22/11/2016,Maidstone United,Dagenham & Redbridge,0,1,A
+22/11/2016,Torquay United,Solihull Moors,3,0,H
+22/11/2016,York City,Lincoln City,1,4,A
+26/11/2016,Bromley,York City,3,0,H
+26/11/2016,Dagenham & Redbridge,Barrow,1,4,A
+26/11/2016,Eastleigh,Chester,0,3,A
+26/11/2016,Guiseley,Boreham Wood,3,1,H
+26/11/2016,Lincoln City,Maidstone United,2,0,H
+26/11/2016,Solihull Moors,North Ferriby United,2,0,H
+26/11/2016,Southport,Braintree Town,4,5,A
+26/11/2016,Sutton United,Aldershot Town,2,0,H
+26/11/2016,Tranmere Rovers,Torquay United,2,1,H
+26/11/2016,Woking,Gateshead,3,0,H
+26/11/2016,Wrexham,Forest Green Rovers,3,1,H
+29/11/2016,Chester,North Ferriby United,3,0,H
+29/11/2016,Dagenham & Redbridge,Torquay United,0,1,A
+29/11/2016,Gateshead,Tranmere Rovers,0,1,A
+29/11/2016,Lincoln City,Wrexham,1,0,H
+29/11/2016,Maidstone United,Eastleigh,2,1,H
+29/11/2016,Southport,Solihull Moors,0,0,D
+29/11/2016,Sutton United,Dover Athletic,0,6,A
+29/11/2016,Woking,Bromley,2,1,H
+29/11/2016,York City,Guiseley,1,1,D
+03/12/2016,Aldershot Town,Boreham Wood,2,0,H
+03/12/2016,Bromley,Maidstone United,2,0,H
+03/12/2016,Dover Athletic,Dagenham & Redbridge,1,2,A
+03/12/2016,Guiseley,Chester,1,1,D
+03/12/2016,North Ferriby United,Gateshead,1,0,H
+03/12/2016,Tranmere Rovers,York City,1,0,H
+06/12/2016,Wrexham,Macclesfield Town,0,3,A
+17/12/2016,Macclesfield Town,Bromley,1,2,A
+17/12/2016,Boreham Wood,Barrow,1,1,D
+17/12/2016,Chester,Aldershot Town,2,0,H
+17/12/2016,Dagenham & Redbridge,Solihull Moors,4,4,D
+17/12/2016,Forest Green Rovers,Dover Athletic,1,1,D
+17/12/2016,Gateshead,Braintree Town,1,1,D
+17/12/2016,Lincoln City,Tranmere Rovers,2,1,H
+17/12/2016,Maidstone United,North Ferriby United,1,2,A
+17/12/2016,Southport,Eastleigh,4,3,H
+17/12/2016,Sutton United,Wrexham,1,0,H
+17/12/2016,Woking,Guiseley,0,0,D
+17/12/2016,York City,Torquay United,0,0,D
+20/12/2016,Boreham Wood,Braintree Town,0,1,A
+26/12/2016,Aldershot Town,Woking,4,0,H
+26/12/2016,North Ferriby United,York City,0,1,A
+26/12/2016,Barrow,Gateshead,0,0,D
+26/12/2016,Braintree Town,Dagenham & Redbridge,3,2,H
+26/12/2016,Bromley,Sutton United,1,0,H
+26/12/2016,Dover Athletic,Maidstone United,1,1,D
+26/12/2016,Guiseley,Lincoln City,2,1,H
+26/12/2016,Solihull Moors,Chester,3,2,H
+26/12/2016,Torquay United,Forest Green Rovers,4,3,H
+26/12/2016,Tranmere Rovers,Macclesfield Town,1,0,H
+26/12/2016,Wrexham,Southport,1,0,H
+27/12/2016,Eastleigh,Boreham Wood,2,2,D
+31/12/2016,Gateshead,Barrow,4,1,H
+31/12/2016,Boreham Wood,Eastleigh,0,1,A
+01/01/2017,Woking,Aldershot Town,1,2,A
+01/01/2017,Chester,Solihull Moors,0,3,A
+01/01/2017,Forest Green Rovers,Torquay United,5,5,D
+01/01/2017,Lincoln City,Guiseley,3,1,H
+01/01/2017,Macclesfield Town,Tranmere Rovers,4,2,H
+01/01/2017,Southport,Wrexham,3,2,H
+01/01/2017,Sutton United,Bromley,2,0,H
+01/01/2017,York City,North Ferriby United,0,1,A
+01/01/2017,Maidstone United,Dover Athletic,1,4,A
+02/01/2017,Dagenham & Redbridge,Braintree Town,3,0,H
+07/01/2017,Aldershot Town,Southport,2,1,H
+07/01/2017,Braintree Town,Chester,1,2,A
+07/01/2017,Bromley,Forest Green Rovers,1,5,A
+07/01/2017,Dover Athletic,York City,2,2,D
+07/01/2017,Guiseley,Maidstone United,2,1,H
+07/01/2017,North Ferriby United,Dagenham & Redbridge,0,4,A
+07/01/2017,Solihull Moors,Gateshead,0,2,A
+07/01/2017,Torquay United,Boreham Wood,0,1,A
+07/01/2017,Wrexham,Woking,2,1,H
+10/01/2017,Macclesfield Town,Dover Athletic,2,1,H
+10/01/2017,Barrow,Southport,0,1,A
+10/01/2017,Braintree Town,Sutton United,1,0,H
+10/01/2017,Eastleigh,Forest Green Rovers,1,1,D
+14/01/2017,Wrexham,North Ferriby United,1,0,H
+14/01/2017,Torquay United,Woking,1,2,A
+20/01/2017,Lincoln City,Dover Athletic,2,0,H
+21/01/2017,Boreham Wood,Solihull Moors,0,0,D
+21/01/2017,Chester,Wrexham,1,1,D
+21/01/2017,Forest Green Rovers,Braintree Town,1,1,D
+21/01/2017,Gateshead,Aldershot Town,1,1,D
+21/01/2017,Macclesfield Town,Guiseley,1,2,A
+21/01/2017,Maidstone United,Torquay United,2,1,H
+21/01/2017,Southport,North Ferriby United,2,4,A
+21/01/2017,Sutton United,Eastleigh,1,1,D
+21/01/2017,York City,Barrow,2,1,H
+24/01/2017,Barrow,Lincoln City,3,0,H
+28/01/2017,Aldershot Town,York City,0,0,D
+28/01/2017,Barrow,Forest Green Rovers,2,3,A
+28/01/2017,Bromley,Southport,3,1,H
+28/01/2017,Dover Athletic,Chester,3,1,H
+28/01/2017,Eastleigh,Woking,0,1,A
+28/01/2017,North Ferriby United,Macclesfield Town,0,2,A
+28/01/2017,Solihull Moors,Maidstone United,2,0,H
+28/01/2017,Torquay United,Gateshead,3,1,H
+28/01/2017,Tranmere Rovers,Dagenham & Redbridge,0,2,A
+28/01/2017,Wrexham,Boreham Wood,2,1,H
+31/01/2017,Woking,Tranmere Rovers,0,3,A
+31/01/2017,Solihull Moors,Lincoln City,0,1,A
+04/02/2017,Dagenham & Redbridge,Chester,3,2,H
+04/02/2017,Gateshead,Southport,3,0,H
+04/02/2017,Maidstone United,Aldershot Town,0,2,A
+04/02/2017,Wrexham,Guiseley,3,1,H
+04/02/2017,Bromley,Torquay United,1,0,H
+11/02/2017,Chester,Gateshead,1,2,A
+11/02/2017,Aldershot Town,Barrow,2,2,D
+11/02/2017,Braintree Town,North Ferriby United,1,0,H
+11/02/2017,Dover Athletic,Wrexham,1,1,D
+11/02/2017,Forest Green Rovers,Boreham Wood,2,0,H
+11/02/2017,Guiseley,Eastleigh,1,1,D
+11/02/2017,Lincoln City,Woking,3,2,H
+11/02/2017,Solihull Moors,Sutton United,3,0,H
+11/02/2017,Southport,Dagenham & Redbridge,1,4,A
+11/02/2017,Torquay United,Macclesfield Town,1,1,D
+11/02/2017,Tranmere Rovers,Bromley,2,2,D
+11/02/2017,York City,Maidstone United,1,1,D
+14/02/2017,Eastleigh,Braintree Town,0,2,A
+14/02/2017,Woking,Solihull Moors,2,1,H
+14/02/2017,Guiseley,Sutton United,2,1,H
+15/02/2017,Macclesfield Town,Barrow,0,1,A
+18/02/2017,Barrow,Torquay United,0,0,D
+18/02/2017,Boreham Wood,York City,1,1,D
+18/02/2017,Bromley,Solihull Moors,0,1,A
+18/02/2017,Dagenham & Redbridge,Guiseley,1,2,A
+18/02/2017,Eastleigh,Tranmere Rovers,0,2,A
+18/02/2017,Gateshead,Forest Green Rovers,3,1,H
+18/02/2017,Macclesfield Town,Braintree Town,2,0,H
+18/02/2017,Maidstone United,Chester,4,2,H
+18/02/2017,North Ferriby United,Dover Athletic,1,2,A
+18/02/2017,Woking,Southport,0,0,D
+18/02/2017,Wrexham,Aldershot Town,0,2,A
+21/02/2017,Dagenham & Redbridge,Bromley,2,1,H
+21/02/2017,North Ferriby United,Lincoln City,0,1,A
+21/02/2017,Tranmere Rovers,Boreham Wood,2,1,H
+21/02/2017,York City,Gateshead,1,3,A
+21/02/2017,Eastleigh,Macclesfield Town,0,1,A
+25/02/2017,Aldershot Town,Bromley,4,0,H
+25/02/2017,Braintree Town,Maidstone United,0,0,D
+25/02/2017,Dover Athletic,Eastleigh,3,0,H
+25/02/2017,Forest Green Rovers,Woking,4,3,H
+25/02/2017,Guiseley,North Ferriby United,1,2,A
+25/02/2017,Solihull Moors,Wrexham,0,1,A
+25/02/2017,Torquay United,Sutton United,2,3,A
+25/02/2017,Southport,Chester,0,1,A
+28/02/2017,Dagenham & Redbridge,Maidstone United,0,2,A
+28/02/2017,Eastleigh,Aldershot Town,1,1,D
+28/02/2017,Guiseley,Barrow,1,0,H
+28/02/2017,Lincoln City,York City,1,1,D
+28/02/2017,Sutton United,Boreham Wood,1,0,H
+28/02/2017,Woking,Dover Athletic,1,0,H
+28/02/2017,Bromley,Braintree Town,0,5,A
+03/03/2017,Chester,Tranmere Rovers,2,3,A
+04/03/2017,Aldershot Town,Lincoln City,0,0,D
+04/03/2017,Barrow,Sutton United,0,0,D
+04/03/2017,Boreham Wood,Bromley,0,0,D
+04/03/2017,Braintree Town,Wrexham,1,2,A
+04/03/2017,Dover Athletic,Solihull Moors,0,0,D
+04/03/2017,Forest Green Rovers,Macclesfield Town,3,0,H
+04/03/2017,Gateshead,Dagenham & Redbridge,1,0,H
+04/03/2017,Maidstone United,Southport,4,2,H
+04/03/2017,North Ferriby United,Woking,2,1,H
+04/03/2017,Torquay United,Guiseley,1,2,A
+04/03/2017,York City,Eastleigh,3,1,H
+07/03/2017,Barrow,Tranmere Rovers,2,1,H
+07/03/2017,Braintree Town,Lincoln City,0,4,A
+11/03/2017,Bromley,North Ferriby United,3,0,H
+11/03/2017,Dagenham & Redbridge,Forest Green Rovers,2,1,H
+11/03/2017,Eastleigh,Barrow,2,0,H
+11/03/2017,Guiseley,Aldershot Town,1,0,H
+11/03/2017,Solihull Moors,Braintree Town,3,3,D
+11/03/2017,Southport,Torquay United,1,2,A
+11/03/2017,Sutton United,York City,2,2,D
+11/03/2017,Woking,Boreham Wood,0,0,D
+11/03/2017,Wrexham,Gateshead,0,2,A
+14/03/2017,Boreham Wood,Dover Athletic,5,0,H
+14/03/2017,Sutton United,Forest Green Rovers,1,2,A
+14/03/2017,Macclesfield Town,Gateshead,1,1,D
+14/03/2017,Torquay United,Tranmere Rovers,0,0,D
+18/03/2017,Aldershot Town,Sutton United,2,0,H
+18/03/2017,Barrow,Dagenham & Redbridge,2,1,H
+18/03/2017,Boreham Wood,Guiseley,0,0,D
+18/03/2017,Braintree Town,Southport,2,0,H
+18/03/2017,Chester,Eastleigh,0,1,A
+18/03/2017,Forest Green Rovers,Wrexham,3,0,H
+18/03/2017,Gateshead,Woking,2,1,H
+18/03/2017,North Ferriby United,Solihull Moors,1,4,A
+18/03/2017,Dover Athletic,Bromley,1,0,H
+21/03/2017,Aldershot Town,Dagenham & Redbridge,3,1,H
+21/03/2017,Barrow,Wrexham,1,1,D
+21/03/2017,Boreham Wood,Lincoln City,2,0,H
+21/03/2017,Braintree Town,Woking,1,3,A
+21/03/2017,Chester,Macclesfield Town,2,3,A
+21/03/2017,Forest Green Rovers,Solihull Moors,2,1,H
+21/03/2017,Gateshead,Guiseley,1,1,D
+21/03/2017,Maidstone United,Sutton United,1,1,D
+21/03/2017,North Ferriby United,Tranmere Rovers,1,4,A
+21/03/2017,Torquay United,Eastleigh,2,3,A
+21/03/2017,York City,Southport,5,3,H
+25/03/2017,Lincoln City,Forest Green Rovers,3,1,H
+25/03/2017,Bromley,Chester,0,1,A
+25/03/2017,Dagenham & Redbridge,York City,1,0,H
+25/03/2017,Eastleigh,Gateshead,1,1,D
+25/03/2017,Guiseley,Dover Athletic,0,4,A
+25/03/2017,Macclesfield Town,Aldershot Town,0,2,A
+25/03/2017,Solihull Moors,Barrow,2,4,A
+25/03/2017,Southport,Boreham Wood,1,0,H
+25/03/2017,Sutton United,North Ferriby United,5,1,H
+25/03/2017,Tranmere Rovers,Braintree Town,1,0,H
+25/03/2017,Woking,Maidstone United,2,4,A
+25/03/2017,Wrexham,Torquay United,1,1,D
+28/03/2017,Macclesfield Town,York City,1,3,A
+28/03/2017,Sutton United,Lincoln City,1,1,D
+28/03/2017,Chester,Barrow,1,2,A
+28/03/2017,Solihull Moors,Torquay United,0,1,A
+28/03/2017,Tranmere Rovers,Dover Athletic,1,0,H
+01/04/2017,Wrexham,Tranmere Rovers,0,1,A
+01/04/2017,Boreham Wood,Macclesfield Town,2,4,A
+01/04/2017,Dagenham & Redbridge,Eastleigh,4,0,H
+01/04/2017,Dover Athletic,Gateshead,2,0,H
+01/04/2017,Forest Green Rovers,North Ferriby United,0,1,A
+01/04/2017,Lincoln City,Bromley,1,0,H
+01/04/2017,Maidstone United,Barrow,2,1,H
+01/04/2017,Solihull Moors,Aldershot Town,0,2,A
+01/04/2017,Southport,Guiseley,0,1,A
+01/04/2017,Torquay United,Chester,0,1,A
+01/04/2017,Woking,Sutton United,2,1,H
+01/04/2017,York City,Braintree Town,3,0,H
+03/04/2017,Lincoln City,Dagenham & Redbridge,2,0,H
+04/04/2017,Tranmere Rovers,Sutton United,3,2,H
+04/04/2017,Southport,Macclesfield Town,1,2,A
+04/04/2017,York City,Bromley,0,2,A
+08/04/2017,Aldershot Town,Torquay United,1,1,D
+08/04/2017,Barrow,Woking,2,2,D
+08/04/2017,Braintree Town,Dover Athletic,1,2,A
+08/04/2017,Bromley,Wrexham,4,3,H
+08/04/2017,Chester,York City,0,2,A
+08/04/2017,Eastleigh,Lincoln City,0,1,A
+08/04/2017,Gateshead,Maidstone United,1,2,A
+08/04/2017,Guiseley,Forest Green Rovers,0,1,A
+08/04/2017,Macclesfield Town,Dagenham & Redbridge,1,4,A
+08/04/2017,North Ferriby United,Boreham Wood,2,4,A
+08/04/2017,Sutton United,Southport,2,2,D
+08/04/2017,Tranmere Rovers,Solihull Moors,9,0,H
+11/04/2017,Tranmere Rovers,Forest Green Rovers,0,1,A
+11/04/2017,Lincoln City,Chester,1,0,H
+11/04/2017,Macclesfield Town,Maidstone United,3,0,H
+14/04/2017,Boreham Wood,Dagenham & Redbridge,1,3,A
+14/04/2017,Braintree Town,Guiseley,2,0,H
+14/04/2017,Bromley,Barrow,4,1,H
+14/04/2017,Dover Athletic,Southport,3,0,H
+14/04/2017,Forest Green Rovers,Chester,2,0,H
+14/04/2017,Lincoln City,Torquay United,2,1,H
+14/04/2017,North Ferriby United,Eastleigh,2,1,H
+14/04/2017,Solihull Moors,York City,1,2,A
+14/04/2017,Sutton United,Gateshead,3,0,H
+14/04/2017,Tranmere Rovers,Aldershot Town,2,2,D
+14/04/2017,Woking,Macclesfield Town,1,0,H
+14/04/2017,Wrexham,Maidstone United,1,3,A
+17/04/2017,Aldershot Town,Dover Athletic,1,0,H
+17/04/2017,Barrow,North Ferriby United,3,1,H
+17/04/2017,Chester,Woking,2,3,A
+17/04/2017,Dagenham & Redbridge,Sutton United,2,2,D
+17/04/2017,Eastleigh,Bromley,2,1,H
+17/04/2017,Gateshead,Lincoln City,1,2,A
+17/04/2017,Guiseley,Tranmere Rovers,1,2,A
+17/04/2017,Macclesfield Town,Solihull Moors,1,3,A
+17/04/2017,Maidstone United,Boreham Wood,1,0,H
+17/04/2017,Southport,Forest Green Rovers,2,0,H
+17/04/2017,Torquay United,Braintree Town,3,1,H
+17/04/2017,York City,Wrexham,1,3,A
+22/04/2017,Lincoln City,Macclesfield Town,2,1,H
+22/04/2017,Boreham Wood,Gateshead,0,4,A
+22/04/2017,Braintree Town,Barrow,0,2,A
+22/04/2017,Bromley,Guiseley,1,1,D
+22/04/2017,Dover Athletic,Torquay United,1,2,A
+22/04/2017,Forest Green Rovers,Maidstone United,2,2,D
+22/04/2017,North Ferriby United,Aldershot Town,0,3,A
+22/04/2017,Solihull Moors,Eastleigh,2,0,H
+22/04/2017,Sutton United,Chester,5,2,H
+22/04/2017,Tranmere Rovers,Southport,4,1,H
+22/04/2017,Woking,York City,1,1,D
+22/04/2017,Wrexham,Dagenham & Redbridge,0,1,A
+25/04/2017,Dover Athletic,Macclesfield Town,2,2,D
+25/04/2017,Maidstone United,Lincoln City,0,0,D
+29/04/2017,Aldershot Town,Braintree Town,2,0,H
+29/04/2017,Barrow,Dover Athletic,2,3,A
+29/04/2017,Chester,Boreham Wood,0,2,A
+29/04/2017,Dagenham & Redbridge,Woking,1,1,D
+29/04/2017,Eastleigh,Wrexham,1,1,D
+29/04/2017,Gateshead,Bromley,0,2,A
+29/04/2017,Guiseley,Solihull Moors,1,1,D
+29/04/2017,Macclesfield Town,Sutton United,0,0,D
+29/04/2017,Maidstone United,Tranmere Rovers,0,1,A
+29/04/2017,Southport,Lincoln City,1,1,D
+29/04/2017,Torquay United,North Ferriby United,2,0,H
+29/04/2017,York City,Forest Green Rovers,2,2,D

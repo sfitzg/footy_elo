@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+07/08/2015,Brighton & Hove Albion,Nottingham Forest,1,0,H
+08/08/2015,Cardiff City,Fulham,1,1,D
+08/08/2015,Leeds United,Burnley,1,1,D
+08/08/2015,Birmingham City,Reading,2,1,H
+08/08/2015,Blackburn Rovers,Wolverhampton Wanderers,1,2,A
+08/08/2015,Bolton Wanderers,Derby County,0,0,D
+08/08/2015,Brentford,Ipswich Town,2,2,D
+08/08/2015,Charlton Athletic,Queens Park Rangers,2,0,H
+08/08/2015,Hull City,Huddersfield Town,2,0,H
+08/08/2015,Rotherham United,Milton Keynes Dons,1,4,A
+08/08/2015,Sheffield Wednesday,Bristol City,2,0,H
+09/08/2015,Preston North End,Middlesbrough,0,0,D
+15/08/2015,Burnley,Birmingham City,2,2,D
+15/08/2015,Bristol City,Brentford,2,4,A
+15/08/2015,Derby County,Charlton Athletic,1,1,D
+15/08/2015,Fulham,Brighton & Hove Albion,1,2,A
+15/08/2015,Huddersfield Town,Blackburn Rovers,1,1,D
+15/08/2015,Ipswich Town,Sheffield Wednesday,2,1,H
+15/08/2015,Milton Keynes Dons,Preston North End,0,1,A
+15/08/2015,Nottingham Forest,Rotherham United,2,1,H
+15/08/2015,Middlesbrough,Bolton Wanderers,3,0,H
+15/08/2015,Queens Park Rangers,Cardiff City,2,2,D
+16/08/2015,Reading,Leeds United,0,0,D
+16/08/2015,Wolverhampton Wanderers,Hull City,1,1,D
+18/08/2015,Blackburn Rovers,Cardiff City,1,1,D
+18/08/2015,Derby County,Middlesbrough,1,1,D
+18/08/2015,Huddersfield Town,Brighton & Hove Albion,1,1,D
+18/08/2015,Ipswich Town,Burnley,2,0,H
+18/08/2015,Milton Keynes Dons,Bolton Wanderers,1,0,H
+18/08/2015,Nottingham Forest,Charlton Athletic,0,0,D
+18/08/2015,Rotherham United,Preston North End,0,0,D
+19/08/2015,Hull City,Fulham,2,1,H
+19/08/2015,Sheffield Wednesday,Reading,1,1,D
+19/08/2015,Wolverhampton Wanderers,Queens Park Rangers,2,3,A
+19/08/2015,Bristol City,Leeds United,2,2,D
+21/08/2015,Birmingham City,Derby County,1,1,D
+22/08/2015,Cardiff City,Wolverhampton Wanderers,2,0,H
+22/08/2015,Leeds United,Sheffield Wednesday,1,1,D
+22/08/2015,Bolton Wanderers,Nottingham Forest,1,1,D
+22/08/2015,Burnley,Brentford,1,0,H
+22/08/2015,Charlton Athletic,Hull City,2,1,H
+22/08/2015,Fulham,Huddersfield Town,1,1,D
+22/08/2015,Middlesbrough,Bristol City,0,1,A
+22/08/2015,Preston North End,Ipswich Town,1,2,A
+22/08/2015,Queens Park Rangers,Rotherham United,4,2,H
+22/08/2015,Reading,Milton Keynes Dons,0,0,D
+22/08/2015,Brighton & Hove Albion,Blackburn Rovers,1,0,H
+28/08/2015,Blackburn Rovers,Bolton Wanderers,0,0,D
+29/08/2015,Ipswich Town,Brighton & Hove Albion,2,3,A
+29/08/2015,Derby County,Leeds United,1,2,A
+29/08/2015,Brentford,Reading,1,3,A
+29/08/2015,Bristol City,Burnley,1,2,A
+29/08/2015,Huddersfield Town,Queens Park Rangers,0,1,A
+29/08/2015,Hull City,Preston North End,2,0,H
+29/08/2015,Sheffield Wednesday,Middlesbrough,1,3,A
+29/08/2015,Milton Keynes Dons,Birmingham City,0,2,A
+29/08/2015,Nottingham Forest,Cardiff City,1,2,A
+29/08/2015,Rotherham United,Fulham,1,3,A
+29/08/2015,Wolverhampton Wanderers,Charlton Athletic,2,1,H
+11/09/2015,Reading,Ipswich Town,5,1,H
+12/09/2015,Preston North End,Derby County,1,2,A
+12/09/2015,Queens Park Rangers,Nottingham Forest,1,2,A
+12/09/2015,Birmingham City,Bristol City,4,2,H
+12/09/2015,Bolton Wanderers,Wolverhampton Wanderers,2,1,H
+12/09/2015,Brighton & Hove Albion,Hull City,1,0,H
+12/09/2015,Burnley,Sheffield Wednesday,3,1,H
+12/09/2015,Cardiff City,Huddersfield Town,2,0,H
+12/09/2015,Charlton Athletic,Rotherham United,1,1,D
+12/09/2015,Leeds United,Brentford,1,1,D
+12/09/2015,Middlesbrough,Milton Keynes Dons,2,0,H
+13/09/2015,Fulham,Blackburn Rovers,2,1,H
+15/09/2015,Charlton Athletic,Huddersfield Town,1,2,A
+15/09/2015,Birmingham City,Nottingham Forest,0,1,A
+15/09/2015,Brighton & Hove Albion,Rotherham United,2,1,H
+15/09/2015,Burnley,Milton Keynes Dons,2,1,H
+15/09/2015,Cardiff City,Hull City,0,2,A
+15/09/2015,Reading,Derby County,0,1,A
+15/09/2015,Leeds United,Ipswich Town,0,1,A
+15/09/2015,Middlesbrough,Brentford,3,1,H
+15/09/2015,Preston North End,Bristol City,1,1,D
+15/09/2015,Bolton Wanderers,Sheffield Wednesday,0,0,D
+16/09/2015,Queens Park Rangers,Blackburn Rovers,2,2,D
+18/09/2015,Ipswich Town,Birmingham City,1,1,D
+19/09/2015,Wolverhampton Wanderers,Brighton & Hove Albion,0,0,D
+19/09/2015,Huddersfield Town,Bolton Wanderers,4,1,H
+19/09/2015,Nottingham Forest,Middlesbrough,1,2,A
+19/09/2015,Blackburn Rovers,Charlton Athletic,3,0,H
+19/09/2015,Brentford,Preston North End,2,1,H
+19/09/2015,Bristol City,Reading,0,2,A
+19/09/2015,Sheffield Wednesday,Fulham,3,2,H
+19/09/2015,Hull City,Queens Park Rangers,1,1,D
+19/09/2015,Milton Keynes Dons,Leeds United,1,2,A
+19/09/2015,Rotherham United,Cardiff City,2,1,H
+21/09/2015,Derby County,Burnley,0,0,D
+24/09/2015,Huddersfield Town,Nottingham Forest,1,1,D
+25/09/2015,Fulham,Queens Park Rangers,4,0,H
+26/09/2015,Preston North End,Wolverhampton Wanderers,1,1,D
+26/09/2015,Brentford,Sheffield Wednesday,1,2,A
+26/09/2015,Milton Keynes Dons,Derby County,1,3,A
+26/09/2015,Birmingham City,Rotherham United,0,2,A
+26/09/2015,Bolton Wanderers,Brighton & Hove Albion,2,2,D
+26/09/2015,Ipswich Town,Bristol City,2,2,D
+26/09/2015,Burnley,Reading,1,2,A
+26/09/2015,Cardiff City,Charlton Athletic,2,1,H
+26/09/2015,Hull City,Blackburn Rovers,1,1,D
+27/09/2015,Middlesbrough,Leeds United,3,0,H
+29/09/2015,Fulham,Wolverhampton Wanderers,0,3,A
+29/09/2015,Brentford,Birmingham City,0,2,A
+02/10/2015,Rotherham United,Burnley,1,2,A
+03/10/2015,Wolverhampton Wanderers,Huddersfield Town,3,0,H
+03/10/2015,Blackburn Rovers,Ipswich Town,2,0,H
+03/10/2015,Brighton & Hove Albion,Cardiff City,1,1,D
+03/10/2015,Bristol City,Milton Keynes Dons,1,1,D
+03/10/2015,Derby County,Brentford,2,0,H
+03/10/2015,Leeds United,Birmingham City,0,2,A
+03/10/2015,Nottingham Forest,Hull City,0,1,A
+03/10/2015,Queens Park Rangers,Bolton Wanderers,4,3,H
+03/10/2015,Reading,Middlesbrough,2,0,H
+03/10/2015,Sheffield Wednesday,Preston North End,3,1,H
+04/10/2015,Charlton Athletic,Fulham,2,2,D
+16/10/2015,Bristol City,Nottingham Forest,2,0,H
+17/10/2015,Sheffield Wednesday,Hull City,1,1,D
+17/10/2015,Birmingham City,Queens Park Rangers,2,1,H
+17/10/2015,Brentford,Rotherham United,2,1,H
+17/10/2015,Burnley,Bolton Wanderers,2,0,H
+17/10/2015,Ipswich Town,Huddersfield Town,0,0,D
+17/10/2015,Leeds United,Brighton & Hove Albion,1,2,A
+17/10/2015,Milton Keynes Dons,Blackburn Rovers,3,0,H
+17/10/2015,Middlesbrough,Fulham,0,0,D
+17/10/2015,Preston North End,Cardiff City,0,0,D
+17/10/2015,Reading,Charlton Athletic,1,0,H
+18/10/2015,Derby County,Wolverhampton Wanderers,4,2,H
+20/10/2015,Brighton & Hove Albion,Bristol City,2,1,H
+20/10/2015,Cardiff City,Middlesbrough,1,0,H
+20/10/2015,Charlton Athletic,Preston North End,0,3,A
+20/10/2015,Huddersfield Town,Milton Keynes Dons,2,0,H
+20/10/2015,Hull City,Ipswich Town,3,0,H
+20/10/2015,Nottingham Forest,Burnley,1,1,D
+20/10/2015,Queens Park Rangers,Sheffield Wednesday,0,0,D
+20/10/2015,Rotherham United,Reading,1,1,D
+20/10/2015,Bolton Wanderers,Birmingham City,0,1,A
+21/10/2015,Fulham,Leeds United,1,1,D
+21/10/2015,Wolverhampton Wanderers,Brentford,0,2,A
+21/10/2015,Blackburn Rovers,Derby County,0,0,D
+23/10/2015,Rotherham United,Sheffield Wednesday,1,2,A
+24/10/2015,Blackburn Rovers,Burnley,0,1,A
+24/10/2015,Fulham,Reading,4,2,H
+24/10/2015,Bolton Wanderers,Leeds United,1,1,D
+24/10/2015,Brighton & Hove Albion,Preston North End,0,0,D
+24/10/2015,Charlton Athletic,Brentford,0,3,A
+24/10/2015,Huddersfield Town,Derby County,1,2,A
+24/10/2015,Hull City,Birmingham City,2,0,H
+24/10/2015,Nottingham Forest,Ipswich Town,1,1,D
+24/10/2015,Queens Park Rangers,Milton Keynes Dons,3,0,H
+24/10/2015,Wolverhampton Wanderers,Middlesbrough,1,3,A
+26/10/2015,Cardiff City,Bristol City,0,0,D
+29/10/2015,Leeds United,Blackburn Rovers,0,2,A
+30/10/2015,Brentford,Queens Park Rangers,1,0,H
+31/10/2015,Birmingham City,Wolverhampton Wanderers,0,2,A
+31/10/2015,Bristol City,Fulham,1,4,A
+31/10/2015,Burnley,Huddersfield Town,2,1,H
+31/10/2015,Derby County,Rotherham United,3,0,H
+31/10/2015,Ipswich Town,Cardiff City,0,0,D
+31/10/2015,Milton Keynes Dons,Hull City,0,2,A
+31/10/2015,Middlesbrough,Charlton Athletic,3,0,H
+31/10/2015,Reading,Brighton & Hove Albion,1,1,D
+31/10/2015,Sheffield Wednesday,Nottingham Forest,1,0,H
+31/10/2015,Preston North End,Bolton Wanderers,0,0,D
+03/11/2015,Birmingham City,Blackburn Rovers,0,0,D
+03/11/2015,Brentford,Hull City,0,2,A
+03/11/2015,Bristol City,Wolverhampton Wanderers,1,0,H
+03/11/2015,Burnley,Fulham,3,1,H
+03/11/2015,Derby County,Queens Park Rangers,1,0,H
+03/11/2015,Ipswich Town,Bolton Wanderers,2,0,H
+03/11/2015,Leeds United,Cardiff City,1,0,H
+03/11/2015,Milton Keynes Dons,Charlton Athletic,1,0,H
+03/11/2015,Middlesbrough,Rotherham United,1,0,H
+03/11/2015,Preston North End,Nottingham Forest,1,0,H
+03/11/2015,Sheffield Wednesday,Brighton & Hove Albion,0,0,D
+03/11/2015,Reading,Huddersfield Town,2,2,D
+06/11/2015,Nottingham Forest,Derby County,1,0,H
+07/11/2015,Huddersfield Town,Leeds United,0,3,A
+07/11/2015,Blackburn Rovers,Brentford,1,1,D
+07/11/2015,Bolton Wanderers,Bristol City,0,0,D
+07/11/2015,Brighton & Hove Albion,Milton Keynes Dons,2,1,H
+07/11/2015,Cardiff City,Reading,2,0,H
+07/11/2015,Charlton Athletic,Sheffield Wednesday,3,1,H
+07/11/2015,Fulham,Birmingham City,2,5,A
+07/11/2015,Hull City,Middlesbrough,3,0,H
+07/11/2015,Queens Park Rangers,Preston North End,0,0,D
+07/11/2015,Rotherham United,Ipswich Town,2,5,A
+07/11/2015,Wolverhampton Wanderers,Burnley,0,0,D
+20/11/2015,Middlesbrough,Queens Park Rangers,1,0,H
+21/11/2015,Bristol City,Hull City,1,1,D
+21/11/2015,Birmingham City,Charlton Athletic,0,1,A
+21/11/2015,Brentford,Nottingham Forest,2,1,H
+21/11/2015,Derby County,Cardiff City,2,0,H
+21/11/2015,Ipswich Town,Wolverhampton Wanderers,2,2,D
+21/11/2015,Leeds United,Rotherham United,0,1,A
+21/11/2015,Milton Keynes Dons,Fulham,1,1,D
+21/11/2015,Preston North End,Blackburn Rovers,1,2,A
+21/11/2015,Reading,Bolton Wanderers,2,1,H
+21/11/2015,Sheffield Wednesday,Huddersfield Town,3,1,H
+22/11/2015,Burnley,Brighton & Hove Albion,1,1,D
+27/11/2015,Hull City,Derby County,0,2,A
+28/11/2015,Charlton Athletic,Ipswich Town,0,3,A
+28/11/2015,Blackburn Rovers,Sheffield Wednesday,2,2,D
+28/11/2015,Brighton & Hove Albion,Birmingham City,2,1,H
+28/11/2015,Cardiff City,Burnley,2,2,D
+28/11/2015,Fulham,Preston North End,1,1,D
+28/11/2015,Huddersfield Town,Middlesbrough,0,2,A
+28/11/2015,Nottingham Forest,Reading,3,1,H
+28/11/2015,Queens Park Rangers,Leeds United,1,0,H
+28/11/2015,Rotherham United,Bristol City,3,0,H
+28/11/2015,Wolverhampton Wanderers,Milton Keynes Dons,0,0,D
+30/11/2015,Bolton Wanderers,Brentford,1,1,D
+03/12/2015,Reading,Queens Park Rangers,0,1,A
+04/12/2015,Ipswich Town,Middlesbrough,0,2,A
+05/12/2015,Birmingham City,Huddersfield Town,0,2,A
+05/12/2015,Bolton Wanderers,Cardiff City,2,3,A
+05/12/2015,Brentford,Milton Keynes Dons,2,0,H
+05/12/2015,Brighton & Hove Albion,Charlton Athletic,3,2,H
+05/12/2015,Bristol City,Blackburn Rovers,0,2,A
+05/12/2015,Burnley,Preston North End,0,2,A
+05/12/2015,Leeds United,Hull City,2,1,H
+05/12/2015,Nottingham Forest,Fulham,3,0,H
+05/12/2015,Rotherham United,Wolverhampton Wanderers,1,2,A
+06/12/2015,Sheffield Wednesday,Derby County,0,0,D
+11/12/2015,Blackburn Rovers,Rotherham United,1,0,H
+11/12/2015,Wolverhampton Wanderers,Nottingham Forest,1,1,D
+12/12/2015,Milton Keynes Dons,Ipswich Town,0,1,A
+12/12/2015,Cardiff City,Sheffield Wednesday,2,2,D
+12/12/2015,Charlton Athletic,Leeds United,0,0,D
+12/12/2015,Derby County,Brighton & Hove Albion,2,2,D
+12/12/2015,Fulham,Brentford,2,2,D
+12/12/2015,Huddersfield Town,Bristol City,1,2,A
+12/12/2015,Hull City,Bolton Wanderers,1,0,H
+12/12/2015,Preston North End,Reading,1,0,H
+12/12/2015,Queens Park Rangers,Burnley,0,0,D
+12/12/2015,Middlesbrough,Birmingham City,0,0,D
+14/12/2015,Blackburn Rovers,Nottingham Forest,0,0,D
+15/12/2015,Cardiff City,Brentford,3,2,H
+15/12/2015,Charlton Athletic,Bolton Wanderers,2,2,D
+15/12/2015,Derby County,Bristol City,4,0,H
+15/12/2015,Fulham,Ipswich Town,1,2,A
+15/12/2015,Huddersfield Town,Rotherham United,2,0,H
+15/12/2015,Milton Keynes Dons,Sheffield Wednesday,2,1,H
+15/12/2015,Middlesbrough,Burnley,1,0,H
+15/12/2015,Preston North End,Birmingham City,1,1,D
+15/12/2015,Queens Park Rangers,Brighton & Hove Albion,2,2,D
+16/12/2015,Hull City,Reading,2,1,H
+17/12/2015,Wolverhampton Wanderers,Leeds United,2,3,A
+18/12/2015,Birmingham City,Cardiff City,1,0,H
+19/12/2015,Brighton & Hove Albion,Middlesbrough,0,3,A
+19/12/2015,Bolton Wanderers,Fulham,2,2,D
+19/12/2015,Brentford,Huddersfield Town,4,2,H
+19/12/2015,Bristol City,Queens Park Rangers,1,1,D
+19/12/2015,Burnley,Charlton Athletic,4,0,H
+19/12/2015,Ipswich Town,Derby County,0,1,A
+19/12/2015,Nottingham Forest,Milton Keynes Dons,2,1,H
+19/12/2015,Rotherham United,Hull City,2,0,H
+20/12/2015,Sheffield Wednesday,Wolverhampton Wanderers,4,1,H
+20/12/2015,Leeds United,Preston North End,1,0,H
+20/12/2015,Reading,Blackburn Rovers,1,0,H
+26/12/2015,Brentford,Brighton & Hove Albion,0,0,D
+26/12/2015,Bristol City,Charlton Athletic,1,1,D
+26/12/2015,Derby County,Fulham,2,0,H
+26/12/2015,Huddersfield Town,Preston North End,3,1,H
+26/12/2015,Hull City,Burnley,3,0,H
+26/12/2015,Ipswich Town,Queens Park Rangers,2,1,H
+26/12/2015,Milton Keynes Dons,Cardiff City,2,1,H
+26/12/2015,Rotherham United,Bolton Wanderers,4,0,H
+26/12/2015,Sheffield Wednesday,Birmingham City,3,0,H
+26/12/2015,Wolverhampton Wanderers,Reading,1,0,H
+27/12/2015,Nottingham Forest,Leeds United,1,1,D
+28/12/2015,Middlesbrough,Sheffield Wednesday,1,0,H
+28/12/2015,Bolton Wanderers,Blackburn Rovers,1,0,H
+28/12/2015,Reading,Brentford,1,2,A
+28/12/2015,Burnley,Bristol City,4,0,H
+28/12/2015,Queens Park Rangers,Huddersfield Town,1,1,D
+28/12/2015,Preston North End,Hull City,1,0,H
+28/12/2015,Birmingham City,Milton Keynes Dons,1,0,H
+28/12/2015,Charlton Athletic,Wolverhampton Wanderers,0,2,A
+29/12/2015,Leeds United,Derby County,2,2,D
+29/12/2015,Brighton & Hove Albion,Ipswich Town,0,1,A
+29/12/2015,Cardiff City,Nottingham Forest,1,1,D
+29/12/2015,Fulham,Rotherham United,4,1,H
+01/01/2016,Brighton & Hove Albion,Wolverhampton Wanderers,0,1,A
+01/01/2016,Queens Park Rangers,Hull City,1,2,A
+02/01/2016,Bolton Wanderers,Huddersfield Town,0,2,A
+02/01/2016,Cardiff City,Blackburn Rovers,1,0,H
+02/01/2016,Birmingham City,Brentford,2,1,H
+02/01/2016,Middlesbrough,Derby County,2,0,H
+02/01/2016,Burnley,Ipswich Town,0,0,D
+02/01/2016,Charlton Athletic,Nottingham Forest,1,1,D
+02/01/2016,Preston North End,Rotherham United,2,1,H
+02/01/2016,Reading,Bristol City,1,0,H
+02/01/2016,Leeds United,Milton Keynes Dons,1,1,D
+02/01/2016,Fulham,Sheffield Wednesday,0,1,A
+12/01/2016,Huddersfield Town,Charlton Athletic,5,0,H
+12/01/2016,Nottingham Forest,Birmingham City,1,1,D
+12/01/2016,Rotherham United,Brighton & Hove Albion,2,0,H
+12/01/2016,Milton Keynes Dons,Burnley,0,5,A
+12/01/2016,Wolverhampton Wanderers,Fulham,3,2,H
+12/01/2016,Ipswich Town,Leeds United,2,1,H
+12/01/2016,Brentford,Middlesbrough,0,1,A
+12/01/2016,Bristol City,Preston North End,1,2,A
+12/01/2016,Blackburn Rovers,Queens Park Rangers,1,1,D
+12/01/2016,Sheffield Wednesday,Bolton Wanderers,3,2,H
+12/01/2016,Derby County,Reading,1,1,D
+13/01/2016,Hull City,Cardiff City,2,0,H
+15/01/2016,Brentford,Burnley,1,3,A
+16/01/2016,Hull City,Charlton Athletic,6,0,H
+16/01/2016,Sheffield Wednesday,Leeds United,2,0,H
+16/01/2016,Derby County,Birmingham City,0,3,A
+16/01/2016,Nottingham Forest,Bolton Wanderers,3,0,H
+16/01/2016,Blackburn Rovers,Brighton & Hove Albion,0,1,A
+16/01/2016,Wolverhampton Wanderers,Cardiff City,1,3,A
+16/01/2016,Milton Keynes Dons,Reading,1,0,H
+16/01/2016,Huddersfield Town,Fulham,1,1,D
+16/01/2016,Bristol City,Middlesbrough,1,0,H
+16/01/2016,Ipswich Town,Preston North End,1,1,D
+16/01/2016,Rotherham United,Queens Park Rangers,0,3,A
+23/01/2016,Fulham,Hull City,0,1,A
+23/01/2016,Queens Park Rangers,Wolverhampton Wanderers,1,1,D
+23/01/2016,Leeds United,Bristol City,1,0,H
+23/01/2016,Brighton & Hove Albion,Huddersfield Town,2,1,H
+23/01/2016,Cardiff City,Rotherham United,2,2,D
+23/01/2016,Bolton Wanderers,Milton Keynes Dons,3,1,H
+23/01/2016,Reading,Sheffield Wednesday,1,1,D
+23/01/2016,Charlton Athletic,Blackburn Rovers,1,1,D
+23/01/2016,Preston North End,Brentford,1,3,A
+23/01/2016,Birmingham City,Ipswich Town,3,0,H
+23/01/2016,Middlesbrough,Nottingham Forest,0,1,A
+25/01/2016,Burnley,Derby County,4,1,H
+26/01/2016,Brentford,Leeds United,1,1,D
+26/01/2016,Nottingham Forest,Queens Park Rangers,0,0,D
+30/01/2016,Bristol City,Birmingham City,0,0,D
+30/01/2016,Huddersfield Town,Cardiff City,2,3,A
+30/01/2016,Rotherham United,Charlton Athletic,1,4,A
+02/02/2016,Derby County,Preston North End,0,0,D
+02/02/2016,Wolverhampton Wanderers,Bolton Wanderers,2,2,D
+02/02/2016,Sheffield Wednesday,Burnley,1,1,D
+02/02/2016,Ipswich Town,Reading,2,1,H
+05/02/2016,Brighton & Hove Albion,Brentford,3,0,H
+06/02/2016,Leeds United,Nottingham Forest,0,1,A
+06/02/2016,Cardiff City,Milton Keynes Dons,0,0,D
+06/02/2016,Birmingham City,Sheffield Wednesday,1,2,A
+06/02/2016,Bolton Wanderers,Rotherham United,2,1,H
+06/02/2016,Middlesbrough,Blackburn Rovers,1,1,D
+06/02/2016,Charlton Athletic,Bristol City,0,1,A
+06/02/2016,Fulham,Derby County,1,1,D
+06/02/2016,Preston North End,Huddersfield Town,2,1,H
+06/02/2016,Burnley,Hull City,1,0,H
+06/02/2016,Queens Park Rangers,Ipswich Town,1,0,H
+06/02/2016,Reading,Wolverhampton Wanderers,0,0,D
+09/02/2016,Milton Keynes Dons,Middlesbrough,1,1,D
+13/02/2016,Wolverhampton Wanderers,Preston North End,1,2,A
+13/02/2016,Derby County,Milton Keynes Dons,0,1,A
+13/02/2016,Bristol City,Ipswich Town,2,1,H
+13/02/2016,Queens Park Rangers,Fulham,1,3,A
+13/02/2016,Rotherham United,Birmingham City,0,0,D
+13/02/2016,Brighton & Hove Albion,Bolton Wanderers,3,2,H
+13/02/2016,Sheffield Wednesday,Brentford,4,0,H
+13/02/2016,Reading,Burnley,0,0,D
+13/02/2016,Charlton Athletic,Cardiff City,0,0,D
+13/02/2016,Nottingham Forest,Huddersfield Town,0,2,A
+13/02/2016,Blackburn Rovers,Hull City,0,2,A
+15/02/2016,Leeds United,Middlesbrough,0,0,D
+16/02/2016,Hull City,Brighton & Hove Albion,0,0,D
+16/02/2016,Blackburn Rovers,Fulham,3,0,H
+20/02/2016,Brentford,Derby County,1,3,A
+20/02/2016,Cardiff City,Brighton & Hove Albion,4,1,H
+20/02/2016,Milton Keynes Dons,Bristol City,0,2,A
+20/02/2016,Fulham,Charlton Athletic,3,0,H
+20/02/2016,Huddersfield Town,Wolverhampton Wanderers,1,0,H
+20/02/2016,Bolton Wanderers,Queens Park Rangers,1,1,D
+20/02/2016,Burnley,Rotherham United,2,0,H
+20/02/2016,Preston North End,Sheffield Wednesday,1,0,H
+23/02/2016,Leeds United,Fulham,1,1,D
+23/02/2016,Reading,Rotherham United,1,0,H
+23/02/2016,Birmingham City,Bolton Wanderers,1,0,H
+23/02/2016,Brentford,Wolverhampton Wanderers,3,0,H
+23/02/2016,Sheffield Wednesday,Queens Park Rangers,1,1,D
+23/02/2016,Bristol City,Brighton & Hove Albion,0,4,A
+23/02/2016,Middlesbrough,Cardiff City,3,1,H
+23/02/2016,Preston North End,Charlton Athletic,2,1,H
+23/02/2016,Burnley,Nottingham Forest,1,0,H
+23/02/2016,Milton Keynes Dons,Huddersfield Town,1,1,D
+23/02/2016,Ipswich Town,Hull City,0,1,A
+24/02/2016,Derby County,Blackburn Rovers,1,0,H
+26/02/2016,Hull City,Sheffield Wednesday,0,0,D
+27/02/2016,Charlton Athletic,Reading,3,4,A
+27/02/2016,Huddersfield Town,Ipswich Town,0,1,A
+27/02/2016,Cardiff City,Preston North End,2,1,H
+27/02/2016,Fulham,Middlesbrough,0,2,A
+27/02/2016,Blackburn Rovers,Milton Keynes Dons,3,2,H
+27/02/2016,Wolverhampton Wanderers,Derby County,2,1,H
+27/02/2016,Queens Park Rangers,Birmingham City,2,0,H
+27/02/2016,Rotherham United,Brentford,2,1,H
+27/02/2016,Nottingham Forest,Bristol City,1,2,A
+27/02/2016,Bolton Wanderers,Burnley,1,2,A
+29/02/2016,Brighton & Hove Albion,Leeds United,4,0,H
+01/03/2016,Blackburn Rovers,Middlesbrough,2,1,H
+03/03/2016,Birmingham City,Hull City,1,0,H
+04/03/2016,Middlesbrough,Wolverhampton Wanderers,2,1,H
+05/03/2016,Sheffield Wednesday,Rotherham United,0,1,A
+05/03/2016,Milton Keynes Dons,Queens Park Rangers,2,0,H
+05/03/2016,Ipswich Town,Nottingham Forest,1,0,H
+05/03/2016,Derby County,Huddersfield Town,2,0,H
+05/03/2016,Bristol City,Cardiff City,0,2,A
+05/03/2016,Burnley,Blackburn Rovers,1,0,H
+05/03/2016,Leeds United,Bolton Wanderers,2,1,H
+05/03/2016,Preston North End,Brighton & Hove Albion,0,0,D
+05/03/2016,Brentford,Charlton Athletic,1,2,A
+05/03/2016,Reading,Fulham,2,2,D
+08/03/2016,Brighton & Hove Albion,Sheffield Wednesday,0,0,D
+08/03/2016,Bolton Wanderers,Ipswich Town,2,2,D
+08/03/2016,Huddersfield Town,Reading,3,1,H
+08/03/2016,Nottingham Forest,Preston North End,1,0,H
+08/03/2016,Blackburn Rovers,Birmingham City,2,0,H
+08/03/2016,Wolverhampton Wanderers,Bristol City,2,1,H
+08/03/2016,Fulham,Burnley,2,3,A
+08/03/2016,Queens Park Rangers,Derby County,2,0,H
+08/03/2016,Cardiff City,Leeds United,0,2,A
+08/03/2016,Charlton Athletic,Milton Keynes Dons,0,0,D
+08/03/2016,Rotherham United,Middlesbrough,1,0,H
+12/03/2016,Fulham,Bristol City,1,2,A
+12/03/2016,Nottingham Forest,Sheffield Wednesday,0,3,A
+12/03/2016,Bolton Wanderers,Preston North End,1,2,A
+12/03/2016,Hull City,Milton Keynes Dons,1,1,D
+12/03/2016,Rotherham United,Derby County,3,3,D
+12/03/2016,Blackburn Rovers,Leeds United,1,2,A
+12/03/2016,Queens Park Rangers,Brentford,3,0,H
+12/03/2016,Huddersfield Town,Burnley,1,3,A
+12/03/2016,Cardiff City,Ipswich Town,1,0,H
+13/03/2016,Charlton Athletic,Middlesbrough,2,0,H
+13/03/2016,Wolverhampton Wanderers,Birmingham City,0,0,D
+15/03/2016,Brighton & Hove Albion,Reading,1,0,H
+15/03/2016,Hull City,Nottingham Forest,1,1,D
+15/03/2016,Ipswich Town,Blackburn Rovers,2,0,H
+18/03/2016,Middlesbrough,Hull City,1,0,H
+19/03/2016,Burnley,Wolverhampton Wanderers,1,1,D
+19/03/2016,Preston North End,Queens Park Rangers,1,1,D
+19/03/2016,Ipswich Town,Rotherham United,0,1,A
+19/03/2016,Derby County,Nottingham Forest,1,0,H
+19/03/2016,Brentford,Blackburn Rovers,0,1,A
+19/03/2016,Bristol City,Bolton Wanderers,6,0,H
+19/03/2016,Milton Keynes Dons,Brighton & Hove Albion,1,2,A
+19/03/2016,Reading,Cardiff City,1,1,D
+19/03/2016,Sheffield Wednesday,Charlton Athletic,3,0,H
+19/03/2016,Birmingham City,Fulham,1,1,D
+19/03/2016,Leeds United,Huddersfield Town,1,4,A
+01/04/2016,Queens Park Rangers,Middlesbrough,2,3,A
+02/04/2016,Rotherham United,Leeds United,2,1,H
+02/04/2016,Fulham,Milton Keynes Dons,2,1,H
+02/04/2016,Bolton Wanderers,Reading,0,1,A
+02/04/2016,Brighton & Hove Albion,Burnley,2,2,D
+02/04/2016,Blackburn Rovers,Preston North End,1,2,A
+02/04/2016,Charlton Athletic,Birmingham City,2,1,H
+02/04/2016,Nottingham Forest,Brentford,0,3,A
+02/04/2016,Hull City,Bristol City,4,0,H
+02/04/2016,Cardiff City,Derby County,2,1,H
+02/04/2016,Wolverhampton Wanderers,Ipswich Town,0,0,D
+02/04/2016,Huddersfield Town,Sheffield Wednesday,0,1,A
+05/04/2016,Reading,Nottingham Forest,2,1,H
+05/04/2016,Milton Keynes Dons,Wolverhampton Wanderers,1,2,A
+05/04/2016,Bristol City,Rotherham United,1,1,D
+05/04/2016,Sheffield Wednesday,Blackburn Rovers,2,1,H
+05/04/2016,Brentford,Bolton Wanderers,3,1,H
+05/04/2016,Birmingham City,Brighton & Hove Albion,1,2,A
+05/04/2016,Burnley,Cardiff City,0,0,D
+05/04/2016,Ipswich Town,Charlton Athletic,0,0,D
+05/04/2016,Preston North End,Fulham,1,2,A
+05/04/2016,Middlesbrough,Huddersfield Town,3,0,H
+05/04/2016,Derby County,Hull City,4,0,H
+05/04/2016,Leeds United,Queens Park Rangers,1,1,D
+09/04/2016,Middlesbrough,Preston North End,1,0,H
+09/04/2016,Ipswich Town,Brentford,1,3,A
+09/04/2016,Milton Keynes Dons,Rotherham United,0,4,A
+09/04/2016,Burnley,Leeds United,1,0,H
+09/04/2016,Reading,Birmingham City,0,2,A
+09/04/2016,Wolverhampton Wanderers,Blackburn Rovers,0,0,D
+09/04/2016,Derby County,Bolton Wanderers,4,1,H
+09/04/2016,Huddersfield Town,Hull City,2,2,D
+09/04/2016,Fulham,Cardiff City,2,1,H
+09/04/2016,Queens Park Rangers,Charlton Athletic,2,1,H
+09/04/2016,Bristol City,Sheffield Wednesday,4,1,H
+11/04/2016,Nottingham Forest,Brighton & Hove Albion,1,2,A
+12/04/2016,Birmingham City,Leeds United,1,2,A
+12/04/2016,Middlesbrough,Reading,2,1,H
+15/04/2016,Brighton & Hove Albion,Fulham,5,0,H
+15/04/2016,Hull City,Wolverhampton Wanderers,2,1,H
+16/04/2016,Charlton Athletic,Derby County,0,1,A
+16/04/2016,Bolton Wanderers,Middlesbrough,1,2,A
+16/04/2016,Brentford,Bristol City,1,1,D
+16/04/2016,Birmingham City,Burnley,1,2,A
+16/04/2016,Leeds United,Reading,3,2,H
+16/04/2016,Blackburn Rovers,Huddersfield Town,0,2,A
+16/04/2016,Sheffield Wednesday,Ipswich Town,1,1,D
+16/04/2016,Preston North End,Milton Keynes Dons,1,1,D
+16/04/2016,Rotherham United,Nottingham Forest,0,0,D
+16/04/2016,Cardiff City,Queens Park Rangers,0,0,D
+19/04/2016,Sheffield Wednesday,Milton Keynes Dons,0,0,D
+19/04/2016,Nottingham Forest,Blackburn Rovers,1,1,D
+19/04/2016,Brentford,Cardiff City,2,1,H
+19/04/2016,Bristol City,Derby County,2,3,A
+19/04/2016,Ipswich Town,Fulham,1,1,D
+19/04/2016,Rotherham United,Huddersfield Town,1,1,D
+19/04/2016,Reading,Hull City,1,2,A
+19/04/2016,Burnley,Middlesbrough,1,1,D
+19/04/2016,Birmingham City,Preston North End,2,2,D
+19/04/2016,Brighton & Hove Albion,Queens Park Rangers,4,0,H
+19/04/2016,Leeds United,Wolverhampton Wanderers,2,1,H
+19/04/2016,Bolton Wanderers,Charlton Athletic,0,0,D
+22/04/2016,Preston North End,Burnley,0,1,A
+23/04/2016,Charlton Athletic,Brighton & Hove Albion,1,3,A
+23/04/2016,Derby County,Sheffield Wednesday,1,1,D
+23/04/2016,Huddersfield Town,Birmingham City,1,1,D
+23/04/2016,Cardiff City,Bolton Wanderers,2,1,H
+23/04/2016,Milton Keynes Dons,Brentford,1,4,A
+23/04/2016,Queens Park Rangers,Reading,1,1,D
+23/04/2016,Blackburn Rovers,Bristol City,2,2,D
+23/04/2016,Middlesbrough,Ipswich Town,0,0,D
+23/04/2016,Hull City,Leeds United,2,2,D
+23/04/2016,Fulham,Nottingham Forest,1,3,A
+23/04/2016,Wolverhampton Wanderers,Rotherham United,0,0,D
+26/04/2016,Hull City,Brentford,2,0,H
+29/04/2016,Birmingham City,Middlesbrough,2,2,D
+30/04/2016,Bolton Wanderers,Hull City,1,0,H
+30/04/2016,Rotherham United,Blackburn Rovers,0,1,A
+30/04/2016,Sheffield Wednesday,Cardiff City,3,0,H
+30/04/2016,Leeds United,Charlton Athletic,1,2,A
+30/04/2016,Brentford,Fulham,3,0,H
+30/04/2016,Bristol City,Huddersfield Town,4,0,H
+30/04/2016,Ipswich Town,Milton Keynes Dons,3,2,H
+30/04/2016,Reading,Preston North End,1,2,A
+30/04/2016,Nottingham Forest,Wolverhampton Wanderers,1,1,D
+02/05/2016,Burnley,Queens Park Rangers,1,0,H
+02/05/2016,Brighton & Hove Albion,Derby County,1,1,D
+07/05/2016,Cardiff City,Birmingham City,1,1,D
+07/05/2016,Fulham,Bolton Wanderers,1,0,H
+07/05/2016,Huddersfield Town,Brentford,1,5,A
+07/05/2016,Middlesbrough,Brighton & Hove Albion,1,1,D
+07/05/2016,Queens Park Rangers,Bristol City,1,0,H
+07/05/2016,Charlton Athletic,Burnley,0,3,A
+07/05/2016,Derby County,Ipswich Town,0,1,A
+07/05/2016,Preston North End,Leeds United,1,1,D
+07/05/2016,Milton Keynes Dons,Nottingham Forest,1,2,A
+07/05/2016,Blackburn Rovers,Reading,3,1,H
+07/05/2016,Hull City,Rotherham United,5,1,H
+07/05/2016,Wolverhampton Wanderers,Sheffield Wednesday,2,1,H

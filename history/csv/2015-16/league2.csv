@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+08/08/2015,Accrington Stanley,Luton Town,1,1,D
+08/08/2015,AFC Wimbledon,Plymouth Argyle,0,2,A
+08/08/2015,Bristol Rovers,Northampton Town,0,1,A
+08/08/2015,Cambridge United,Newport County,3,0,H
+08/08/2015,Exeter City,Yeovil Town,3,2,H
+08/08/2015,Hartlepool United,Morecambe,2,0,H
+08/08/2015,Leyton Orient,Barnet,2,0,H
+08/08/2015,Mansfield Town,Carlisle United,1,1,D
+08/08/2015,Oxford United,Crawley Town,1,1,D
+08/08/2015,Portsmouth,Dagenham & Redbridge,3,0,H
+08/08/2015,Stevenage,Notts County,0,2,A
+08/08/2015,Wycombe Wanderers,York City,3,0,H
+14/08/2015,Notts County,Mansfield Town,0,2,A
+15/08/2015,Barnet,Wycombe Wanderers,0,2,A
+15/08/2015,Carlisle United,Cambridge United,4,4,D
+15/08/2015,Crawley Town,AFC Wimbledon,1,2,A
+15/08/2015,Dagenham & Redbridge,Leyton Orient,1,3,A
+15/08/2015,Luton Town,Oxford United,2,2,D
+15/08/2015,Morecambe,Accrington Stanley,1,0,H
+15/08/2015,Newport County,Stevenage,2,2,D
+15/08/2015,Northampton Town,Exeter City,3,0,H
+15/08/2015,Plymouth Argyle,Portsmouth,1,2,A
+15/08/2015,Yeovil Town,Bristol Rovers,0,1,A
+15/08/2015,York City,Hartlepool United,1,2,A
+18/08/2015,Accrington Stanley,Mansfield Town,1,0,H
+18/08/2015,AFC Wimbledon,Cambridge United,1,2,A
+18/08/2015,Barnet,Northampton Town,2,0,H
+18/08/2015,Crawley Town,Portsmouth,0,0,D
+18/08/2015,Dagenham & Redbridge,Exeter City,1,2,A
+18/08/2015,Hartlepool United,Newport County,1,0,H
+18/08/2015,Leyton Orient,Stevenage,3,0,H
+18/08/2015,Luton Town,Bristol Rovers,0,1,A
+18/08/2015,Morecambe,Wycombe Wanderers,0,1,A
+18/08/2015,Oxford United,Notts County,3,1,H
+18/08/2015,Plymouth Argyle,Carlisle United,4,1,H
+18/08/2015,York City,Yeovil Town,1,0,H
+22/08/2015,Bristol Rovers,Barnet,3,1,H
+22/08/2015,Cambridge United,Crawley Town,0,3,A
+22/08/2015,Carlisle United,AFC Wimbledon,1,1,D
+22/08/2015,Exeter City,York City,0,0,D
+22/08/2015,Mansfield Town,Oxford United,1,1,D
+22/08/2015,Newport County,Leyton Orient,2,3,A
+22/08/2015,Northampton Town,Plymouth Argyle,0,2,A
+22/08/2015,Notts County,Accrington Stanley,1,1,D
+22/08/2015,Portsmouth,Morecambe,3,3,D
+22/08/2015,Stevenage,Hartlepool United,2,0,H
+22/08/2015,Wycombe Wanderers,Dagenham & Redbridge,1,1,D
+22/08/2015,Yeovil Town,Luton Town,3,2,H
+29/08/2015,Accrington Stanley,Northampton Town,1,1,D
+29/08/2015,AFC Wimbledon,Exeter City,2,1,H
+29/08/2015,Barnet,Cambridge United,0,0,D
+29/08/2015,Crawley Town,Wycombe Wanderers,0,0,D
+29/08/2015,Dagenham & Redbridge,Stevenage,1,1,D
+29/08/2015,Hartlepool United,Carlisle United,2,3,A
+29/08/2015,Leyton Orient,Bristol Rovers,2,0,H
+29/08/2015,Luton Town,Portsmouth,1,2,A
+29/08/2015,Morecambe,Notts County,4,1,H
+29/08/2015,Oxford United,Yeovil Town,2,0,H
+29/08/2015,Plymouth Argyle,Newport County,1,0,H
+29/08/2015,York City,Mansfield Town,1,2,A
+05/09/2015,Newport County,York City,0,3,A
+05/09/2015,Carlisle United,Barnet,3,2,H
+05/09/2015,Cambridge United,Luton Town,1,3,A
+05/09/2015,Exeter City,Leyton Orient,4,0,H
+05/09/2015,Mansfield Town,AFC Wimbledon,1,1,D
+05/09/2015,Northampton Town,Dagenham & Redbridge,1,2,A
+05/09/2015,Portsmouth,Accrington Stanley,0,0,D
+05/09/2015,Stevenage,Plymouth Argyle,2,1,H
+05/09/2015,Wycombe Wanderers,Hartlepool United,2,1,H
+05/09/2015,Yeovil Town,Morecambe,2,4,A
+06/09/2015,Bristol Rovers,Oxford United,0,1,A
+12/09/2015,Yeovil Town,AFC Wimbledon,1,1,D
+12/09/2015,Bristol Rovers,Accrington Stanley,0,1,A
+12/09/2015,Cambridge United,Leyton Orient,1,1,D
+12/09/2015,Carlisle United,Dagenham & Redbridge,2,1,H
+12/09/2015,Exeter City,Hartlepool United,1,0,H
+12/09/2015,Mansfield Town,Crawley Town,4,0,H
+12/09/2015,Newport County,Morecambe,1,2,A
+12/09/2015,Northampton Town,Oxford United,1,0,H
+12/09/2015,Notts County,Luton Town,3,2,H
+12/09/2015,Portsmouth,Barnet,3,1,H
+12/09/2015,Stevenage,York City,2,2,D
+12/09/2015,Wycombe Wanderers,Plymouth Argyle,1,2,A
+19/09/2015,Hartlepool United,Cambridge United,0,0,D
+19/09/2015,Accrington Stanley,Exeter City,4,2,H
+19/09/2015,AFC Wimbledon,Notts County,2,1,H
+19/09/2015,Barnet,Stevenage,3,2,H
+19/09/2015,Crawley Town,Yeovil Town,0,1,A
+19/09/2015,Dagenham & Redbridge,Newport County,0,0,D
+19/09/2015,York City,Carlisle United,2,2,D
+19/09/2015,Leyton Orient,Wycombe Wanderers,1,1,D
+19/09/2015,Luton Town,Mansfield Town,1,0,H
+19/09/2015,Morecambe,Northampton Town,2,4,A
+19/09/2015,Oxford United,Portsmouth,1,1,D
+19/09/2015,Plymouth Argyle,Bristol Rovers,1,1,D
+22/09/2015,Notts County,Crawley Town,4,1,H
+26/09/2015,Barnet,Dagenham & Redbridge,3,1,H
+26/09/2015,Bristol Rovers,Portsmouth,1,2,A
+26/09/2015,Cambridge United,Stevenage,1,0,H
+26/09/2015,Carlisle United,Newport County,0,1,A
+26/09/2015,Crawley Town,Accrington Stanley,0,3,A
+26/09/2015,Exeter City,Wycombe Wanderers,0,2,A
+26/09/2015,Luton Town,AFC Wimbledon,2,0,H
+26/09/2015,Mansfield Town,Plymouth Argyle,0,0,D
+26/09/2015,Northampton Town,Leyton Orient,1,1,D
+26/09/2015,Notts County,York City,1,0,H
+26/09/2015,Oxford United,Morecambe,0,0,D
+26/09/2015,Yeovil Town,Hartlepool United,1,2,A
+29/09/2015,Accrington Stanley,Yeovil Town,2,1,H
+29/09/2015,AFC Wimbledon,Northampton Town,1,1,D
+29/09/2015,Dagenham & Redbridge,Notts County,1,1,D
+29/09/2015,Hartlepool United,Bristol Rovers,0,3,A
+29/09/2015,Leyton Orient,Carlisle United,1,2,A
+29/09/2015,Morecambe,Luton Town,1,3,A
+29/09/2015,Newport County,Crawley Town,0,3,A
+29/09/2015,Plymouth Argyle,Barnet,2,1,H
+29/09/2015,Portsmouth,Exeter City,1,2,A
+29/09/2015,Stevenage,Mansfield Town,0,2,A
+29/09/2015,Wycombe Wanderers,Cambridge United,1,0,H
+29/09/2015,York City,Oxford United,1,2,A
+03/10/2015,Accrington Stanley,Oxford United,1,3,A
+03/10/2015,AFC Wimbledon,Barnet,2,0,H
+03/10/2015,Dagenham & Redbridge,Mansfield Town,3,4,A
+03/10/2015,Hartlepool United,Luton Town,1,4,A
+03/10/2015,Leyton Orient,Notts County,3,1,H
+03/10/2015,Morecambe,Bristol Rovers,3,4,A
+03/10/2015,Newport County,Exeter City,1,1,D
+03/10/2015,Plymouth Argyle,Crawley Town,2,1,H
+03/10/2015,Portsmouth,Yeovil Town,0,0,D
+03/10/2015,Stevenage,Carlisle United,0,1,A
+03/10/2015,Wycombe Wanderers,Northampton Town,2,3,A
+03/10/2015,York City,Cambridge United,2,2,D
+10/10/2015,Barnet,Accrington Stanley,1,2,A
+10/10/2015,Cambridge United,Portsmouth,1,3,A
+10/10/2015,Carlisle United,Morecambe,2,3,A
+10/10/2015,Crawley Town,Leyton Orient,3,2,H
+10/10/2015,Luton Town,York City,1,1,D
+10/10/2015,Mansfield Town,Newport County,3,0,H
+10/10/2015,Northampton Town,Hartlepool United,2,1,H
+10/10/2015,Oxford United,AFC Wimbledon,1,0,H
+10/10/2015,Yeovil Town,Dagenham & Redbridge,2,2,D
+11/10/2015,Notts County,Plymouth Argyle,0,2,A
+11/10/2015,Exeter City,Stevenage,3,3,D
+17/10/2015,Stevenage,Wycombe Wanderers,2,1,H
+17/10/2015,AFC Wimbledon,Morecambe,2,5,A
+17/10/2015,Barnet,York City,3,1,H
+17/10/2015,Cambridge United,Northampton Town,2,1,H
+17/10/2015,Carlisle United,Exeter City,1,0,H
+17/10/2015,Crawley Town,Luton Town,2,1,H
+17/10/2015,Dagenham & Redbridge,Hartlepool United,0,1,A
+17/10/2015,Leyton Orient,Oxford United,2,2,D
+17/10/2015,Mansfield Town,Bristol Rovers,1,2,A
+17/10/2015,Newport County,Portsmouth,0,1,A
+17/10/2015,Notts County,Yeovil Town,2,0,H
+17/10/2015,Plymouth Argyle,Accrington Stanley,1,0,H
+20/10/2015,Northampton Town,Carlisle United,3,2,H
+20/10/2015,Accrington Stanley,AFC Wimbledon,3,4,A
+20/10/2015,Bristol Rovers,Notts County,0,0,D
+20/10/2015,Hartlepool United,Barnet,1,1,D
+20/10/2015,Luton Town,Leyton Orient,1,1,D
+20/10/2015,Morecambe,Crawley Town,3,1,H
+20/10/2015,York City,Dagenham & Redbridge,2,2,D
+20/10/2015,Oxford United,Plymouth Argyle,1,0,H
+20/10/2015,Portsmouth,Stevenage,1,1,D
+20/10/2015,Wycombe Wanderers,Newport County,0,2,A
+20/10/2015,Yeovil Town,Mansfield Town,0,1,A
+21/10/2015,Exeter City,Cambridge United,1,0,H
+24/10/2015,York City,AFC Wimbledon,1,3,A
+24/10/2015,Accrington Stanley,Dagenham & Redbridge,3,1,H
+24/10/2015,Bristol Rovers,Newport County,1,4,A
+24/10/2015,Exeter City,Notts County,1,1,D
+24/10/2015,Hartlepool United,Crawley Town,1,2,A
+24/10/2015,Luton Town,Plymouth Argyle,1,2,A
+24/10/2015,Morecambe,Leyton Orient,0,1,A
+24/10/2015,Northampton Town,Stevenage,2,1,H
+24/10/2015,Oxford United,Barnet,2,3,A
+24/10/2015,Portsmouth,Mansfield Town,0,0,D
+24/10/2015,Wycombe Wanderers,Carlisle United,1,1,D
+24/10/2015,Yeovil Town,Cambridge United,2,3,A
+30/10/2015,Cambridge United,Bristol Rovers,1,2,A
+31/10/2015,Stevenage,Oxford United,1,5,A
+31/10/2015,Crawley Town,York City,1,0,H
+31/10/2015,AFC Wimbledon,Hartlepool United,2,0,H
+31/10/2015,Barnet,Exeter City,2,0,H
+31/10/2015,Carlisle United,Yeovil Town,3,2,H
+31/10/2015,Leyton Orient,Accrington Stanley,0,1,A
+31/10/2015,Mansfield Town,Wycombe Wanderers,0,2,A
+31/10/2015,Newport County,Northampton Town,2,2,D
+31/10/2015,Notts County,Portsmouth,2,1,H
+31/10/2015,Plymouth Argyle,Morecambe,2,0,H
+01/11/2015,Dagenham & Redbridge,Luton Town,0,2,A
+14/11/2015,Luton Town,Barnet,2,0,H
+14/11/2015,Accrington Stanley,Newport County,2,2,D
+14/11/2015,Bristol Rovers,Carlisle United,2,0,H
+14/11/2015,Exeter City,Crawley Town,2,2,D
+14/11/2015,York City,Plymouth Argyle,1,2,A
+14/11/2015,Northampton Town,Mansfield Town,1,0,H
+14/11/2015,Oxford United,Cambridge United,1,0,H
+14/11/2015,Yeovil Town,Stevenage,2,2,D
+15/11/2015,Portsmouth,AFC Wimbledon,0,0,D
+15/11/2015,Hartlepool United,Leyton Orient,3,1,H
+21/11/2015,Stevenage,Luton Town,0,0,D
+21/11/2015,Plymouth Argyle,Exeter City,1,2,A
+21/11/2015,Notts County,Northampton Town,1,2,A
+21/11/2015,AFC Wimbledon,Wycombe Wanderers,1,1,D
+21/11/2015,Barnet,Morecambe,0,0,D
+21/11/2015,Cambridge United,Accrington Stanley,2,3,A
+21/11/2015,Carlisle United,Portsmouth,2,2,D
+21/11/2015,Crawley Town,Bristol Rovers,2,1,H
+21/11/2015,Dagenham & Redbridge,Oxford United,0,1,A
+21/11/2015,Leyton Orient,York City,3,2,H
+21/11/2015,Mansfield Town,Hartlepool United,3,1,H
+21/11/2015,Newport County,Yeovil Town,0,0,D
+24/11/2015,Yeovil Town,Wycombe Wanderers,0,1,A
+24/11/2015,Plymouth Argyle,Leyton Orient,1,1,D
+24/11/2015,Oxford United,Newport County,1,1,D
+24/11/2015,AFC Wimbledon,Dagenham & Redbridge,0,1,A
+24/11/2015,Bristol Rovers,Stevenage,1,2,A
+24/11/2015,Crawley Town,Northampton Town,1,2,A
+24/11/2015,Luton Town,Carlisle United,3,4,A
+24/11/2015,Mansfield Town,Exeter City,0,2,A
+24/11/2015,Morecambe,Cambridge United,2,4,A
+24/11/2015,Notts County,Barnet,4,2,H
+24/11/2015,Portsmouth,York City,6,0,H
+28/11/2015,Wycombe Wanderers,Portsmouth,2,2,D
+28/11/2015,Stevenage,Morecambe,4,3,H
+28/11/2015,Dagenham & Redbridge,Plymouth Argyle,1,1,D
+28/11/2015,Northampton Town,Yeovil Town,2,0,H
+28/11/2015,Barnet,Mansfield Town,1,3,A
+28/11/2015,Cambridge United,Notts County,3,1,H
+28/11/2015,Carlisle United,Crawley Town,3,1,H
+28/11/2015,Newport County,Luton Town,3,0,H
+28/11/2015,Exeter City,Bristol Rovers,1,1,D
+28/11/2015,Hartlepool United,Oxford United,0,1,A
+28/11/2015,Leyton Orient,AFC Wimbledon,1,1,D
+28/11/2015,York City,Accrington Stanley,1,5,A
+01/12/2015,Bristol Rovers,Wycombe Wanderers,3,0,H
+01/12/2015,Morecambe,Dagenham & Redbridge,1,0,H
+12/12/2015,Yeovil Town,Barnet,2,2,D
+12/12/2015,Crawley Town,Dagenham & Redbridge,3,2,H
+12/12/2015,AFC Wimbledon,Stevenage,1,2,A
+12/12/2015,Bristol Rovers,York City,2,1,H
+12/12/2015,Plymouth Argyle,Cambridge United,1,2,A
+12/12/2015,Luton Town,Northampton Town,3,4,A
+12/12/2015,Mansfield Town,Leyton Orient,1,1,D
+12/12/2015,Notts County,Newport County,4,3,H
+12/12/2015,Oxford United,Carlisle United,1,1,D
+12/12/2015,Portsmouth,Hartlepool United,4,0,H
+15/12/2015,Wycombe Wanderers,Notts County,2,2,D
+19/12/2015,Northampton Town,Portsmouth,1,2,A
+19/12/2015,Wycombe Wanderers,Oxford United,2,1,H
+19/12/2015,Stevenage,Accrington Stanley,1,1,D
+19/12/2015,Barnet,Crawley Town,4,2,H
+19/12/2015,Cambridge United,Mansfield Town,1,1,D
+19/12/2015,Carlisle United,Notts County,3,0,H
+19/12/2015,Dagenham & Redbridge,Bristol Rovers,0,3,A
+19/12/2015,Exeter City,Luton Town,2,3,A
+19/12/2015,Hartlepool United,Plymouth Argyle,1,2,A
+19/12/2015,Leyton Orient,Yeovil Town,1,1,D
+19/12/2015,Newport County,AFC Wimbledon,2,2,D
+19/12/2015,York City,Morecambe,2,1,H
+26/12/2015,Oxford United,Exeter City,3,0,H
+26/12/2015,Luton Town,Wycombe Wanderers,0,2,A
+26/12/2015,Plymouth Argyle,Yeovil Town,1,0,H
+26/12/2015,Dagenham & Redbridge,Cambridge United,0,3,A
+26/12/2015,AFC Wimbledon,Bristol Rovers,0,0,D
+26/12/2015,Barnet,Newport County,2,0,H
+26/12/2015,Crawley Town,Stevenage,2,1,H
+26/12/2015,Leyton Orient,Portsmouth,3,2,H
+28/12/2015,Wycombe Wanderers,Crawley Town,2,0,H
+28/12/2015,Yeovil Town,Oxford United,0,0,D
+28/12/2015,Stevenage,Dagenham & Redbridge,1,3,A
+28/12/2015,Portsmouth,Luton Town,0,0,D
+28/12/2015,Notts County,Morecambe,2,2,D
+28/12/2015,Northampton Town,Accrington Stanley,1,0,H
+28/12/2015,Newport County,Plymouth Argyle,1,2,A
+28/12/2015,Bristol Rovers,Leyton Orient,2,1,H
+28/12/2015,Cambridge United,Barnet,2,1,H
+28/12/2015,Exeter City,AFC Wimbledon,0,2,A
+28/12/2015,Mansfield Town,York City,1,1,D
+02/01/2016,Exeter City,Dagenham & Redbridge,1,2,A
+02/01/2016,Mansfield Town,Accrington Stanley,2,3,A
+02/01/2016,Yeovil Town,York City,1,0,H
+02/01/2016,Wycombe Wanderers,Morecambe,0,2,A
+02/01/2016,Carlisle United,Plymouth Argyle,0,2,A
+02/01/2016,Stevenage,Leyton Orient,2,2,D
+02/01/2016,Portsmouth,Crawley Town,3,0,H
+02/01/2016,Notts County,Oxford United,2,4,A
+02/01/2016,Bristol Rovers,Luton Town,2,0,H
+02/01/2016,Cambridge United,AFC Wimbledon,1,4,A
+02/01/2016,Northampton Town,Barnet,3,0,H
+09/01/2016,Crawley Town,Cambridge United,1,0,H
+09/01/2016,Barnet,Bristol Rovers,1,0,H
+09/01/2016,Mansfield Town,Stevenage,2,1,H
+12/01/2016,Morecambe,Exeter City,1,1,D
+12/01/2016,Plymouth Argyle,Northampton Town,1,2,A
+16/01/2016,Dagenham & Redbridge,Northampton Town,1,2,A
+16/01/2016,Hartlepool United,Wycombe Wanderers,1,0,H
+16/01/2016,Leyton Orient,Exeter City,1,3,A
+16/01/2016,Barnet,Carlisle United,0,0,D
+16/01/2016,Morecambe,Yeovil Town,2,1,H
+16/01/2016,Luton Town,Cambridge United,0,0,D
+16/01/2016,Crawley Town,Notts County,0,1,A
+16/01/2016,AFC Wimbledon,Mansfield Town,3,1,H
+16/01/2016,Plymouth Argyle,Stevenage,3,2,H
+16/01/2016,York City,Newport County,0,1,A
+17/01/2016,Oxford United,Bristol Rovers,1,2,A
+19/01/2016,Accrington Stanley,Hartlepool United,3,1,H
+23/01/2016,Yeovil Town,Crawley Town,2,1,H
+23/01/2016,Wycombe Wanderers,Leyton Orient,0,2,A
+23/01/2016,Stevenage,Barnet,0,0,D
+23/01/2016,Portsmouth,Oxford United,0,1,A
+23/01/2016,Notts County,AFC Wimbledon,0,2,A
+23/01/2016,Bristol Rovers,Plymouth Argyle,1,1,D
+23/01/2016,Cambridge United,Hartlepool United,1,1,D
+23/01/2016,Northampton Town,Morecambe,3,1,H
+23/01/2016,Carlisle United,York City,1,1,D
+23/01/2016,Exeter City,Accrington Stanley,2,1,H
+23/01/2016,Newport County,Dagenham & Redbridge,2,2,D
+23/01/2016,Mansfield Town,Luton Town,0,2,A
+26/01/2016,Leyton Orient,Newport County,1,0,H
+26/01/2016,Morecambe,Mansfield Town,1,2,A
+30/01/2016,Hartlepool United,Exeter City,0,2,A
+30/01/2016,Leyton Orient,Cambridge United,1,3,A
+30/01/2016,Luton Town,Notts County,0,2,A
+30/01/2016,AFC Wimbledon,Yeovil Town,2,3,A
+30/01/2016,Accrington Stanley,Bristol Rovers,1,0,H
+30/01/2016,Morecambe,Newport County,1,2,A
+30/01/2016,York City,Stevenage,2,1,H
+30/01/2016,Plymouth Argyle,Wycombe Wanderers,0,1,A
+30/01/2016,Crawley Town,Mansfield Town,0,1,A
+02/02/2016,Morecambe,Portsmouth,1,1,D
+02/02/2016,Luton Town,Yeovil Town,1,1,D
+06/02/2016,Northampton Town,York City,2,0,H
+06/02/2016,Mansfield Town,Morecambe,2,1,H
+06/02/2016,Carlisle United,Accrington Stanley,2,0,H
+06/02/2016,Cambridge United,Dagenham & Redbridge,1,0,H
+06/02/2016,Portsmouth,Leyton Orient,0,1,A
+06/02/2016,Stevenage,Crawley Town,0,1,A
+06/02/2016,Wycombe Wanderers,Luton Town,0,1,A
+09/02/2016,Oxford United,Mansfield Town,2,2,D
+09/02/2016,Dagenham & Redbridge,Wycombe Wanderers,1,2,A
+09/02/2016,Hartlepool United,Stevenage,1,2,A
+13/02/2016,Leyton Orient,Northampton Town,0,4,A
+13/02/2016,Plymouth Argyle,Mansfield Town,3,0,H
+13/02/2016,Dagenham & Redbridge,Barnet,0,2,A
+13/02/2016,AFC Wimbledon,Luton Town,4,1,H
+13/02/2016,Portsmouth,Bristol Rovers,3,1,H
+13/02/2016,Hartlepool United,Yeovil Town,2,1,H
+13/02/2016,Morecambe,Oxford United,2,4,A
+13/02/2016,York City,Notts County,2,1,H
+13/02/2016,Accrington Stanley,Crawley Town,4,1,H
+13/02/2016,Newport County,Carlisle United,1,0,H
+13/02/2016,Wycombe Wanderers,Exeter City,1,0,H
+13/02/2016,Stevenage,Cambridge United,2,0,H
+16/02/2016,York City,Exeter City,2,0,H
+16/02/2016,Hartlepool United,Notts County,2,3,A
+16/02/2016,Oxford United,Northampton Town,0,1,A
+16/02/2016,Accrington Stanley,Carlisle United,1,1,D
+20/02/2016,Crawley Town,Plymouth Argyle,1,1,D
+20/02/2016,Bristol Rovers,Morecambe,2,1,H
+20/02/2016,Luton Town,Hartlepool United,2,1,H
+20/02/2016,Northampton Town,Wycombe Wanderers,1,0,H
+20/02/2016,Exeter City,Newport County,1,1,D
+20/02/2016,Mansfield Town,Dagenham & Redbridge,3,2,H
+20/02/2016,Barnet,AFC Wimbledon,1,2,A
+20/02/2016,Cambridge United,York City,3,1,H
+20/02/2016,Notts County,Leyton Orient,0,1,A
+20/02/2016,Yeovil Town,Portsmouth,1,1,D
+20/02/2016,Oxford United,Accrington Stanley,1,2,A
+20/02/2016,Carlisle United,Stevenage,1,0,H
+23/02/2016,Barnet,Portsmouth,1,0,H
+23/02/2016,York City,Northampton Town,1,2,A
+23/02/2016,Accrington Stanley,Notts County,3,2,H
+23/02/2016,AFC Wimbledon,Carlisle United,1,0,H
+23/02/2016,Exeter City,Oxford United,1,4,A
+23/02/2016,Yeovil Town,Plymouth Argyle,0,0,D
+27/02/2016,Portsmouth,Cambridge United,2,1,H
+27/02/2016,Wycombe Wanderers,Bristol Rovers,1,0,H
+27/02/2016,Stevenage,Exeter City,0,2,A
+27/02/2016,Plymouth Argyle,Notts County,1,0,H
+27/02/2016,Newport County,Mansfield Town,1,0,H
+27/02/2016,Morecambe,Carlisle United,1,2,A
+27/02/2016,Leyton Orient,Crawley Town,2,0,H
+27/02/2016,Accrington Stanley,Barnet,2,2,D
+27/02/2016,AFC Wimbledon,Oxford United,1,2,A
+27/02/2016,Dagenham & Redbridge,Yeovil Town,0,1,A
+27/02/2016,Hartlepool United,Northampton Town,0,0,D
+27/02/2016,York City,Luton Town,2,3,A
+01/03/2016,Luton Town,Morecambe,1,0,H
+01/03/2016,Northampton Town,AFC Wimbledon,1,1,D
+01/03/2016,Yeovil Town,Accrington Stanley,1,0,H
+01/03/2016,Notts County,Dagenham & Redbridge,0,0,D
+01/03/2016,Oxford United,York City,4,0,H
+01/03/2016,Exeter City,Portsmouth,1,1,D
+01/03/2016,Crawley Town,Newport County,2,0,H
+01/03/2016,Carlisle United,Leyton Orient,2,2,D
+01/03/2016,Barnet,Plymouth Argyle,1,0,H
+01/03/2016,Bristol Rovers,Hartlepool United,4,1,H
+01/03/2016,Cambridge United,Wycombe Wanderers,1,0,H
+05/03/2016,Plymouth Argyle,Oxford United,2,2,D
+05/03/2016,Notts County,Bristol Rovers,0,2,A
+05/03/2016,Newport County,Wycombe Wanderers,1,0,H
+05/03/2016,Mansfield Town,Yeovil Town,0,1,A
+05/03/2016,Leyton Orient,Luton Town,0,1,A
+05/03/2016,Dagenham & Redbridge,York City,1,0,H
+05/03/2016,Crawley Town,Morecambe,1,1,D
+05/03/2016,Stevenage,Portsmouth,0,2,A
+05/03/2016,AFC Wimbledon,Accrington Stanley,0,0,D
+05/03/2016,Barnet,Hartlepool United,1,3,A
+05/03/2016,Cambridge United,Exeter City,0,1,A
+05/03/2016,Carlisle United,Northampton Town,1,4,A
+08/03/2016,Newport County,Barnet,0,3,A
+08/03/2016,Bristol Rovers,AFC Wimbledon,3,1,H
+08/03/2016,Dagenham & Redbridge,Carlisle United,0,0,D
+08/03/2016,Accrington Stanley,Portsmouth,1,3,A
+12/03/2016,Portsmouth,Newport County,0,3,A
+12/03/2016,Yeovil Town,Notts County,1,0,H
+12/03/2016,Wycombe Wanderers,Stevenage,1,0,H
+12/03/2016,Oxford United,Leyton Orient,0,1,A
+12/03/2016,Accrington Stanley,Plymouth Argyle,2,1,H
+12/03/2016,Bristol Rovers,Mansfield Town,1,0,H
+12/03/2016,Exeter City,Carlisle United,2,2,D
+12/03/2016,Hartlepool United,Dagenham & Redbridge,3,1,H
+12/03/2016,Luton Town,Crawley Town,0,1,A
+12/03/2016,Morecambe,AFC Wimbledon,2,1,H
+12/03/2016,Northampton Town,Cambridge United,1,1,D
+12/03/2016,York City,Barnet,1,1,D
+15/03/2016,Oxford United,Dagenham & Redbridge,4,0,H
+15/03/2016,Newport County,Hartlepool United,0,0,D
+16/03/2016,Accrington Stanley,Wycombe Wanderers,1,1,D
+19/03/2016,Stevenage,Northampton Town,2,3,A
+19/03/2016,Newport County,Bristol Rovers,1,4,A
+19/03/2016,AFC Wimbledon,York City,2,1,H
+19/03/2016,Barnet,Oxford United,0,3,A
+19/03/2016,Cambridge United,Yeovil Town,3,0,H
+19/03/2016,Carlisle United,Wycombe Wanderers,1,1,D
+19/03/2016,Crawley Town,Hartlepool United,0,0,D
+19/03/2016,Dagenham & Redbridge,Accrington Stanley,0,1,A
+19/03/2016,Leyton Orient,Morecambe,1,0,H
+19/03/2016,Mansfield Town,Portsmouth,1,1,D
+19/03/2016,Notts County,Exeter City,1,4,A
+19/03/2016,Plymouth Argyle,Luton Town,0,1,A
+25/03/2016,Wycombe Wanderers,Mansfield Town,1,0,H
+25/03/2016,Accrington Stanley,Leyton Orient,1,0,H
+25/03/2016,Bristol Rovers,Cambridge United,3,0,H
+25/03/2016,Exeter City,Barnet,1,1,D
+25/03/2016,Hartlepool United,AFC Wimbledon,1,0,H
+25/03/2016,Northampton Town,Newport County,1,0,H
+25/03/2016,Oxford United,Stevenage,1,1,D
+25/03/2016,Portsmouth,Notts County,4,0,H
+25/03/2016,Morecambe,Plymouth Argyle,0,2,A
+25/03/2016,Yeovil Town,Carlisle United,0,0,D
+25/03/2016,York City,Crawley Town,2,2,D
+28/03/2016,Crawley Town,Exeter City,0,2,A
+28/03/2016,Notts County,Wycombe Wanderers,0,0,D
+28/03/2016,Barnet,Luton Town,2,1,H
+28/03/2016,Cambridge United,Oxford United,0,0,D
+28/03/2016,Carlisle United,Bristol Rovers,3,2,H
+28/03/2016,Plymouth Argyle,York City,3,2,H
+28/03/2016,Leyton Orient,Hartlepool United,0,2,A
+28/03/2016,Mansfield Town,Northampton Town,2,2,D
+28/03/2016,Newport County,Accrington Stanley,0,2,A
+02/04/2016,York City,Leyton Orient,1,1,D
+02/04/2016,Wycombe Wanderers,AFC Wimbledon,1,2,A
+02/04/2016,Portsmouth,Carlisle United,1,0,H
+02/04/2016,Yeovil Town,Newport County,1,0,H
+02/04/2016,Northampton Town,Notts County,2,2,D
+02/04/2016,Morecambe,Barnet,4,2,H
+02/04/2016,Accrington Stanley,Cambridge United,1,1,D
+02/04/2016,Bristol Rovers,Crawley Town,3,0,H
+02/04/2016,Exeter City,Plymouth Argyle,2,1,H
+02/04/2016,Hartlepool United,Mansfield Town,2,1,H
+02/04/2016,Luton Town,Stevenage,0,1,A
+05/04/2016,Stevenage,Yeovil Town,0,0,D
+05/04/2016,Dagenham & Redbridge,Morecambe,2,1,H
+05/04/2016,Carlisle United,Hartlepool United,1,0,H
+09/04/2016,Plymouth Argyle,AFC Wimbledon,1,2,A
+09/04/2016,York City,Wycombe Wanderers,1,1,D
+09/04/2016,Crawley Town,Oxford United,1,5,A
+09/04/2016,Barnet,Leyton Orient,3,0,H
+09/04/2016,Carlisle United,Mansfield Town,1,2,A
+09/04/2016,Notts County,Stevenage,1,0,H
+09/04/2016,Dagenham & Redbridge,Portsmouth,1,4,A
+09/04/2016,Luton Town,Accrington Stanley,0,2,A
+09/04/2016,Morecambe,Hartlepool United,2,5,A
+09/04/2016,Newport County,Cambridge United,0,1,A
+09/04/2016,Northampton Town,Bristol Rovers,2,2,D
+09/04/2016,Yeovil Town,Exeter City,0,2,A
+12/04/2016,Luton Town,Dagenham & Redbridge,1,0,H
+12/04/2016,Notts County,Hartlepool United,1,0,H
+16/04/2016,Wycombe Wanderers,Barnet,1,1,D
+16/04/2016,Mansfield Town,Notts County,5,0,H
+16/04/2016,Accrington Stanley,Morecambe,2,2,D
+16/04/2016,AFC Wimbledon,Crawley Town,1,0,H
+16/04/2016,Bristol Rovers,Yeovil Town,2,1,H
+16/04/2016,Cambridge United,Carlisle United,0,0,D
+16/04/2016,Exeter City,Northampton Town,0,0,D
+16/04/2016,Hartlepool United,York City,2,1,H
+16/04/2016,Leyton Orient,Dagenham & Redbridge,3,2,H
+16/04/2016,Oxford United,Luton Town,2,3,A
+16/04/2016,Portsmouth,Plymouth Argyle,1,2,A
+16/04/2016,Stevenage,Newport County,2,1,H
+19/04/2016,Hartlepool United,Accrington Stanley,1,2,A
+19/04/2016,Barnet,Notts County,3,1,H
+19/04/2016,Cambridge United,Morecambe,7,0,H
+19/04/2016,Carlisle United,Luton Town,1,2,A
+19/04/2016,Dagenham & Redbridge,AFC Wimbledon,0,2,A
+19/04/2016,Exeter City,Mansfield Town,2,3,A
+19/04/2016,Wycombe Wanderers,Yeovil Town,0,0,D
+19/04/2016,Leyton Orient,Plymouth Argyle,1,3,A
+19/04/2016,Newport County,Oxford United,1,1,D
+19/04/2016,Northampton Town,Crawley Town,2,1,H
+19/04/2016,Stevenage,Bristol Rovers,0,0,D
+19/04/2016,York City,Portsmouth,3,1,H
+23/04/2016,Mansfield Town,Barnet,1,1,D
+23/04/2016,Accrington Stanley,York City,3,0,H
+23/04/2016,AFC Wimbledon,Leyton Orient,1,0,H
+23/04/2016,Bristol Rovers,Exeter City,3,1,H
+23/04/2016,Crawley Town,Carlisle United,0,1,A
+23/04/2016,Luton Town,Newport County,1,1,D
+23/04/2016,Portsmouth,Wycombe Wanderers,2,1,H
+23/04/2016,Morecambe,Stevenage,1,4,A
+23/04/2016,Notts County,Cambridge United,1,2,A
+23/04/2016,Oxford United,Hartlepool United,2,0,H
+23/04/2016,Plymouth Argyle,Dagenham & Redbridge,2,3,A
+23/04/2016,Yeovil Town,Northampton Town,1,1,D
+26/04/2016,AFC Wimbledon,Portsmouth,0,1,A
+30/04/2016,Barnet,Yeovil Town,3,4,A
+30/04/2016,Cambridge United,Plymouth Argyle,2,2,D
+30/04/2016,Carlisle United,Oxford United,0,2,A
+30/04/2016,Dagenham & Redbridge,Crawley Town,3,0,H
+30/04/2016,Exeter City,Morecambe,1,1,D
+30/04/2016,Hartlepool United,Portsmouth,0,2,A
+30/04/2016,Leyton Orient,Mansfield Town,1,0,H
+30/04/2016,Newport County,Notts County,0,1,A
+30/04/2016,Northampton Town,Luton Town,2,0,H
+30/04/2016,Stevenage,AFC Wimbledon,0,0,D
+30/04/2016,Wycombe Wanderers,Accrington Stanley,0,1,A
+30/04/2016,York City,Bristol Rovers,1,4,A
+07/05/2016,Accrington Stanley,Stevenage,0,0,D
+07/05/2016,AFC Wimbledon,Newport County,1,0,H
+07/05/2016,Bristol Rovers,Dagenham & Redbridge,2,1,H
+07/05/2016,Crawley Town,Barnet,0,3,A
+07/05/2016,Luton Town,Exeter City,4,1,H
+07/05/2016,Mansfield Town,Cambridge United,0,0,D
+07/05/2016,Morecambe,York City,1,1,D
+07/05/2016,Notts County,Carlisle United,0,5,A
+07/05/2016,Oxford United,Wycombe Wanderers,3,0,H
+07/05/2016,Plymouth Argyle,Hartlepool United,5,0,H
+07/05/2016,Portsmouth,Northampton Town,1,2,A
+07/05/2016,Yeovil Town,Leyton Orient,0,1,A

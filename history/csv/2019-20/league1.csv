@@ -1,0 +1,401 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+03/08/2019,AFC Wimbledon,Rotherham United,1,2,A
+03/08/2019,Blackpool,Bristol Rovers,2,0,H
+03/08/2019,Burton Albion,Ipswich Town,0,1,A
+03/08/2019,Coventry City,Southend United,1,0,H
+03/08/2019,Doncaster Rovers,Gillingham,1,1,D
+03/08/2019,Lincoln City,Accrington Stanley,2,0,H
+03/08/2019,Peterborough United,Fleetwood Town,1,3,A
+03/08/2019,Shrewsbury Town,Portsmouth,1,0,H
+03/08/2019,Sunderland,Oxford United,1,1,D
+03/08/2019,Tranmere Rovers,Rochdale,2,3,A
+03/08/2019,Wycombe Wanderers,Bolton Wanderers,2,0,H
+10/08/2019,Bolton Wanderers,Coventry City,0,0,D
+10/08/2019,Bristol Rovers,Wycombe Wanderers,0,0,D
+10/08/2019,Fleetwood Town,AFC Wimbledon,2,1,H
+10/08/2019,Gillingham,Burton Albion,1,2,A
+10/08/2019,Ipswich Town,Sunderland,1,1,D
+10/08/2019,Milton Keynes Dons,Shrewsbury Town,1,0,H
+10/08/2019,Oxford United,Peterborough United,1,0,H
+10/08/2019,Portsmouth,Tranmere Rovers,2,0,H
+10/08/2019,Rochdale,Doncaster Rovers,1,1,D
+10/08/2019,Rotherham United,Lincoln City,0,2,A
+10/08/2019,Southend United,Blackpool,1,3,A
+17/08/2019,Sunderland,Portsmouth,2,1,H
+17/08/2019,AFC Wimbledon,Accrington Stanley,1,1,D
+17/08/2019,Blackpool,Oxford United,2,1,H
+17/08/2019,Burton Albion,Rotherham United,0,1,A
+17/08/2019,Coventry City,Bristol Rovers,2,0,H
+17/08/2019,Doncaster Rovers,Fleetwood Town,3,2,H
+17/08/2019,Lincoln City,Southend United,4,0,H
+17/08/2019,Peterborough United,Ipswich Town,2,2,D
+17/08/2019,Shrewsbury Town,Rochdale,0,0,D
+17/08/2019,Tranmere Rovers,Bolton Wanderers,5,0,H
+17/08/2019,Wycombe Wanderers,Milton Keynes Dons,3,2,H
+20/08/2019,Accrington Stanley,Shrewsbury Town,2,3,A
+20/08/2019,Bristol Rovers,Tranmere Rovers,2,0,H
+20/08/2019,Fleetwood Town,Wycombe Wanderers,1,1,D
+20/08/2019,Gillingham,Blackpool,2,2,D
+20/08/2019,Ipswich Town,AFC Wimbledon,2,1,H
+20/08/2019,Milton Keynes Dons,Lincoln City,2,1,H
+20/08/2019,Oxford United,Burton Albion,2,4,A
+20/08/2019,Portsmouth,Coventry City,3,3,D
+20/08/2019,Rochdale,Sunderland,1,2,A
+20/08/2019,Southend United,Peterborough United,0,2,A
+24/08/2019,Wycombe Wanderers,Southend United,4,3,H
+24/08/2019,Doncaster Rovers,Lincoln City,2,1,H
+24/08/2019,Bolton Wanderers,Ipswich Town,0,5,A
+24/08/2019,Bristol Rovers,Oxford United,3,1,H
+24/08/2019,Coventry City,Gillingham,1,0,H
+24/08/2019,Fleetwood Town,Accrington Stanley,2,0,H
+24/08/2019,Milton Keynes Dons,Peterborough United,0,4,A
+24/08/2019,Rochdale,Blackpool,0,0,D
+24/08/2019,Shrewsbury Town,Burton Albion,0,0,D
+24/08/2019,Sunderland,AFC Wimbledon,3,1,H
+31/08/2019,Southend United,Rochdale,0,3,A
+31/08/2019,Rotherham United,Tranmere Rovers,1,1,D
+31/08/2019,AFC Wimbledon,Wycombe Wanderers,0,0,D
+31/08/2019,Accrington Stanley,Milton Keynes Dons,2,1,H
+31/08/2019,Blackpool,Portsmouth,1,1,D
+31/08/2019,Burton Albion,Bristol Rovers,2,0,H
+31/08/2019,Gillingham,Bolton Wanderers,5,0,H
+31/08/2019,Ipswich Town,Shrewsbury Town,3,0,H
+31/08/2019,Lincoln City,Fleetwood Town,2,0,H
+31/08/2019,Oxford United,Coventry City,3,3,D
+31/08/2019,Peterborough United,Sunderland,3,0,H
+07/09/2019,Bristol Rovers,Accrington Stanley,3,3,D
+07/09/2019,Tranmere Rovers,Gillingham,2,2,D
+07/09/2019,Milton Keynes Dons,AFC Wimbledon,2,1,H
+07/09/2019,Doncaster Rovers,Rotherham United,2,1,H
+07/09/2019,Wycombe Wanderers,Lincoln City,3,1,H
+07/09/2019,Coventry City,Blackpool,3,2,H
+07/09/2019,Fleetwood Town,Oxford United,2,1,H
+14/09/2019,Southend United,Fleetwood Town,3,3,D
+14/09/2019,Peterborough United,Rochdale,6,0,H
+14/09/2019,Oxford United,Tranmere Rovers,3,0,H
+14/09/2019,Lincoln City,Bristol Rovers,0,1,A
+14/09/2019,Rotherham United,Bolton Wanderers,6,1,H
+14/09/2019,Ipswich Town,Doncaster Rovers,0,0,D
+14/09/2019,AFC Wimbledon,Shrewsbury Town,1,1,D
+14/09/2019,Accrington Stanley,Sunderland,1,3,A
+14/09/2019,Blackpool,Milton Keynes Dons,0,3,A
+14/09/2019,Burton Albion,Coventry City,0,0,D
+14/09/2019,Gillingham,Wycombe Wanderers,2,0,H
+17/09/2019,Tranmere Rovers,Peterborough United,2,2,D
+17/09/2019,Wycombe Wanderers,Accrington Stanley,1,1,D
+17/09/2019,Bolton Wanderers,Oxford United,0,0,D
+17/09/2019,Sunderland,Rotherham United,1,1,D
+17/09/2019,Shrewsbury Town,Southend United,4,3,H
+17/09/2019,Portsmouth,Burton Albion,2,2,D
+17/09/2019,Bristol Rovers,Gillingham,1,1,D
+17/09/2019,Coventry City,AFC Wimbledon,2,1,H
+17/09/2019,Doncaster Rovers,Blackpool,0,1,A
+17/09/2019,Milton Keynes Dons,Ipswich Town,0,1,A
+17/09/2019,Rochdale,Lincoln City,1,1,D
+21/09/2019,Doncaster Rovers,Peterborough United,2,0,H
+21/09/2019,Wycombe Wanderers,Portsmouth,1,0,H
+21/09/2019,Tranmere Rovers,Burton Albion,2,1,H
+21/09/2019,Rotherham United,Shrewsbury Town,0,0,D
+21/09/2019,Milton Keynes Dons,Southend United,0,1,A
+21/09/2019,Lincoln City,Oxford United,0,6,A
+21/09/2019,AFC Wimbledon,Bristol Rovers,1,3,A
+21/09/2019,Accrington Stanley,Blackpool,1,1,D
+21/09/2019,Bolton Wanderers,Sunderland,1,1,D
+21/09/2019,Fleetwood Town,Rochdale,2,1,H
+21/09/2019,Gillingham,Ipswich Town,0,1,A
+27/09/2019,Blackpool,Lincoln City,2,1,H
+28/09/2019,Shrewsbury Town,Fleetwood Town,0,3,A
+28/09/2019,Rochdale,Wycombe Wanderers,0,3,A
+28/09/2019,Portsmouth,Bolton Wanderers,1,0,H
+28/09/2019,Peterborough United,AFC Wimbledon,3,2,H
+28/09/2019,Sunderland,Milton Keynes Dons,2,1,H
+28/09/2019,Southend United,Accrington Stanley,0,1,A
+28/09/2019,Bristol Rovers,Rotherham United,1,0,H
+28/09/2019,Coventry City,Doncaster Rovers,1,1,D
+28/09/2019,Ipswich Town,Tranmere Rovers,4,1,H
+28/09/2019,Oxford United,Gillingham,3,0,H
+05/10/2019,Lincoln City,Sunderland,2,0,H
+05/10/2019,Milton Keynes Dons,Burton Albion,0,3,A
+05/10/2019,Rotherham United,Coventry City,4,0,H
+05/10/2019,Wycombe Wanderers,Peterborough United,3,3,D
+05/10/2019,Tranmere Rovers,Shrewsbury Town,0,1,A
+05/10/2019,Gillingham,Southend United,3,1,H
+05/10/2019,AFC Wimbledon,Rochdale,3,2,H
+05/10/2019,Accrington Stanley,Oxford United,2,2,D
+05/10/2019,Doncaster Rovers,Portsmouth,1,2,A
+05/10/2019,Fleetwood Town,Ipswich Town,0,1,A
+07/10/2019,Bolton Wanderers,Blackpool,0,0,D
+12/10/2019,Portsmouth,Gillingham,0,0,D
+12/10/2019,Peterborough United,Lincoln City,2,0,H
+12/10/2019,Oxford United,Doncaster Rovers,3,0,H
+12/10/2019,Bristol Rovers,Milton Keynes Dons,1,0,H
+12/10/2019,Rochdale,Accrington Stanley,2,1,H
+12/10/2019,Southend United,AFC Wimbledon,1,4,A
+12/10/2019,Blackpool,Rotherham United,1,2,A
+13/10/2019,Coventry City,Tranmere Rovers,0,1,A
+18/10/2019,Lincoln City,Shrewsbury Town,0,0,D
+18/10/2019,Tranmere Rovers,Southend United,1,1,D
+19/10/2019,Milton Keynes Dons,Coventry City,0,0,D
+19/10/2019,Gillingham,Peterborough United,1,2,A
+19/10/2019,Fleetwood Town,Burton Albion,4,1,H
+19/10/2019,Bolton Wanderers,Rochdale,1,3,A
+19/10/2019,AFC Wimbledon,Portsmouth,1,0,H
+19/10/2019,Rotherham United,Oxford United,1,2,A
+19/10/2019,Wycombe Wanderers,Sunderland,1,0,H
+19/10/2019,Doncaster Rovers,Bristol Rovers,2,0,H
+20/10/2019,Accrington Stanley,Ipswich Town,2,0,H
+22/10/2019,Rochdale,Milton Keynes Dons,2,0,H
+22/10/2019,Shrewsbury Town,Gillingham,1,1,D
+22/10/2019,Southend United,Doncaster Rovers,1,7,A
+22/10/2019,Sunderland,Tranmere Rovers,5,0,H
+22/10/2019,Portsmouth,Lincoln City,1,0,H
+22/10/2019,Blackpool,Wycombe Wanderers,1,1,D
+22/10/2019,Burton Albion,AFC Wimbledon,1,0,H
+22/10/2019,Bristol Rovers,Bolton Wanderers,0,2,A
+23/10/2019,Ipswich Town,Rotherham United,0,2,A
+23/10/2019,Coventry City,Fleetwood Town,2,1,H
+23/10/2019,Peterborough United,Accrington Stanley,4,0,H
+26/10/2019,Peterborough United,Coventry City,2,2,D
+26/10/2019,Shrewsbury Town,Sunderland,1,0,H
+26/10/2019,Rotherham United,Wycombe Wanderers,0,1,A
+26/10/2019,Oxford United,Rochdale,3,0,H
+26/10/2019,Fleetwood Town,Milton Keynes Dons,1,0,H
+26/10/2019,Burton Albion,Blackpool,0,0,D
+26/10/2019,Bristol Rovers,Portsmouth,2,2,D
+26/10/2019,Accrington Stanley,Gillingham,0,1,A
+26/10/2019,Southend United,Ipswich Town,1,3,A
+02/11/2019,AFC Wimbledon,Lincoln City,1,1,D
+02/11/2019,Blackpool,Peterborough United,4,3,H
+02/11/2019,Bolton Wanderers,Fleetwood Town,2,1,H
+02/11/2019,Coventry City,Accrington Stanley,0,0,D
+02/11/2019,Doncaster Rovers,Burton Albion,2,2,D
+02/11/2019,Rochdale,Bristol Rovers,1,2,A
+02/11/2019,Gillingham,Rotherham United,0,3,A
+02/11/2019,Milton Keynes Dons,Tranmere Rovers,1,3,A
+02/11/2019,Sunderland,Southend United,1,0,H
+02/11/2019,Wycombe Wanderers,Shrewsbury Town,1,0,H
+02/11/2019,Portsmouth,Oxford United,1,1,D
+05/11/2019,Rochdale,Ipswich Town,0,1,A
+05/11/2019,Shrewsbury Town,Peterborough United,1,0,H
+05/11/2019,Portsmouth,Southend United,4,1,H
+16/11/2019,Gillingham,Lincoln City,1,0,H
+16/11/2019,Bolton Wanderers,Milton Keynes Dons,1,0,H
+16/11/2019,Blackpool,AFC Wimbledon,2,0,H
+16/11/2019,Rotherham United,Accrington Stanley,1,0,H
+16/11/2019,Coventry City,Rochdale,2,1,H
+17/11/2019,Tranmere Rovers,Wycombe Wanderers,0,2,A
+23/11/2019,Shrewsbury Town,Bristol Rovers,3,4,A
+23/11/2019,Southend United,Oxford United,0,4,A
+23/11/2019,Sunderland,Coventry City,1,1,D
+23/11/2019,Accrington Stanley,Bolton Wanderers,7,1,H
+23/11/2019,Fleetwood Town,Tranmere Rovers,2,1,H
+23/11/2019,Wycombe Wanderers,Doncaster Rovers,1,0,H
+23/11/2019,AFC Wimbledon,Gillingham,1,0,H
+23/11/2019,Rochdale,Portsmouth,0,3,A
+23/11/2019,Peterborough United,Burton Albion,1,0,H
+23/11/2019,Milton Keynes Dons,Rotherham United,2,3,A
+23/11/2019,Ipswich Town,Blackpool,2,2,D
+26/11/2019,Ipswich Town,Wycombe Wanderers,0,0,D
+26/11/2019,Portsmouth,Rotherham United,3,2,H
+26/11/2019,Sunderland,Burton Albion,1,2,A
+03/12/2019,Burton Albion,Southend United,1,1,D
+07/12/2019,Portsmouth,Peterborough United,2,2,D
+07/12/2019,Oxford United,Shrewsbury Town,0,0,D
+07/12/2019,Rotherham United,Rochdale,0,1,A
+07/12/2019,Blackpool,Fleetwood Town,3,1,H
+07/12/2019,Gillingham,Sunderland,1,0,H
+07/12/2019,Doncaster Rovers,Milton Keynes Dons,1,1,D
+07/12/2019,Coventry City,Ipswich Town,1,1,D
+07/12/2019,Burton Albion,Lincoln City,0,2,A
+07/12/2019,Bristol Rovers,Southend United,4,2,H
+07/12/2019,Tranmere Rovers,Accrington Stanley,1,1,D
+07/12/2019,Bolton Wanderers,AFC Wimbledon,2,2,D
+14/12/2019,Fleetwood Town,Gillingham,1,1,D
+14/12/2019,Ipswich Town,Bristol Rovers,1,2,A
+14/12/2019,Lincoln City,Tranmere Rovers,1,0,H
+14/12/2019,Milton Keynes Dons,Oxford United,1,0,H
+14/12/2019,Shrewsbury Town,Coventry City,2,1,H
+14/12/2019,Southend United,Rotherham United,2,2,D
+14/12/2019,Sunderland,Blackpool,1,1,D
+14/12/2019,Wycombe Wanderers,Burton Albion,2,0,H
+14/12/2019,Peterborough United,Bolton Wanderers,1,0,H
+14/12/2019,AFC Wimbledon,Doncaster Rovers,2,1,H
+14/12/2019,Accrington Stanley,Portsmouth,4,1,H
+21/12/2019,Blackpool,Shrewsbury Town,0,1,A
+21/12/2019,Rotherham United,Fleetwood Town,2,2,D
+21/12/2019,Portsmouth,Ipswich Town,1,0,H
+21/12/2019,Oxford United,Wycombe Wanderers,1,0,H
+21/12/2019,Doncaster Rovers,Accrington Stanley,1,1,D
+21/12/2019,Coventry City,Lincoln City,1,0,H
+21/12/2019,Burton Albion,Rochdale,3,1,H
+21/12/2019,Bristol Rovers,Peterborough United,0,0,D
+21/12/2019,Bolton Wanderers,Southend United,3,2,H
+21/12/2019,Gillingham,Milton Keynes Dons,3,1,H
+21/12/2019,Tranmere Rovers,AFC Wimbledon,1,0,H
+26/12/2019,Southend United,Milton Keynes Dons,2,2,D
+26/12/2019,Shrewsbury Town,Rotherham United,1,2,A
+26/12/2019,Rochdale,Fleetwood Town,2,3,A
+26/12/2019,Portsmouth,Wycombe Wanderers,2,0,H
+26/12/2019,Sunderland,Bolton Wanderers,0,0,D
+26/12/2019,Peterborough United,Doncaster Rovers,0,3,A
+26/12/2019,Oxford United,Lincoln City,1,0,H
+26/12/2019,Ipswich Town,Gillingham,0,0,D
+26/12/2019,Burton Albion,Tranmere Rovers,4,2,H
+26/12/2019,Blackpool,Accrington Stanley,0,1,A
+26/12/2019,Bristol Rovers,AFC Wimbledon,1,2,A
+29/12/2019,Wycombe Wanderers,Coventry City,1,4,A
+29/12/2019,Tranmere Rovers,Blackpool,1,1,D
+29/12/2019,Rotherham United,Peterborough United,4,0,H
+29/12/2019,Milton Keynes Dons,Portsmouth,3,1,H
+29/12/2019,Lincoln City,Ipswich Town,5,3,H
+29/12/2019,Fleetwood Town,Bristol Rovers,0,0,D
+29/12/2019,Doncaster Rovers,Sunderland,1,2,A
+29/12/2019,Bolton Wanderers,Shrewsbury Town,1,1,D
+29/12/2019,Accrington Stanley,Burton Albion,2,0,H
+29/12/2019,Gillingham,Rochdale,1,0,H
+29/12/2019,AFC Wimbledon,Oxford United,1,2,A
+01/01/2020,Wycombe Wanderers,Ipswich Town,1,1,D
+01/01/2020,Tranmere Rovers,Coventry City,1,4,A
+01/01/2020,Rotherham United,Blackpool,2,1,H
+01/01/2020,Milton Keynes Dons,Bristol Rovers,3,0,H
+01/01/2020,Lincoln City,Peterborough United,2,1,H
+01/01/2020,Gillingham,Portsmouth,1,1,D
+01/01/2020,Fleetwood Town,Sunderland,1,1,D
+01/01/2020,Doncaster Rovers,Oxford United,1,0,H
+01/01/2020,Bolton Wanderers,Burton Albion,3,4,A
+01/01/2020,AFC Wimbledon,Southend United,1,1,D
+01/01/2020,Accrington Stanley,Rochdale,1,2,A
+04/01/2020,Sunderland,Lincoln City,3,1,H
+07/01/2020,Doncaster Rovers,Shrewsbury Town,2,0,H
+11/01/2020,Ipswich Town,Accrington Stanley,4,1,H
+11/01/2020,Oxford United,Rotherham United,1,3,A
+11/01/2020,Burton Albion,Fleetwood Town,1,0,H
+11/01/2020,Peterborough United,Gillingham,0,0,D
+11/01/2020,Portsmouth,AFC Wimbledon,2,1,H
+11/01/2020,Rochdale,Bolton Wanderers,2,0,H
+11/01/2020,Bristol Rovers,Doncaster Rovers,0,2,A
+11/01/2020,Coventry City,Milton Keynes Dons,1,1,D
+11/01/2020,Shrewsbury Town,Lincoln City,1,1,D
+11/01/2020,Southend United,Tranmere Rovers,0,0,D
+11/01/2020,Sunderland,Wycombe Wanderers,4,0,H
+14/01/2020,Burton Albion,Milton Keynes Dons,1,0,H
+14/01/2020,Lincoln City,Bolton Wanderers,5,1,H
+14/01/2020,Oxford United,Ipswich Town,0,0,D
+18/01/2020,Gillingham,Oxford United,1,1,D
+18/01/2020,Bolton Wanderers,Portsmouth,0,1,A
+18/01/2020,Wycombe Wanderers,Rochdale,2,1,H
+18/01/2020,AFC Wimbledon,Peterborough United,1,0,H
+18/01/2020,Lincoln City,Blackpool,1,0,H
+18/01/2020,Milton Keynes Dons,Sunderland,0,1,A
+18/01/2020,Rotherham United,Bristol Rovers,3,0,H
+18/01/2020,Doncaster Rovers,Coventry City,0,1,A
+18/01/2020,Tranmere Rovers,Ipswich Town,1,2,A
+18/01/2020,Fleetwood Town,Shrewsbury Town,2,2,D
+18/01/2020,Accrington Stanley,Southend United,1,2,A
+21/01/2020,Peterborough United,Wycombe Wanderers,4,0,H
+24/01/2020,Sunderland,Doncaster Rovers,0,0,D
+25/01/2020,Peterborough United,Rotherham United,2,1,H
+25/01/2020,Rochdale,Gillingham,2,2,D
+25/01/2020,Burton Albion,Accrington Stanley,1,1,D
+25/01/2020,Bristol Rovers,Fleetwood Town,0,0,D
+25/01/2020,Ipswich Town,Lincoln City,1,0,H
+28/01/2020,AFC Wimbledon,Burton Albion,2,2,D
+28/01/2020,Accrington Stanley,Peterborough United,0,2,A
+28/01/2020,Doncaster Rovers,Southend United,3,1,H
+28/01/2020,Fleetwood Town,Coventry City,0,0,D
+28/01/2020,Lincoln City,Portsmouth,0,2,A
+28/01/2020,Milton Keynes Dons,Rochdale,2,1,H
+28/01/2020,Rotherham United,Ipswich Town,1,0,H
+28/01/2020,Bolton Wanderers,Bristol Rovers,1,1,D
+28/01/2020,Wycombe Wanderers,Blackpool,2,1,H
+29/01/2020,Gillingham,Shrewsbury Town,2,0,H
+29/01/2020,Tranmere Rovers,Sunderland,0,1,A
+01/02/2020,Rotherham United,Burton Albion,3,2,H
+01/02/2020,Portsmouth,Sunderland,2,0,H
+01/02/2020,Oxford United,Blackpool,2,1,H
+01/02/2020,Milton Keynes Dons,Wycombe Wanderers,2,0,H
+01/02/2020,Southend United,Lincoln City,2,1,H
+01/02/2020,Fleetwood Town,Doncaster Rovers,2,1,H
+01/02/2020,Bristol Rovers,Coventry City,1,2,A
+01/02/2020,Bolton Wanderers,Tranmere Rovers,2,0,H
+01/02/2020,Accrington Stanley,AFC Wimbledon,2,1,H
+01/02/2020,Ipswich Town,Peterborough United,1,4,A
+01/02/2020,Rochdale,Shrewsbury Town,1,0,H
+04/02/2020,Tranmere Rovers,Doncaster Rovers,0,3,A
+07/02/2020,Lincoln City,Rotherham United,0,1,A
+08/02/2020,AFC Wimbledon,Fleetwood Town,1,2,A
+08/02/2020,Blackpool,Southend United,2,1,H
+08/02/2020,Tranmere Rovers,Portsmouth,0,2,A
+08/02/2020,Coventry City,Bolton Wanderers,2,1,H
+08/02/2020,Doncaster Rovers,Rochdale,1,1,D
+08/02/2020,Peterborough United,Oxford United,4,0,H
+08/02/2020,Shrewsbury Town,Milton Keynes Dons,1,1,D
+08/02/2020,Sunderland,Ipswich Town,1,0,H
+08/02/2020,Wycombe Wanderers,Bristol Rovers,3,1,H
+08/02/2020,Burton Albion,Gillingham,0,0,D
+11/02/2020,AFC Wimbledon,Ipswich Town,0,0,D
+11/02/2020,Wycombe Wanderers,Fleetwood Town,0,1,A
+11/02/2020,Tranmere Rovers,Bristol Rovers,0,0,D
+11/02/2020,Sunderland,Rochdale,3,0,H
+11/02/2020,Blackpool,Gillingham,2,3,A
+11/02/2020,Shrewsbury Town,Accrington Stanley,0,2,A
+11/02/2020,Burton Albion,Oxford United,2,2,D
+11/02/2020,Coventry City,Portsmouth,1,0,H
+11/02/2020,Doncaster Rovers,Bolton Wanderers,2,1,H
+11/02/2020,Lincoln City,Milton Keynes Dons,1,1,D
+11/02/2020,Peterborough United,Southend United,4,0,H
+15/02/2020,Fleetwood Town,Peterborough United,2,1,H
+15/02/2020,Bristol Rovers,Blackpool,2,1,H
+15/02/2020,Bolton Wanderers,Wycombe Wanderers,0,2,A
+15/02/2020,Accrington Stanley,Lincoln City,4,3,H
+15/02/2020,Rotherham United,AFC Wimbledon,2,2,D
+15/02/2020,Portsmouth,Shrewsbury Town,2,0,H
+15/02/2020,Oxford United,Sunderland,0,1,A
+15/02/2020,Ipswich Town,Burton Albion,4,1,H
+15/02/2020,Southend United,Coventry City,0,2,A
+15/02/2020,Gillingham,Doncaster Rovers,2,1,H
+18/02/2020,Southend United,Gillingham,0,1,A
+18/02/2020,Oxford United,AFC Wimbledon,5,0,H
+22/02/2020,Sunderland,Bristol Rovers,3,0,H
+22/02/2020,Wycombe Wanderers,Tranmere Rovers,3,1,H
+22/02/2020,Milton Keynes Dons,Bolton Wanderers,1,0,H
+22/02/2020,Lincoln City,Gillingham,0,0,D
+22/02/2020,Shrewsbury Town,Doncaster Rovers,1,0,H
+22/02/2020,Southend United,Burton Albion,2,3,A
+22/02/2020,Ipswich Town,Oxford United,0,1,A
+22/02/2020,Fleetwood Town,Portsmouth,1,0,H
+22/02/2020,Accrington Stanley,Rotherham United,1,2,A
+22/02/2020,AFC Wimbledon,Blackpool,0,0,D
+22/02/2020,Rochdale,Coventry City,1,2,A
+25/02/2020,Sunderland,Fleetwood Town,1,1,D
+25/02/2020,Blackpool,Bolton Wanderers,2,1,H
+25/02/2020,Portsmouth,Milton Keynes Dons,3,1,H
+25/02/2020,Coventry City,Rotherham United,1,1,D
+25/02/2020,Oxford United,Accrington Stanley,3,0,H
+25/02/2020,Shrewsbury Town,Tranmere Rovers,2,3,A
+28/02/2020,Portsmouth,Rochdale,3,0,H
+29/02/2020,Bolton Wanderers,Accrington Stanley,0,0,D
+29/02/2020,Bristol Rovers,Shrewsbury Town,0,1,A
+29/02/2020,Burton Albion,Peterborough United,1,1,D
+29/02/2020,Doncaster Rovers,Wycombe Wanderers,3,1,H
+29/02/2020,Gillingham,AFC Wimbledon,1,2,A
+29/02/2020,Blackpool,Ipswich Town,2,1,H
+29/02/2020,Oxford United,Southend United,2,1,H
+29/02/2020,Rotherham United,Milton Keynes Dons,1,1,D
+01/03/2020,Coventry City,Sunderland,1,0,H
+03/03/2020,Ipswich Town,Fleetwood Town,0,1,A
+07/03/2020,Accrington Stanley,Tranmere Rovers,1,2,A
+07/03/2020,AFC Wimbledon,Bolton Wanderers,0,0,D
+07/03/2020,Ipswich Town,Coventry City,0,1,A
+07/03/2020,Southend United,Bristol Rovers,3,1,H
+07/03/2020,Milton Keynes Dons,Doncaster Rovers,0,1,A
+07/03/2020,Shrewsbury Town,Oxford United,2,3,A
+07/03/2020,Fleetwood Town,Blackpool,0,0,D
+07/03/2020,Rochdale,Rotherham United,3,1,H
+07/03/2020,Sunderland,Gillingham,2,2,D
+07/03/2020,Peterborough United,Portsmouth,2,0,H
+07/03/2020,Lincoln City,Burton Albion,3,2,H
+10/03/2020,Portsmouth,Fleetwood Town,2,2,D
+10/03/2020,Blackpool,Tranmere Rovers,1,2,A
+10/03/2020,Bristol Rovers,Sunderland,2,0,H
+10/03/2020,Burton Albion,Bolton Wanderers,2,2,D

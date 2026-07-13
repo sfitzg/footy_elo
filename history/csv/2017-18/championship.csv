@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+04/08/2017,Nottingham Forest,Millwall,1,0,H
+04/08/2017,Sunderland,Derby County,1,1,D
+05/08/2017,Bristol City,Barnsley,3,1,H
+05/08/2017,Burton Albion,Cardiff City,0,1,A
+05/08/2017,Fulham,Norwich City,1,1,D
+05/08/2017,Ipswich Town,Birmingham City,1,0,H
+05/08/2017,Preston North End,Sheffield Wednesday,1,0,H
+05/08/2017,Queens Park Rangers,Reading,2,0,H
+05/08/2017,Sheffield United,Brentford,1,0,H
+05/08/2017,Wolverhampton Wanderers,Middlesbrough,1,0,H
+05/08/2017,Aston Villa,Hull City,1,1,D
+06/08/2017,Bolton Wanderers,Leeds United,2,3,A
+12/08/2017,Barnsley,Ipswich Town,1,2,A
+12/08/2017,Birmingham City,Bristol City,2,1,H
+12/08/2017,Brentford,Nottingham Forest,3,4,A
+12/08/2017,Cardiff City,Aston Villa,3,0,H
+12/08/2017,Derby County,Wolverhampton Wanderers,0,2,A
+12/08/2017,Hull City,Burton Albion,4,1,H
+12/08/2017,Leeds United,Preston North End,0,0,D
+12/08/2017,Millwall,Bolton Wanderers,1,1,D
+12/08/2017,Reading,Fulham,1,1,D
+12/08/2017,Sheffield Wednesday,Queens Park Rangers,1,1,D
+12/08/2017,Middlesbrough,Sheffield United,1,0,H
+13/08/2017,Norwich City,Sunderland,1,3,A
+15/08/2017,Barnsley,Nottingham Forest,2,1,H
+15/08/2017,Birmingham City,Bolton Wanderers,0,0,D
+15/08/2017,Brentford,Bristol City,2,2,D
+15/08/2017,Cardiff City,Sheffield United,2,0,H
+15/08/2017,Derby County,Preston North End,1,0,H
+15/08/2017,Hull City,Wolverhampton Wanderers,2,3,A
+15/08/2017,Leeds United,Fulham,0,0,D
+15/08/2017,Middlesbrough,Burton Albion,2,0,H
+15/08/2017,Millwall,Ipswich Town,3,4,A
+15/08/2017,Reading,Aston Villa,2,1,H
+16/08/2017,Sheffield Wednesday,Sunderland,1,1,D
+16/08/2017,Norwich City,Queens Park Rangers,2,0,H
+18/08/2017,Burton Albion,Birmingham City,2,1,H
+19/08/2017,Sheffield United,Barnsley,1,0,H
+19/08/2017,Aston Villa,Norwich City,4,2,H
+19/08/2017,Bolton Wanderers,Derby County,1,2,A
+19/08/2017,Bristol City,Millwall,0,0,D
+19/08/2017,Fulham,Sheffield Wednesday,0,1,A
+19/08/2017,Ipswich Town,Brentford,2,0,H
+19/08/2017,Nottingham Forest,Middlesbrough,2,1,H
+19/08/2017,Preston North End,Reading,1,0,H
+19/08/2017,Queens Park Rangers,Hull City,2,1,H
+19/08/2017,Wolverhampton Wanderers,Cardiff City,1,2,A
+19/08/2017,Sunderland,Leeds United,0,2,A
+25/08/2017,Hull City,Bolton Wanderers,4,0,H
+25/08/2017,Bristol City,Aston Villa,1,1,D
+26/08/2017,Barnsley,Sunderland,3,0,H
+26/08/2017,Birmingham City,Reading,0,2,A
+26/08/2017,Brentford,Wolverhampton Wanderers,0,0,D
+26/08/2017,Burton Albion,Sheffield Wednesday,1,1,D
+26/08/2017,Cardiff City,Queens Park Rangers,2,1,H
+26/08/2017,Ipswich Town,Fulham,0,2,A
+26/08/2017,Middlesbrough,Preston North End,0,0,D
+26/08/2017,Millwall,Norwich City,4,0,H
+26/08/2017,Sheffield United,Derby County,3,1,H
+26/08/2017,Nottingham Forest,Leeds United,0,2,A
+08/09/2017,Derby County,Hull City,5,0,H
+09/09/2017,Aston Villa,Brentford,0,0,D
+09/09/2017,Bolton Wanderers,Middlesbrough,0,3,A
+09/09/2017,Fulham,Cardiff City,1,1,D
+09/09/2017,Leeds United,Burton Albion,5,0,H
+09/09/2017,Norwich City,Birmingham City,1,0,H
+09/09/2017,Preston North End,Barnsley,1,1,D
+09/09/2017,Queens Park Rangers,Ipswich Town,2,1,H
+09/09/2017,Reading,Bristol City,0,1,A
+09/09/2017,Sunderland,Sheffield United,1,2,A
+09/09/2017,Wolverhampton Wanderers,Millwall,1,0,H
+09/09/2017,Sheffield Wednesday,Nottingham Forest,3,1,H
+12/09/2017,Aston Villa,Middlesbrough,0,0,D
+12/09/2017,Leeds United,Birmingham City,2,0,H
+12/09/2017,Norwich City,Burton Albion,0,0,D
+12/09/2017,Preston North End,Cardiff City,3,0,H
+12/09/2017,Queens Park Rangers,Millwall,2,2,D
+12/09/2017,Sheffield Wednesday,Brentford,2,1,H
+12/09/2017,Sunderland,Nottingham Forest,0,1,A
+12/09/2017,Wolverhampton Wanderers,Bristol City,3,3,D
+12/09/2017,Bolton Wanderers,Sheffield United,0,1,A
+13/09/2017,Fulham,Hull City,2,1,H
+16/09/2017,Sheffield United,Norwich City,0,1,A
+16/09/2017,Nottingham Forest,Wolverhampton Wanderers,1,2,A
+16/09/2017,Birmingham City,Preston North End,1,3,A
+16/09/2017,Brentford,Reading,1,1,D
+16/09/2017,Bristol City,Derby County,4,1,H
+16/09/2017,Burton Albion,Fulham,2,1,H
+16/09/2017,Cardiff City,Sheffield Wednesday,1,1,D
+16/09/2017,Hull City,Sunderland,1,1,D
+16/09/2017,Ipswich Town,Bolton Wanderers,2,0,H
+16/09/2017,Middlesbrough,Queens Park Rangers,3,2,H
+16/09/2017,Millwall,Leeds United,1,0,H
+16/09/2017,Barnsley,Aston Villa,0,3,A
+23/09/2017,Aston Villa,Nottingham Forest,2,1,H
+23/09/2017,Wolverhampton Wanderers,Barnsley,2,1,H
+23/09/2017,Bolton Wanderers,Brentford,0,3,A
+23/09/2017,Derby County,Birmingham City,1,1,D
+23/09/2017,Fulham,Middlesbrough,1,1,D
+23/09/2017,Leeds United,Ipswich Town,3,2,H
+23/09/2017,Norwich City,Bristol City,0,0,D
+23/09/2017,Preston North End,Millwall,0,0,D
+23/09/2017,Queens Park Rangers,Burton Albion,0,0,D
+23/09/2017,Reading,Hull City,1,1,D
+23/09/2017,Sunderland,Cardiff City,1,2,A
+24/09/2017,Sheffield Wednesday,Sheffield United,2,4,A
+26/09/2017,Millwall,Reading,2,1,H
+26/09/2017,Burton Albion,Aston Villa,0,4,A
+26/09/2017,Barnsley,Queens Park Rangers,1,1,D
+26/09/2017,Brentford,Derby County,1,1,D
+26/09/2017,Bristol City,Bolton Wanderers,2,0,H
+26/09/2017,Nottingham Forest,Fulham,1,3,A
+26/09/2017,Cardiff City,Leeds United,3,1,H
+26/09/2017,Hull City,Preston North End,1,2,A
+26/09/2017,Ipswich Town,Sunderland,5,2,H
+26/09/2017,Middlesbrough,Norwich City,0,1,A
+27/09/2017,Sheffield United,Wolverhampton Wanderers,2,0,H
+27/09/2017,Birmingham City,Sheffield Wednesday,1,0,H
+29/09/2017,Queens Park Rangers,Fulham,1,2,A
+30/09/2017,Reading,Norwich City,1,2,A
+30/09/2017,Ipswich Town,Bristol City,1,3,A
+30/09/2017,Aston Villa,Bolton Wanderers,1,0,H
+30/09/2017,Burton Albion,Wolverhampton Wanderers,0,4,A
+30/09/2017,Cardiff City,Derby County,0,0,D
+30/09/2017,Hull City,Birmingham City,6,1,H
+30/09/2017,Nottingham Forest,Sheffield United,2,1,H
+30/09/2017,Middlesbrough,Brentford,2,2,D
+30/09/2017,Millwall,Barnsley,1,3,A
+30/09/2017,Preston North End,Sunderland,2,2,D
+01/10/2017,Sheffield Wednesday,Leeds United,3,0,H
+13/10/2017,Birmingham City,Cardiff City,1,0,H
+13/10/2017,Bristol City,Burton Albion,0,0,D
+14/10/2017,Sunderland,Queens Park Rangers,1,1,D
+14/10/2017,Wolverhampton Wanderers,Aston Villa,2,0,H
+14/10/2017,Barnsley,Middlesbrough,2,2,D
+14/10/2017,Bolton Wanderers,Sheffield Wednesday,2,1,H
+14/10/2017,Brentford,Millwall,1,0,H
+14/10/2017,Fulham,Preston North End,2,2,D
+14/10/2017,Leeds United,Reading,0,1,A
+14/10/2017,Norwich City,Hull City,1,1,D
+14/10/2017,Sheffield United,Ipswich Town,1,0,H
+15/10/2017,Derby County,Nottingham Forest,2,0,H
+21/10/2017,Wolverhampton Wanderers,Preston North End,3,2,H
+21/10/2017,Millwall,Birmingham City,2,0,H
+21/10/2017,Aston Villa,Fulham,2,1,H
+21/10/2017,Barnsley,Hull City,0,1,A
+21/10/2017,Bolton Wanderers,Queens Park Rangers,1,1,D
+21/10/2017,Brentford,Sunderland,3,3,D
+21/10/2017,Bristol City,Leeds United,0,3,A
+21/10/2017,Derby County,Sheffield Wednesday,2,0,H
+21/10/2017,Middlesbrough,Cardiff City,0,1,A
+21/10/2017,Nottingham Forest,Burton Albion,2,0,H
+21/10/2017,Sheffield United,Reading,2,1,H
+22/10/2017,Ipswich Town,Norwich City,0,1,A
+27/10/2017,Leeds United,Sheffield United,1,2,A
+28/10/2017,Norwich City,Derby County,1,2,A
+28/10/2017,Hull City,Nottingham Forest,2,3,A
+28/10/2017,Sheffield Wednesday,Barnsley,1,1,D
+28/10/2017,Burton Albion,Ipswich Town,1,2,A
+28/10/2017,Cardiff City,Millwall,0,0,D
+28/10/2017,Fulham,Bolton Wanderers,1,1,D
+28/10/2017,Sunderland,Bristol City,1,2,A
+28/10/2017,Preston North End,Brentford,2,3,A
+28/10/2017,Queens Park Rangers,Wolverhampton Wanderers,2,1,H
+28/10/2017,Reading,Middlesbrough,0,2,A
+29/10/2017,Birmingham City,Aston Villa,0,0,D
+31/10/2017,Reading,Nottingham Forest,3,1,H
+31/10/2017,Leeds United,Derby County,1,2,A
+31/10/2017,Burton Albion,Barnsley,2,4,A
+31/10/2017,Cardiff City,Ipswich Town,3,1,H
+31/10/2017,Fulham,Bristol City,0,2,A
+31/10/2017,Hull City,Middlesbrough,1,3,A
+31/10/2017,Sunderland,Bolton Wanderers,3,3,D
+31/10/2017,Norwich City,Wolverhampton Wanderers,0,2,A
+31/10/2017,Queens Park Rangers,Sheffield United,1,0,H
+31/10/2017,Sheffield Wednesday,Millwall,2,1,H
+01/11/2017,Preston North End,Aston Villa,0,2,A
+01/11/2017,Birmingham City,Brentford,0,2,A
+03/11/2017,Wolverhampton Wanderers,Fulham,2,0,H
+04/11/2017,Brentford,Leeds United,3,1,H
+04/11/2017,Bolton Wanderers,Norwich City,2,1,H
+04/11/2017,Bristol City,Cardiff City,2,1,H
+04/11/2017,Aston Villa,Sheffield Wednesday,1,2,A
+04/11/2017,Barnsley,Birmingham City,2,0,H
+04/11/2017,Sheffield United,Hull City,4,1,H
+04/11/2017,Derby County,Reading,2,4,A
+04/11/2017,Ipswich Town,Preston North End,3,0,H
+04/11/2017,Millwall,Burton Albion,0,1,A
+04/11/2017,Nottingham Forest,Queens Park Rangers,4,0,H
+05/11/2017,Middlesbrough,Sunderland,1,0,H
+17/11/2017,Burton Albion,Sheffield United,1,3,A
+17/11/2017,Preston North End,Bolton Wanderers,0,0,D
+18/11/2017,Fulham,Derby County,1,1,D
+18/11/2017,Hull City,Ipswich Town,2,2,D
+18/11/2017,Birmingham City,Nottingham Forest,1,0,H
+18/11/2017,Cardiff City,Brentford,2,0,H
+18/11/2017,Sheffield Wednesday,Bristol City,0,0,D
+18/11/2017,Norwich City,Barnsley,1,1,D
+18/11/2017,Queens Park Rangers,Aston Villa,1,2,A
+18/11/2017,Reading,Wolverhampton Wanderers,0,2,A
+18/11/2017,Sunderland,Millwall,2,2,D
+19/11/2017,Leeds United,Middlesbrough,2,1,H
+21/11/2017,Derby County,Queens Park Rangers,2,0,H
+21/11/2017,Bolton Wanderers,Reading,2,2,D
+21/11/2017,Aston Villa,Sunderland,2,1,H
+21/11/2017,Barnsley,Cardiff City,0,1,A
+21/11/2017,Brentford,Burton Albion,1,1,D
+21/11/2017,Bristol City,Preston North End,1,2,A
+21/11/2017,Sheffield United,Fulham,4,5,A
+21/11/2017,Millwall,Hull City,0,0,D
+21/11/2017,Nottingham Forest,Norwich City,1,0,H
+22/11/2017,Middlesbrough,Birmingham City,2,0,H
+22/11/2017,Ipswich Town,Sheffield Wednesday,2,2,D
+22/11/2017,Wolverhampton Wanderers,Leeds United,4,1,H
+25/11/2017,Wolverhampton Wanderers,Bolton Wanderers,5,1,H
+25/11/2017,Fulham,Millwall,1,0,H
+25/11/2017,Barnsley,Leeds United,0,2,A
+25/11/2017,Aston Villa,Ipswich Town,2,0,H
+25/11/2017,Burton Albion,Sunderland,0,2,A
+25/11/2017,Reading,Sheffield Wednesday,0,0,D
+25/11/2017,Hull City,Bristol City,2,3,A
+25/11/2017,Middlesbrough,Derby County,0,3,A
+25/11/2017,Norwich City,Preston North End,1,1,D
+25/11/2017,Sheffield United,Birmingham City,1,1,D
+26/11/2017,Nottingham Forest,Cardiff City,0,2,A
+27/11/2017,Queens Park Rangers,Brentford,2,2,D
+28/11/2017,Reading,Barnsley,3,0,H
+28/11/2017,Derby County,Ipswich Town,0,1,A
+01/12/2017,Leeds United,Aston Villa,1,1,D
+01/12/2017,Cardiff City,Norwich City,3,1,H
+02/12/2017,Bolton Wanderers,Barnsley,3,1,H
+02/12/2017,Brentford,Fulham,3,1,H
+02/12/2017,Derby County,Burton Albion,1,0,H
+02/12/2017,Ipswich Town,Nottingham Forest,4,2,H
+02/12/2017,Millwall,Sheffield United,3,1,H
+02/12/2017,Preston North End,Queens Park Rangers,1,0,H
+02/12/2017,Sheffield Wednesday,Hull City,2,2,D
+02/12/2017,Sunderland,Reading,1,3,A
+02/12/2017,Bristol City,Middlesbrough,2,1,H
+04/12/2017,Birmingham City,Wolverhampton Wanderers,0,1,A
+08/12/2017,Sheffield United,Bristol City,1,2,A
+09/12/2017,Aston Villa,Millwall,0,0,D
+09/12/2017,Barnsley,Derby County,0,3,A
+09/12/2017,Burton Albion,Preston North End,1,2,A
+09/12/2017,Fulham,Birmingham City,1,0,H
+09/12/2017,Hull City,Brentford,3,2,H
+09/12/2017,Middlesbrough,Ipswich Town,2,0,H
+09/12/2017,Nottingham Forest,Bolton Wanderers,3,2,H
+09/12/2017,Queens Park Rangers,Leeds United,1,3,A
+09/12/2017,Wolverhampton Wanderers,Sunderland,0,0,D
+09/12/2017,Norwich City,Sheffield Wednesday,3,1,H
+11/12/2017,Reading,Cardiff City,2,2,D
+15/12/2017,Sheffield Wednesday,Wolverhampton Wanderers,0,1,A
+16/12/2017,Birmingham City,Queens Park Rangers,1,2,A
+16/12/2017,Bolton Wanderers,Burton Albion,0,1,A
+16/12/2017,Brentford,Barnsley,0,0,D
+16/12/2017,Bristol City,Nottingham Forest,2,1,H
+16/12/2017,Derby County,Aston Villa,2,0,H
+16/12/2017,Ipswich Town,Reading,2,0,H
+16/12/2017,Leeds United,Norwich City,1,0,H
+16/12/2017,Millwall,Middlesbrough,2,1,H
+16/12/2017,Preston North End,Sheffield United,1,0,H
+16/12/2017,Sunderland,Fulham,1,0,H
+16/12/2017,Cardiff City,Hull City,1,0,H
+22/12/2017,Norwich City,Brentford,1,2,A
+23/12/2017,Bolton Wanderers,Cardiff City,2,0,H
+23/12/2017,Derby County,Millwall,3,0,H
+23/12/2017,Fulham,Barnsley,2,1,H
+23/12/2017,Leeds United,Hull City,1,0,H
+23/12/2017,Preston North End,Nottingham Forest,1,1,D
+23/12/2017,Queens Park Rangers,Bristol City,1,1,D
+23/12/2017,Reading,Burton Albion,1,2,A
+23/12/2017,Sheffield Wednesday,Middlesbrough,1,2,A
+23/12/2017,Sunderland,Birmingham City,1,1,D
+23/12/2017,Wolverhampton Wanderers,Ipswich Town,1,0,H
+23/12/2017,Aston Villa,Sheffield United,2,2,D
+26/12/2017,Millwall,Wolverhampton Wanderers,2,2,D
+26/12/2017,Barnsley,Preston North End,0,0,D
+26/12/2017,Birmingham City,Norwich City,0,2,A
+26/12/2017,Bristol City,Reading,2,0,H
+26/12/2017,Burton Albion,Leeds United,1,2,A
+26/12/2017,Cardiff City,Fulham,2,4,A
+26/12/2017,Hull City,Derby County,0,0,D
+26/12/2017,Ipswich Town,Queens Park Rangers,0,0,D
+26/12/2017,Middlesbrough,Bolton Wanderers,2,0,H
+26/12/2017,Nottingham Forest,Sheffield Wednesday,0,3,A
+26/12/2017,Sheffield United,Sunderland,3,0,H
+26/12/2017,Brentford,Aston Villa,2,1,H
+29/12/2017,Millwall,Queens Park Rangers,1,0,H
+29/12/2017,Cardiff City,Preston North End,0,1,A
+30/12/2017,Barnsley,Reading,1,1,D
+30/12/2017,Birmingham City,Leeds United,1,0,H
+30/12/2017,Brentford,Sheffield Wednesday,2,0,H
+30/12/2017,Burton Albion,Norwich City,0,0,D
+30/12/2017,Hull City,Fulham,2,2,D
+30/12/2017,Ipswich Town,Derby County,1,2,A
+30/12/2017,Middlesbrough,Aston Villa,0,1,A
+30/12/2017,Nottingham Forest,Sunderland,0,1,A
+30/12/2017,Sheffield United,Bolton Wanderers,0,1,A
+30/12/2017,Bristol City,Wolverhampton Wanderers,1,2,A
+01/01/2018,Bolton Wanderers,Hull City,1,0,H
+01/01/2018,Derby County,Sheffield United,1,1,D
+01/01/2018,Leeds United,Nottingham Forest,0,0,D
+01/01/2018,Norwich City,Millwall,2,1,H
+01/01/2018,Preston North End,Middlesbrough,2,3,A
+01/01/2018,Queens Park Rangers,Cardiff City,2,1,H
+01/01/2018,Sheffield Wednesday,Burton Albion,0,3,A
+01/01/2018,Sunderland,Barnsley,0,1,A
+01/01/2018,Aston Villa,Bristol City,5,0,H
+02/01/2018,Wolverhampton Wanderers,Brentford,3,0,H
+02/01/2018,Reading,Birmingham City,0,2,A
+02/01/2018,Fulham,Ipswich Town,4,1,H
+12/01/2018,Sheffield United,Sheffield Wednesday,0,0,D
+13/01/2018,Cardiff City,Sunderland,4,0,H
+13/01/2018,Barnsley,Wolverhampton Wanderers,0,0,D
+13/01/2018,Birmingham City,Derby County,0,3,A
+13/01/2018,Brentford,Bolton Wanderers,2,0,H
+13/01/2018,Bristol City,Norwich City,0,1,A
+13/01/2018,Burton Albion,Queens Park Rangers,1,3,A
+13/01/2018,Hull City,Reading,0,0,D
+13/01/2018,Ipswich Town,Leeds United,1,0,H
+13/01/2018,Middlesbrough,Fulham,0,1,A
+13/01/2018,Millwall,Preston North End,1,1,D
+13/01/2018,Nottingham Forest,Aston Villa,0,1,A
+19/01/2018,Derby County,Bristol City,0,0,D
+20/01/2018,Aston Villa,Barnsley,3,1,H
+20/01/2018,Bolton Wanderers,Ipswich Town,1,1,D
+20/01/2018,Fulham,Burton Albion,6,0,H
+20/01/2018,Leeds United,Millwall,3,4,A
+20/01/2018,Norwich City,Sheffield United,1,2,A
+20/01/2018,Preston North End,Birmingham City,1,1,D
+20/01/2018,Queens Park Rangers,Middlesbrough,0,3,A
+20/01/2018,Reading,Brentford,0,1,A
+20/01/2018,Sunderland,Hull City,1,0,H
+20/01/2018,Wolverhampton Wanderers,Nottingham Forest,0,2,A
+20/01/2018,Sheffield Wednesday,Cardiff City,0,0,D
+27/01/2018,Barnsley,Fulham,1,3,A
+27/01/2018,Brentford,Norwich City,0,1,A
+27/01/2018,Bristol City,Queens Park Rangers,2,0,H
+27/01/2018,Ipswich Town,Wolverhampton Wanderers,0,1,A
+30/01/2018,Birmingham City,Sunderland,3,1,H
+30/01/2018,Burton Albion,Reading,1,3,A
+30/01/2018,Hull City,Leeds United,0,0,D
+30/01/2018,Middlesbrough,Sheffield Wednesday,0,0,D
+30/01/2018,Millwall,Derby County,0,0,D
+30/01/2018,Nottingham Forest,Preston North End,0,3,A
+30/01/2018,Sheffield United,Aston Villa,0,1,A
+02/02/2018,Bolton Wanderers,Bristol City,1,0,H
+03/02/2018,Wolverhampton Wanderers,Sheffield United,3,0,H
+03/02/2018,Aston Villa,Burton Albion,3,2,H
+03/02/2018,Derby County,Brentford,3,0,H
+03/02/2018,Fulham,Nottingham Forest,2,0,H
+03/02/2018,Leeds United,Cardiff City,1,4,A
+03/02/2018,Norwich City,Middlesbrough,1,0,H
+03/02/2018,Preston North End,Hull City,2,1,H
+03/02/2018,Queens Park Rangers,Barnsley,1,0,H
+03/02/2018,Reading,Millwall,0,2,A
+03/02/2018,Sheffield Wednesday,Birmingham City,1,3,A
+03/02/2018,Sunderland,Ipswich Town,0,2,A
+09/02/2018,Millwall,Cardiff City,1,1,D
+10/02/2018,Wolverhampton Wanderers,Queens Park Rangers,2,1,H
+10/02/2018,Barnsley,Sheffield Wednesday,1,1,D
+10/02/2018,Sheffield United,Leeds United,2,1,H
+10/02/2018,Bolton Wanderers,Fulham,1,1,D
+10/02/2018,Brentford,Preston North End,1,1,D
+10/02/2018,Bristol City,Sunderland,3,3,D
+10/02/2018,Derby County,Norwich City,1,1,D
+10/02/2018,Ipswich Town,Burton Albion,0,0,D
+10/02/2018,Middlesbrough,Reading,2,1,H
+10/02/2018,Nottingham Forest,Hull City,0,2,A
+11/02/2018,Aston Villa,Birmingham City,2,0,H
+13/02/2018,Cardiff City,Bolton Wanderers,2,0,H
+13/02/2018,Sheffield Wednesday,Derby County,2,0,H
+17/02/2018,Birmingham City,Millwall,0,1,A
+17/02/2018,Burton Albion,Nottingham Forest,0,0,D
+17/02/2018,Cardiff City,Middlesbrough,1,0,H
+17/02/2018,Fulham,Aston Villa,2,0,H
+17/02/2018,Preston North End,Wolverhampton Wanderers,1,1,D
+17/02/2018,Queens Park Rangers,Bolton Wanderers,2,0,H
+17/02/2018,Sunderland,Brentford,0,2,A
+18/02/2018,Leeds United,Bristol City,2,2,D
+18/02/2018,Norwich City,Ipswich Town,1,1,D
+20/02/2018,Bolton Wanderers,Sunderland,1,0,H
+20/02/2018,Sheffield United,Queens Park Rangers,2,1,H
+20/02/2018,Aston Villa,Preston North End,1,1,D
+20/02/2018,Barnsley,Burton Albion,1,2,A
+20/02/2018,Brentford,Birmingham City,5,0,H
+20/02/2018,Middlesbrough,Hull City,3,1,H
+20/02/2018,Millwall,Sheffield Wednesday,2,1,H
+20/02/2018,Nottingham Forest,Reading,1,1,D
+21/02/2018,Wolverhampton Wanderers,Norwich City,2,2,D
+21/02/2018,Bristol City,Fulham,1,1,D
+21/02/2018,Derby County,Leeds United,2,2,D
+21/02/2018,Ipswich Town,Cardiff City,0,1,A
+23/02/2018,Hull City,Sheffield United,1,0,H
+24/02/2018,Fulham,Wolverhampton Wanderers,2,0,H
+24/02/2018,Queens Park Rangers,Nottingham Forest,2,5,A
+24/02/2018,Birmingham City,Barnsley,0,2,A
+24/02/2018,Burton Albion,Millwall,0,1,A
+24/02/2018,Leeds United,Brentford,1,0,H
+24/02/2018,Norwich City,Bolton Wanderers,0,0,D
+24/02/2018,Preston North End,Ipswich Town,0,1,A
+24/02/2018,Sunderland,Middlesbrough,3,3,D
+24/02/2018,Reading,Derby County,3,3,D
+24/02/2018,Sheffield Wednesday,Aston Villa,2,4,A
+25/02/2018,Cardiff City,Bristol City,1,0,H
+27/02/2018,Hull City,Barnsley,1,1,D
+27/02/2018,Reading,Sheffield United,1,3,A
+02/03/2018,Middlesbrough,Leeds United,3,0,H
+03/03/2018,Bristol City,Sheffield Wednesday,4,0,H
+03/03/2018,Derby County,Fulham,1,2,A
+03/03/2018,Millwall,Sunderland,1,1,D
+03/03/2018,Nottingham Forest,Birmingham City,2,1,H
+03/03/2018,Bolton Wanderers,Preston North End,1,3,A
+06/03/2018,Reading,Bolton Wanderers,1,1,D
+06/03/2018,Sunderland,Aston Villa,0,3,A
+06/03/2018,Sheffield Wednesday,Ipswich Town,1,2,A
+06/03/2018,Queens Park Rangers,Derby County,1,1,D
+06/03/2018,Preston North End,Bristol City,2,1,H
+06/03/2018,Norwich City,Nottingham Forest,0,0,D
+06/03/2018,Birmingham City,Middlesbrough,0,1,A
+06/03/2018,Burton Albion,Brentford,0,2,A
+06/03/2018,Cardiff City,Barnsley,2,1,H
+06/03/2018,Fulham,Sheffield United,3,0,H
+06/03/2018,Hull City,Millwall,1,2,A
+07/03/2018,Leeds United,Wolverhampton Wanderers,0,3,A
+10/03/2018,Aston Villa,Wolverhampton Wanderers,4,1,H
+10/03/2018,Sheffield Wednesday,Bolton Wanderers,1,1,D
+10/03/2018,Reading,Leeds United,2,2,D
+10/03/2018,Queens Park Rangers,Sunderland,1,0,H
+10/03/2018,Preston North End,Fulham,1,2,A
+10/03/2018,Hull City,Norwich City,4,3,H
+10/03/2018,Burton Albion,Bristol City,0,0,D
+10/03/2018,Cardiff City,Birmingham City,3,2,H
+10/03/2018,Middlesbrough,Barnsley,3,1,H
+10/03/2018,Ipswich Town,Sheffield United,0,0,D
+10/03/2018,Millwall,Brentford,1,0,H
+11/03/2018,Nottingham Forest,Derby County,0,0,D
+13/03/2018,Barnsley,Norwich City,1,1,D
+13/03/2018,Brentford,Cardiff City,1,3,A
+13/03/2018,Ipswich Town,Hull City,0,3,A
+13/03/2018,Sheffield United,Burton Albion,2,0,H
+13/03/2018,Wolverhampton Wanderers,Reading,3,0,H
+13/03/2018,Aston Villa,Queens Park Rangers,1,3,A
+17/03/2018,Fulham,Queens Park Rangers,2,2,D
+17/03/2018,Barnsley,Millwall,0,2,A
+17/03/2018,Birmingham City,Hull City,3,0,H
+17/03/2018,Brentford,Middlesbrough,1,1,D
+17/03/2018,Bristol City,Ipswich Town,1,0,H
+17/03/2018,Leeds United,Sheffield Wednesday,1,2,A
+17/03/2018,Norwich City,Reading,3,2,H
+17/03/2018,Sheffield United,Nottingham Forest,0,0,D
+17/03/2018,Sunderland,Preston North End,0,2,A
+17/03/2018,Wolverhampton Wanderers,Burton Albion,3,1,H
+17/03/2018,Bolton Wanderers,Aston Villa,1,0,H
+30/03/2018,Norwich City,Fulham,0,2,A
+30/03/2018,Millwall,Nottingham Forest,2,0,H
+30/03/2018,Barnsley,Bristol City,2,2,D
+30/03/2018,Brentford,Sheffield United,1,1,D
+30/03/2018,Cardiff City,Burton Albion,3,1,H
+30/03/2018,Leeds United,Bolton Wanderers,2,1,H
+30/03/2018,Reading,Queens Park Rangers,1,0,H
+30/03/2018,Sheffield Wednesday,Preston North End,4,1,H
+30/03/2018,Middlesbrough,Wolverhampton Wanderers,1,2,A
+30/03/2018,Derby County,Sunderland,1,4,A
+31/03/2018,Hull City,Aston Villa,0,0,D
+31/03/2018,Birmingham City,Ipswich Town,1,0,H
+02/04/2018,Preston North End,Derby County,0,1,A
+02/04/2018,Sheffield United,Cardiff City,1,1,D
+02/04/2018,Bristol City,Brentford,0,1,A
+02/04/2018,Burton Albion,Middlesbrough,1,1,D
+02/04/2018,Ipswich Town,Millwall,2,2,D
+02/04/2018,Queens Park Rangers,Norwich City,4,1,H
+02/04/2018,Sunderland,Sheffield Wednesday,1,3,A
+03/04/2018,Aston Villa,Reading,3,0,H
+03/04/2018,Fulham,Leeds United,2,0,H
+03/04/2018,Wolverhampton Wanderers,Hull City,2,2,D
+03/04/2018,Bolton Wanderers,Birmingham City,0,1,A
+06/04/2018,Cardiff City,Wolverhampton Wanderers,0,1,A
+07/04/2018,Sheffield Wednesday,Fulham,0,1,A
+07/04/2018,Reading,Preston North End,1,0,H
+07/04/2018,Barnsley,Sheffield United,3,2,H
+07/04/2018,Norwich City,Aston Villa,3,1,H
+07/04/2018,Birmingham City,Burton Albion,1,1,D
+07/04/2018,Brentford,Ipswich Town,1,0,H
+07/04/2018,Derby County,Bolton Wanderers,3,0,H
+07/04/2018,Hull City,Queens Park Rangers,4,0,H
+07/04/2018,Leeds United,Sunderland,1,1,D
+07/04/2018,Middlesbrough,Nottingham Forest,2,0,H
+07/04/2018,Millwall,Bristol City,2,0,H
+10/04/2018,Nottingham Forest,Brentford,0,1,A
+10/04/2018,Bolton Wanderers,Millwall,0,2,A
+10/04/2018,Aston Villa,Cardiff City,1,0,H
+10/04/2018,Bristol City,Birmingham City,3,1,H
+10/04/2018,Burton Albion,Hull City,0,5,A
+10/04/2018,Fulham,Reading,1,0,H
+10/04/2018,Ipswich Town,Barnsley,1,0,H
+10/04/2018,Sheffield United,Middlesbrough,2,1,H
+10/04/2018,Preston North End,Leeds United,3,1,H
+10/04/2018,Queens Park Rangers,Sheffield Wednesday,4,2,H
+10/04/2018,Sunderland,Norwich City,1,1,D
+11/04/2018,Wolverhampton Wanderers,Derby County,2,0,H
+13/04/2018,Aston Villa,Leeds United,1,0,H
+14/04/2018,Middlesbrough,Bristol City,2,1,H
+14/04/2018,Fulham,Brentford,1,1,D
+14/04/2018,Sheffield United,Millwall,1,1,D
+14/04/2018,Barnsley,Bolton Wanderers,2,2,D
+14/04/2018,Burton Albion,Derby County,3,1,H
+14/04/2018,Hull City,Sheffield Wednesday,0,1,A
+14/04/2018,Reading,Sunderland,2,2,D
+14/04/2018,Norwich City,Cardiff City,0,2,A
+14/04/2018,Nottingham Forest,Ipswich Town,2,1,H
+14/04/2018,Queens Park Rangers,Preston North End,1,2,A
+15/04/2018,Wolverhampton Wanderers,Birmingham City,2,0,H
+20/04/2018,Millwall,Fulham,0,3,A
+21/04/2018,Sunderland,Burton Albion,1,2,A
+21/04/2018,Derby County,Middlesbrough,1,2,A
+21/04/2018,Birmingham City,Sheffield United,2,1,H
+21/04/2018,Bolton Wanderers,Wolverhampton Wanderers,0,4,A
+21/04/2018,Brentford,Queens Park Rangers,2,1,H
+21/04/2018,Bristol City,Hull City,5,5,D
+21/04/2018,Sheffield Wednesday,Reading,3,0,H
+21/04/2018,Ipswich Town,Aston Villa,0,4,A
+21/04/2018,Leeds United,Barnsley,2,1,H
+21/04/2018,Preston North End,Norwich City,0,0,D
+21/04/2018,Cardiff City,Nottingham Forest,2,1,H
+24/04/2018,Derby County,Cardiff City,3,1,H
+24/04/2018,Nottingham Forest,Barnsley,3,0,H
+27/04/2018,Fulham,Sunderland,2,1,H
+28/04/2018,Aston Villa,Derby County,1,1,D
+28/04/2018,Barnsley,Brentford,2,0,H
+28/04/2018,Burton Albion,Bolton Wanderers,2,0,H
+28/04/2018,Hull City,Cardiff City,0,2,A
+28/04/2018,Norwich City,Leeds United,2,1,H
+28/04/2018,Nottingham Forest,Bristol City,0,0,D
+28/04/2018,Queens Park Rangers,Birmingham City,3,1,H
+28/04/2018,Reading,Ipswich Town,0,4,A
+28/04/2018,Sheffield United,Preston North End,0,1,A
+28/04/2018,Wolverhampton Wanderers,Sheffield Wednesday,0,0,D
+28/04/2018,Middlesbrough,Millwall,2,0,H
+06/05/2018,Birmingham City,Fulham,3,1,H
+06/05/2018,Bolton Wanderers,Nottingham Forest,3,2,H
+06/05/2018,Brentford,Hull City,1,1,D
+06/05/2018,Bristol City,Sheffield United,2,3,A
+06/05/2018,Cardiff City,Reading,0,0,D
+06/05/2018,Derby County,Barnsley,4,1,H
+06/05/2018,Ipswich Town,Middlesbrough,2,2,D
+06/05/2018,Leeds United,Queens Park Rangers,2,0,H
+06/05/2018,Millwall,Aston Villa,1,0,H
+06/05/2018,Preston North End,Burton Albion,2,1,H
+06/05/2018,Sheffield Wednesday,Norwich City,5,1,H
+06/05/2018,Sunderland,Wolverhampton Wanderers,3,0,H

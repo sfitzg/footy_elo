@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+08/08/2015,Burton Albion,Scunthorpe United,2,1,H
+08/08/2015,Chesterfield,Barnsley,3,1,H
+08/08/2015,Colchester United,Blackpool,2,2,D
+08/08/2015,Coventry City,Wigan Athletic,2,0,H
+08/08/2015,Crewe Alexandra,Port Vale,0,0,D
+08/08/2015,Doncaster Rovers,Bury,1,1,D
+08/08/2015,Fleetwood Town,Southend United,1,1,D
+08/08/2015,Gillingham,Sheffield United,4,0,H
+08/08/2015,Rochdale,Peterborough United,2,0,H
+08/08/2015,Shrewsbury Town,Millwall,1,2,A
+08/08/2015,Swindon Town,Bradford City,4,1,H
+08/08/2015,Walsall,Oldham Athletic,1,1,D
+15/08/2015,Barnsley,Burton Albion,1,0,H
+15/08/2015,Blackpool,Rochdale,0,2,A
+15/08/2015,Bradford City,Shrewsbury Town,1,1,D
+15/08/2015,Bury,Swindon Town,2,2,D
+15/08/2015,Millwall,Coventry City,0,4,A
+15/08/2015,Oldham Athletic,Fleetwood Town,1,0,H
+15/08/2015,Peterborough United,Colchester United,2,1,H
+15/08/2015,Port Vale,Gillingham,1,1,D
+15/08/2015,Scunthorpe United,Crewe Alexandra,2,0,H
+15/08/2015,Sheffield United,Chesterfield,2,0,H
+15/08/2015,Southend United,Walsall,0,2,A
+16/08/2015,Wigan Athletic,Doncaster Rovers,0,0,D
+18/08/2015,Peterborough United,Sheffield United,1,3,A
+18/08/2015,Blackpool,Burton Albion,1,2,A
+18/08/2015,Bradford City,Gillingham,1,2,A
+18/08/2015,Bury,Fleetwood Town,3,4,A
+18/08/2015,Colchester United,Oldham Athletic,0,0,D
+18/08/2015,Coventry City,Crewe Alexandra,3,2,H
+18/08/2015,Millwall,Barnsley,2,3,A
+18/08/2015,Rochdale,Walsall,1,2,A
+18/08/2015,Shrewsbury Town,Chesterfield,1,2,A
+18/08/2015,Swindon Town,Port Vale,2,2,D
+19/08/2015,Wigan Athletic,Scunthorpe United,3,0,H
+19/08/2015,Doncaster Rovers,Southend United,0,0,D
+22/08/2015,Barnsley,Bradford City,0,0,D
+22/08/2015,Burton Albion,Peterborough United,2,1,H
+22/08/2015,Chesterfield,Rochdale,0,0,D
+22/08/2015,Crewe Alexandra,Bury,3,3,D
+22/08/2015,Fleetwood Town,Colchester United,4,0,H
+22/08/2015,Gillingham,Wigan Athletic,2,0,H
+22/08/2015,Oldham Athletic,Shrewsbury Town,1,1,D
+22/08/2015,Port Vale,Doncaster Rovers,3,0,H
+22/08/2015,Scunthorpe United,Millwall,0,0,D
+22/08/2015,Sheffield United,Blackpool,2,0,H
+22/08/2015,Southend United,Swindon Town,0,1,A
+22/08/2015,Walsall,Coventry City,2,1,H
+29/08/2015,Blackpool,Walsall,0,4,A
+29/08/2015,Bradford City,Port Vale,1,0,H
+29/08/2015,Bury,Oldham Athletic,1,1,D
+29/08/2015,Colchester United,Scunthorpe United,2,2,D
+29/08/2015,Doncaster Rovers,Fleetwood Town,2,0,H
+29/08/2015,Millwall,Chesterfield,0,2,A
+29/08/2015,Peterborough United,Gillingham,1,1,D
+29/08/2015,Rochdale,Barnsley,3,0,H
+29/08/2015,Shrewsbury Town,Burton Albion,0,1,A
+29/08/2015,Swindon Town,Sheffield United,0,2,A
+29/08/2015,Wigan Athletic,Crewe Alexandra,1,0,H
+31/08/2015,Coventry City,Southend United,2,2,D
+05/09/2015,Southend United,Peterborough United,2,1,H
+05/09/2015,Barnsley,Shrewsbury Town,1,2,A
+05/09/2015,Chesterfield,Wigan Athletic,2,3,A
+05/09/2015,Crewe Alexandra,Swindon Town,1,3,A
+05/09/2015,Fleetwood Town,Rochdale,1,1,D
+05/09/2015,Gillingham,Doncaster Rovers,1,0,H
+05/09/2015,Oldham Athletic,Bradford City,1,2,A
+05/09/2015,Scunthorpe United,Blackpool,0,1,A
+05/09/2015,Walsall,Bury,0,1,A
+06/09/2015,Burton Albion,Coventry City,1,2,A
+12/09/2015,Walsall,Doncaster Rovers,2,0,H
+12/09/2015,Southend United,Shrewsbury Town,0,1,A
+12/09/2015,Barnsley,Swindon Town,4,1,H
+12/09/2015,Burton Albion,Rochdale,1,0,H
+12/09/2015,Chesterfield,Colchester United,3,3,D
+12/09/2015,Crewe Alexandra,Millwall,1,3,A
+12/09/2015,Fleetwood Town,Bradford City,1,1,D
+12/09/2015,Gillingham,Blackpool,2,1,H
+12/09/2015,Oldham Athletic,Peterborough United,1,5,A
+12/09/2015,Port Vale,Wigan Athletic,3,2,H
+12/09/2015,Scunthorpe United,Coventry City,1,0,H
+12/09/2015,Sheffield United,Bury,1,3,A
+15/09/2015,Port Vale,Millwall,0,2,A
+15/09/2015,Sheffield United,Colchester United,2,3,A
+19/09/2015,Blackpool,Barnsley,1,1,D
+19/09/2015,Bury,Port Vale,1,0,H
+19/09/2015,Colchester United,Gillingham,2,1,H
+19/09/2015,Coventry City,Chesterfield,1,0,H
+19/09/2015,Doncaster Rovers,Oldham Athletic,1,1,D
+19/09/2015,Millwall,Southend United,0,2,A
+19/09/2015,Peterborough United,Walsall,1,1,D
+19/09/2015,Rochdale,Scunthorpe United,2,1,H
+19/09/2015,Shrewsbury Town,Crewe Alexandra,0,1,A
+19/09/2015,Swindon Town,Burton Albion,0,1,A
+19/09/2015,Wigan Athletic,Fleetwood Town,2,1,H
+20/09/2015,Bradford City,Sheffield United,2,2,D
+26/09/2015,Barnsley,Gillingham,2,0,H
+26/09/2015,Bradford City,Peterborough United,0,2,A
+26/09/2015,Bury,Coventry City,2,1,H
+26/09/2015,Chesterfield,Burton Albion,1,2,A
+26/09/2015,Fleetwood Town,Port Vale,1,2,A
+26/09/2015,Millwall,Rochdale,3,1,H
+26/09/2015,Oldham Athletic,Wigan Athletic,1,1,D
+26/09/2015,Sheffield United,Doncaster Rovers,3,1,H
+26/09/2015,Shrewsbury Town,Blackpool,2,0,H
+26/09/2015,Southend United,Scunthorpe United,2,1,H
+26/09/2015,Swindon Town,Colchester United,1,2,A
+26/09/2015,Walsall,Crewe Alexandra,1,1,D
+29/09/2015,Blackpool,Chesterfield,2,0,H
+29/09/2015,Burton Albion,Sheffield United,0,0,D
+29/09/2015,Colchester United,Bradford City,2,0,H
+29/09/2015,Crewe Alexandra,Southend United,1,2,A
+29/09/2015,Doncaster Rovers,Swindon Town,2,2,D
+29/09/2015,Gillingham,Fleetwood Town,5,1,H
+29/09/2015,Peterborough United,Bury,2,3,A
+29/09/2015,Port Vale,Oldham Athletic,1,1,D
+29/09/2015,Rochdale,Shrewsbury Town,3,2,H
+29/09/2015,Scunthorpe United,Walsall,0,1,A
+29/09/2015,Wigan Athletic,Millwall,2,2,D
+03/10/2015,Scunthorpe United,Fleetwood Town,1,0,H
+03/10/2015,Blackpool,Swindon Town,1,0,H
+03/10/2015,Burton Albion,Southend United,1,0,H
+03/10/2015,Colchester United,Bury,0,1,A
+03/10/2015,Coventry City,Shrewsbury Town,3,0,H
+03/10/2015,Crewe Alexandra,Chesterfield,1,2,A
+03/10/2015,Doncaster Rovers,Barnsley,2,1,H
+03/10/2015,Gillingham,Oldham Athletic,3,3,D
+03/10/2015,Peterborough United,Millwall,5,3,H
+03/10/2015,Port Vale,Sheffield United,2,1,H
+03/10/2015,Rochdale,Bradford City,1,3,A
+03/10/2015,Wigan Athletic,Walsall,0,0,D
+10/10/2015,Walsall,Burton Albion,2,0,H
+10/10/2015,Barnsley,Crewe Alexandra,1,2,A
+10/10/2015,Bury,Wigan Athletic,2,2,D
+10/10/2015,Chesterfield,Gillingham,1,3,A
+10/10/2015,Fleetwood Town,Coventry City,0,1,A
+10/10/2015,Oldham Athletic,Scunthorpe United,2,4,A
+10/10/2015,Sheffield United,Rochdale,3,2,H
+10/10/2015,Shrewsbury Town,Colchester United,4,2,H
+10/10/2015,Southend United,Port Vale,1,0,H
+10/10/2015,Swindon Town,Peterborough United,1,2,A
+17/10/2015,Walsall,Chesterfield,1,2,A
+17/10/2015,Southend United,Barnsley,2,1,H
+17/10/2015,Scunthorpe United,Shrewsbury Town,2,1,H
+17/10/2015,Bury,Rochdale,0,0,D
+17/10/2015,Coventry City,Blackpool,0,0,D
+17/10/2015,Crewe Alexandra,Gillingham,0,1,A
+17/10/2015,Doncaster Rovers,Bradford City,0,1,A
+17/10/2015,Fleetwood Town,Burton Albion,4,0,H
+17/10/2015,Millwall,Swindon Town,2,0,H
+17/10/2015,Oldham Athletic,Sheffield United,1,1,D
+17/10/2015,Port Vale,Peterborough United,1,1,D
+17/10/2015,Wigan Athletic,Colchester United,5,0,H
+20/10/2015,Shrewsbury Town,Doncaster Rovers,1,2,A
+20/10/2015,Sheffield United,Fleetwood Town,3,0,H
+20/10/2015,Rochdale,Coventry City,0,0,D
+20/10/2015,Barnsley,Walsall,0,2,A
+20/10/2015,Blackpool,Millwall,1,1,D
+20/10/2015,Bradford City,Bury,2,1,H
+20/10/2015,Burton Albion,Crewe Alexandra,0,0,D
+20/10/2015,Chesterfield,Southend United,3,0,H
+20/10/2015,Colchester United,Port Vale,2,1,H
+20/10/2015,Gillingham,Scunthorpe United,2,1,H
+20/10/2015,Peterborough United,Wigan Athletic,2,3,A
+20/10/2015,Swindon Town,Oldham Athletic,1,2,A
+24/10/2015,Bradford City,Wigan Athletic,1,1,D
+24/10/2015,Swindon Town,Coventry City,2,2,D
+24/10/2015,Shrewsbury Town,Bury,2,0,H
+24/10/2015,Sheffield United,Millwall,1,2,A
+24/10/2015,Barnsley,Fleetwood Town,0,1,A
+24/10/2015,Blackpool,Crewe Alexandra,2,0,H
+24/10/2015,Rochdale,Oldham Athletic,0,0,D
+24/10/2015,Burton Albion,Port Vale,2,0,H
+24/10/2015,Chesterfield,Scunthorpe United,0,3,A
+24/10/2015,Colchester United,Walsall,4,4,D
+24/10/2015,Gillingham,Southend United,1,1,D
+24/10/2015,Peterborough United,Doncaster Rovers,4,0,H
+27/10/2015,Millwall,Doncaster Rovers,2,0,H
+31/10/2015,Walsall,Gillingham,3,2,H
+31/10/2015,Fleetwood Town,Chesterfield,0,1,A
+31/10/2015,Bury,Blackpool,4,3,H
+31/10/2015,Coventry City,Peterborough United,3,2,H
+31/10/2015,Crewe Alexandra,Sheffield United,1,0,H
+31/10/2015,Doncaster Rovers,Colchester United,2,0,H
+31/10/2015,Wigan Athletic,Swindon Town,1,0,H
+31/10/2015,Millwall,Bradford City,0,0,D
+31/10/2015,Oldham Athletic,Burton Albion,0,1,A
+31/10/2015,Port Vale,Shrewsbury Town,2,0,H
+31/10/2015,Scunthorpe United,Barnsley,2,0,H
+31/10/2015,Southend United,Rochdale,2,2,D
+03/11/2015,Coventry City,Barnsley,4,3,H
+03/11/2015,Bradford City,Blackpool,1,0,H
+14/11/2015,Rochdale,Wigan Athletic,0,2,A
+14/11/2015,Barnsley,Port Vale,1,2,A
+14/11/2015,Blackpool,Doncaster Rovers,0,2,A
+14/11/2015,Bradford City,Crewe Alexandra,2,0,H
+14/11/2015,Chesterfield,Oldham Athletic,1,2,A
+14/11/2015,Colchester United,Coventry City,1,3,A
+14/11/2015,Gillingham,Bury,3,1,H
+14/11/2015,Peterborough United,Fleetwood Town,2,1,H
+14/11/2015,Sheffield United,Southend United,2,2,D
+14/11/2015,Swindon Town,Scunthorpe United,2,1,H
+21/11/2015,Wigan Athletic,Shrewsbury Town,1,0,H
+21/11/2015,Walsall,Sheffield United,1,1,D
+21/11/2015,Bury,Burton Albion,1,0,H
+21/11/2015,Coventry City,Gillingham,4,1,H
+21/11/2015,Crewe Alexandra,Peterborough United,1,5,A
+21/11/2015,Doncaster Rovers,Rochdale,0,2,A
+21/11/2015,Fleetwood Town,Swindon Town,5,1,H
+21/11/2015,Millwall,Colchester United,4,1,H
+21/11/2015,Oldham Athletic,Barnsley,1,2,A
+21/11/2015,Port Vale,Chesterfield,3,2,H
+21/11/2015,Scunthorpe United,Bradford City,0,2,A
+21/11/2015,Southend United,Blackpool,1,0,H
+24/11/2015,Wigan Athletic,Burton Albion,0,1,A
+24/11/2015,Sheffield United,Shrewsbury Town,2,4,A
+24/11/2015,Bradford City,Coventry City,0,0,D
+24/11/2015,Bury,Scunthorpe United,1,2,A
+24/11/2015,Colchester United,Crewe Alexandra,2,3,A
+24/11/2015,Doncaster Rovers,Chesterfield,3,0,H
+24/11/2015,Fleetwood Town,Millwall,2,1,H
+24/11/2015,Gillingham,Rochdale,2,0,H
+24/11/2015,Oldham Athletic,Southend United,2,5,A
+24/11/2015,Peterborough United,Barnsley,3,2,H
+24/11/2015,Port Vale,Blackpool,2,0,H
+24/11/2015,Swindon Town,Walsall,2,1,H
+28/11/2015,Southend United,Wigan Athletic,0,0,D
+28/11/2015,Walsall,Bradford City,2,1,H
+28/11/2015,Barnsley,Sheffield United,1,1,D
+28/11/2015,Blackpool,Fleetwood Town,1,0,H
+28/11/2015,Burton Albion,Colchester United,5,1,H
+28/11/2015,Chesterfield,Swindon Town,0,4,A
+28/11/2015,Coventry City,Doncaster Rovers,2,2,D
+28/11/2015,Crewe Alexandra,Oldham Athletic,1,0,H
+28/11/2015,Millwall,Bury,1,0,H
+28/11/2015,Rochdale,Port Vale,2,1,H
+28/11/2015,Scunthorpe United,Peterborough United,0,4,A
+28/11/2015,Shrewsbury Town,Gillingham,2,2,D
+01/12/2015,Shrewsbury Town,Walsall,1,3,A
+01/12/2015,Burton Albion,Millwall,2,1,H
+12/12/2015,Bury,Chesterfield,1,0,H
+12/12/2015,Colchester United,Barnsley,2,3,A
+12/12/2015,Doncaster Rovers,Crewe Alexandra,3,2,H
+12/12/2015,Gillingham,Burton Albion,0,3,A
+12/12/2015,Peterborough United,Shrewsbury Town,1,1,D
+12/12/2015,Port Vale,Scunthorpe United,1,1,D
+12/12/2015,Swindon Town,Rochdale,2,1,H
+12/12/2015,Wigan Athletic,Blackpool,0,1,A
+13/12/2015,Sheffield United,Coventry City,1,0,H
+18/12/2015,Southend United,Bury,4,1,H
+19/12/2015,Rochdale,Colchester United,3,1,H
+19/12/2015,Scunthorpe United,Sheffield United,0,1,A
+19/12/2015,Shrewsbury Town,Swindon Town,0,1,A
+19/12/2015,Barnsley,Wigan Athletic,0,2,A
+19/12/2015,Blackpool,Peterborough United,2,0,H
+19/12/2015,Burton Albion,Doncaster Rovers,3,3,D
+19/12/2015,Chesterfield,Bradford City,0,1,A
+19/12/2015,Coventry City,Oldham Athletic,1,1,D
+19/12/2015,Crewe Alexandra,Fleetwood Town,1,1,D
+19/12/2015,Millwall,Gillingham,0,3,A
+20/12/2015,Walsall,Port Vale,2,0,H
+26/12/2015,Peterborough United,Chesterfield,2,0,H
+26/12/2015,Shrewsbury Town,Fleetwood Town,1,1,D
+26/12/2015,Coventry City,Port Vale,1,0,H
+26/12/2015,Colchester United,Southend United,0,2,A
+26/12/2015,Swindon Town,Gillingham,1,3,A
+26/12/2015,Doncaster Rovers,Scunthorpe United,0,1,A
+26/12/2015,Millwall,Walsall,0,1,A
+28/12/2015,Sheffield United,Bradford City,3,1,H
+28/12/2015,Scunthorpe United,Rochdale,1,1,D
+28/12/2015,Walsall,Peterborough United,2,0,H
+28/12/2015,Port Vale,Bury,1,0,H
+28/12/2015,Oldham Athletic,Doncaster Rovers,1,2,A
+28/12/2015,Gillingham,Colchester United,1,0,H
+28/12/2015,Fleetwood Town,Wigan Athletic,1,3,A
+28/12/2015,Crewe Alexandra,Shrewsbury Town,1,2,A
+28/12/2015,Southend United,Millwall,0,4,A
+28/12/2015,Barnsley,Blackpool,4,2,H
+28/12/2015,Burton Albion,Swindon Town,1,0,H
+28/12/2015,Chesterfield,Coventry City,1,1,D
+02/01/2016,Scunthorpe United,Wigan Athletic,1,1,D
+02/01/2016,Walsall,Rochdale,0,3,A
+02/01/2016,Southend United,Doncaster Rovers,0,3,A
+02/01/2016,Sheffield United,Peterborough United,2,3,A
+02/01/2016,Oldham Athletic,Colchester United,1,1,D
+02/01/2016,Gillingham,Bradford City,3,0,H
+02/01/2016,Fleetwood Town,Bury,2,0,H
+02/01/2016,Crewe Alexandra,Coventry City,0,5,A
+02/01/2016,Barnsley,Millwall,2,1,H
+02/01/2016,Burton Albion,Blackpool,1,0,H
+02/01/2016,Chesterfield,Shrewsbury Town,7,1,H
+07/01/2016,Wigan Athletic,Gillingham,3,2,H
+09/01/2016,Blackpool,Port Vale,0,1,A
+09/01/2016,Swindon Town,Southend United,4,2,H
+09/01/2016,Rochdale,Chesterfield,2,3,A
+09/01/2016,Oldham Athletic,Millwall,1,2,A
+12/01/2016,Wigan Athletic,Sheffield United,3,3,D
+12/01/2016,Coventry City,Walsall,1,1,D
+16/01/2016,Peterborough United,Southend United,0,0,D
+16/01/2016,Swindon Town,Crewe Alexandra,4,3,H
+16/01/2016,Blackpool,Scunthorpe United,5,0,H
+16/01/2016,Shrewsbury Town,Barnsley,0,3,A
+16/01/2016,Wigan Athletic,Chesterfield,3,1,H
+16/01/2016,Bury,Walsall,2,3,A
+16/01/2016,Colchester United,Sheffield United,1,2,A
+16/01/2016,Doncaster Rovers,Gillingham,2,2,D
+16/01/2016,Coventry City,Burton Albion,0,2,A
+16/01/2016,Bradford City,Oldham Athletic,1,0,H
+17/01/2016,Millwall,Port Vale,3,1,H
+19/01/2016,Colchester United,Fleetwood Town,1,1,D
+23/01/2016,Scunthorpe United,Colchester United,3,0,H
+23/01/2016,Oldham Athletic,Bury,0,1,A
+23/01/2016,Gillingham,Peterborough United,2,1,H
+23/01/2016,Chesterfield,Millwall,1,2,A
+23/01/2016,Burton Albion,Shrewsbury Town,1,2,A
+23/01/2016,Barnsley,Rochdale,6,1,H
+23/01/2016,Fleetwood Town,Doncaster Rovers,0,0,D
+23/01/2016,Walsall,Blackpool,1,1,D
+23/01/2016,Port Vale,Bradford City,1,1,D
+23/01/2016,Crewe Alexandra,Wigan Athletic,1,1,D
+23/01/2016,Sheffield United,Swindon Town,1,1,D
+23/01/2016,Southend United,Coventry City,3,0,H
+26/01/2016,Bradford City,Barnsley,0,1,A
+26/01/2016,Bury,Crewe Alexandra,0,0,D
+26/01/2016,Doncaster Rovers,Port Vale,1,2,A
+26/01/2016,Peterborough United,Burton Albion,0,1,A
+26/01/2016,Shrewsbury Town,Oldham Athletic,0,1,A
+26/01/2016,Blackpool,Sheffield United,0,0,D
+30/01/2016,Bradford City,Fleetwood Town,2,1,H
+30/01/2016,Wigan Athletic,Port Vale,3,0,H
+30/01/2016,Coventry City,Scunthorpe United,1,2,A
+30/01/2016,Swindon Town,Barnsley,0,1,A
+30/01/2016,Millwall,Crewe Alexandra,1,1,D
+30/01/2016,Rochdale,Burton Albion,2,1,H
+30/01/2016,Blackpool,Gillingham,1,0,H
+02/02/2016,Shrewsbury Town,Southend United,1,2,A
+02/02/2016,Port Vale,Swindon Town,1,0,H
+02/02/2016,Doncaster Rovers,Walsall,1,2,A
+06/02/2016,Gillingham,Swindon Town,0,0,D
+06/02/2016,Sheffield United,Wigan Athletic,0,2,A
+06/02/2016,Southend United,Colchester United,3,0,H
+06/02/2016,Walsall,Millwall,0,3,A
+06/02/2016,Crewe Alexandra,Rochdale,2,0,H
+06/02/2016,Burton Albion,Bradford City,3,1,H
+06/02/2016,Chesterfield,Peterborough United,0,1,A
+07/02/2016,Port Vale,Coventry City,1,1,D
+07/02/2016,Barnsley,Bury,3,0,H
+07/02/2016,Fleetwood Town,Shrewsbury Town,0,0,D
+12/02/2016,Burton Albion,Chesterfield,1,0,H
+13/02/2016,Port Vale,Fleetwood Town,0,0,D
+13/02/2016,Coventry City,Bury,6,0,H
+13/02/2016,Scunthorpe United,Southend United,1,0,H
+13/02/2016,Blackpool,Shrewsbury Town,2,3,A
+13/02/2016,Rochdale,Millwall,0,1,A
+13/02/2016,Peterborough United,Bradford City,0,4,A
+13/02/2016,Wigan Athletic,Oldham Athletic,0,0,D
+13/02/2016,Crewe Alexandra,Walsall,1,1,D
+13/02/2016,Colchester United,Swindon Town,1,4,A
+13/02/2016,Gillingham,Barnsley,2,1,H
+13/02/2016,Doncaster Rovers,Sheffield United,0,1,A
+16/02/2016,Blackpool,Oldham Athletic,0,0,D
+16/02/2016,Bradford City,Southend United,2,0,H
+16/02/2016,Millwall,Scunthorpe United,0,2,A
+16/02/2016,Colchester United,Chesterfield,1,1,D
+16/02/2016,Rochdale,Crewe Alexandra,2,2,D
+16/02/2016,Bury,Sheffield United,1,0,H
+20/02/2016,Oldham Athletic,Gillingham,2,1,H
+20/02/2016,Sheffield United,Port Vale,1,0,H
+20/02/2016,Swindon Town,Blackpool,3,2,H
+20/02/2016,Walsall,Wigan Athletic,1,2,A
+20/02/2016,Millwall,Peterborough United,3,0,H
+20/02/2016,Fleetwood Town,Scunthorpe United,2,1,H
+20/02/2016,Barnsley,Doncaster Rovers,1,0,H
+20/02/2016,Bradford City,Rochdale,2,2,D
+20/02/2016,Bury,Colchester United,5,2,H
+20/02/2016,Chesterfield,Crewe Alexandra,3,1,H
+22/02/2016,Southend United,Burton Albion,3,1,H
+23/02/2016,Bury,Barnsley,0,0,D
+23/02/2016,Peterborough United,Oldham Athletic,1,2,A
+23/02/2016,Rochdale,Fleetwood Town,1,0,H
+26/02/2016,Port Vale,Southend United,3,1,H
+27/02/2016,Scunthorpe United,Oldham Athletic,1,1,D
+27/02/2016,Gillingham,Chesterfield,1,2,A
+27/02/2016,Peterborough United,Swindon Town,1,2,A
+27/02/2016,Rochdale,Sheffield United,2,0,H
+27/02/2016,Blackpool,Bradford City,0,1,A
+27/02/2016,Burton Albion,Walsall,0,0,D
+27/02/2016,Colchester United,Shrewsbury Town,0,0,D
+27/02/2016,Coventry City,Fleetwood Town,1,2,A
+27/02/2016,Crewe Alexandra,Barnsley,1,2,A
+27/02/2016,Doncaster Rovers,Millwall,1,1,D
+27/02/2016,Wigan Athletic,Bury,3,0,H
+01/03/2016,Southend United,Crewe Alexandra,1,1,D
+01/03/2016,Swindon Town,Doncaster Rovers,2,0,H
+01/03/2016,Walsall,Scunthorpe United,0,0,D
+01/03/2016,Shrewsbury Town,Rochdale,2,0,H
+01/03/2016,Barnsley,Coventry City,2,0,H
+01/03/2016,Bradford City,Colchester United,1,2,A
+01/03/2016,Bury,Peterborough United,3,1,H
+01/03/2016,Chesterfield,Blackpool,1,1,D
+01/03/2016,Fleetwood Town,Gillingham,2,1,H
+01/03/2016,Millwall,Wigan Athletic,0,0,D
+01/03/2016,Oldham Athletic,Port Vale,1,1,D
+01/03/2016,Sheffield United,Burton Albion,0,1,A
+05/03/2016,Southend United,Chesterfield,0,1,A
+05/03/2016,Scunthorpe United,Gillingham,0,0,D
+05/03/2016,Wigan Athletic,Peterborough United,1,1,D
+05/03/2016,Port Vale,Colchester United,2,0,H
+05/03/2016,Bury,Bradford City,0,0,D
+05/03/2016,Coventry City,Rochdale,0,1,A
+05/03/2016,Crewe Alexandra,Burton Albion,1,1,D
+05/03/2016,Doncaster Rovers,Shrewsbury Town,0,1,A
+05/03/2016,Fleetwood Town,Sheffield United,2,2,D
+05/03/2016,Millwall,Blackpool,3,0,H
+05/03/2016,Walsall,Barnsley,1,3,A
+08/03/2016,Bradford City,Burton Albion,2,0,H
+08/03/2016,Scunthorpe United,Doncaster Rovers,2,0,H
+08/03/2016,Shrewsbury Town,Coventry City,2,1,H
+12/03/2016,Swindon Town,Millwall,2,2,D
+12/03/2016,Sheffield United,Oldham Athletic,3,0,H
+12/03/2016,Barnsley,Southend United,0,2,A
+12/03/2016,Blackpool,Coventry City,0,1,A
+12/03/2016,Bradford City,Doncaster Rovers,2,1,H
+12/03/2016,Burton Albion,Fleetwood Town,2,1,H
+12/03/2016,Chesterfield,Walsall,1,4,A
+12/03/2016,Colchester United,Wigan Athletic,3,3,D
+12/03/2016,Gillingham,Crewe Alexandra,3,0,H
+12/03/2016,Peterborough United,Port Vale,2,3,A
+12/03/2016,Rochdale,Bury,3,0,H
+12/03/2016,Shrewsbury Town,Scunthorpe United,2,2,D
+15/03/2016,Fleetwood Town,Walsall,0,1,A
+15/03/2016,Oldham Athletic,Blackpool,1,0,H
+19/03/2016,Bury,Shrewsbury Town,2,2,D
+19/03/2016,Coventry City,Swindon Town,0,0,D
+19/03/2016,Crewe Alexandra,Blackpool,1,2,A
+19/03/2016,Doncaster Rovers,Peterborough United,1,2,A
+19/03/2016,Fleetwood Town,Barnsley,0,2,A
+19/03/2016,Millwall,Sheffield United,1,0,H
+19/03/2016,Oldham Athletic,Rochdale,2,3,A
+19/03/2016,Port Vale,Burton Albion,0,4,A
+19/03/2016,Scunthorpe United,Chesterfield,1,1,D
+19/03/2016,Southend United,Gillingham,1,1,D
+19/03/2016,Walsall,Colchester United,2,1,H
+19/03/2016,Wigan Athletic,Bradford City,1,0,H
+25/03/2016,Barnsley,Scunthorpe United,0,0,D
+25/03/2016,Blackpool,Bury,1,1,D
+25/03/2016,Colchester United,Doncaster Rovers,4,1,H
+25/03/2016,Rochdale,Southend United,4,1,H
+25/03/2016,Sheffield United,Crewe Alexandra,3,2,H
+25/03/2016,Shrewsbury Town,Port Vale,1,1,D
+25/03/2016,Swindon Town,Wigan Athletic,1,4,A
+25/03/2016,Peterborough United,Coventry City,3,1,H
+26/03/2016,Bradford City,Millwall,1,0,H
+26/03/2016,Chesterfield,Fleetwood Town,0,0,D
+26/03/2016,Burton Albion,Oldham Athletic,0,0,D
+28/03/2016,Millwall,Burton Albion,2,0,H
+28/03/2016,Wigan Athletic,Rochdale,1,0,H
+28/03/2016,Bury,Gillingham,0,1,A
+28/03/2016,Crewe Alexandra,Bradford City,0,1,A
+28/03/2016,Doncaster Rovers,Blackpool,0,1,A
+28/03/2016,Oldham Athletic,Chesterfield,1,0,H
+28/03/2016,Port Vale,Barnsley,0,1,A
+28/03/2016,Scunthorpe United,Swindon Town,6,0,H
+29/03/2016,Coventry City,Colchester United,0,1,A
+30/03/2016,Southend United,Sheffield United,3,1,H
+02/04/2016,Colchester United,Millwall,0,0,D
+02/04/2016,Shrewsbury Town,Wigan Athletic,1,5,A
+02/04/2016,Sheffield United,Walsall,2,0,H
+02/04/2016,Blackpool,Southend United,2,0,H
+02/04/2016,Bradford City,Scunthorpe United,1,0,H
+02/04/2016,Burton Albion,Bury,1,1,D
+02/04/2016,Chesterfield,Port Vale,4,2,H
+02/04/2016,Swindon Town,Fleetwood Town,1,1,D
+02/04/2016,Gillingham,Coventry City,0,0,D
+02/04/2016,Peterborough United,Crewe Alexandra,3,0,H
+02/04/2016,Rochdale,Doncaster Rovers,2,2,D
+05/04/2016,Fleetwood Town,Peterborough United,2,0,H
+05/04/2016,Oldham Athletic,Swindon Town,2,0,H
+09/04/2016,Wigan Athletic,Coventry City,1,0,H
+09/04/2016,Southend United,Fleetwood Town,2,2,D
+09/04/2016,Barnsley,Chesterfield,1,2,A
+09/04/2016,Blackpool,Colchester United,0,1,A
+09/04/2016,Bradford City,Swindon Town,1,0,H
+09/04/2016,Bury,Doncaster Rovers,1,0,H
+09/04/2016,Millwall,Shrewsbury Town,3,1,H
+09/04/2016,Oldham Athletic,Walsall,1,0,H
+09/04/2016,Peterborough United,Rochdale,1,2,A
+09/04/2016,Port Vale,Crewe Alexandra,3,0,H
+09/04/2016,Scunthorpe United,Burton Albion,1,0,H
+09/04/2016,Sheffield United,Gillingham,0,0,D
+12/04/2016,Gillingham,Walsall,1,2,A
+12/04/2016,Barnsley,Oldham Athletic,2,1,H
+16/04/2016,Chesterfield,Sheffield United,0,3,A
+16/04/2016,Burton Albion,Barnsley,0,0,D
+16/04/2016,Colchester United,Peterborough United,1,4,A
+16/04/2016,Coventry City,Millwall,2,1,H
+16/04/2016,Crewe Alexandra,Scunthorpe United,2,3,A
+16/04/2016,Doncaster Rovers,Wigan Athletic,3,1,H
+16/04/2016,Fleetwood Town,Oldham Athletic,1,1,D
+16/04/2016,Gillingham,Port Vale,0,2,A
+16/04/2016,Rochdale,Blackpool,3,0,H
+16/04/2016,Shrewsbury Town,Bradford City,1,1,D
+16/04/2016,Swindon Town,Bury,0,1,A
+16/04/2016,Walsall,Southend United,1,0,H
+19/04/2016,Millwall,Fleetwood Town,1,0,H
+19/04/2016,Barnsley,Peterborough United,1,0,H
+19/04/2016,Burton Albion,Wigan Athletic,1,1,D
+19/04/2016,Chesterfield,Doncaster Rovers,1,1,D
+19/04/2016,Coventry City,Bradford City,1,0,H
+19/04/2016,Crewe Alexandra,Colchester United,1,1,D
+19/04/2016,Walsall,Swindon Town,1,1,D
+19/04/2016,Rochdale,Gillingham,1,1,D
+19/04/2016,Scunthorpe United,Bury,2,1,H
+19/04/2016,Shrewsbury Town,Sheffield United,1,2,A
+19/04/2016,Southend United,Oldham Athletic,0,1,A
+23/04/2016,Wigan Athletic,Southend United,4,1,H
+23/04/2016,Sheffield United,Barnsley,0,0,D
+23/04/2016,Bradford City,Walsall,4,0,H
+23/04/2016,Bury,Millwall,1,3,A
+23/04/2016,Colchester United,Burton Albion,0,3,A
+23/04/2016,Doncaster Rovers,Coventry City,2,0,H
+23/04/2016,Fleetwood Town,Blackpool,0,0,D
+23/04/2016,Gillingham,Shrewsbury Town,2,3,A
+23/04/2016,Oldham Athletic,Crewe Alexandra,1,0,H
+23/04/2016,Peterborough United,Scunthorpe United,0,2,A
+23/04/2016,Port Vale,Rochdale,4,1,H
+23/04/2016,Swindon Town,Chesterfield,1,0,H
+26/04/2016,Walsall,Shrewsbury Town,2,1,H
+30/04/2016,Blackpool,Wigan Athletic,0,4,A
+30/04/2016,Barnsley,Colchester United,2,2,D
+30/04/2016,Burton Albion,Gillingham,2,1,H
+30/04/2016,Chesterfield,Bury,3,0,H
+30/04/2016,Coventry City,Sheffield United,3,1,H
+30/04/2016,Crewe Alexandra,Doncaster Rovers,3,1,H
+30/04/2016,Millwall,Oldham Athletic,3,0,H
+30/04/2016,Rochdale,Swindon Town,2,2,D
+30/04/2016,Scunthorpe United,Port Vale,1,0,H
+30/04/2016,Shrewsbury Town,Peterborough United,3,4,A
+30/04/2016,Southend United,Bradford City,0,1,A
+02/05/2016,Walsall,Fleetwood Town,3,1,H
+08/05/2016,Bradford City,Chesterfield,2,0,H
+08/05/2016,Bury,Southend United,3,2,H
+08/05/2016,Colchester United,Rochdale,1,2,A
+08/05/2016,Doncaster Rovers,Burton Albion,0,0,D
+08/05/2016,Fleetwood Town,Crewe Alexandra,2,0,H
+08/05/2016,Gillingham,Millwall,1,2,A
+08/05/2016,Oldham Athletic,Coventry City,0,2,A
+08/05/2016,Peterborough United,Blackpool,5,1,H
+08/05/2016,Port Vale,Walsall,0,5,A
+08/05/2016,Sheffield United,Scunthorpe United,0,2,A
+08/05/2016,Swindon Town,Shrewsbury Town,3,0,H
+08/05/2016,Wigan Athletic,Barnsley,1,4,A

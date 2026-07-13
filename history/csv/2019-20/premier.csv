@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+17/06/2019,Aston Villa,Sheffield United,0,0,D
+17/06/2019,Manchester City,Arsenal,3,0,H
+19/06/2019,Norwich City,Southampton,0,3,A
+19/06/2019,Tottenham Hotspur,Manchester United,1,1,D
+20/06/2019,Brighton & Hove Albion,Arsenal,2,1,H
+20/06/2019,West Ham United,Wolverhampton Wanderers,0,2,A
+20/06/2019,AFC Bournemouth,Crystal Palace,0,2,A
+20/06/2019,Watford,Leicester City,1,1,D
+21/06/2019,Newcastle United,Sheffield United,3,0,H
+21/06/2019,Aston Villa,Chelsea,1,2,A
+21/06/2019,Everton,Liverpool,0,0,D
+22/06/2019,Manchester City,Burnley,5,0,H
+23/06/2019,Tottenham Hotspur,West Ham United,2,0,H
+23/06/2019,Leicester City,Brighton & Hove Albion,0,0,D
+24/06/2019,Manchester United,Sheffield United,3,0,H
+24/06/2019,Newcastle United,Aston Villa,1,1,D
+24/06/2019,Norwich City,Everton,0,1,A
+24/06/2019,Wolverhampton Wanderers,AFC Bournemouth,1,0,H
+24/06/2019,Liverpool,Crystal Palace,4,0,H
+25/06/2019,Southampton,Arsenal,0,2,A
+25/06/2019,Chelsea,Manchester City,2,1,H
+25/06/2019,Burnley,Watford,1,0,H
+27/06/2019,Aston Villa,Wolverhampton Wanderers,0,1,A
+28/06/2019,Watford,Southampton,1,3,A
+29/06/2019,Crystal Palace,Burnley,0,1,A
+30/06/2019,Brighton & Hove Albion,Manchester United,0,3,A
+01/07/2019,AFC Bournemouth,Newcastle United,1,4,A
+01/07/2019,Arsenal,Norwich City,4,0,H
+01/07/2019,Everton,Leicester City,2,1,H
+01/07/2019,West Ham United,Chelsea,3,2,H
+02/07/2019,Manchester City,Liverpool,4,0,H
+02/07/2019,Sheffield United,Tottenham Hotspur,3,1,H
+04/07/2019,Norwich City,Brighton & Hove Albion,0,1,A
+04/07/2019,Leicester City,Crystal Palace,3,0,H
+04/07/2019,Manchester United,AFC Bournemouth,5,2,H
+04/07/2019,Wolverhampton Wanderers,Arsenal,0,2,A
+04/07/2019,Chelsea,Watford,3,0,H
+05/07/2019,Newcastle United,West Ham United,2,2,D
+05/07/2019,Liverpool,Aston Villa,2,0,H
+05/07/2019,Southampton,Manchester City,1,0,H
+05/07/2019,Burnley,Sheffield United,1,1,D
+06/07/2019,Tottenham Hotspur,Everton,1,0,H
+07/07/2019,Watford,Norwich City,2,1,H
+07/07/2019,Arsenal,Leicester City,1,1,D
+07/07/2019,Crystal Palace,Chelsea,2,3,A
+08/07/2019,Manchester City,Newcastle United,5,0,H
+08/07/2019,Sheffield United,Wolverhampton Wanderers,1,0,H
+08/07/2019,West Ham United,Burnley,0,1,A
+08/07/2019,Brighton & Hove Albion,Liverpool,1,3,A
+09/07/2019,Everton,Southampton,1,1,D
+09/07/2019,Aston Villa,Manchester United,0,3,A
+09/07/2019,AFC Bournemouth,Tottenham Hotspur,0,0,D
+11/07/2019,Watford,Newcastle United,2,1,H
+11/07/2019,Liverpool,Burnley,1,1,D
+11/07/2019,Sheffield United,Chelsea,3,0,H
+11/07/2019,Brighton & Hove Albion,Manchester City,0,5,A
+11/07/2019,Norwich City,West Ham United,0,4,A
+12/07/2019,Wolverhampton Wanderers,Everton,3,0,H
+12/07/2019,Aston Villa,Crystal Palace,2,0,H
+12/07/2019,Tottenham Hotspur,Arsenal,2,1,H
+12/07/2019,AFC Bournemouth,Leicester City,4,1,H
+13/07/2019,Manchester United,Southampton,2,2,D
+14/07/2019,Chelsea,Norwich City,1,0,H
+15/07/2019,Manchester City,AFC Bournemouth,2,1,H
+15/07/2019,Newcastle United,Tottenham Hotspur,1,3,A
+15/07/2019,Arsenal,Liverpool,2,1,H
+15/07/2019,Burnley,Wolverhampton Wanderers,1,1,D
+16/07/2019,Everton,Aston Villa,1,1,D
+16/07/2019,Leicester City,Sheffield United,2,0,H
+16/07/2019,Crystal Palace,Manchester United,0,2,A
+16/07/2019,Southampton,Brighton & Hove Albion,1,1,D
+17/07/2019,West Ham United,Watford,3,1,H
+18/07/2019,Norwich City,Burnley,0,2,A
+19/07/2019,Tottenham Hotspur,Leicester City,3,0,H
+19/07/2019,AFC Bournemouth,Southampton,0,2,A
+20/07/2019,Brighton & Hove Albion,Newcastle United,0,0,D
+20/07/2019,Sheffield United,Everton,0,1,A
+20/07/2019,Wolverhampton Wanderers,Crystal Palace,2,0,H
+21/07/2019,Aston Villa,Arsenal,1,0,H
+21/07/2019,Watford,Manchester City,0,4,A
+22/07/2019,Manchester United,West Ham United,1,1,D
+22/07/2019,Liverpool,Chelsea,5,3,H
+26/07/2019,Arsenal,Watford,3,2,H
+26/07/2019,Burnley,Brighton & Hove Albion,1,2,A
+26/07/2019,Chelsea,Wolverhampton Wanderers,2,0,H
+26/07/2019,Crystal Palace,Tottenham Hotspur,1,1,D
+26/07/2019,Everton,AFC Bournemouth,1,3,A
+26/07/2019,Leicester City,Manchester United,0,2,A
+26/07/2019,Manchester City,Norwich City,5,0,H
+26/07/2019,Newcastle United,Liverpool,1,3,A
+26/07/2019,Southampton,Sheffield United,3,1,H
+26/07/2019,West Ham United,Aston Villa,1,1,D
+09/08/2019,Liverpool,Norwich City,4,1,H
+10/08/2019,West Ham United,Manchester City,0,5,A
+10/08/2019,AFC Bournemouth,Sheffield United,1,1,D
+10/08/2019,Burnley,Southampton,3,0,H
+10/08/2019,Crystal Palace,Everton,0,0,D
+10/08/2019,Watford,Brighton & Hove Albion,0,3,A
+10/08/2019,Tottenham Hotspur,Aston Villa,3,1,H
+11/08/2019,Newcastle United,Arsenal,0,1,A
+11/08/2019,Manchester United,Chelsea,4,0,H
+11/08/2019,Leicester City,Wolverhampton Wanderers,0,0,D
+17/08/2019,Arsenal,Burnley,2,1,H
+17/08/2019,Aston Villa,AFC Bournemouth,1,2,A
+17/08/2019,Brighton & Hove Albion,West Ham United,1,1,D
+17/08/2019,Everton,Watford,1,0,H
+17/08/2019,Norwich City,Newcastle United,3,1,H
+17/08/2019,Southampton,Liverpool,1,2,A
+17/08/2019,Manchester City,Tottenham Hotspur,2,2,D
+18/08/2019,Chelsea,Leicester City,1,1,D
+18/08/2019,Sheffield United,Crystal Palace,1,0,H
+19/08/2019,Wolverhampton Wanderers,Manchester United,1,1,D
+23/08/2019,Aston Villa,Everton,2,0,H
+24/08/2019,Norwich City,Chelsea,2,3,A
+24/08/2019,Brighton & Hove Albion,Southampton,0,2,A
+24/08/2019,Manchester United,Crystal Palace,1,2,A
+24/08/2019,Sheffield United,Leicester City,1,2,A
+24/08/2019,Watford,West Ham United,1,3,A
+24/08/2019,Liverpool,Arsenal,3,1,H
+25/08/2019,Tottenham Hotspur,Newcastle United,0,1,A
+25/08/2019,Wolverhampton Wanderers,Burnley,1,1,D
+25/08/2019,AFC Bournemouth,Manchester City,1,3,A
+31/08/2019,Southampton,Manchester United,1,1,D
+31/08/2019,Chelsea,Sheffield United,2,2,D
+31/08/2019,Crystal Palace,Aston Villa,1,0,H
+31/08/2019,Leicester City,AFC Bournemouth,3,1,H
+31/08/2019,Manchester City,Brighton & Hove Albion,4,0,H
+31/08/2019,Newcastle United,Watford,1,1,D
+31/08/2019,West Ham United,Norwich City,2,0,H
+31/08/2019,Burnley,Liverpool,0,3,A
+01/09/2019,Arsenal,Tottenham Hotspur,2,2,D
+01/09/2019,Everton,Wolverhampton Wanderers,3,2,H
+14/09/2019,Liverpool,Newcastle United,3,1,H
+14/09/2019,Brighton & Hove Albion,Burnley,1,1,D
+14/09/2019,Manchester United,Leicester City,1,0,H
+14/09/2019,Sheffield United,Southampton,0,1,A
+14/09/2019,Tottenham Hotspur,Crystal Palace,4,0,H
+14/09/2019,Wolverhampton Wanderers,Chelsea,2,5,A
+14/09/2019,Norwich City,Manchester City,3,2,H
+15/09/2019,Watford,Arsenal,2,2,D
+15/09/2019,AFC Bournemouth,Everton,3,1,H
+16/09/2019,Aston Villa,West Ham United,0,0,D
+20/09/2019,Southampton,AFC Bournemouth,1,3,A
+21/09/2019,Leicester City,Tottenham Hotspur,2,1,H
+21/09/2019,Burnley,Norwich City,2,0,H
+21/09/2019,Everton,Sheffield United,0,2,A
+21/09/2019,Manchester City,Watford,8,0,H
+21/09/2019,Newcastle United,Brighton & Hove Albion,0,0,D
+22/09/2019,Crystal Palace,Wolverhampton Wanderers,1,1,D
+22/09/2019,West Ham United,Manchester United,2,0,H
+22/09/2019,Arsenal,Aston Villa,3,2,H
+22/09/2019,Chelsea,Liverpool,1,2,A
+28/09/2019,Sheffield United,Liverpool,0,1,A
+28/09/2019,AFC Bournemouth,West Ham United,2,2,D
+28/09/2019,Aston Villa,Burnley,2,2,D
+28/09/2019,Chelsea,Brighton & Hove Albion,2,0,H
+28/09/2019,Crystal Palace,Norwich City,2,0,H
+28/09/2019,Tottenham Hotspur,Southampton,2,1,H
+28/09/2019,Wolverhampton Wanderers,Watford,2,0,H
+28/09/2019,Everton,Manchester City,1,3,A
+29/09/2019,Leicester City,Newcastle United,5,0,H
+30/09/2019,Manchester United,Arsenal,1,1,D
+05/10/2019,Brighton & Hove Albion,Tottenham Hotspur,3,0,H
+05/10/2019,Burnley,Everton,1,0,H
+05/10/2019,Liverpool,Leicester City,2,1,H
+05/10/2019,Norwich City,Aston Villa,1,5,A
+05/10/2019,Watford,Sheffield United,0,0,D
+05/10/2019,West Ham United,Crystal Palace,1,2,A
+06/10/2019,Manchester City,Wolverhampton Wanderers,0,2,A
+06/10/2019,Southampton,Chelsea,1,4,A
+06/10/2019,Newcastle United,Manchester United,1,0,H
+06/10/2019,Arsenal,AFC Bournemouth,1,0,H
+19/10/2019,Everton,West Ham United,2,0,H
+19/10/2019,AFC Bournemouth,Norwich City,0,0,D
+19/10/2019,Aston Villa,Brighton & Hove Albion,2,1,H
+19/10/2019,Chelsea,Newcastle United,1,0,H
+19/10/2019,Leicester City,Burnley,2,1,H
+19/10/2019,Tottenham Hotspur,Watford,1,1,D
+19/10/2019,Wolverhampton Wanderers,Southampton,1,1,D
+19/10/2019,Crystal Palace,Manchester City,0,2,A
+20/10/2019,Manchester United,Liverpool,1,1,D
+21/10/2019,Sheffield United,Arsenal,1,0,H
+25/10/2019,Southampton,Leicester City,0,9,A
+26/10/2019,Manchester City,Aston Villa,3,0,H
+26/10/2019,Brighton & Hove Albion,Everton,3,2,H
+26/10/2019,Watford,AFC Bournemouth,0,0,D
+26/10/2019,West Ham United,Sheffield United,1,1,D
+26/10/2019,Burnley,Chelsea,2,4,A
+27/10/2019,Arsenal,Crystal Palace,2,2,D
+27/10/2019,Liverpool,Tottenham Hotspur,2,1,H
+27/10/2019,Norwich City,Manchester United,1,3,A
+27/10/2019,Newcastle United,Wolverhampton Wanderers,1,1,D
+02/11/2019,AFC Bournemouth,Manchester United,1,0,H
+02/11/2019,Arsenal,Wolverhampton Wanderers,1,1,D
+02/11/2019,Aston Villa,Liverpool,1,2,A
+02/11/2019,Brighton & Hove Albion,Norwich City,2,0,H
+02/11/2019,Manchester City,Southampton,2,1,H
+02/11/2019,Sheffield United,Burnley,3,0,H
+02/11/2019,West Ham United,Newcastle United,2,3,A
+02/11/2019,Watford,Chelsea,1,2,A
+03/11/2019,Everton,Tottenham Hotspur,1,1,D
+03/11/2019,Crystal Palace,Leicester City,0,2,A
+08/11/2019,Norwich City,Watford,0,2,A
+09/11/2019,Chelsea,Crystal Palace,2,0,H
+09/11/2019,Burnley,West Ham United,3,0,H
+09/11/2019,Newcastle United,AFC Bournemouth,2,1,H
+09/11/2019,Southampton,Everton,1,2,A
+09/11/2019,Tottenham Hotspur,Sheffield United,1,1,D
+09/11/2019,Leicester City,Arsenal,2,0,H
+10/11/2019,Manchester United,Brighton & Hove Albion,3,1,H
+10/11/2019,Wolverhampton Wanderers,Aston Villa,2,1,H
+10/11/2019,Liverpool,Manchester City,3,1,H
+23/11/2019,West Ham United,Tottenham Hotspur,2,3,A
+23/11/2019,AFC Bournemouth,Wolverhampton Wanderers,1,2,A
+23/11/2019,Arsenal,Southampton,2,2,D
+23/11/2019,Brighton & Hove Albion,Leicester City,0,2,A
+23/11/2019,Crystal Palace,Liverpool,1,2,A
+23/11/2019,Everton,Norwich City,0,2,A
+23/11/2019,Watford,Burnley,0,3,A
+23/11/2019,Manchester City,Chelsea,2,1,H
+24/11/2019,Sheffield United,Manchester United,3,3,D
+25/11/2019,Aston Villa,Newcastle United,2,0,H
+30/11/2019,Newcastle United,Manchester City,2,2,D
+30/11/2019,Burnley,Crystal Palace,0,2,A
+30/11/2019,Chelsea,West Ham United,0,1,A
+30/11/2019,Liverpool,Brighton & Hove Albion,2,1,H
+30/11/2019,Tottenham Hotspur,AFC Bournemouth,3,2,H
+30/11/2019,Southampton,Watford,2,1,H
+01/12/2019,Wolverhampton Wanderers,Sheffield United,1,1,D
+01/12/2019,Leicester City,Everton,2,1,H
+01/12/2019,Manchester United,Aston Villa,2,2,D
+01/12/2019,Norwich City,Arsenal,2,2,D
+03/12/2019,Burnley,Manchester City,1,4,A
+03/12/2019,Crystal Palace,AFC Bournemouth,1,0,H
+04/12/2019,Leicester City,Watford,2,0,H
+04/12/2019,Wolverhampton Wanderers,West Ham United,2,0,H
+04/12/2019,Manchester United,Tottenham Hotspur,2,1,H
+04/12/2019,Chelsea,Aston Villa,2,1,H
+04/12/2019,Southampton,Norwich City,2,1,H
+04/12/2019,Liverpool,Everton,5,2,H
+05/12/2019,Arsenal,Brighton & Hove Albion,1,2,A
+05/12/2019,Sheffield United,Newcastle United,0,2,A
+07/12/2019,AFC Bournemouth,Liverpool,0,3,A
+07/12/2019,Tottenham Hotspur,Burnley,5,0,H
+07/12/2019,Watford,Crystal Palace,0,0,D
+07/12/2019,Manchester City,Manchester United,1,2,A
+07/12/2019,Everton,Chelsea,3,1,H
+08/12/2019,Aston Villa,Leicester City,1,4,A
+08/12/2019,Newcastle United,Southampton,2,1,H
+08/12/2019,Norwich City,Sheffield United,1,2,A
+08/12/2019,Brighton & Hove Albion,Wolverhampton Wanderers,2,2,D
+09/12/2019,West Ham United,Arsenal,1,3,A
+14/12/2019,Liverpool,Watford,2,0,H
+14/12/2019,Burnley,Newcastle United,1,0,H
+14/12/2019,Chelsea,AFC Bournemouth,0,1,A
+14/12/2019,Leicester City,Norwich City,1,1,D
+14/12/2019,Sheffield United,Aston Villa,2,0,H
+14/12/2019,Southampton,West Ham United,0,1,A
+15/12/2019,Wolverhampton Wanderers,Tottenham Hotspur,1,2,A
+15/12/2019,Arsenal,Manchester City,0,3,A
+15/12/2019,Manchester United,Everton,1,1,D
+16/12/2019,Crystal Palace,Brighton & Hove Albion,1,1,D
+21/12/2019,Everton,Arsenal,0,0,D
+21/12/2019,AFC Bournemouth,Burnley,0,1,A
+21/12/2019,Aston Villa,Southampton,1,3,A
+21/12/2019,Brighton & Hove Albion,Sheffield United,0,1,A
+21/12/2019,Newcastle United,Crystal Palace,1,0,H
+21/12/2019,Norwich City,Wolverhampton Wanderers,1,2,A
+21/12/2019,Manchester City,Leicester City,3,1,H
+22/12/2019,Tottenham Hotspur,Chelsea,0,2,A
+22/12/2019,Watford,Manchester United,2,0,H
+26/12/2019,Leicester City,Liverpool,0,4,A
+26/12/2019,Tottenham Hotspur,Brighton & Hove Albion,2,1,H
+26/12/2019,AFC Bournemouth,Arsenal,1,1,D
+26/12/2019,Aston Villa,Norwich City,1,0,H
+26/12/2019,Chelsea,Southampton,0,2,A
+26/12/2019,Crystal Palace,West Ham United,2,1,H
+26/12/2019,Everton,Burnley,1,0,H
+26/12/2019,Sheffield United,Watford,1,1,D
+26/12/2019,Manchester United,Newcastle United,4,1,H
+27/12/2019,Wolverhampton Wanderers,Manchester City,3,2,H
+28/12/2019,Burnley,Manchester United,0,2,A
+28/12/2019,Brighton & Hove Albion,AFC Bournemouth,2,0,H
+28/12/2019,Newcastle United,Everton,1,2,A
+28/12/2019,Southampton,Crystal Palace,1,1,D
+28/12/2019,Watford,Aston Villa,3,0,H
+28/12/2019,Norwich City,Tottenham Hotspur,2,2,D
+28/12/2019,West Ham United,Leicester City,1,2,A
+29/12/2019,Arsenal,Chelsea,1,2,A
+29/12/2019,Liverpool,Wolverhampton Wanderers,1,0,H
+29/12/2019,Manchester City,Sheffield United,2,0,H
+01/01/2020,Norwich City,Crystal Palace,1,1,D
+01/01/2020,Brighton & Hove Albion,Chelsea,1,1,D
+01/01/2020,Burnley,Aston Villa,1,2,A
+01/01/2020,Newcastle United,Leicester City,0,3,A
+01/01/2020,Southampton,Tottenham Hotspur,1,0,H
+01/01/2020,Watford,Wolverhampton Wanderers,2,1,H
+01/01/2020,Manchester City,Everton,2,1,H
+01/01/2020,Arsenal,Manchester United,2,0,H
+01/01/2020,West Ham United,AFC Bournemouth,4,0,H
+02/01/2020,Liverpool,Sheffield United,2,0,H
+10/01/2020,Sheffield United,West Ham United,1,0,H
+11/01/2020,Tottenham Hotspur,Liverpool,0,1,A
+11/01/2020,Crystal Palace,Arsenal,1,1,D
+11/01/2020,Chelsea,Burnley,3,0,H
+11/01/2020,Everton,Brighton & Hove Albion,1,0,H
+11/01/2020,Leicester City,Southampton,1,2,A
+11/01/2020,Manchester United,Norwich City,4,0,H
+11/01/2020,Wolverhampton Wanderers,Newcastle United,1,1,D
+12/01/2020,AFC Bournemouth,Watford,0,3,A
+12/01/2020,Aston Villa,Manchester City,1,6,A
+18/01/2020,Watford,Tottenham Hotspur,0,0,D
+18/01/2020,Arsenal,Sheffield United,1,1,D
+18/01/2020,Brighton & Hove Albion,Aston Villa,1,1,D
+18/01/2020,Manchester City,Crystal Palace,2,2,D
+18/01/2020,Norwich City,AFC Bournemouth,1,0,H
+18/01/2020,Southampton,Wolverhampton Wanderers,2,3,A
+18/01/2020,West Ham United,Everton,1,1,D
+18/01/2020,Newcastle United,Chelsea,1,0,H
+19/01/2020,Liverpool,Manchester United,2,0,H
+19/01/2020,Burnley,Leicester City,2,1,H
+21/01/2020,AFC Bournemouth,Brighton & Hove Albion,3,1,H
+21/01/2020,Aston Villa,Watford,2,1,H
+21/01/2020,Everton,Newcastle United,2,2,D
+21/01/2020,Sheffield United,Manchester City,0,1,A
+21/01/2020,Crystal Palace,Southampton,0,2,A
+21/01/2020,Chelsea,Arsenal,2,2,D
+22/01/2020,Manchester United,Burnley,0,2,A
+22/01/2020,Leicester City,West Ham United,4,1,H
+22/01/2020,Tottenham Hotspur,Norwich City,2,1,H
+23/01/2020,Wolverhampton Wanderers,Liverpool,1,2,A
+29/01/2020,West Ham United,Liverpool,0,2,A
+01/02/2020,Leicester City,Chelsea,2,2,D
+01/02/2020,AFC Bournemouth,Aston Villa,2,1,H
+01/02/2020,Crystal Palace,Sheffield United,0,1,A
+01/02/2020,Liverpool,Southampton,4,0,H
+01/02/2020,Newcastle United,Norwich City,0,0,D
+01/02/2020,Watford,Everton,2,3,A
+01/02/2020,West Ham United,Brighton & Hove Albion,3,3,D
+01/02/2020,Manchester United,Wolverhampton Wanderers,0,0,D
+02/02/2020,Tottenham Hotspur,Manchester City,2,0,H
+02/02/2020,Burnley,Arsenal,0,0,D
+08/02/2020,Brighton & Hove Albion,Watford,1,1,D
+08/02/2020,Everton,Crystal Palace,3,1,H
+09/02/2020,Sheffield United,AFC Bournemouth,2,1,H
+14/02/2020,Wolverhampton Wanderers,Leicester City,0,0,D
+15/02/2020,Norwich City,Liverpool,0,1,A
+15/02/2020,Southampton,Burnley,1,2,A
+16/02/2020,Aston Villa,Tottenham Hotspur,2,3,A
+16/02/2020,Arsenal,Newcastle United,4,0,H
+17/02/2020,Chelsea,Manchester United,0,2,A
+19/02/2020,Manchester City,West Ham United,2,0,H
+22/02/2020,Burnley,AFC Bournemouth,3,0,H
+22/02/2020,Crystal Palace,Newcastle United,1,0,H
+22/02/2020,Sheffield United,Brighton & Hove Albion,1,1,D
+22/02/2020,Southampton,Aston Villa,2,0,H
+22/02/2020,Leicester City,Manchester City,0,1,A
+22/02/2020,Chelsea,Tottenham Hotspur,2,1,H
+23/02/2020,Manchester United,Watford,3,0,H
+23/02/2020,Wolverhampton Wanderers,Norwich City,3,0,H
+23/02/2020,Arsenal,Everton,3,2,H
+24/02/2020,Liverpool,West Ham United,3,2,H
+28/02/2020,Norwich City,Leicester City,1,0,H
+29/02/2020,Brighton & Hove Albion,Crystal Palace,0,1,A
+29/02/2020,AFC Bournemouth,Chelsea,2,2,D
+29/02/2020,Newcastle United,Burnley,0,0,D
+29/02/2020,West Ham United,Southampton,3,1,H
+29/02/2020,Watford,Liverpool,3,0,H
+01/03/2020,Tottenham Hotspur,Wolverhampton Wanderers,2,3,A
+01/03/2020,Everton,Manchester United,1,1,D
+07/03/2020,Burnley,Tottenham Hotspur,1,1,D
+07/03/2020,Wolverhampton Wanderers,Brighton & Hove Albion,0,0,D
+07/03/2020,Liverpool,AFC Bournemouth,2,1,H
+07/03/2020,Arsenal,West Ham United,1,0,H
+07/03/2020,Crystal Palace,Watford,1,0,H
+07/03/2020,Sheffield United,Norwich City,1,0,H
+07/03/2020,Southampton,Newcastle United,0,1,A
+08/03/2020,Manchester United,Manchester City,2,0,H
+08/03/2020,Chelsea,Everton,4,0,H
+09/03/2020,Leicester City,Aston Villa,4,0,H

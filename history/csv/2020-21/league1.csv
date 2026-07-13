@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+12/09/2020,Accrington Stanley,Peterborough United,2,0,H
+12/09/2020,Crewe Alexandra,Charlton Athletic,0,2,A
+12/09/2020,Doncaster Rovers,Milton Keynes Dons,1,1,D
+12/09/2020,Fleetwood Town,Burton Albion,2,1,H
+12/09/2020,Gillingham,Hull City,0,2,A
+12/09/2020,Lincoln City,Oxford United,2,0,H
+12/09/2020,Northampton Town,AFC Wimbledon,2,2,D
+12/09/2020,Plymouth Argyle,Blackpool,1,0,H
+12/09/2020,Portsmouth,Shrewsbury Town,0,0,D
+12/09/2020,Sunderland,Bristol Rovers,1,1,D
+12/09/2020,Swindon Town,Rochdale,3,1,H
+13/09/2020,Ipswich Town,Wigan Athletic,2,0,H
+19/09/2020,AFC Wimbledon,Plymouth Argyle,4,4,D
+19/09/2020,Blackpool,Swindon Town,2,0,H
+19/09/2020,Bristol Rovers,Ipswich Town,0,2,A
+19/09/2020,Burton Albion,Accrington Stanley,2,1,H
+19/09/2020,Charlton Athletic,Doncaster Rovers,1,3,A
+19/09/2020,Hull City,Crewe Alexandra,1,0,H
+19/09/2020,Milton Keynes Dons,Lincoln City,1,2,A
+19/09/2020,Oxford United,Sunderland,0,2,A
+19/09/2020,Peterborough United,Fleetwood Town,2,1,H
+19/09/2020,Shrewsbury Town,Northampton Town,1,2,A
+19/09/2020,Wigan Athletic,Gillingham,2,3,A
+20/09/2020,Rochdale,Portsmouth,0,0,D
+26/09/2020,Accrington Stanley,Oxford United,1,4,A
+26/09/2020,Crewe Alexandra,Milton Keynes Dons,2,0,H
+26/09/2020,Doncaster Rovers,Bristol Rovers,4,1,H
+26/09/2020,Fleetwood Town,AFC Wimbledon,0,1,A
+26/09/2020,Gillingham,Blackpool,2,0,H
+26/09/2020,Ipswich Town,Rochdale,2,0,H
+26/09/2020,Northampton Town,Hull City,0,2,A
+26/09/2020,Plymouth Argyle,Shrewsbury Town,1,1,D
+26/09/2020,Portsmouth,Wigan Athletic,1,2,A
+26/09/2020,Sunderland,Peterborough United,1,0,H
+26/09/2020,Swindon Town,Burton Albion,4,2,H
+27/09/2020,Lincoln City,Charlton Athletic,2,0,H
+03/10/2020,AFC Wimbledon,Accrington Stanley,1,2,A
+03/10/2020,Blackpool,Lincoln City,2,3,A
+03/10/2020,Bristol Rovers,Northampton Town,2,0,H
+03/10/2020,Burton Albion,Portsmouth,2,4,A
+03/10/2020,Charlton Athletic,Sunderland,0,0,D
+03/10/2020,Hull City,Plymouth Argyle,1,0,H
+03/10/2020,Milton Keynes Dons,Ipswich Town,1,1,D
+03/10/2020,Peterborough United,Swindon Town,3,1,H
+03/10/2020,Rochdale,Fleetwood Town,2,1,H
+03/10/2020,Shrewsbury Town,Gillingham,1,1,D
+03/10/2020,Wigan Athletic,Doncaster Rovers,1,0,H
+09/10/2020,Fleetwood Town,Hull City,4,1,H
+10/10/2020,Blackpool,Ipswich Town,1,4,A
+10/10/2020,Gillingham,Oxford United,3,1,H
+10/10/2020,Accrington Stanley,Rochdale,2,1,H
+10/10/2020,Crewe Alexandra,Wigan Athletic,3,0,H
+10/10/2020,Lincoln City,Bristol Rovers,1,2,A
+10/10/2020,Northampton Town,Peterborough United,0,2,A
+10/10/2020,Plymouth Argyle,Burton Albion,2,0,H
+10/10/2020,Portsmouth,Milton Keynes Dons,2,1,H
+10/10/2020,Swindon Town,AFC Wimbledon,0,1,A
+17/10/2020,Crewe Alexandra,Blackpool,1,1,D
+17/10/2020,Rochdale,Hull City,0,3,A
+17/10/2020,Portsmouth,Doncaster Rovers,0,1,A
+17/10/2020,Milton Keynes Dons,Gillingham,2,0,H
+17/10/2020,AFC Wimbledon,Shrewsbury Town,0,1,A
+17/10/2020,Bristol Rovers,Burton Albion,1,1,D
+17/10/2020,Charlton Athletic,Wigan Athletic,1,0,H
+17/10/2020,Swindon Town,Sunderland,0,2,A
+17/10/2020,Fleetwood Town,Lincoln City,0,0,D
+17/10/2020,Ipswich Town,Accrington Stanley,2,0,H
+17/10/2020,Peterborough United,Oxford United,2,0,H
+17/10/2020,Plymouth Argyle,Northampton Town,2,1,H
+20/10/2020,Northampton Town,Swindon Town,2,1,H
+20/10/2020,Burton Albion,Rochdale,0,1,A
+20/10/2020,Doncaster Rovers,Ipswich Town,4,1,H
+20/10/2020,Shrewsbury Town,Bristol Rovers,0,1,A
+20/10/2020,Gillingham,Portsmouth,0,2,A
+20/10/2020,Accrington Stanley,Fleetwood Town,1,0,H
+20/10/2020,Blackpool,Charlton Athletic,0,1,A
+20/10/2020,Hull City,AFC Wimbledon,1,0,H
+20/10/2020,Lincoln City,Plymouth Argyle,2,0,H
+20/10/2020,Oxford United,Milton Keynes Dons,3,2,H
+20/10/2020,Sunderland,Crewe Alexandra,1,0,H
+20/10/2020,Wigan Athletic,Peterborough United,0,1,A
+24/10/2020,Doncaster Rovers,Crewe Alexandra,1,2,A
+24/10/2020,Sunderland,Portsmouth,1,3,A
+24/10/2020,Shrewsbury Town,Rochdale,1,2,A
+24/10/2020,Gillingham,Fleetwood Town,0,2,A
+24/10/2020,Blackpool,Milton Keynes Dons,1,0,H
+24/10/2020,Burton Albion,AFC Wimbledon,1,1,D
+24/10/2020,Wigan Athletic,Plymouth Argyle,1,1,D
+24/10/2020,Hull City,Peterborough United,1,2,A
+24/10/2020,Lincoln City,Ipswich Town,1,0,H
+24/10/2020,Northampton Town,Charlton Athletic,0,2,A
+27/10/2020,Rochdale,Sunderland,2,2,D
+27/10/2020,Plymouth Argyle,Doncaster Rovers,2,1,H
+27/10/2020,Portsmouth,Northampton Town,4,0,H
+27/10/2020,Fleetwood Town,Shrewsbury Town,1,0,H
+27/10/2020,Peterborough United,Burton Albion,2,2,D
+27/10/2020,AFC Wimbledon,Blackpool,1,0,H
+27/10/2020,Bristol Rovers,Hull City,1,3,A
+27/10/2020,Charlton Athletic,Oxford United,2,0,H
+27/10/2020,Crewe Alexandra,Lincoln City,0,1,A
+27/10/2020,Ipswich Town,Gillingham,1,0,H
+27/10/2020,Milton Keynes Dons,Wigan Athletic,2,0,H
+31/10/2020,Portsmouth,Charlton Athletic,0,2,A
+31/10/2020,Wigan Athletic,Northampton Town,2,3,A
+31/10/2020,Rochdale,Bristol Rovers,1,1,D
+31/10/2020,Swindon Town,Hull City,2,1,H
+31/10/2020,Peterborough United,Shrewsbury Town,5,1,H
+31/10/2020,Milton Keynes Dons,AFC Wimbledon,1,1,D
+31/10/2020,Gillingham,Sunderland,0,2,A
+31/10/2020,Burton Albion,Blackpool,1,2,A
+31/10/2020,Doncaster Rovers,Lincoln City,1,0,H
+31/10/2020,Fleetwood Town,Oxford United,2,0,H
+31/10/2020,Ipswich Town,Crewe Alexandra,1,0,H
+03/11/2020,Oxford United,Rochdale,3,1,H
+03/11/2020,Plymouth Argyle,Swindon Town,4,2,H
+03/11/2020,AFC Wimbledon,Doncaster Rovers,2,2,D
+03/11/2020,Northampton Town,Milton Keynes Dons,0,0,D
+03/11/2020,Sunderland,Ipswich Town,2,1,H
+03/11/2020,Lincoln City,Portsmouth,1,3,A
+03/11/2020,Crewe Alexandra,Gillingham,0,1,A
+03/11/2020,Shrewsbury Town,Burton Albion,1,1,D
+03/11/2020,Blackpool,Wigan Athletic,1,0,H
+03/11/2020,Bristol Rovers,Peterborough United,0,2,A
+03/11/2020,Charlton Athletic,Fleetwood Town,3,2,H
+14/11/2020,Bristol Rovers,Fleetwood Town,1,4,A
+14/11/2020,Sunderland,Milton Keynes Dons,1,2,A
+14/11/2020,Shrewsbury Town,Swindon Town,3,3,D
+14/11/2020,Northampton Town,Accrington Stanley,0,1,A
+14/11/2020,Hull City,Burton Albion,2,0,H
+14/11/2020,Crewe Alexandra,Peterborough United,2,0,H
+16/11/2020,Plymouth Argyle,Portsmouth,2,2,D
+17/11/2020,Swindon Town,Accrington Stanley,0,3,A
+17/11/2020,Oxford United,Crewe Alexandra,0,2,A
+21/11/2020,Milton Keynes Dons,Hull City,1,3,A
+21/11/2020,Peterborough United,Blackpool,1,2,A
+21/11/2020,Rochdale,AFC Wimbledon,0,1,A
+21/11/2020,Swindon Town,Bristol Rovers,1,0,H
+21/11/2020,Wigan Athletic,Oxford United,1,2,A
+21/11/2020,Portsmouth,Crewe Alexandra,4,1,H
+21/11/2020,Ipswich Town,Shrewsbury Town,2,1,H
+21/11/2020,Fleetwood Town,Plymouth Argyle,5,1,H
+21/11/2020,Doncaster Rovers,Sunderland,1,1,D
+21/11/2020,Burton Albion,Northampton Town,1,3,A
+21/11/2020,Accrington Stanley,Lincoln City,0,0,D
+21/11/2020,Gillingham,Charlton Athletic,1,1,D
+24/11/2020,Accrington Stanley,Crewe Alexandra,1,0,H
+24/11/2020,Rochdale,Northampton Town,1,1,D
+24/11/2020,Portsmouth,Oxford United,1,1,D
+24/11/2020,Peterborough United,Plymouth Argyle,1,0,H
+24/11/2020,Milton Keynes Dons,Shrewsbury Town,2,2,D
+24/11/2020,Ipswich Town,Hull City,0,3,A
+24/11/2020,Burton Albion,Charlton Athletic,4,2,H
+24/11/2020,Gillingham,AFC Wimbledon,2,1,H
+24/11/2020,Doncaster Rovers,Blackpool,3,2,H
+24/11/2020,Wigan Athletic,Bristol Rovers,0,0,D
+24/11/2020,Swindon Town,Lincoln City,0,1,A
+27/11/2020,Fleetwood Town,Sunderland,1,1,D
+28/11/2020,Oxford United,Swindon Town,1,2,A
+28/11/2020,Ipswich Town,Charlton Athletic,0,2,A
+01/12/2020,Lincoln City,Wigan Athletic,2,1,H
+01/12/2020,Northampton Town,Fleetwood Town,1,0,H
+01/12/2020,Sunderland,Burton Albion,1,1,D
+01/12/2020,Oxford United,Ipswich Town,0,0,D
+01/12/2020,Plymouth Argyle,Rochdale,0,4,A
+01/12/2020,Blackpool,Portsmouth,1,0,H
+01/12/2020,Crewe Alexandra,Swindon Town,4,2,H
+02/12/2020,Charlton Athletic,Milton Keynes Dons,0,1,A
+02/12/2020,AFC Wimbledon,Peterborough United,2,1,H
+02/12/2020,Bristol Rovers,Gillingham,0,2,A
+02/12/2020,Hull City,Doncaster Rovers,2,1,H
+02/12/2020,Shrewsbury Town,Accrington Stanley,2,2,D
+05/12/2020,Fleetwood Town,Blackpool,0,1,A
+05/12/2020,Northampton Town,Doncaster Rovers,0,2,A
+05/12/2020,Oxford United,Hull City,1,1,D
+05/12/2020,Portsmouth,Peterborough United,2,0,H
+05/12/2020,Rochdale,Lincoln City,0,2,A
+05/12/2020,Shrewsbury Town,Charlton Athletic,1,1,D
+05/12/2020,Sunderland,Wigan Athletic,0,1,A
+05/12/2020,Plymouth Argyle,Ipswich Town,1,2,A
+05/12/2020,Burton Albion,Crewe Alexandra,1,1,D
+05/12/2020,Gillingham,Swindon Town,2,0,H
+05/12/2020,Accrington Stanley,Milton Keynes Dons,2,1,H
+05/12/2020,AFC Wimbledon,Bristol Rovers,2,4,A
+12/12/2020,Swindon Town,Fleetwood Town,0,1,A
+12/12/2020,Peterborough United,Rochdale,4,1,H
+12/12/2020,Milton Keynes Dons,Burton Albion,1,1,D
+12/12/2020,Lincoln City,Sunderland,0,4,A
+12/12/2020,Ipswich Town,Portsmouth,0,2,A
+12/12/2020,Hull City,Shrewsbury Town,0,1,A
+12/12/2020,Doncaster Rovers,Gillingham,2,1,H
+12/12/2020,Crewe Alexandra,Northampton Town,2,1,H
+12/12/2020,Charlton Athletic,AFC Wimbledon,5,2,H
+12/12/2020,Blackpool,Oxford United,0,0,D
+12/12/2020,Bristol Rovers,Plymouth Argyle,3,0,H
+12/12/2020,Wigan Athletic,Accrington Stanley,4,3,H
+15/12/2020,Lincoln City,Shrewsbury Town,0,1,A
+15/12/2020,Wigan Athletic,Rochdale,0,5,A
+15/12/2020,Doncaster Rovers,Swindon Town,2,1,H
+15/12/2020,Ipswich Town,Burton Albion,2,1,H
+15/12/2020,Milton Keynes Dons,Peterborough United,1,1,D
+15/12/2020,Oxford United,Northampton Town,4,0,H
+15/12/2020,Portsmouth,Fleetwood Town,0,0,D
+15/12/2020,Sunderland,AFC Wimbledon,1,1,D
+15/12/2020,Crewe Alexandra,Plymouth Argyle,2,1,H
+15/12/2020,Gillingham,Accrington Stanley,0,2,A
+15/12/2020,Blackpool,Hull City,3,2,H
+18/12/2020,Hull City,Portsmouth,0,2,A
+19/12/2020,Burton Albion,Doncaster Rovers,1,3,A
+19/12/2020,AFC Wimbledon,Crewe Alexandra,1,2,A
+19/12/2020,Accrington Stanley,Blackpool,0,0,D
+19/12/2020,Rochdale,Gillingham,1,4,A
+19/12/2020,Swindon Town,Charlton Athletic,2,2,D
+19/12/2020,Plymouth Argyle,Milton Keynes Dons,1,0,H
+19/12/2020,Northampton Town,Lincoln City,0,4,A
+19/12/2020,Fleetwood Town,Wigan Athletic,1,1,D
+22/12/2020,Doncaster Rovers,Shrewsbury Town,0,1,A
+26/12/2020,Charlton Athletic,Plymouth Argyle,2,2,D
+26/12/2020,Wigan Athletic,Shrewsbury Town,1,1,D
+26/12/2020,Crewe Alexandra,Fleetwood Town,1,1,D
+26/12/2020,Oxford United,AFC Wimbledon,2,0,H
+26/12/2020,Milton Keynes Dons,Bristol Rovers,2,0,H
+26/12/2020,Lincoln City,Burton Albion,5,1,H
+29/12/2020,Burton Albion,Wigan Athletic,3,4,A
+29/12/2020,Northampton Town,Gillingham,3,1,H
+29/12/2020,Plymouth Argyle,Oxford United,2,3,A
+29/12/2020,Shrewsbury Town,Blackpool,1,0,H
+29/12/2020,Swindon Town,Milton Keynes Dons,1,4,A
+02/01/2021,AFC Wimbledon,Lincoln City,1,2,A
+02/01/2021,Northampton Town,Sunderland,0,0,D
+02/01/2021,Burton Albion,Oxford United,1,5,A
+02/01/2021,Bristol Rovers,Blackpool,2,1,H
+02/01/2021,Hull City,Charlton Athletic,2,0,H
+02/01/2021,Plymouth Argyle,Gillingham,1,0,H
+08/01/2021,Charlton Athletic,Accrington Stanley,0,2,A
+09/01/2021,Gillingham,Burton Albion,0,1,A
+09/01/2021,Lincoln City,Peterborough United,1,1,D
+09/01/2021,Sunderland,Hull City,1,1,D
+09/01/2021,Ipswich Town,Swindon Town,2,3,A
+09/01/2021,Rochdale,Crewe Alexandra,3,3,D
+12/01/2021,Charlton Athletic,Rochdale,4,4,D
+16/01/2021,Burton Albion,Ipswich Town,0,1,A
+16/01/2021,Fleetwood Town,Portsmouth,0,1,A
+16/01/2021,Hull City,Blackpool,1,1,D
+16/01/2021,Bristol Rovers,Charlton Athletic,0,1,A
+16/01/2021,Accrington Stanley,Gillingham,0,1,A
+16/01/2021,AFC Wimbledon,Sunderland,0,3,A
+16/01/2021,Peterborough United,Milton Keynes Dons,3,0,H
+16/01/2021,Swindon Town,Doncaster Rovers,1,2,A
+16/01/2021,Rochdale,Wigan Athletic,3,3,D
+16/01/2021,Plymouth Argyle,Crewe Alexandra,1,1,D
+19/01/2021,Sunderland,Plymouth Argyle,1,2,A
+19/01/2021,Portsmouth,AFC Wimbledon,4,0,H
+19/01/2021,Milton Keynes Dons,Fleetwood Town,3,1,H
+19/01/2021,Doncaster Rovers,Rochdale,1,0,H
+19/01/2021,Peterborough United,Charlton Athletic,2,1,H
+19/01/2021,Crewe Alexandra,Bristol Rovers,3,2,H
+19/01/2021,Hull City,Accrington Stanley,3,0,H
+23/01/2021,Wigan Athletic,Fleetwood Town,0,0,D
+23/01/2021,Sunderland,Shrewsbury Town,1,0,H
+23/01/2021,Portsmouth,Hull City,0,4,A
+23/01/2021,Oxford United,Bristol Rovers,2,0,H
+23/01/2021,Lincoln City,Northampton Town,2,1,H
+23/01/2021,Ipswich Town,Peterborough United,0,1,A
+23/01/2021,Gillingham,Rochdale,2,2,D
+23/01/2021,Crewe Alexandra,AFC Wimbledon,1,1,D
+23/01/2021,Charlton Athletic,Swindon Town,2,2,D
+26/01/2021,Fleetwood Town,Northampton Town,0,0,D
+26/01/2021,Doncaster Rovers,AFC Wimbledon,2,0,H
+26/01/2021,Rochdale,Oxford United,3,4,A
+26/01/2021,Portsmouth,Lincoln City,0,1,A
+26/01/2021,Peterborough United,Bristol Rovers,0,0,D
+26/01/2021,Accrington Stanley,Hull City,2,0,H
+26/01/2021,Gillingham,Crewe Alexandra,4,1,H
+26/01/2021,Swindon Town,Plymouth Argyle,0,2,A
+26/01/2021,Milton Keynes Dons,Charlton Athletic,0,1,A
+26/01/2021,Wigan Athletic,Blackpool,0,5,A
+26/01/2021,Ipswich Town,Sunderland,0,1,A
+30/01/2021,Bristol Rovers,Rochdale,1,2,A
+30/01/2021,AFC Wimbledon,Milton Keynes Dons,0,2,A
+30/01/2021,Sunderland,Gillingham,2,2,D
+30/01/2021,Hull City,Swindon Town,1,0,H
+30/01/2021,Oxford United,Fleetwood Town,1,0,H
+30/01/2021,Shrewsbury Town,Peterborough United,2,0,H
+30/01/2021,Plymouth Argyle,Accrington Stanley,2,2,D
+30/01/2021,Crewe Alexandra,Ipswich Town,1,1,D
+30/01/2021,Lincoln City,Doncaster Rovers,0,1,A
+02/02/2021,Swindon Town,Wigan Athletic,1,0,H
+02/02/2021,Blackpool,Northampton Town,2,0,H
+02/02/2021,Charlton Athletic,Portsmouth,1,3,A
+02/02/2021,Shrewsbury Town,Crewe Alexandra,0,1,A
+02/02/2021,Accrington Stanley,Bristol Rovers,6,1,H
+05/02/2021,Gillingham,Lincoln City,0,3,A
+06/02/2021,Fleetwood Town,Bristol Rovers,0,0,D
+06/02/2021,Doncaster Rovers,Oxford United,3,2,H
+06/02/2021,Burton Albion,Hull City,1,0,H
+06/02/2021,Portsmouth,Plymouth Argyle,2,2,D
+06/02/2021,Ipswich Town,Blackpool,2,0,H
+06/02/2021,Milton Keynes Dons,Sunderland,2,2,D
+06/02/2021,Peterborough United,Crewe Alexandra,2,0,H
+06/02/2021,Rochdale,Charlton Athletic,0,2,A
+06/02/2021,Swindon Town,Shrewsbury Town,0,1,A
+06/02/2021,Wigan Athletic,AFC Wimbledon,2,3,A
+06/02/2021,Accrington Stanley,Northampton Town,0,0,D
+09/02/2021,Shrewsbury Town,Sunderland,2,1,H
+09/02/2021,Fleetwood Town,Doncaster Rovers,3,1,H
+09/02/2021,Hull City,Lincoln City,0,0,D
+09/02/2021,Rochdale,Milton Keynes Dons,1,4,A
+09/02/2021,Northampton Town,Wigan Athletic,0,1,A
+09/02/2021,Portsmouth,Swindon Town,2,0,H
+09/02/2021,Accrington Stanley,Plymouth Argyle,0,1,A
+09/02/2021,Peterborough United,Ipswich Town,2,1,H
+09/02/2021,Bristol Rovers,Oxford United,0,2,A
+13/02/2021,Northampton Town,Burton Albion,0,2,A
+13/02/2021,Charlton Athletic,Gillingham,2,3,A
+13/02/2021,Sunderland,Doncaster Rovers,4,1,H
+13/02/2021,Hull City,Milton Keynes Dons,0,1,A
+13/02/2021,Plymouth Argyle,Fleetwood Town,1,0,H
+14/02/2021,Oxford United,Wigan Athletic,2,1,H
+14/02/2021,Lincoln City,Accrington Stanley,2,2,D
+16/02/2021,Ipswich Town,Northampton Town,0,0,D
+16/02/2021,Bristol Rovers,Portsmouth,3,1,H
+16/02/2021,Gillingham,Peterborough United,1,3,A
+16/02/2021,Blackpool,Rochdale,1,0,H
+17/02/2021,Wigan Athletic,Hull City,0,5,A
+17/02/2021,Doncaster Rovers,Accrington Stanley,0,1,A
+20/02/2021,Portsmouth,Blackpool,0,1,A
+20/02/2021,Peterborough United,AFC Wimbledon,3,0,H
+20/02/2021,Doncaster Rovers,Hull City,3,3,D
+20/02/2021,Rochdale,Plymouth Argyle,0,0,D
+20/02/2021,Fleetwood Town,Charlton Athletic,1,1,D
+20/02/2021,Swindon Town,Crewe Alexandra,2,1,H
+20/02/2021,Burton Albion,Sunderland,0,3,A
+20/02/2021,Milton Keynes Dons,Northampton Town,4,3,H
+20/02/2021,Accrington Stanley,Shrewsbury Town,1,1,D
+20/02/2021,Wigan Athletic,Lincoln City,1,2,A
+20/02/2021,Ipswich Town,Oxford United,0,0,D
+20/02/2021,Gillingham,Bristol Rovers,2,0,H
+23/02/2021,Plymouth Argyle,Peterborough United,0,3,A
+23/02/2021,Bristol Rovers,Wigan Athletic,1,2,A
+23/02/2021,Charlton Athletic,Burton Albion,1,2,A
+23/02/2021,Crewe Alexandra,Accrington Stanley,2,0,H
+23/02/2021,Hull City,Ipswich Town,0,1,A
+23/02/2021,Lincoln City,Swindon Town,2,2,D
+23/02/2021,Northampton Town,Rochdale,0,0,D
+23/02/2021,Oxford United,Portsmouth,0,1,A
+23/02/2021,Shrewsbury Town,Milton Keynes Dons,4,2,H
+23/02/2021,Sunderland,Fleetwood Town,2,0,H
+23/02/2021,AFC Wimbledon,Gillingham,1,0,H
+27/02/2021,Fleetwood Town,Accrington Stanley,1,1,D
+27/02/2021,Rochdale,Burton Albion,0,2,A
+27/02/2021,Portsmouth,Gillingham,1,1,D
+27/02/2021,Plymouth Argyle,Lincoln City,4,3,H
+27/02/2021,Peterborough United,Wigan Athletic,2,1,H
+27/02/2021,Milton Keynes Dons,Oxford United,1,1,D
+27/02/2021,AFC Wimbledon,Hull City,0,3,A
+27/02/2021,Bristol Rovers,Shrewsbury Town,2,1,H
+27/02/2021,Charlton Athletic,Blackpool,0,3,A
+27/02/2021,Crewe Alexandra,Sunderland,2,2,D
+27/02/2021,Ipswich Town,Doncaster Rovers,2,1,H
+27/02/2021,Swindon Town,Northampton Town,2,1,H
+02/03/2021,Lincoln City,Fleetwood Town,1,2,A
+02/03/2021,Gillingham,Milton Keynes Dons,3,2,H
+02/03/2021,Hull City,Rochdale,2,0,H
+02/03/2021,Northampton Town,Plymouth Argyle,2,0,H
+02/03/2021,Burton Albion,Bristol Rovers,1,0,H
+02/03/2021,Blackpool,Crewe Alexandra,1,1,D
+02/03/2021,Accrington Stanley,Ipswich Town,1,2,A
+02/03/2021,Doncaster Rovers,Portsmouth,2,1,H
+02/03/2021,Sunderland,Swindon Town,1,0,H
+02/03/2021,Shrewsbury Town,AFC Wimbledon,1,1,D
+02/03/2021,Wigan Athletic,Charlton Athletic,0,1,A
+02/03/2021,Oxford United,Peterborough United,0,0,D
+06/03/2021,Hull City,Bristol Rovers,2,0,H
+06/03/2021,Sunderland,Rochdale,2,0,H
+06/03/2021,Shrewsbury Town,Fleetwood Town,0,2,A
+06/03/2021,Oxford United,Charlton Athletic,0,0,D
+06/03/2021,Northampton Town,Portsmouth,4,1,H
+06/03/2021,Lincoln City,Crewe Alexandra,3,0,H
+06/03/2021,Doncaster Rovers,Plymouth Argyle,2,1,H
+06/03/2021,Burton Albion,Peterborough United,2,1,H
+06/03/2021,Blackpool,AFC Wimbledon,1,1,D
+06/03/2021,Accrington Stanley,Swindon Town,2,1,H
+06/03/2021,Gillingham,Ipswich Town,3,1,H
+06/03/2021,Wigan Athletic,Milton Keynes Dons,3,0,H
+09/03/2021,Plymouth Argyle,Wigan Athletic,0,2,A
+09/03/2021,Rochdale,Shrewsbury Town,0,2,A
+09/03/2021,Swindon Town,Oxford United,1,2,A
+09/03/2021,Fleetwood Town,Gillingham,1,0,H
+09/03/2021,Portsmouth,Sunderland,0,2,A
+09/03/2021,Milton Keynes Dons,Blackpool,0,1,A
+09/03/2021,Ipswich Town,Lincoln City,1,1,D
+09/03/2021,Crewe Alexandra,Doncaster Rovers,1,0,H
+09/03/2021,Charlton Athletic,Northampton Town,2,1,H
+09/03/2021,Bristol Rovers,Accrington Stanley,4,1,H
+09/03/2021,AFC Wimbledon,Burton Albion,0,1,A
+09/03/2021,Peterborough United,Hull City,1,3,A
+13/03/2021,Doncaster Rovers,Northampton Town,0,0,D
+13/03/2021,Hull City,Oxford United,2,0,H
+13/03/2021,Swindon Town,Gillingham,1,3,A
+13/03/2021,Crewe Alexandra,Burton Albion,0,3,A
+13/03/2021,Blackpool,Fleetwood Town,0,0,D
+13/03/2021,Bristol Rovers,AFC Wimbledon,0,0,D
+13/03/2021,Charlton Athletic,Shrewsbury Town,1,1,D
+13/03/2021,Ipswich Town,Plymouth Argyle,1,0,H
+13/03/2021,Lincoln City,Rochdale,1,2,A
+13/03/2021,Milton Keynes Dons,Accrington Stanley,3,2,H
+16/03/2021,Fleetwood Town,Ipswich Town,2,0,H
+16/03/2021,Peterborough United,Portsmouth,1,0,H
+16/03/2021,Milton Keynes Dons,Plymouth Argyle,2,1,H
+16/03/2021,Charlton Athletic,Bristol Rovers,3,2,H
+16/03/2021,Lincoln City,Gillingham,0,3,A
+16/03/2021,Oxford United,Doncaster Rovers,3,0,H
+16/03/2021,Blackpool,Burton Albion,1,1,D
+16/03/2021,AFC Wimbledon,Wigan Athletic,1,1,D
+17/03/2021,Accrington Stanley,Sunderland,0,2,A
+20/03/2021,Northampton Town,Crewe Alexandra,0,1,A
+20/03/2021,Sunderland,Lincoln City,1,1,D
+20/03/2021,Shrewsbury Town,Hull City,1,1,D
+20/03/2021,Rochdale,Peterborough United,3,3,D
+20/03/2021,Accrington Stanley,Wigan Athletic,3,1,H
+20/03/2021,AFC Wimbledon,Charlton Athletic,2,2,D
+20/03/2021,Burton Albion,Milton Keynes Dons,1,2,A
+20/03/2021,Plymouth Argyle,Bristol Rovers,2,0,H
+20/03/2021,Oxford United,Blackpool,0,2,A
+20/03/2021,Fleetwood Town,Swindon Town,0,2,A
+20/03/2021,Gillingham,Doncaster Rovers,2,2,D
+20/03/2021,Portsmouth,Ipswich Town,2,1,H
+23/03/2021,Burton Albion,Shrewsbury Town,1,2,A
+23/03/2021,Blackpool,Peterborough United,3,1,H
+23/03/2021,Bristol Rovers,Swindon Town,0,1,A
+23/03/2021,Northampton Town,Oxford United,1,0,H
+26/03/2021,Oxford United,Lincoln City,2,1,H
+27/03/2021,Blackpool,Plymouth Argyle,2,2,D
+27/03/2021,Milton Keynes Dons,Doncaster Rovers,1,0,H
+27/03/2021,Hull City,Gillingham,1,1,D
+27/03/2021,Bristol Rovers,Sunderland,0,1,A
+27/03/2021,AFC Wimbledon,Northampton Town,1,0,H
+27/03/2021,Shrewsbury Town,Portsmouth,1,2,A
+27/03/2021,Wigan Athletic,Ipswich Town,0,0,D
+27/03/2021,Peterborough United,Accrington Stanley,7,0,H
+31/03/2021,Gillingham,Wigan Athletic,1,0,H
+02/04/2021,Accrington Stanley,Burton Albion,0,0,D
+02/04/2021,Ipswich Town,Bristol Rovers,2,1,H
+02/04/2021,Crewe Alexandra,Hull City,1,2,A
+02/04/2021,Swindon Town,Blackpool,0,2,A
+02/04/2021,Sunderland,Oxford United,3,1,H
+02/04/2021,Fleetwood Town,Peterborough United,0,1,A
+02/04/2021,Portsmouth,Rochdale,2,1,H
+02/04/2021,Plymouth Argyle,AFC Wimbledon,1,0,H
+02/04/2021,Northampton Town,Shrewsbury Town,1,0,H
+02/04/2021,Doncaster Rovers,Charlton Athletic,0,1,A
+05/04/2021,Shrewsbury Town,Plymouth Argyle,3,0,H
+05/04/2021,Hull City,Northampton Town,3,0,H
+05/04/2021,Burton Albion,Swindon Town,2,1,H
+05/04/2021,Rochdale,Ipswich Town,0,0,D
+05/04/2021,Peterborough United,Sunderland,1,1,D
+05/04/2021,Bristol Rovers,Doncaster Rovers,2,1,H
+05/04/2021,Blackpool,Gillingham,4,1,H
+05/04/2021,AFC Wimbledon,Fleetwood Town,0,1,A
+05/04/2021,Oxford United,Accrington Stanley,1,2,A
+05/04/2021,Wigan Athletic,Portsmouth,0,1,A
+05/04/2021,Milton Keynes Dons,Crewe Alexandra,0,2,A
+10/04/2021,Accrington Stanley,AFC Wimbledon,1,5,A
+10/04/2021,Crewe Alexandra,Oxford United,0,6,A
+10/04/2021,Doncaster Rovers,Wigan Athletic,1,4,A
+10/04/2021,Gillingham,Shrewsbury Town,0,0,D
+10/04/2021,Ipswich Town,Milton Keynes Dons,0,0,D
+10/04/2021,Lincoln City,Blackpool,2,2,D
+10/04/2021,Northampton Town,Bristol Rovers,1,1,D
+10/04/2021,Plymouth Argyle,Hull City,0,3,A
+10/04/2021,Portsmouth,Burton Albion,1,2,A
+10/04/2021,Sunderland,Charlton Athletic,1,2,A
+10/04/2021,Swindon Town,Peterborough United,0,3,A
+10/04/2021,Fleetwood Town,Rochdale,1,0,H
+13/04/2021,Lincoln City,Milton Keynes Dons,4,0,H
+13/04/2021,Crewe Alexandra,Portsmouth,0,0,D
+13/04/2021,Doncaster Rovers,Burton Albion,0,3,A
+13/04/2021,Rochdale,Swindon Town,2,1,H
+13/04/2021,Wigan Athletic,Sunderland,2,1,H
+13/04/2021,Blackpool,Accrington Stanley,0,0,D
+13/04/2021,AFC Wimbledon,Ipswich Town,3,0,H
+13/04/2021,Oxford United,Shrewsbury Town,4,1,H
+16/04/2021,Peterborough United,Northampton Town,3,1,H
+17/04/2021,AFC Wimbledon,Swindon Town,4,1,H
+17/04/2021,Wigan Athletic,Crewe Alexandra,2,0,H
+17/04/2021,Shrewsbury Town,Doncaster Rovers,0,2,A
+17/04/2021,Rochdale,Accrington Stanley,3,1,H
+17/04/2021,Milton Keynes Dons,Portsmouth,1,0,H
+17/04/2021,Hull City,Fleetwood Town,2,1,H
+17/04/2021,Charlton Athletic,Ipswich Town,0,0,D
+17/04/2021,Burton Albion,Plymouth Argyle,1,1,D
+17/04/2021,Bristol Rovers,Lincoln City,0,1,A
+17/04/2021,Blackpool,Sunderland,1,0,H
+17/04/2021,Oxford United,Gillingham,3,2,H
+20/04/2021,AFC Wimbledon,Oxford United,2,1,H
+20/04/2021,Bristol Rovers,Milton Keynes Dons,0,2,A
+20/04/2021,Plymouth Argyle,Charlton Athletic,0,6,A
+20/04/2021,Peterborough United,Gillingham,0,1,A
+20/04/2021,Hull City,Sunderland,2,2,D
+20/04/2021,Burton Albion,Lincoln City,0,1,A
+20/04/2021,Northampton Town,Ipswich Town,3,0,H
+20/04/2021,Fleetwood Town,Crewe Alexandra,0,2,A
+20/04/2021,Rochdale,Blackpool,1,0,H
+20/04/2021,Shrewsbury Town,Wigan Athletic,1,2,A
+20/04/2021,Swindon Town,Portsmouth,3,1,H
+20/04/2021,Accrington Stanley,Doncaster Rovers,2,1,H
+24/04/2021,Lincoln City,Hull City,1,2,A
+24/04/2021,Sunderland,Accrington Stanley,3,3,D
+24/04/2021,Oxford United,Plymouth Argyle,3,1,H
+24/04/2021,Milton Keynes Dons,Swindon Town,5,0,H
+24/04/2021,Ipswich Town,AFC Wimbledon,0,0,D
+24/04/2021,Gillingham,Northampton Town,2,2,D
+24/04/2021,Doncaster Rovers,Fleetwood Town,0,1,A
+24/04/2021,Crewe Alexandra,Rochdale,1,1,D
+24/04/2021,Charlton Athletic,Peterborough United,0,1,A
+24/04/2021,Blackpool,Shrewsbury Town,0,1,A
+24/04/2021,Portsmouth,Bristol Rovers,1,0,H
+24/04/2021,Wigan Athletic,Burton Albion,1,1,D
+27/04/2021,Burton Albion,Fleetwood Town,5,2,H
+27/04/2021,AFC Wimbledon,Rochdale,3,3,D
+27/04/2021,Accrington Stanley,Portsmouth,3,3,D
+27/04/2021,Peterborough United,Doncaster Rovers,2,2,D
+27/04/2021,Charlton Athletic,Crewe Alexandra,2,2,D
+27/04/2021,Shrewsbury Town,Lincoln City,0,1,A
+27/04/2021,Sunderland,Blackpool,0,1,A
+01/05/2021,Rochdale,Doncaster Rovers,1,2,A
+01/05/2021,Shrewsbury Town,Oxford United,2,3,A
+01/05/2021,Swindon Town,Ipswich Town,1,2,A
+01/05/2021,Accrington Stanley,Charlton Athletic,1,1,D
+01/05/2021,AFC Wimbledon,Portsmouth,1,3,A
+01/05/2021,Bristol Rovers,Crewe Alexandra,0,1,A
+01/05/2021,Burton Albion,Gillingham,1,1,D
+01/05/2021,Fleetwood Town,Milton Keynes Dons,1,1,D
+01/05/2021,Hull City,Wigan Athletic,3,1,H
+01/05/2021,Northampton Town,Blackpool,0,3,A
+01/05/2021,Peterborough United,Lincoln City,3,3,D
+01/05/2021,Plymouth Argyle,Sunderland,1,3,A
+04/05/2021,Blackpool,Doncaster Rovers,2,0,H
+04/05/2021,Shrewsbury Town,Ipswich Town,0,0,D
+04/05/2021,Charlton Athletic,Lincoln City,3,1,H
+09/05/2021,Blackpool,Bristol Rovers,1,0,H
+09/05/2021,Charlton Athletic,Hull City,1,0,H
+09/05/2021,Crewe Alexandra,Shrewsbury Town,3,2,H
+09/05/2021,Doncaster Rovers,Peterborough United,1,4,A
+09/05/2021,Gillingham,Plymouth Argyle,1,0,H
+09/05/2021,Ipswich Town,Fleetwood Town,3,1,H
+09/05/2021,Lincoln City,AFC Wimbledon,0,0,D
+09/05/2021,Milton Keynes Dons,Rochdale,0,3,A
+09/05/2021,Oxford United,Burton Albion,4,0,H
+09/05/2021,Portsmouth,Accrington Stanley,0,1,A
+09/05/2021,Sunderland,Northampton Town,1,1,D
+09/05/2021,Wigan Athletic,Swindon Town,3,4,A

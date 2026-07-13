@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+11/08/2017,Arsenal,Leicester City,4,3,H
+12/08/2017,Watford,Liverpool,3,3,D
+12/08/2017,Chelsea,Burnley,2,3,A
+12/08/2017,Crystal Palace,Huddersfield Town,0,3,A
+12/08/2017,Everton,Stoke City,1,0,H
+12/08/2017,Southampton,Swansea City,0,0,D
+12/08/2017,West Bromwich Albion,AFC Bournemouth,1,0,H
+12/08/2017,Brighton & Hove Albion,Manchester City,0,2,A
+13/08/2017,Manchester United,West Ham United,4,0,H
+13/08/2017,Newcastle United,Tottenham Hotspur,0,2,A
+19/08/2017,Swansea City,Manchester United,0,4,A
+19/08/2017,AFC Bournemouth,Watford,0,2,A
+19/08/2017,Burnley,West Bromwich Albion,0,1,A
+19/08/2017,Leicester City,Brighton & Hove Albion,2,0,H
+19/08/2017,Liverpool,Crystal Palace,1,0,H
+19/08/2017,Southampton,West Ham United,3,2,H
+19/08/2017,Stoke City,Arsenal,1,0,H
+20/08/2017,Tottenham Hotspur,Chelsea,1,2,A
+20/08/2017,Huddersfield Town,Newcastle United,1,0,H
+21/08/2017,Manchester City,Everton,1,1,D
+26/08/2017,AFC Bournemouth,Manchester City,1,2,A
+26/08/2017,Crystal Palace,Swansea City,0,2,A
+26/08/2017,Huddersfield Town,Southampton,0,0,D
+26/08/2017,Newcastle United,West Ham United,3,0,H
+26/08/2017,Watford,Brighton & Hove Albion,0,0,D
+26/08/2017,Manchester United,Leicester City,2,0,H
+27/08/2017,West Bromwich Albion,Stoke City,1,1,D
+27/08/2017,Liverpool,Arsenal,4,0,H
+27/08/2017,Tottenham Hotspur,Burnley,1,1,D
+27/08/2017,Chelsea,Everton,2,0,H
+09/09/2017,Manchester City,Liverpool,5,0,H
+09/09/2017,Arsenal,AFC Bournemouth,3,0,H
+09/09/2017,Brighton & Hove Albion,West Bromwich Albion,3,1,H
+09/09/2017,Everton,Tottenham Hotspur,0,3,A
+09/09/2017,Leicester City,Chelsea,1,2,A
+09/09/2017,Southampton,Watford,0,2,A
+09/09/2017,Stoke City,Manchester United,2,2,D
+10/09/2017,Swansea City,Newcastle United,0,1,A
+10/09/2017,Burnley,Crystal Palace,1,0,H
+11/09/2017,West Ham United,Huddersfield Town,2,0,H
+15/09/2017,AFC Bournemouth,Brighton & Hove Albion,2,1,H
+16/09/2017,Crystal Palace,Southampton,0,1,A
+16/09/2017,Huddersfield Town,Leicester City,1,1,D
+16/09/2017,Liverpool,Burnley,1,1,D
+16/09/2017,Newcastle United,Stoke City,2,1,H
+16/09/2017,Watford,Manchester City,0,6,A
+16/09/2017,West Bromwich Albion,West Ham United,0,0,D
+16/09/2017,Tottenham Hotspur,Swansea City,0,0,D
+17/09/2017,Manchester United,Everton,4,0,H
+17/09/2017,Chelsea,Arsenal,0,0,D
+23/09/2017,West Ham United,Tottenham Hotspur,2,3,A
+23/09/2017,Burnley,Huddersfield Town,0,0,D
+23/09/2017,Everton,AFC Bournemouth,2,1,H
+23/09/2017,Manchester City,Crystal Palace,5,0,H
+23/09/2017,Southampton,Manchester United,0,1,A
+23/09/2017,Stoke City,Chelsea,0,4,A
+23/09/2017,Swansea City,Watford,1,2,A
+23/09/2017,Leicester City,Liverpool,2,3,A
+24/09/2017,Brighton & Hove Albion,Newcastle United,1,0,H
+25/09/2017,Arsenal,West Bromwich Albion,2,0,H
+30/09/2017,Huddersfield Town,Tottenham Hotspur,0,4,A
+30/09/2017,AFC Bournemouth,Leicester City,0,0,D
+30/09/2017,Manchester United,Crystal Palace,4,0,H
+30/09/2017,Stoke City,Southampton,2,1,H
+30/09/2017,West Bromwich Albion,Watford,2,2,D
+30/09/2017,West Ham United,Swansea City,1,0,H
+30/09/2017,Chelsea,Manchester City,0,1,A
+01/10/2017,Arsenal,Brighton & Hove Albion,2,0,H
+01/10/2017,Everton,Burnley,0,1,A
+01/10/2017,Newcastle United,Liverpool,1,1,D
+14/10/2017,Liverpool,Manchester United,0,0,D
+14/10/2017,Burnley,West Ham United,1,1,D
+14/10/2017,Crystal Palace,Chelsea,2,1,H
+14/10/2017,Manchester City,Stoke City,7,2,H
+14/10/2017,Swansea City,Huddersfield Town,2,0,H
+14/10/2017,Tottenham Hotspur,AFC Bournemouth,1,0,H
+14/10/2017,Watford,Arsenal,2,1,H
+15/10/2017,Southampton,Newcastle United,2,2,D
+15/10/2017,Brighton & Hove Albion,Everton,1,1,D
+16/10/2017,Leicester City,West Bromwich Albion,1,1,D
+20/10/2017,West Ham United,Brighton & Hove Albion,0,3,A
+21/10/2017,Chelsea,Watford,4,2,H
+21/10/2017,Huddersfield Town,Manchester United,2,1,H
+21/10/2017,Manchester City,Burnley,3,0,H
+21/10/2017,Newcastle United,Crystal Palace,1,0,H
+21/10/2017,Stoke City,AFC Bournemouth,1,2,A
+21/10/2017,Swansea City,Leicester City,1,2,A
+21/10/2017,Southampton,West Bromwich Albion,1,0,H
+22/10/2017,Tottenham Hotspur,Liverpool,4,1,H
+22/10/2017,Everton,Arsenal,2,5,A
+28/10/2017,Manchester United,Tottenham Hotspur,1,0,H
+28/10/2017,Arsenal,Swansea City,2,1,H
+28/10/2017,Crystal Palace,West Ham United,2,2,D
+28/10/2017,Liverpool,Huddersfield Town,3,0,H
+28/10/2017,Watford,Stoke City,0,1,A
+28/10/2017,West Bromwich Albion,Manchester City,2,3,A
+28/10/2017,AFC Bournemouth,Chelsea,0,1,A
+29/10/2017,Leicester City,Everton,2,0,H
+29/10/2017,Brighton & Hove Albion,Southampton,1,1,D
+30/10/2017,Burnley,Newcastle United,1,0,H
+04/11/2017,Stoke City,Leicester City,2,2,D
+04/11/2017,Huddersfield Town,West Bromwich Albion,1,0,H
+04/11/2017,Newcastle United,AFC Bournemouth,0,1,A
+04/11/2017,Southampton,Burnley,0,1,A
+04/11/2017,Swansea City,Brighton & Hove Albion,0,1,A
+04/11/2017,West Ham United,Liverpool,1,4,A
+05/11/2017,Tottenham Hotspur,Crystal Palace,1,0,H
+05/11/2017,Manchester City,Arsenal,3,1,H
+05/11/2017,Chelsea,Manchester United,1,0,H
+05/11/2017,Everton,Watford,3,2,H
+18/11/2017,AFC Bournemouth,Huddersfield Town,4,0,H
+18/11/2017,Burnley,Swansea City,2,0,H
+18/11/2017,Crystal Palace,Everton,2,2,D
+18/11/2017,Leicester City,Manchester City,0,2,A
+18/11/2017,Liverpool,Southampton,3,0,H
+18/11/2017,West Bromwich Albion,Chelsea,0,4,A
+18/11/2017,Manchester United,Newcastle United,4,1,H
+18/11/2017,Arsenal,Tottenham Hotspur,2,0,H
+19/11/2017,Watford,West Ham United,2,0,H
+20/11/2017,Brighton & Hove Albion,Stoke City,2,2,D
+24/11/2017,West Ham United,Leicester City,1,1,D
+25/11/2017,Manchester United,Brighton & Hove Albion,1,0,H
+25/11/2017,Newcastle United,Watford,0,3,A
+25/11/2017,Swansea City,AFC Bournemouth,0,0,D
+25/11/2017,Tottenham Hotspur,West Bromwich Albion,1,1,D
+25/11/2017,Liverpool,Chelsea,1,1,D
+25/11/2017,Crystal Palace,Stoke City,2,1,H
+26/11/2017,Southampton,Everton,4,1,H
+26/11/2017,Burnley,Arsenal,0,1,A
+26/11/2017,Huddersfield Town,Manchester City,1,2,A
+28/11/2017,Leicester City,Tottenham Hotspur,2,1,H
+28/11/2017,Watford,Manchester United,2,4,A
+28/11/2017,West Bromwich Albion,Newcastle United,2,2,D
+28/11/2017,Brighton & Hove Albion,Crystal Palace,0,0,D
+29/11/2017,AFC Bournemouth,Burnley,1,2,A
+29/11/2017,Arsenal,Huddersfield Town,5,0,H
+29/11/2017,Chelsea,Swansea City,1,0,H
+29/11/2017,Everton,West Ham United,4,0,H
+29/11/2017,Manchester City,Southampton,2,1,H
+29/11/2017,Stoke City,Liverpool,0,3,A
+02/12/2017,Chelsea,Newcastle United,3,1,H
+02/12/2017,Brighton & Hove Albion,Liverpool,1,5,A
+02/12/2017,Everton,Huddersfield Town,2,0,H
+02/12/2017,Leicester City,Burnley,1,0,H
+02/12/2017,Stoke City,Swansea City,2,1,H
+02/12/2017,Watford,Tottenham Hotspur,1,1,D
+02/12/2017,West Bromwich Albion,Crystal Palace,0,0,D
+02/12/2017,Arsenal,Manchester United,1,3,A
+03/12/2017,Manchester City,West Ham United,2,1,H
+03/12/2017,AFC Bournemouth,Southampton,1,1,D
+09/12/2017,West Ham United,Chelsea,1,0,H
+09/12/2017,Burnley,Watford,1,0,H
+09/12/2017,Crystal Palace,AFC Bournemouth,2,2,D
+09/12/2017,Huddersfield Town,Brighton & Hove Albion,2,0,H
+09/12/2017,Swansea City,West Bromwich Albion,1,0,H
+09/12/2017,Tottenham Hotspur,Stoke City,5,1,H
+09/12/2017,Newcastle United,Leicester City,2,3,A
+10/12/2017,Liverpool,Everton,1,1,D
+10/12/2017,Manchester United,Manchester City,1,2,A
+10/12/2017,Southampton,Arsenal,1,1,D
+12/12/2017,Crystal Palace,Watford,2,1,H
+12/12/2017,Huddersfield Town,Chelsea,1,3,A
+12/12/2017,Burnley,Stoke City,1,0,H
+13/12/2017,Swansea City,Manchester City,0,4,A
+13/12/2017,Newcastle United,Everton,0,1,A
+13/12/2017,Southampton,Leicester City,1,4,A
+13/12/2017,Manchester United,AFC Bournemouth,1,0,H
+13/12/2017,West Ham United,Arsenal,0,0,D
+13/12/2017,Liverpool,West Bromwich Albion,0,0,D
+13/12/2017,Tottenham Hotspur,Brighton & Hove Albion,2,0,H
+16/12/2017,Leicester City,Crystal Palace,0,3,A
+16/12/2017,Arsenal,Newcastle United,1,0,H
+16/12/2017,Brighton & Hove Albion,Burnley,0,0,D
+16/12/2017,Chelsea,Southampton,1,0,H
+16/12/2017,Watford,Huddersfield Town,1,4,A
+16/12/2017,Stoke City,West Ham United,0,3,A
+16/12/2017,Manchester City,Tottenham Hotspur,4,1,H
+17/12/2017,AFC Bournemouth,Liverpool,0,4,A
+17/12/2017,West Bromwich Albion,Manchester United,1,2,A
+18/12/2017,Everton,Swansea City,3,1,H
+22/12/2017,Arsenal,Liverpool,3,3,D
+23/12/2017,Everton,Chelsea,0,0,D
+23/12/2017,Brighton & Hove Albion,Watford,1,0,H
+23/12/2017,Manchester City,AFC Bournemouth,4,0,H
+23/12/2017,Southampton,Huddersfield Town,1,1,D
+23/12/2017,Stoke City,West Bromwich Albion,3,1,H
+23/12/2017,Swansea City,Crystal Palace,1,1,D
+23/12/2017,West Ham United,Newcastle United,2,3,A
+23/12/2017,Burnley,Tottenham Hotspur,0,3,A
+23/12/2017,Leicester City,Manchester United,2,2,D
+26/12/2017,Tottenham Hotspur,Southampton,5,2,H
+26/12/2017,AFC Bournemouth,West Ham United,3,3,D
+26/12/2017,Chelsea,Brighton & Hove Albion,2,0,H
+26/12/2017,Huddersfield Town,Stoke City,1,1,D
+26/12/2017,Manchester United,Burnley,2,2,D
+26/12/2017,Watford,Leicester City,2,1,H
+26/12/2017,West Bromwich Albion,Everton,0,0,D
+26/12/2017,Liverpool,Swansea City,5,0,H
+27/12/2017,Newcastle United,Manchester City,0,1,A
+28/12/2017,Crystal Palace,Arsenal,2,3,A
+30/12/2017,AFC Bournemouth,Everton,2,1,H
+30/12/2017,Chelsea,Stoke City,5,0,H
+30/12/2017,Huddersfield Town,Burnley,0,0,D
+30/12/2017,Liverpool,Leicester City,2,1,H
+30/12/2017,Newcastle United,Brighton & Hove Albion,0,0,D
+30/12/2017,Watford,Swansea City,1,2,A
+30/12/2017,Manchester United,Southampton,0,0,D
+31/12/2017,Crystal Palace,Manchester City,0,0,D
+31/12/2017,West Bromwich Albion,Arsenal,1,1,D
+01/01/2018,Brighton & Hove Albion,AFC Bournemouth,2,2,D
+01/01/2018,Burnley,Liverpool,1,2,A
+01/01/2018,Leicester City,Huddersfield Town,3,0,H
+01/01/2018,Stoke City,Newcastle United,0,1,A
+01/01/2018,Everton,Manchester United,0,2,A
+02/01/2018,Manchester City,Watford,3,1,H
+02/01/2018,Southampton,Crystal Palace,1,2,A
+02/01/2018,Swansea City,Tottenham Hotspur,0,2,A
+02/01/2018,West Ham United,West Bromwich Albion,2,1,H
+03/01/2018,Arsenal,Chelsea,2,2,D
+04/01/2018,Tottenham Hotspur,West Ham United,1,1,D
+13/01/2018,Chelsea,Leicester City,0,0,D
+13/01/2018,Crystal Palace,Burnley,1,0,H
+13/01/2018,Huddersfield Town,West Ham United,1,4,A
+13/01/2018,Newcastle United,Swansea City,1,1,D
+13/01/2018,Watford,Southampton,2,2,D
+13/01/2018,West Bromwich Albion,Brighton & Hove Albion,2,0,H
+13/01/2018,Tottenham Hotspur,Everton,4,0,H
+14/01/2018,Liverpool,Manchester City,4,3,H
+14/01/2018,AFC Bournemouth,Arsenal,2,1,H
+15/01/2018,Manchester United,Stoke City,3,0,H
+20/01/2018,Brighton & Hove Albion,Chelsea,0,4,A
+20/01/2018,Arsenal,Crystal Palace,4,1,H
+20/01/2018,Burnley,Manchester United,0,1,A
+20/01/2018,Everton,West Bromwich Albion,1,1,D
+20/01/2018,Leicester City,Watford,2,0,H
+20/01/2018,Stoke City,Huddersfield Town,2,0,H
+20/01/2018,West Ham United,AFC Bournemouth,1,1,D
+20/01/2018,Manchester City,Newcastle United,3,1,H
+21/01/2018,Southampton,Tottenham Hotspur,1,1,D
+22/01/2018,Swansea City,Liverpool,1,0,H
+30/01/2018,West Ham United,Crystal Palace,1,1,D
+30/01/2018,Huddersfield Town,Liverpool,0,3,A
+30/01/2018,Swansea City,Arsenal,3,1,H
+31/01/2018,Chelsea,AFC Bournemouth,0,3,A
+31/01/2018,Everton,Leicester City,2,1,H
+31/01/2018,Newcastle United,Burnley,1,1,D
+31/01/2018,Southampton,Brighton & Hove Albion,1,1,D
+31/01/2018,Manchester City,West Bromwich Albion,3,0,H
+31/01/2018,Stoke City,Watford,0,0,D
+31/01/2018,Tottenham Hotspur,Manchester United,2,0,H
+03/02/2018,Burnley,Manchester City,1,1,D
+03/02/2018,AFC Bournemouth,Stoke City,2,1,H
+03/02/2018,Brighton & Hove Albion,West Ham United,3,1,H
+03/02/2018,Leicester City,Swansea City,1,1,D
+03/02/2018,Manchester United,Huddersfield Town,2,0,H
+03/02/2018,West Bromwich Albion,Southampton,2,3,A
+03/02/2018,Arsenal,Everton,5,1,H
+04/02/2018,Liverpool,Tottenham Hotspur,2,2,D
+04/02/2018,Crystal Palace,Newcastle United,1,1,D
+05/02/2018,Watford,Chelsea,4,1,H
+10/02/2018,Tottenham Hotspur,Arsenal,1,0,H
+10/02/2018,Everton,Crystal Palace,3,1,H
+10/02/2018,Stoke City,Brighton & Hove Albion,1,1,D
+10/02/2018,Swansea City,Burnley,1,0,H
+10/02/2018,West Ham United,Watford,2,0,H
+10/02/2018,Manchester City,Leicester City,5,1,H
+11/02/2018,Newcastle United,Manchester United,1,0,H
+11/02/2018,Southampton,Liverpool,0,2,A
+11/02/2018,Huddersfield Town,AFC Bournemouth,4,1,H
+12/02/2018,Chelsea,West Bromwich Albion,3,0,H
+24/02/2018,Leicester City,Stoke City,1,1,D
+24/02/2018,AFC Bournemouth,Newcastle United,2,2,D
+24/02/2018,Brighton & Hove Albion,Swansea City,4,1,H
+24/02/2018,Burnley,Southampton,1,1,D
+24/02/2018,Liverpool,West Ham United,4,1,H
+24/02/2018,West Bromwich Albion,Huddersfield Town,1,2,A
+24/02/2018,Watford,Everton,1,0,H
+25/02/2018,Manchester United,Chelsea,2,1,H
+25/02/2018,Crystal Palace,Tottenham Hotspur,0,1,A
+01/03/2018,Arsenal,Manchester City,0,3,A
+03/03/2018,Burnley,Everton,2,1,H
+03/03/2018,Leicester City,AFC Bournemouth,1,1,D
+03/03/2018,Southampton,Stoke City,0,0,D
+03/03/2018,Swansea City,West Ham United,4,1,H
+03/03/2018,Tottenham Hotspur,Huddersfield Town,2,0,H
+03/03/2018,Watford,West Bromwich Albion,1,0,H
+03/03/2018,Liverpool,Newcastle United,2,0,H
+04/03/2018,Manchester City,Chelsea,1,0,H
+04/03/2018,Brighton & Hove Albion,Arsenal,2,1,H
+05/03/2018,Crystal Palace,Manchester United,2,3,A
+10/03/2018,Everton,Brighton & Hove Albion,2,0,H
+10/03/2018,Huddersfield Town,Swansea City,0,0,D
+10/03/2018,Newcastle United,Southampton,3,0,H
+10/03/2018,West Bromwich Albion,Leicester City,1,4,A
+10/03/2018,West Ham United,Burnley,0,3,A
+10/03/2018,Chelsea,Crystal Palace,2,1,H
+10/03/2018,Manchester United,Liverpool,2,1,H
+11/03/2018,Arsenal,Watford,3,0,H
+11/03/2018,AFC Bournemouth,Tottenham Hotspur,1,4,A
+12/03/2018,Stoke City,Manchester City,0,2,A
+17/03/2018,Huddersfield Town,Crystal Palace,0,2,A
+17/03/2018,Stoke City,Everton,1,2,A
+17/03/2018,Liverpool,Watford,5,0,H
+17/03/2018,AFC Bournemouth,West Bromwich Albion,2,1,H
+31/03/2018,Everton,Manchester City,1,3,A
+31/03/2018,West Bromwich Albion,Burnley,1,2,A
+31/03/2018,Watford,AFC Bournemouth,2,2,D
+31/03/2018,West Ham United,Southampton,3,0,H
+31/03/2018,Newcastle United,Huddersfield Town,1,0,H
+31/03/2018,Manchester United,Swansea City,2,0,H
+31/03/2018,Crystal Palace,Liverpool,1,2,A
+31/03/2018,Brighton & Hove Albion,Leicester City,0,2,A
+01/04/2018,Chelsea,Tottenham Hotspur,1,3,A
+01/04/2018,Arsenal,Stoke City,3,0,H
+07/04/2018,West Bromwich Albion,Swansea City,1,1,D
+07/04/2018,Watford,Burnley,1,2,A
+07/04/2018,Stoke City,Tottenham Hotspur,1,2,A
+07/04/2018,AFC Bournemouth,Crystal Palace,2,2,D
+07/04/2018,Manchester City,Manchester United,2,3,A
+07/04/2018,Brighton & Hove Albion,Huddersfield Town,1,1,D
+07/04/2018,Everton,Liverpool,0,0,D
+07/04/2018,Leicester City,Newcastle United,1,2,A
+08/04/2018,Arsenal,Southampton,3,2,H
+08/04/2018,Chelsea,West Ham United,1,1,D
+14/04/2018,Liverpool,AFC Bournemouth,3,0,H
+14/04/2018,Swansea City,Everton,1,1,D
+14/04/2018,Huddersfield Town,Watford,1,0,H
+14/04/2018,Crystal Palace,Brighton & Hove Albion,3,2,H
+14/04/2018,Burnley,Leicester City,2,1,H
+14/04/2018,Tottenham Hotspur,Manchester City,1,3,A
+14/04/2018,Southampton,Chelsea,2,3,A
+15/04/2018,Manchester United,West Bromwich Albion,0,1,A
+15/04/2018,Newcastle United,Arsenal,2,1,H
+16/04/2018,West Ham United,Stoke City,1,1,D
+17/04/2018,Brighton & Hove Albion,Tottenham Hotspur,1,1,D
+18/04/2018,AFC Bournemouth,Manchester United,0,2,A
+19/04/2018,Leicester City,Southampton,0,0,D
+19/04/2018,Burnley,Chelsea,1,2,A
+21/04/2018,Watford,Crystal Palace,0,0,D
+21/04/2018,West Bromwich Albion,Liverpool,2,2,D
+22/04/2018,Stoke City,Burnley,1,1,D
+22/04/2018,Arsenal,West Ham United,4,1,H
+22/04/2018,Manchester City,Swansea City,5,0,H
+23/04/2018,Everton,Newcastle United,1,0,H
+28/04/2018,Huddersfield Town,Everton,0,2,A
+28/04/2018,Newcastle United,West Bromwich Albion,0,1,A
+28/04/2018,Swansea City,Chelsea,0,1,A
+28/04/2018,Southampton,AFC Bournemouth,2,1,H
+28/04/2018,Crystal Palace,Leicester City,5,0,H
+28/04/2018,Burnley,Brighton & Hove Albion,0,0,D
+28/04/2018,Liverpool,Stoke City,0,0,D
+29/04/2018,Manchester United,Arsenal,2,1,H
+29/04/2018,West Ham United,Manchester City,1,4,A
+30/04/2018,Tottenham Hotspur,Watford,2,0,H
+04/05/2018,Brighton & Hove Albion,Manchester United,1,0,H
+05/05/2018,West Bromwich Albion,Tottenham Hotspur,1,0,H
+05/05/2018,Watford,Newcastle United,2,1,H
+05/05/2018,Everton,Southampton,1,1,D
+05/05/2018,AFC Bournemouth,Swansea City,1,0,H
+05/05/2018,Leicester City,West Ham United,0,2,A
+05/05/2018,Stoke City,Crystal Palace,1,2,A
+06/05/2018,Manchester City,Huddersfield Town,0,0,D
+06/05/2018,Arsenal,Burnley,5,0,H
+06/05/2018,Chelsea,Liverpool,1,0,H
+08/05/2018,Swansea City,Southampton,0,1,A
+09/05/2018,Manchester City,Brighton & Hove Albion,3,1,H
+09/05/2018,Leicester City,Arsenal,3,1,H
+09/05/2018,Chelsea,Huddersfield Town,1,1,D
+09/05/2018,Tottenham Hotspur,Newcastle United,1,0,H
+10/05/2018,West Ham United,Manchester United,0,0,D
+13/05/2018,Burnley,AFC Bournemouth,1,2,A
+13/05/2018,Crystal Palace,West Bromwich Albion,2,0,H
+13/05/2018,Huddersfield Town,Arsenal,0,1,A
+13/05/2018,Liverpool,Brighton & Hove Albion,4,0,H
+13/05/2018,Manchester United,Watford,1,0,H
+13/05/2018,Newcastle United,Chelsea,3,0,H
+13/05/2018,Southampton,Manchester City,0,1,A
+13/05/2018,Swansea City,Stoke City,1,2,A
+13/05/2018,Tottenham Hotspur,Leicester City,5,4,H
+13/05/2018,West Ham United,Everton,3,1,H

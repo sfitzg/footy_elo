@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+06/08/2016,Accrington Stanley,Doncaster Rovers,3,2,H
+06/08/2016,Blackpool,Exeter City,2,0,H
+06/08/2016,Cambridge United,Barnet,1,1,D
+06/08/2016,Cheltenham Town,Leyton Orient,1,1,D
+06/08/2016,Crawley Town,Wycombe Wanderers,1,0,H
+06/08/2016,Grimsby Town,Morecambe,2,0,H
+06/08/2016,Hartlepool United,Colchester United,1,1,D
+06/08/2016,Newport County,Mansfield Town,2,3,A
+06/08/2016,Plymouth Argyle,Luton Town,0,3,A
+06/08/2016,Portsmouth,Carlisle United,1,1,D
+06/08/2016,Stevenage,Crewe Alexandra,1,2,A
+06/08/2016,Yeovil Town,Notts County,2,0,H
+13/08/2016,Barnet,Accrington Stanley,2,0,H
+13/08/2016,Carlisle United,Plymouth Argyle,1,0,H
+13/08/2016,Colchester United,Cambridge United,2,0,H
+13/08/2016,Crewe Alexandra,Portsmouth,0,0,D
+13/08/2016,Doncaster Rovers,Crawley Town,1,1,D
+13/08/2016,Exeter City,Hartlepool United,1,2,A
+13/08/2016,Leyton Orient,Newport County,0,1,A
+13/08/2016,Luton Town,Yeovil Town,1,1,D
+13/08/2016,Mansfield Town,Cheltenham Town,1,1,D
+13/08/2016,Morecambe,Blackpool,2,1,H
+13/08/2016,Notts County,Stevenage,1,1,D
+13/08/2016,Wycombe Wanderers,Grimsby Town,2,1,H
+16/08/2016,Carlisle United,Cheltenham Town,1,1,D
+16/08/2016,Colchester United,Grimsby Town,3,2,H
+16/08/2016,Crewe Alexandra,Hartlepool United,3,3,D
+16/08/2016,Doncaster Rovers,Cambridge United,1,0,H
+16/08/2016,Exeter City,Crawley Town,0,1,A
+16/08/2016,Leyton Orient,Stevenage,3,0,H
+16/08/2016,Luton Town,Newport County,2,1,H
+16/08/2016,Mansfield Town,Yeovil Town,1,0,H
+16/08/2016,Morecambe,Portsmouth,2,0,H
+16/08/2016,Notts County,Plymouth Argyle,1,2,A
+16/08/2016,Wycombe Wanderers,Accrington Stanley,1,1,D
+16/08/2016,Barnet,Blackpool,1,1,D
+20/08/2016,Accrington Stanley,Exeter City,1,2,A
+20/08/2016,Blackpool,Wycombe Wanderers,0,0,D
+20/08/2016,Cambridge United,Carlisle United,2,2,D
+20/08/2016,Cheltenham Town,Doncaster Rovers,0,1,A
+20/08/2016,Crawley Town,Barnet,1,1,D
+20/08/2016,Grimsby Town,Leyton Orient,1,2,A
+20/08/2016,Hartlepool United,Notts County,1,2,A
+20/08/2016,Newport County,Crewe Alexandra,1,1,D
+20/08/2016,Plymouth Argyle,Mansfield Town,2,0,H
+20/08/2016,Portsmouth,Colchester United,2,0,H
+20/08/2016,Stevenage,Luton Town,2,1,H
+20/08/2016,Yeovil Town,Morecambe,0,1,A
+27/08/2016,Accrington Stanley,Morecambe,2,3,A
+27/08/2016,Barnet,Carlisle United,0,1,A
+27/08/2016,Blackpool,Plymouth Argyle,0,1,A
+27/08/2016,Cambridge United,Luton Town,0,3,A
+27/08/2016,Cheltenham Town,Crewe Alexandra,2,0,H
+27/08/2016,Crawley Town,Notts County,1,3,A
+27/08/2016,Doncaster Rovers,Yeovil Town,4,1,H
+27/08/2016,Exeter City,Portsmouth,0,1,A
+27/08/2016,Grimsby Town,Stevenage,5,2,H
+27/08/2016,Hartlepool United,Newport County,2,2,D
+27/08/2016,Leyton Orient,Mansfield Town,1,2,A
+27/08/2016,Wycombe Wanderers,Colchester United,0,2,A
+03/09/2016,Carlisle United,Accrington Stanley,1,1,D
+03/09/2016,Colchester United,Exeter City,2,3,A
+03/09/2016,Crewe Alexandra,Doncaster Rovers,2,1,H
+03/09/2016,Luton Town,Wycombe Wanderers,4,1,H
+03/09/2016,Mansfield Town,Cambridge United,0,0,D
+03/09/2016,Morecambe,Leyton Orient,1,2,A
+03/09/2016,Notts County,Grimsby Town,2,2,D
+03/09/2016,Plymouth Argyle,Cheltenham Town,1,0,H
+03/09/2016,Portsmouth,Crawley Town,3,0,H
+03/09/2016,Stevenage,Hartlepool United,6,1,H
+03/09/2016,Yeovil Town,Blackpool,0,3,A
+10/09/2016,Yeovil Town,Hartlepool United,1,2,A
+10/09/2016,Carlisle United,Leyton Orient,2,2,D
+10/09/2016,Colchester United,Blackpool,3,2,H
+10/09/2016,Crewe Alexandra,Exeter City,2,0,H
+10/09/2016,Luton Town,Grimsby Town,1,2,A
+10/09/2016,Mansfield Town,Barnet,0,1,A
+10/09/2016,Morecambe,Doncaster Rovers,1,5,A
+10/09/2016,Newport County,Cheltenham Town,2,2,D
+10/09/2016,Notts County,Accrington Stanley,0,2,A
+10/09/2016,Plymouth Argyle,Cambridge United,2,1,H
+10/09/2016,Portsmouth,Wycombe Wanderers,4,2,H
+10/09/2016,Stevenage,Crawley Town,2,1,H
+17/09/2016,Wycombe Wanderers,Stevenage,1,0,H
+17/09/2016,Exeter City,Plymouth Argyle,0,2,A
+17/09/2016,Accrington Stanley,Portsmouth,1,0,H
+17/09/2016,Barnet,Colchester United,1,1,D
+17/09/2016,Blackpool,Carlisle United,2,2,D
+17/09/2016,Cambridge United,Morecambe,1,2,A
+17/09/2016,Cheltenham Town,Notts County,2,3,A
+17/09/2016,Crawley Town,Luton Town,2,0,H
+17/09/2016,Doncaster Rovers,Newport County,2,0,H
+17/09/2016,Grimsby Town,Crewe Alexandra,0,2,A
+17/09/2016,Hartlepool United,Mansfield Town,0,0,D
+17/09/2016,Leyton Orient,Yeovil Town,0,1,A
+24/09/2016,Luton Town,Doncaster Rovers,3,1,H
+24/09/2016,Mansfield Town,Grimsby Town,0,1,A
+24/09/2016,Carlisle United,Wycombe Wanderers,1,0,H
+24/09/2016,Colchester United,Accrington Stanley,1,2,A
+24/09/2016,Crewe Alexandra,Blackpool,1,1,D
+24/09/2016,Yeovil Town,Cheltenham Town,4,2,H
+24/09/2016,Morecambe,Crawley Town,2,3,A
+24/09/2016,Newport County,Cambridge United,1,2,A
+24/09/2016,Notts County,Leyton Orient,3,1,H
+24/09/2016,Plymouth Argyle,Hartlepool United,1,1,D
+24/09/2016,Portsmouth,Barnet,5,1,H
+24/09/2016,Stevenage,Exeter City,0,2,A
+27/09/2016,Doncaster Rovers,Carlisle United,2,2,D
+27/09/2016,Accrington Stanley,Mansfield Town,1,1,D
+27/09/2016,Blackpool,Portsmouth,3,1,H
+27/09/2016,Cambridge United,Yeovil Town,1,0,H
+27/09/2016,Cheltenham Town,Stevenage,0,0,D
+27/09/2016,Crawley Town,Colchester United,1,1,D
+27/09/2016,Barnet,Morecambe,2,2,D
+27/09/2016,Exeter City,Notts County,0,2,A
+27/09/2016,Grimsby Town,Newport County,1,0,H
+27/09/2016,Hartlepool United,Luton Town,1,1,D
+27/09/2016,Leyton Orient,Plymouth Argyle,0,2,A
+27/09/2016,Wycombe Wanderers,Crewe Alexandra,5,1,H
+01/10/2016,Wycombe Wanderers,Exeter City,1,0,H
+01/10/2016,Barnet,Leyton Orient,0,0,D
+01/10/2016,Cambridge United,Accrington Stanley,2,1,H
+01/10/2016,Carlisle United,Colchester United,2,0,H
+01/10/2016,Cheltenham Town,Luton Town,1,1,D
+01/10/2016,Crawley Town,Blackpool,1,0,H
+01/10/2016,Crewe Alexandra,Mansfield Town,1,1,D
+01/10/2016,Grimsby Town,Hartlepool United,0,3,A
+01/10/2016,Plymouth Argyle,Yeovil Town,4,1,H
+01/10/2016,Portsmouth,Doncaster Rovers,1,2,A
+08/10/2016,Yeovil Town,Wycombe Wanderers,1,0,H
+08/10/2016,Stevenage,Plymouth Argyle,1,2,A
+08/10/2016,Morecambe,Carlisle United,0,3,A
+08/10/2016,Mansfield Town,Notts County,3,1,H
+08/10/2016,Accrington Stanley,Cheltenham Town,1,1,D
+08/10/2016,Blackpool,Cambridge United,1,1,D
+08/10/2016,Colchester United,Newport County,0,0,D
+08/10/2016,Doncaster Rovers,Barnet,3,2,H
+08/10/2016,Exeter City,Grimsby Town,0,0,D
+08/10/2016,Hartlepool United,Crawley Town,1,1,D
+08/10/2016,Leyton Orient,Portsmouth,0,1,A
+08/10/2016,Luton Town,Crewe Alexandra,1,1,D
+11/10/2016,Notts County,Morecambe,1,2,A
+15/10/2016,Plymouth Argyle,Portsmouth,2,2,D
+15/10/2016,Notts County,Crewe Alexandra,1,1,D
+15/10/2016,Accrington Stanley,Blackpool,2,1,H
+15/10/2016,Barnet,Exeter City,1,4,A
+15/10/2016,Cambridge United,Grimsby Town,0,1,A
+15/10/2016,Carlisle United,Hartlepool United,3,2,H
+15/10/2016,Cheltenham Town,Crawley Town,2,1,H
+15/10/2016,Doncaster Rovers,Colchester United,1,0,H
+15/10/2016,Leyton Orient,Luton Town,1,2,A
+15/10/2016,Mansfield Town,Wycombe Wanderers,1,1,D
+15/10/2016,Morecambe,Stevenage,0,2,A
+15/10/2016,Yeovil Town,Newport County,1,0,H
+22/10/2016,Exeter City,Cambridge United,1,2,A
+22/10/2016,Stevenage,Carlisle United,1,2,A
+22/10/2016,Blackpool,Doncaster Rovers,4,2,H
+22/10/2016,Colchester United,Morecambe,2,2,D
+22/10/2016,Crawley Town,Accrington Stanley,0,0,D
+22/10/2016,Crewe Alexandra,Yeovil Town,0,1,A
+22/10/2016,Portsmouth,Notts County,1,2,A
+22/10/2016,Grimsby Town,Cheltenham Town,0,1,A
+22/10/2016,Hartlepool United,Leyton Orient,1,3,A
+22/10/2016,Luton Town,Mansfield Town,1,1,D
+22/10/2016,Newport County,Plymouth Argyle,1,3,A
+22/10/2016,Wycombe Wanderers,Barnet,0,2,A
+25/10/2016,Newport County,Barnet,2,2,D
+29/10/2016,Cheltenham Town,Blackpool,2,2,D
+29/10/2016,Accrington Stanley,Newport County,1,3,A
+29/10/2016,Barnet,Hartlepool United,3,2,H
+29/10/2016,Cambridge United,Portsmouth,0,1,A
+29/10/2016,Carlisle United,Crawley Town,3,1,H
+29/10/2016,Plymouth Argyle,Colchester United,2,1,H
+29/10/2016,Doncaster Rovers,Wycombe Wanderers,2,2,D
+29/10/2016,Leyton Orient,Crewe Alexandra,0,2,A
+29/10/2016,Mansfield Town,Stevenage,1,2,A
+29/10/2016,Morecambe,Exeter City,0,3,A
+29/10/2016,Notts County,Luton Town,0,0,D
+29/10/2016,Yeovil Town,Grimsby Town,0,0,D
+12/11/2016,Crewe Alexandra,Plymouth Argyle,1,2,A
+12/11/2016,Newport County,Carlisle United,2,0,H
+12/11/2016,Blackpool,Notts County,4,0,H
+12/11/2016,Colchester United,Leyton Orient,0,3,A
+12/11/2016,Crawley Town,Cambridge United,1,3,A
+12/11/2016,Wycombe Wanderers,Morecambe,2,0,H
+12/11/2016,Exeter City,Doncaster Rovers,1,3,A
+12/11/2016,Grimsby Town,Barnet,2,2,D
+12/11/2016,Hartlepool United,Cheltenham Town,2,0,H
+12/11/2016,Luton Town,Accrington Stanley,1,0,H
+12/11/2016,Portsmouth,Mansfield Town,4,0,H
+12/11/2016,Stevenage,Yeovil Town,2,2,D
+19/11/2016,Doncaster Rovers,Hartlepool United,2,1,H
+19/11/2016,Accrington Stanley,Stevenage,0,1,A
+19/11/2016,Barnet,Crewe Alexandra,0,0,D
+19/11/2016,Cambridge United,Wycombe Wanderers,1,2,A
+19/11/2016,Carlisle United,Exeter City,3,2,H
+19/11/2016,Cheltenham Town,Portsmouth,1,1,D
+19/11/2016,Yeovil Town,Colchester United,2,1,H
+19/11/2016,Leyton Orient,Blackpool,1,2,A
+19/11/2016,Mansfield Town,Crawley Town,3,1,H
+19/11/2016,Morecambe,Luton Town,0,2,A
+19/11/2016,Notts County,Newport County,0,3,A
+19/11/2016,Plymouth Argyle,Grimsby Town,0,3,A
+22/11/2016,Leyton Orient,Exeter City,0,1,A
+22/11/2016,Cheltenham Town,Colchester United,0,3,A
+22/11/2016,Crewe Alexandra,Morecambe,2,1,H
+22/11/2016,Grimsby Town,Carlisle United,2,2,D
+22/11/2016,Hartlepool United,Accrington Stanley,2,0,H
+22/11/2016,Plymouth Argyle,Barnet,0,2,A
+22/11/2016,Luton Town,Portsmouth,1,3,A
+22/11/2016,Mansfield Town,Blackpool,1,0,H
+22/11/2016,Newport County,Wycombe Wanderers,0,1,A
+22/11/2016,Notts County,Cambridge United,0,1,A
+26/11/2016,Carlisle United,Mansfield Town,5,2,H
+26/11/2016,Portsmouth,Stevenage,1,2,A
+26/11/2016,Morecambe,Plymouth Argyle,2,1,H
+26/11/2016,Accrington Stanley,Yeovil Town,1,1,D
+26/11/2016,Barnet,Notts County,3,2,H
+26/11/2016,Blackpool,Newport County,4,1,H
+26/11/2016,Cambridge United,Cheltenham Town,3,1,H
+26/11/2016,Wycombe Wanderers,Hartlepool United,2,0,H
+26/11/2016,Colchester United,Crewe Alexandra,4,0,H
+26/11/2016,Crawley Town,Grimsby Town,3,2,H
+26/11/2016,Doncaster Rovers,Leyton Orient,3,1,H
+26/11/2016,Exeter City,Luton Town,0,0,D
+03/12/2016,Stevenage,Doncaster Rovers,3,4,A
+03/12/2016,Yeovil Town,Crawley Town,5,0,H
+06/12/2016,Newport County,Stevenage,0,2,A
+10/12/2016,Cheltenham Town,Exeter City,1,3,A
+10/12/2016,Crewe Alexandra,Crawley Town,0,2,A
+10/12/2016,Grimsby Town,Portsmouth,0,1,A
+10/12/2016,Hartlepool United,Cambridge United,0,5,A
+10/12/2016,Leyton Orient,Accrington Stanley,1,0,H
+10/12/2016,Luton Town,Carlisle United,1,1,D
+10/12/2016,Mansfield Town,Colchester United,0,0,D
+10/12/2016,Notts County,Wycombe Wanderers,0,2,A
+10/12/2016,Plymouth Argyle,Doncaster Rovers,2,0,H
+10/12/2016,Stevenage,Blackpool,0,2,A
+10/12/2016,Yeovil Town,Barnet,0,1,A
+17/12/2016,Portsmouth,Hartlepool United,0,0,D
+17/12/2016,Doncaster Rovers,Grimsby Town,1,0,H
+17/12/2016,Accrington Stanley,Plymouth Argyle,0,1,A
+17/12/2016,Barnet,Stevenage,1,2,A
+17/12/2016,Blackpool,Luton Town,0,2,A
+17/12/2016,Cambridge United,Crewe Alexandra,2,1,H
+17/12/2016,Carlisle United,Yeovil Town,2,1,H
+17/12/2016,Colchester United,Notts County,2,1,H
+17/12/2016,Crawley Town,Newport County,3,1,H
+17/12/2016,Exeter City,Mansfield Town,2,0,H
+17/12/2016,Morecambe,Cheltenham Town,1,2,A
+17/12/2016,Wycombe Wanderers,Leyton Orient,1,0,H
+26/12/2016,Plymouth Argyle,Wycombe Wanderers,3,3,D
+26/12/2016,Leyton Orient,Crawley Town,3,2,H
+26/12/2016,Cheltenham Town,Barnet,1,2,A
+26/12/2016,Crewe Alexandra,Carlisle United,1,1,D
+26/12/2016,Grimsby Town,Accrington Stanley,2,0,H
+26/12/2016,Hartlepool United,Blackpool,0,1,A
+26/12/2016,Luton Town,Colchester United,0,1,A
+26/12/2016,Mansfield Town,Morecambe,0,1,A
+26/12/2016,Newport County,Portsmouth,2,3,A
+26/12/2016,Notts County,Doncaster Rovers,0,1,A
+26/12/2016,Stevenage,Cambridge United,1,2,A
+26/12/2016,Yeovil Town,Exeter City,0,0,D
+30/12/2016,Cheltenham Town,Wycombe Wanderers,0,1,A
+30/12/2016,Hartlepool United,Morecambe,3,2,H
+30/12/2016,Yeovil Town,Portsmouth,0,0,D
+31/12/2016,Crewe Alexandra,Accrington Stanley,0,1,A
+31/12/2016,Mansfield Town,Doncaster Rovers,1,1,D
+31/12/2016,Leyton Orient,Cambridge United,1,1,D
+31/12/2016,Stevenage,Colchester United,2,4,A
+31/12/2016,Grimsby Town,Blackpool,0,0,D
+31/12/2016,Luton Town,Barnet,3,1,H
+31/12/2016,Newport County,Exeter City,1,4,A
+31/12/2016,Notts County,Carlisle United,2,3,A
+31/12/2016,Plymouth Argyle,Crawley Town,2,0,H
+02/01/2017,Wycombe Wanderers,Newport County,2,1,H
+02/01/2017,Accrington Stanley,Hartlepool United,2,2,D
+02/01/2017,Barnet,Plymouth Argyle,1,0,H
+02/01/2017,Blackpool,Mansfield Town,0,1,A
+02/01/2017,Cambridge United,Notts County,4,0,H
+02/01/2017,Carlisle United,Grimsby Town,1,3,A
+02/01/2017,Colchester United,Cheltenham Town,2,0,H
+02/01/2017,Crawley Town,Yeovil Town,2,0,H
+02/01/2017,Doncaster Rovers,Stevenage,1,0,H
+02/01/2017,Exeter City,Leyton Orient,4,0,H
+02/01/2017,Morecambe,Crewe Alexandra,0,0,D
+02/01/2017,Portsmouth,Luton Town,1,0,H
+05/01/2017,Doncaster Rovers,Portsmouth,3,1,H
+07/01/2017,Colchester United,Carlisle United,4,1,H
+07/01/2017,Hartlepool United,Grimsby Town,0,1,A
+07/01/2017,Leyton Orient,Barnet,1,3,A
+07/01/2017,Mansfield Town,Crewe Alexandra,3,0,H
+07/01/2017,Morecambe,Notts County,4,1,H
+07/01/2017,Stevenage,Newport County,3,1,H
+14/01/2017,Portsmouth,Leyton Orient,2,1,H
+14/01/2017,Wycombe Wanderers,Yeovil Town,1,1,D
+14/01/2017,Plymouth Argyle,Stevenage,4,2,H
+14/01/2017,Newport County,Colchester United,1,1,D
+14/01/2017,Grimsby Town,Exeter City,0,3,A
+14/01/2017,Crewe Alexandra,Luton Town,1,2,A
+14/01/2017,Notts County,Mansfield Town,0,0,D
+14/01/2017,Barnet,Doncaster Rovers,1,3,A
+14/01/2017,Cambridge United,Blackpool,0,0,D
+14/01/2017,Carlisle United,Morecambe,1,1,D
+14/01/2017,Cheltenham Town,Accrington Stanley,3,0,H
+14/01/2017,Crawley Town,Hartlepool United,1,0,H
+21/01/2017,Blackpool,Yeovil Town,2,2,D
+21/01/2017,Hartlepool United,Stevenage,2,0,H
+21/01/2017,Grimsby Town,Notts County,2,0,H
+21/01/2017,Exeter City,Colchester United,3,0,H
+21/01/2017,Doncaster Rovers,Crewe Alexandra,3,1,H
+21/01/2017,Cheltenham Town,Plymouth Argyle,1,2,A
+21/01/2017,Accrington Stanley,Carlisle United,1,1,D
+21/01/2017,Barnet,Newport County,0,0,D
+21/01/2017,Wycombe Wanderers,Luton Town,1,1,D
+21/01/2017,Cambridge United,Mansfield Town,1,3,A
+28/01/2017,Notts County,Crawley Town,2,1,H
+28/01/2017,Portsmouth,Exeter City,0,1,A
+28/01/2017,Newport County,Hartlepool United,3,1,H
+28/01/2017,Mansfield Town,Leyton Orient,2,0,H
+28/01/2017,Luton Town,Cambridge United,2,0,H
+28/01/2017,Stevenage,Grimsby Town,2,0,H
+28/01/2017,Crewe Alexandra,Cheltenham Town,0,0,D
+28/01/2017,Carlisle United,Barnet,1,1,D
+28/01/2017,Yeovil Town,Doncaster Rovers,0,3,A
+31/01/2017,Exeter City,Wycombe Wanderers,4,2,H
+31/01/2017,Luton Town,Cheltenham Town,2,3,A
+31/01/2017,Yeovil Town,Plymouth Argyle,2,1,H
+04/02/2017,Wycombe Wanderers,Portsmouth,1,0,H
+04/02/2017,Hartlepool United,Yeovil Town,1,1,D
+04/02/2017,Grimsby Town,Luton Town,1,1,D
+04/02/2017,Exeter City,Crewe Alexandra,4,0,H
+04/02/2017,Leyton Orient,Carlisle United,1,2,A
+04/02/2017,Doncaster Rovers,Morecambe,1,1,D
+04/02/2017,Crawley Town,Stevenage,1,2,A
+04/02/2017,Cheltenham Town,Newport County,1,1,D
+04/02/2017,Accrington Stanley,Notts County,2,0,H
+04/02/2017,Barnet,Mansfield Town,0,2,A
+04/02/2017,Blackpool,Colchester United,1,1,D
+04/02/2017,Cambridge United,Plymouth Argyle,0,1,A
+07/02/2017,Blackpool,Crawley Town,0,0,D
+07/02/2017,Leyton Orient,Morecambe,0,1,A
+10/02/2017,Newport County,Doncaster Rovers,0,0,D
+11/02/2017,Portsmouth,Accrington Stanley,2,0,H
+11/02/2017,Morecambe,Cambridge United,2,0,H
+11/02/2017,Stevenage,Wycombe Wanderers,3,0,H
+11/02/2017,Mansfield Town,Hartlepool United,4,0,H
+11/02/2017,Plymouth Argyle,Exeter City,3,0,H
+11/02/2017,Notts County,Cheltenham Town,2,1,H
+11/02/2017,Carlisle United,Blackpool,1,4,A
+11/02/2017,Colchester United,Barnet,2,1,H
+11/02/2017,Crewe Alexandra,Grimsby Town,5,0,H
+11/02/2017,Luton Town,Crawley Town,2,1,H
+11/02/2017,Yeovil Town,Leyton Orient,1,1,D
+14/02/2017,Plymouth Argyle,Leyton Orient,2,3,A
+14/02/2017,Yeovil Town,Cambridge United,1,1,D
+14/02/2017,Portsmouth,Blackpool,2,0,H
+14/02/2017,Stevenage,Cheltenham Town,2,1,H
+14/02/2017,Notts County,Exeter City,2,2,D
+14/02/2017,Newport County,Grimsby Town,0,0,D
+14/02/2017,Carlisle United,Doncaster Rovers,2,1,H
+14/02/2017,Colchester United,Crawley Town,2,3,A
+14/02/2017,Crewe Alexandra,Wycombe Wanderers,2,1,H
+14/02/2017,Luton Town,Hartlepool United,3,0,H
+14/02/2017,Mansfield Town,Accrington Stanley,4,4,D
+14/02/2017,Morecambe,Barnet,0,1,A
+18/02/2017,Wycombe Wanderers,Carlisle United,1,2,A
+18/02/2017,Leyton Orient,Notts County,2,3,A
+18/02/2017,Exeter City,Stevenage,1,1,D
+18/02/2017,Hartlepool United,Plymouth Argyle,1,1,D
+18/02/2017,Grimsby Town,Mansfield Town,3,0,H
+18/02/2017,Doncaster Rovers,Luton Town,1,1,D
+18/02/2017,Accrington Stanley,Colchester United,2,1,H
+18/02/2017,Barnet,Portsmouth,1,1,D
+18/02/2017,Blackpool,Crewe Alexandra,2,2,D
+18/02/2017,Cambridge United,Newport County,3,2,H
+18/02/2017,Cheltenham Town,Yeovil Town,2,0,H
+18/02/2017,Crawley Town,Morecambe,1,3,A
+21/02/2017,Colchester United,Wycombe Wanderers,1,0,H
+21/02/2017,Newport County,Morecambe,1,1,D
+25/02/2017,Morecambe,Grimsby Town,1,0,H
+25/02/2017,Notts County,Yeovil Town,0,0,D
+25/02/2017,Mansfield Town,Newport County,2,1,H
+25/02/2017,Luton Town,Plymouth Argyle,1,1,D
+25/02/2017,Barnet,Cambridge United,0,1,A
+25/02/2017,Carlisle United,Portsmouth,0,3,A
+25/02/2017,Colchester United,Hartlepool United,2,1,H
+25/02/2017,Crewe Alexandra,Stevenage,1,2,A
+25/02/2017,Doncaster Rovers,Accrington Stanley,2,2,D
+25/02/2017,Exeter City,Blackpool,2,2,D
+25/02/2017,Leyton Orient,Cheltenham Town,0,1,A
+25/02/2017,Wycombe Wanderers,Crawley Town,1,2,A
+28/02/2017,Yeovil Town,Mansfield Town,0,0,D
+28/02/2017,Stevenage,Leyton Orient,4,1,H
+28/02/2017,Portsmouth,Morecambe,1,1,D
+28/02/2017,Plymouth Argyle,Notts County,0,1,A
+28/02/2017,Accrington Stanley,Wycombe Wanderers,2,2,D
+28/02/2017,Blackpool,Barnet,2,2,D
+28/02/2017,Cambridge United,Doncaster Rovers,2,3,A
+28/02/2017,Cheltenham Town,Carlisle United,1,0,H
+28/02/2017,Crawley Town,Exeter City,1,2,A
+28/02/2017,Grimsby Town,Colchester United,1,0,H
+28/02/2017,Hartlepool United,Crewe Alexandra,4,0,H
+04/03/2017,Stevenage,Notts County,3,0,H
+04/03/2017,Portsmouth,Crewe Alexandra,0,1,A
+04/03/2017,Plymouth Argyle,Carlisle United,2,0,H
+04/03/2017,Yeovil Town,Luton Town,0,4,A
+04/03/2017,Newport County,Leyton Orient,0,4,A
+04/03/2017,Accrington Stanley,Barnet,1,0,H
+04/03/2017,Blackpool,Morecambe,3,1,H
+04/03/2017,Cambridge United,Colchester United,1,1,D
+04/03/2017,Cheltenham Town,Mansfield Town,0,0,D
+04/03/2017,Crawley Town,Doncaster Rovers,0,0,D
+04/03/2017,Grimsby Town,Wycombe Wanderers,1,2,A
+04/03/2017,Hartlepool United,Exeter City,3,1,H
+07/03/2017,Plymouth Argyle,Blackpool,0,3,A
+07/03/2017,Crawley Town,Portsmouth,0,2,A
+11/03/2017,Notts County,Hartlepool United,2,1,H
+11/03/2017,Morecambe,Yeovil Town,1,3,A
+11/03/2017,Mansfield Town,Plymouth Argyle,0,2,A
+11/03/2017,Barnet,Crawley Town,2,2,D
+11/03/2017,Carlisle United,Cambridge United,0,3,A
+11/03/2017,Colchester United,Portsmouth,0,4,A
+11/03/2017,Crewe Alexandra,Newport County,1,2,A
+11/03/2017,Doncaster Rovers,Cheltenham Town,2,0,H
+11/03/2017,Exeter City,Accrington Stanley,0,2,A
+11/03/2017,Leyton Orient,Grimsby Town,0,3,A
+11/03/2017,Luton Town,Stevenage,0,2,A
+11/03/2017,Wycombe Wanderers,Blackpool,0,0,D
+14/03/2017,Wycombe Wanderers,Plymouth Argyle,1,1,D
+14/03/2017,Carlisle United,Luton Town,0,0,D
+14/03/2017,Portsmouth,Grimsby Town,4,0,H
+14/03/2017,Accrington Stanley,Leyton Orient,5,0,H
+14/03/2017,Blackpool,Stevenage,1,0,H
+14/03/2017,Cambridge United,Hartlepool United,0,1,A
+14/03/2017,Morecambe,Newport County,0,1,A
+14/03/2017,Colchester United,Mansfield Town,2,0,H
+14/03/2017,Crawley Town,Crewe Alexandra,0,3,A
+14/03/2017,Doncaster Rovers,Notts County,3,1,H
+14/03/2017,Exeter City,Cheltenham Town,3,0,H
+15/03/2017,Barnet,Yeovil Town,2,2,D
+18/03/2017,Yeovil Town,Accrington Stanley,1,1,D
+18/03/2017,Stevenage,Portsmouth,3,0,H
+18/03/2017,Leyton Orient,Doncaster Rovers,1,4,A
+18/03/2017,Cheltenham Town,Cambridge United,0,1,A
+18/03/2017,Grimsby Town,Crawley Town,1,1,D
+18/03/2017,Hartlepool United,Wycombe Wanderers,0,2,A
+18/03/2017,Plymouth Argyle,Morecambe,1,0,H
+18/03/2017,Luton Town,Exeter City,1,1,D
+18/03/2017,Mansfield Town,Carlisle United,2,0,H
+18/03/2017,Newport County,Blackpool,1,3,A
+18/03/2017,Crewe Alexandra,Colchester United,2,0,H
+19/03/2017,Notts County,Barnet,1,0,H
+21/03/2017,Morecambe,Accrington Stanley,1,2,A
+21/03/2017,Newport County,Luton Town,1,1,D
+25/03/2017,Colchester United,Luton Town,2,1,H
+25/03/2017,Accrington Stanley,Grimsby Town,1,1,D
+25/03/2017,Barnet,Cheltenham Town,3,1,H
+25/03/2017,Blackpool,Hartlepool United,2,1,H
+25/03/2017,Cambridge United,Stevenage,0,0,D
+25/03/2017,Carlisle United,Crewe Alexandra,0,2,A
+25/03/2017,Wycombe Wanderers,Notts County,0,1,A
+25/03/2017,Crawley Town,Leyton Orient,3,0,H
+25/03/2017,Exeter City,Yeovil Town,3,3,D
+25/03/2017,Morecambe,Mansfield Town,1,3,A
+25/03/2017,Portsmouth,Newport County,2,1,H
+26/03/2017,Doncaster Rovers,Plymouth Argyle,0,1,A
+28/03/2017,Accrington Stanley,Cambridge United,2,0,H
+01/04/2017,Grimsby Town,Doncaster Rovers,1,5,A
+01/04/2017,Cheltenham Town,Morecambe,3,1,H
+01/04/2017,Crewe Alexandra,Cambridge United,1,2,A
+01/04/2017,Hartlepool United,Portsmouth,0,2,A
+01/04/2017,Leyton Orient,Wycombe Wanderers,0,2,A
+01/04/2017,Luton Town,Blackpool,1,0,H
+01/04/2017,Mansfield Town,Exeter City,1,2,A
+01/04/2017,Newport County,Crawley Town,1,0,H
+01/04/2017,Notts County,Colchester United,3,1,H
+01/04/2017,Plymouth Argyle,Accrington Stanley,0,1,A
+01/04/2017,Stevenage,Barnet,1,0,H
+01/04/2017,Yeovil Town,Carlisle United,0,2,A
+08/04/2017,Accrington Stanley,Crewe Alexandra,3,2,H
+08/04/2017,Barnet,Luton Town,0,1,A
+08/04/2017,Blackpool,Grimsby Town,1,3,A
+08/04/2017,Cambridge United,Leyton Orient,3,0,H
+08/04/2017,Carlisle United,Notts County,1,2,A
+08/04/2017,Colchester United,Stevenage,4,0,H
+08/04/2017,Crawley Town,Plymouth Argyle,1,2,A
+08/04/2017,Doncaster Rovers,Mansfield Town,1,0,H
+08/04/2017,Morecambe,Hartlepool United,1,1,D
+08/04/2017,Portsmouth,Yeovil Town,3,1,H
+08/04/2017,Wycombe Wanderers,Cheltenham Town,3,3,D
+08/04/2017,Exeter City,Newport County,0,1,A
+14/04/2017,Portsmouth,Plymouth Argyle,1,1,D
+14/04/2017,Colchester United,Doncaster Rovers,1,1,D
+14/04/2017,Crawley Town,Cheltenham Town,0,0,D
+14/04/2017,Exeter City,Barnet,2,1,H
+14/04/2017,Grimsby Town,Cambridge United,2,1,H
+14/04/2017,Hartlepool United,Carlisle United,1,1,D
+14/04/2017,Luton Town,Leyton Orient,2,2,D
+14/04/2017,Newport County,Yeovil Town,1,0,H
+14/04/2017,Stevenage,Morecambe,0,1,A
+14/04/2017,Blackpool,Accrington Stanley,0,0,D
+14/04/2017,Crewe Alexandra,Notts County,2,2,D
+14/04/2017,Wycombe Wanderers,Mansfield Town,0,1,A
+17/04/2017,Cheltenham Town,Grimsby Town,2,1,H
+17/04/2017,Accrington Stanley,Crawley Town,1,0,H
+17/04/2017,Barnet,Wycombe Wanderers,0,2,A
+17/04/2017,Cambridge United,Exeter City,1,0,H
+17/04/2017,Carlisle United,Stevenage,1,1,D
+17/04/2017,Doncaster Rovers,Blackpool,0,1,A
+17/04/2017,Leyton Orient,Hartlepool United,2,1,H
+17/04/2017,Mansfield Town,Luton Town,1,1,D
+17/04/2017,Morecambe,Colchester United,1,1,D
+17/04/2017,Notts County,Portsmouth,1,3,A
+17/04/2017,Plymouth Argyle,Newport County,6,1,H
+17/04/2017,Yeovil Town,Crewe Alexandra,3,0,H
+22/04/2017,Blackpool,Cheltenham Town,3,0,H
+22/04/2017,Colchester United,Plymouth Argyle,0,0,D
+22/04/2017,Crawley Town,Carlisle United,3,3,D
+22/04/2017,Crewe Alexandra,Leyton Orient,3,0,H
+22/04/2017,Exeter City,Morecambe,3,1,H
+22/04/2017,Grimsby Town,Yeovil Town,4,2,H
+22/04/2017,Hartlepool United,Barnet,0,2,A
+22/04/2017,Luton Town,Notts County,2,1,H
+22/04/2017,Newport County,Accrington Stanley,1,0,H
+22/04/2017,Portsmouth,Cambridge United,2,1,H
+22/04/2017,Stevenage,Mansfield Town,0,1,A
+22/04/2017,Wycombe Wanderers,Doncaster Rovers,2,1,H
+29/04/2017,Accrington Stanley,Luton Town,1,4,A
+29/04/2017,Barnet,Grimsby Town,3,1,H
+29/04/2017,Cambridge United,Crawley Town,2,0,H
+29/04/2017,Carlisle United,Newport County,2,1,H
+29/04/2017,Cheltenham Town,Hartlepool United,1,0,H
+29/04/2017,Doncaster Rovers,Exeter City,1,3,A
+29/04/2017,Leyton Orient,Colchester United,1,3,A
+29/04/2017,Mansfield Town,Portsmouth,0,1,A
+29/04/2017,Morecambe,Wycombe Wanderers,1,1,D
+29/04/2017,Notts County,Blackpool,1,0,H
+29/04/2017,Plymouth Argyle,Crewe Alexandra,2,1,H
+29/04/2017,Yeovil Town,Stevenage,1,1,D
+06/05/2017,Blackpool,Leyton Orient,3,1,H
+06/05/2017,Colchester United,Yeovil Town,2,0,H
+06/05/2017,Crawley Town,Mansfield Town,2,2,D
+06/05/2017,Crewe Alexandra,Barnet,4,1,H
+06/05/2017,Exeter City,Carlisle United,2,3,A
+06/05/2017,Grimsby Town,Plymouth Argyle,1,1,D
+06/05/2017,Hartlepool United,Doncaster Rovers,2,1,H
+06/05/2017,Luton Town,Morecambe,3,1,H
+06/05/2017,Newport County,Notts County,2,1,H
+06/05/2017,Portsmouth,Cheltenham Town,6,1,H
+06/05/2017,Stevenage,Accrington Stanley,0,3,A
+06/05/2017,Wycombe Wanderers,Cambridge United,1,0,H

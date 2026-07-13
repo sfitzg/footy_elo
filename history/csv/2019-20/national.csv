@@ -1,0 +1,452 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+03/08/2019,Stockport County,Maidenhead United,0,1,A
+03/08/2019,Aldershot Town,AFC Fylde,1,2,A
+03/08/2019,Barnet,Yeovil Town,1,0,H
+03/08/2019,Chesterfield,Dover Athletic,1,2,A
+03/08/2019,Chorley,Bromley,0,0,D
+03/08/2019,Dagenham & Redbridge,Woking,0,2,A
+03/08/2019,Eastleigh,Notts County,1,0,H
+03/08/2019,Ebbsfleet United,Halifax Town,1,4,A
+03/08/2019,Harrogate Town,Solihull Moors,2,2,D
+03/08/2019,Hartlepool United,Sutton United,1,3,A
+03/08/2019,Torquay United,Boreham Wood,2,1,H
+03/08/2019,Wrexham,Barrow,2,1,H
+06/08/2019,AFC Fylde,Chorley,0,0,D
+06/08/2019,Barrow,Harrogate Town,0,3,A
+06/08/2019,Boreham Wood,Wrexham,2,2,D
+06/08/2019,Bromley,Ebbsfleet United,3,1,H
+06/08/2019,Dover Athletic,Dagenham & Redbridge,1,2,A
+06/08/2019,Halifax Town,Hartlepool United,2,0,H
+06/08/2019,Maidenhead United,Chesterfield,1,1,D
+06/08/2019,Notts County,Stockport County,1,1,D
+06/08/2019,Solihull Moors,Torquay United,3,0,H
+06/08/2019,Sutton United,Barnet,1,1,D
+06/08/2019,Woking,Aldershot Town,0,1,A
+06/08/2019,Yeovil Town,Eastleigh,1,0,H
+10/08/2019,AFC Fylde,Ebbsfleet United,1,0,H
+10/08/2019,Barrow,Eastleigh,2,0,H
+10/08/2019,Boreham Wood,Chesterfield,2,2,D
+10/08/2019,Bromley,Torquay United,3,3,D
+10/08/2019,Dover Athletic,Wrexham,2,1,H
+10/08/2019,Halifax Town,Dagenham & Redbridge,1,0,H
+10/08/2019,Maidenhead United,Hartlepool United,0,1,A
+10/08/2019,Solihull Moors,Aldershot Town,2,1,H
+10/08/2019,Sutton United,Chorley,2,2,D
+10/08/2019,Woking,Harrogate Town,1,0,H
+10/08/2019,Yeovil Town,Stockport County,1,1,D
+10/08/2019,Notts County,Barnet,1,2,A
+13/08/2019,Aldershot Town,Bromley,0,1,A
+13/08/2019,Barnet,Dover Athletic,0,1,A
+13/08/2019,Chesterfield,Woking,1,2,A
+13/08/2019,Chorley,Solihull Moors,1,6,A
+13/08/2019,Dagenham & Redbridge,Boreham Wood,0,3,A
+13/08/2019,Eastleigh,Sutton United,1,1,D
+13/08/2019,Ebbsfleet United,Yeovil Town,1,3,A
+13/08/2019,Harrogate Town,Notts County,0,2,A
+13/08/2019,Hartlepool United,AFC Fylde,2,2,D
+13/08/2019,Stockport County,Barrow,3,2,H
+13/08/2019,Torquay United,Maidenhead United,0,2,A
+13/08/2019,Wrexham,Halifax Town,1,0,H
+17/08/2019,AFC Fylde,Woking,1,4,A
+17/08/2019,Aldershot Town,Halifax Town,1,1,D
+17/08/2019,Barnet,Chesterfield,2,2,D
+17/08/2019,Boreham Wood,Sutton United,0,1,A
+17/08/2019,Dagenham & Redbridge,Harrogate Town,4,2,H
+17/08/2019,Dover Athletic,Torquay United,1,2,A
+17/08/2019,Hartlepool United,Bromley,2,3,A
+17/08/2019,Maidenhead United,Chorley,4,1,H
+17/08/2019,Solihull Moors,Ebbsfleet United,2,1,H
+17/08/2019,Stockport County,Eastleigh,2,0,H
+17/08/2019,Barrow,Yeovil Town,1,0,H
+18/08/2019,Notts County,Wrexham,1,1,D
+24/08/2019,Bromley,Boreham Wood,1,0,H
+24/08/2019,Chesterfield,Barrow,2,2,D
+24/08/2019,Chorley,Hartlepool United,0,0,D
+24/08/2019,Eastleigh,Dagenham & Redbridge,1,1,D
+24/08/2019,Ebbsfleet United,Notts County,2,2,D
+24/08/2019,Halifax Town,AFC Fylde,4,1,H
+24/08/2019,Harrogate Town,Stockport County,2,1,H
+24/08/2019,Sutton United,Dover Athletic,1,2,A
+24/08/2019,Woking,Solihull Moors,2,0,H
+24/08/2019,Wrexham,Barnet,1,1,D
+24/08/2019,Yeovil Town,Maidenhead United,1,2,A
+24/08/2019,Torquay United,Aldershot Town,2,0,H
+26/08/2019,AFC Fylde,Harrogate Town,0,0,D
+26/08/2019,Aldershot Town,Sutton United,1,1,D
+26/08/2019,Barnet,Torquay United,2,2,D
+26/08/2019,Barrow,Halifax Town,1,2,A
+26/08/2019,Boreham Wood,Ebbsfleet United,1,2,A
+26/08/2019,Dagenham & Redbridge,Yeovil Town,3,2,H
+26/08/2019,Dover Athletic,Woking,1,2,A
+26/08/2019,Hartlepool United,Wrexham,4,2,H
+26/08/2019,Maidenhead United,Bromley,1,2,A
+26/08/2019,Notts County,Chorley,5,1,H
+26/08/2019,Stockport County,Chesterfield,2,0,H
+26/08/2019,Solihull Moors,Eastleigh,1,2,A
+31/08/2019,Bromley,AFC Fylde,2,2,D
+31/08/2019,Chesterfield,Dagenham & Redbridge,1,1,D
+31/08/2019,Eastleigh,Barnet,1,2,A
+31/08/2019,Ebbsfleet United,Aldershot Town,1,2,A
+31/08/2019,Halifax Town,Solihull Moors,2,1,H
+31/08/2019,Harrogate Town,Dover Athletic,0,2,A
+31/08/2019,Sutton United,Maidenhead United,0,3,A
+31/08/2019,Torquay United,Hartlepool United,1,2,A
+31/08/2019,Woking,Barrow,3,2,H
+31/08/2019,Wrexham,Stockport County,1,2,A
+31/08/2019,Yeovil Town,Notts County,3,1,H
+31/08/2019,Chorley,Boreham Wood,1,3,A
+03/09/2019,Barrow,Hartlepool United,0,1,A
+03/09/2019,Chesterfield,Halifax Town,2,3,A
+03/09/2019,Dover Athletic,Ebbsfleet United,1,1,D
+03/09/2019,Eastleigh,Boreham Wood,2,0,H
+03/09/2019,Harrogate Town,Chorley,2,0,H
+03/09/2019,Notts County,Solihull Moors,0,0,D
+03/09/2019,Stockport County,AFC Fylde,2,1,H
+03/09/2019,Woking,Torquay United,1,1,D
+03/09/2019,Wrexham,Maidenhead United,2,2,D
+03/09/2019,Yeovil Town,Sutton United,1,0,H
+04/09/2019,Dagenham & Redbridge,Bromley,1,1,D
+07/09/2019,Torquay United,Harrogate Town,4,2,H
+07/09/2019,Aldershot Town,Barrow,1,2,A
+07/09/2019,Boreham Wood,Dover Athletic,3,1,H
+07/09/2019,Bromley,Chesterfield,2,1,H
+07/09/2019,Chorley,Stockport County,3,0,H
+07/09/2019,Ebbsfleet United,Eastleigh,1,1,D
+07/09/2019,Halifax Town,Yeovil Town,0,2,A
+07/09/2019,Maidenhead United,Dagenham & Redbridge,0,1,A
+07/09/2019,Sutton United,Notts County,1,1,D
+07/09/2019,Hartlepool United,Woking,1,1,D
+14/09/2019,Yeovil Town,AFC Fylde,3,2,H
+14/09/2019,Woking,Ebbsfleet United,2,2,D
+14/09/2019,Wrexham,Sutton United,1,1,D
+14/09/2019,Barnet,Maidenhead United,1,0,H
+14/09/2019,Barrow,Solihull Moors,3,0,H
+14/09/2019,Chesterfield,Torquay United,1,0,H
+14/09/2019,Dagenham & Redbridge,Hartlepool United,3,1,H
+14/09/2019,Dover Athletic,Chorley,1,1,D
+14/09/2019,Eastleigh,Bromley,1,1,D
+14/09/2019,Harrogate Town,Boreham Wood,0,0,D
+14/09/2019,Notts County,Halifax Town,1,0,H
+14/09/2019,Stockport County,Aldershot Town,1,2,A
+17/09/2019,Barnet,Aldershot Town,2,0,H
+21/09/2019,Torquay United,Dagenham & Redbridge,0,0,D
+21/09/2019,AFC Fylde,Eastleigh,3,1,H
+21/09/2019,Aldershot Town,Wrexham,1,0,H
+21/09/2019,Boreham Wood,Stockport County,4,0,H
+21/09/2019,Bromley,Notts County,2,1,H
+21/09/2019,Chorley,Woking,1,1,D
+21/09/2019,Ebbsfleet United,Barrow,0,3,A
+21/09/2019,Halifax Town,Barnet,4,2,H
+21/09/2019,Hartlepool United,Dover Athletic,0,2,A
+21/09/2019,Maidenhead United,Harrogate Town,1,1,D
+21/09/2019,Solihull Moors,Yeovil Town,0,1,A
+21/09/2019,Sutton United,Chesterfield,4,0,H
+24/09/2019,Torquay United,Eastleigh,2,3,A
+24/09/2019,Solihull Moors,Stockport County,2,0,H
+24/09/2019,AFC Fylde,Wrexham,3,2,H
+24/09/2019,Aldershot Town,Yeovil Town,1,3,A
+24/09/2019,Boreham Wood,Notts County,1,2,A
+24/09/2019,Bromley,Woking,1,0,H
+24/09/2019,Chorley,Barrow,1,3,A
+24/09/2019,Ebbsfleet United,Barnet,3,0,H
+24/09/2019,Halifax Town,Harrogate Town,0,1,A
+24/09/2019,Hartlepool United,Chesterfield,1,1,D
+24/09/2019,Maidenhead United,Dover Athletic,1,2,A
+24/09/2019,Sutton United,Dagenham & Redbridge,0,2,A
+28/09/2019,Yeovil Town,Bromley,3,1,H
+28/09/2019,Dover Athletic,Halifax Town,0,2,A
+28/09/2019,Barnet,Solihull Moors,0,0,D
+28/09/2019,Barrow,Maidenhead United,2,0,H
+28/09/2019,Chesterfield,Aldershot Town,2,1,H
+28/09/2019,Dagenham & Redbridge,Chorley,0,0,D
+28/09/2019,Eastleigh,Hartlepool United,1,1,D
+28/09/2019,Harrogate Town,Sutton United,2,0,H
+28/09/2019,Notts County,AFC Fylde,2,0,H
+28/09/2019,Stockport County,Torquay United,0,4,A
+28/09/2019,Woking,Boreham Wood,1,2,A
+28/09/2019,Wrexham,Ebbsfleet United,1,0,H
+01/10/2019,Solihull Moors,Wrexham,3,1,H
+01/10/2019,AFC Fylde,Barnet,0,4,A
+05/10/2019,Boreham Wood,Solihull Moors,1,0,H
+05/10/2019,Bromley,Barrow,1,2,A
+05/10/2019,Chesterfield,Eastleigh,1,2,A
+05/10/2019,Chorley,Aldershot Town,0,0,D
+05/10/2019,Dagenham & Redbridge,Barnet,1,1,D
+05/10/2019,Dover Athletic,Notts County,2,2,D
+05/10/2019,Hartlepool United,Yeovil Town,2,1,H
+05/10/2019,Maidenhead United,Halifax Town,0,1,A
+05/10/2019,Sutton United,Stockport County,0,0,D
+05/10/2019,Torquay United,AFC Fylde,2,1,H
+05/10/2019,Woking,Wrexham,1,1,D
+05/10/2019,Harrogate Town,Ebbsfleet United,2,0,H
+08/10/2019,AFC Fylde,Chesterfield,1,3,A
+08/10/2019,Aldershot Town,Dover Athletic,4,0,H
+08/10/2019,Barnet,Bromley,1,2,A
+08/10/2019,Barrow,Boreham Wood,3,1,H
+08/10/2019,Eastleigh,Maidenhead United,2,1,H
+08/10/2019,Ebbsfleet United,Torquay United,2,4,A
+08/10/2019,Halifax Town,Chorley,0,0,D
+08/10/2019,Notts County,Dagenham & Redbridge,2,0,H
+08/10/2019,Solihull Moors,Sutton United,2,0,H
+08/10/2019,Wrexham,Harrogate Town,1,1,D
+08/10/2019,Yeovil Town,Woking,3,1,H
+09/10/2019,Stockport County,Hartlepool United,2,1,H
+12/10/2019,Aldershot Town,Hartlepool United,0,3,A
+12/10/2019,Barnet,Woking,2,2,D
+12/10/2019,Eastleigh,Chorley,0,0,D
+12/10/2019,Ebbsfleet United,Maidenhead United,1,2,A
+12/10/2019,Halifax Town,Boreham Wood,0,2,A
+12/10/2019,Notts County,Torquay United,2,0,H
+12/10/2019,Yeovil Town,Harrogate Town,1,2,A
+12/10/2019,Solihull Moors,Bromley,2,1,H
+15/10/2019,Wrexham,Chesterfield,0,1,A
+26/10/2019,Chesterfield,Notts County,1,0,H
+26/10/2019,Woking,Eastleigh,1,1,D
+26/10/2019,Torquay United,Barrow,4,2,H
+26/10/2019,Boreham Wood,AFC Fylde,0,2,A
+26/10/2019,Bromley,Halifax Town,5,0,H
+26/10/2019,Chorley,Yeovil Town,1,2,A
+26/10/2019,Dagenham & Redbridge,Wrexham,2,1,H
+26/10/2019,Dover Athletic,Stockport County,0,1,A
+26/10/2019,Harrogate Town,Aldershot Town,1,0,H
+26/10/2019,Hartlepool United,Barnet,2,0,H
+26/10/2019,Maidenhead United,Solihull Moors,1,0,H
+26/10/2019,Sutton United,Ebbsfleet United,2,3,A
+29/10/2019,Dagenham & Redbridge,Barrow,0,2,A
+29/10/2019,Torquay United,Wrexham,1,0,H
+29/10/2019,Sutton United,Halifax Town,0,1,A
+29/10/2019,Boreham Wood,Aldershot Town,0,0,D
+29/10/2019,Bromley,Stockport County,2,2,D
+29/10/2019,Chorley,Ebbsfleet United,0,4,A
+29/10/2019,Woking,Notts County,0,4,A
+29/10/2019,Dover Athletic,Eastleigh,3,1,H
+29/10/2019,Harrogate Town,Barnet,2,1,H
+29/10/2019,Maidenhead United,AFC Fylde,1,1,D
+02/11/2019,Stockport County,Woking,1,3,A
+02/11/2019,Wrexham,Bromley,1,0,H
+02/11/2019,Solihull Moors,Dagenham & Redbridge,2,1,H
+02/11/2019,Yeovil Town,Boreham Wood,1,1,D
+02/11/2019,Notts County,Hartlepool United,2,2,D
+02/11/2019,AFC Fylde,Dover Athletic,0,0,D
+02/11/2019,Aldershot Town,Maidenhead United,2,0,H
+02/11/2019,Barnet,Chorley,2,1,H
+02/11/2019,Barrow,Sutton United,1,0,H
+02/11/2019,Eastleigh,Harrogate Town,4,2,H
+02/11/2019,Ebbsfleet United,Chesterfield,2,2,D
+02/11/2019,Halifax Town,Torquay United,2,4,A
+05/11/2019,Hartlepool United,Solihull Moors,0,1,A
+09/11/2019,Stockport County,Dagenham & Redbridge,1,0,H
+16/11/2019,Dagenham & Redbridge,Aldershot Town,6,1,H
+16/11/2019,Yeovil Town,Dover Athletic,0,1,A
+16/11/2019,Woking,Halifax Town,0,0,D
+16/11/2019,Barnet,Stockport County,1,2,A
+16/11/2019,Boreham Wood,Maidenhead United,2,1,H
+16/11/2019,Bromley,Harrogate Town,3,3,D
+16/11/2019,Chesterfield,Chorley,2,3,A
+16/11/2019,Torquay United,Sutton United,1,2,A
+16/11/2019,Ebbsfleet United,Hartlepool United,2,2,D
+16/11/2019,Notts County,Barrow,0,3,A
+16/11/2019,Solihull Moors,AFC Fylde,3,1,H
+23/11/2019,Dover Athletic,Solihull Moors,1,1,D
+23/11/2019,Wrexham,Yeovil Town,3,3,D
+23/11/2019,Sutton United,Bromley,0,2,A
+23/11/2019,Stockport County,Ebbsfleet United,1,1,D
+23/11/2019,AFC Fylde,Dagenham & Redbridge,3,0,H
+23/11/2019,Aldershot Town,Notts County,2,1,H
+23/11/2019,Barrow,Barnet,2,1,H
+23/11/2019,Chorley,Torquay United,1,0,H
+23/11/2019,Maidenhead United,Woking,2,3,A
+23/11/2019,Halifax Town,Eastleigh,1,1,D
+23/11/2019,Harrogate Town,Chesterfield,3,1,H
+23/11/2019,Hartlepool United,Boreham Wood,2,2,D
+26/11/2019,Wrexham,AFC Fylde,0,1,A
+26/11/2019,Woking,Bromley,2,1,H
+26/11/2019,Yeovil Town,Aldershot Town,2,2,D
+26/11/2019,Stockport County,Solihull Moors,1,4,A
+26/11/2019,Barnet,Ebbsfleet United,5,2,H
+26/11/2019,Barrow,Chorley,2,2,D
+26/11/2019,Chesterfield,Hartlepool United,1,5,A
+26/11/2019,Dagenham & Redbridge,Sutton United,1,2,A
+26/11/2019,Dover Athletic,Maidenhead United,3,4,A
+26/11/2019,Eastleigh,Torquay United,3,2,H
+26/11/2019,Harrogate Town,Halifax Town,2,2,D
+26/11/2019,Notts County,Boreham Wood,2,2,D
+30/11/2019,Maidenhead United,Barrow,0,4,A
+30/11/2019,Torquay United,Stockport County,1,5,A
+30/11/2019,Sutton United,Harrogate Town,3,1,H
+30/11/2019,Ebbsfleet United,Wrexham,2,1,H
+30/11/2019,Aldershot Town,Chesterfield,2,2,D
+30/11/2019,Boreham Wood,Woking,1,0,H
+30/11/2019,Bromley,Yeovil Town,1,1,D
+30/11/2019,Chorley,Dagenham & Redbridge,1,0,H
+03/12/2019,Eastleigh,Wrexham,0,2,A
+07/12/2019,Yeovil Town,Halifax Town,2,0,H
+07/12/2019,Wrexham,Solihull Moors,2,0,H
+07/12/2019,Woking,Hartlepool United,2,1,H
+07/12/2019,Stockport County,Chorley,4,2,H
+07/12/2019,Notts County,Sutton United,1,1,D
+07/12/2019,Harrogate Town,Torquay United,2,1,H
+07/12/2019,Eastleigh,Ebbsfleet United,1,1,D
+07/12/2019,Barrow,Aldershot Town,1,0,H
+07/12/2019,Chesterfield,Bromley,1,2,A
+07/12/2019,Dagenham & Redbridge,Maidenhead United,1,2,A
+07/12/2019,Dover Athletic,Boreham Wood,0,2,A
+07/12/2019,Barnet,AFC Fylde,2,1,H
+10/12/2019,AFC Fylde,Sutton United,0,0,D
+10/12/2019,Chesterfield,Yeovil Town,1,2,A
+21/12/2019,Sutton United,Wrexham,3,1,H
+21/12/2019,Torquay United,Chesterfield,0,3,A
+21/12/2019,Maidenhead United,Barnet,1,4,A
+21/12/2019,Hartlepool United,Dagenham & Redbridge,1,0,H
+21/12/2019,Halifax Town,Notts County,2,4,A
+21/12/2019,AFC Fylde,Yeovil Town,2,2,D
+21/12/2019,Aldershot Town,Stockport County,2,1,H
+21/12/2019,Boreham Wood,Harrogate Town,2,1,H
+21/12/2019,Bromley,Eastleigh,2,3,A
+21/12/2019,Chorley,Dover Athletic,1,1,D
+26/12/2019,Woking,Sutton United,0,2,A
+26/12/2019,Wrexham,Chorley,3,1,H
+26/12/2019,Stockport County,Halifax Town,5,1,H
+26/12/2019,Notts County,Maidenhead United,3,0,H
+26/12/2019,Harrogate Town,Hartlepool United,4,1,H
+26/12/2019,Dover Athletic,Bromley,3,0,H
+26/12/2019,Chesterfield,Solihull Moors,2,2,D
+26/12/2019,Dagenham & Redbridge,Ebbsfleet United,1,1,D
+26/12/2019,Yeovil Town,Torquay United,6,2,H
+26/12/2019,Barrow,AFC Fylde,1,1,D
+28/12/2019,Ebbsfleet United,Dover Athletic,0,1,A
+28/12/2019,Torquay United,Woking,4,1,H
+28/12/2019,Solihull Moors,Notts County,0,1,A
+28/12/2019,Maidenhead United,Wrexham,2,0,H
+28/12/2019,Hartlepool United,Barrow,2,2,D
+28/12/2019,Halifax Town,Chesterfield,1,0,H
+28/12/2019,Chorley,Harrogate Town,0,2,A
+28/12/2019,Bromley,Dagenham & Redbridge,3,0,H
+28/12/2019,Boreham Wood,Eastleigh,2,2,D
+28/12/2019,Sutton United,Yeovil Town,3,2,H
+28/12/2019,AFC Fylde,Stockport County,1,2,A
+28/12/2019,Aldershot Town,Barnet,0,0,D
+01/01/2020,Hartlepool United,Harrogate Town,0,1,A
+01/01/2020,Sutton United,Woking,6,2,H
+01/01/2020,Solihull Moors,Chesterfield,3,0,H
+01/01/2020,Maidenhead United,Notts County,0,0,D
+01/01/2020,Halifax Town,Stockport County,0,0,D
+01/01/2020,Ebbsfleet United,Dagenham & Redbridge,1,1,D
+01/01/2020,Chorley,Wrexham,0,2,A
+01/01/2020,Bromley,Dover Athletic,3,0,H
+01/01/2020,Boreham Wood,Barnet,0,0,D
+01/01/2020,AFC Fylde,Barrow,0,1,A
+01/01/2020,Aldershot Town,Eastleigh,3,1,H
+01/01/2020,Torquay United,Yeovil Town,0,2,A
+04/01/2020,Dagenham & Redbridge,Torquay United,0,0,D
+04/01/2020,Harrogate Town,Maidenhead United,1,0,H
+04/01/2020,Notts County,Bromley,2,1,H
+04/01/2020,Stockport County,Boreham Wood,1,3,A
+04/01/2020,Barrow,Ebbsfleet United,7,0,H
+04/01/2020,Woking,Chorley,1,0,H
+04/01/2020,Wrexham,Aldershot Town,1,2,A
+04/01/2020,Yeovil Town,Solihull Moors,0,0,D
+04/01/2020,Chesterfield,Sutton United,1,0,H
+04/01/2020,Barnet,Halifax Town,1,1,D
+07/01/2020,Hartlepool United,Eastleigh,2,1,H
+11/01/2020,Dover Athletic,Hartlepool United,1,1,D
+18/01/2020,Ebbsfleet United,Harrogate Town,0,2,A
+18/01/2020,Halifax Town,Maidenhead United,5,2,H
+18/01/2020,Notts County,Dover Athletic,0,0,D
+18/01/2020,Solihull Moors,Boreham Wood,0,2,A
+18/01/2020,Stockport County,Sutton United,0,0,D
+18/01/2020,Wrexham,Woking,3,0,H
+18/01/2020,Yeovil Town,Hartlepool United,2,2,D
+18/01/2020,Barrow,Bromley,2,0,H
+18/01/2020,Eastleigh,Chesterfield,0,2,A
+18/01/2020,AFC Fylde,Torquay United,2,3,A
+18/01/2020,Aldershot Town,Chorley,3,3,D
+25/01/2020,Chorley,Halifax Town,0,1,A
+25/01/2020,Woking,Yeovil Town,1,0,H
+25/01/2020,Torquay United,Ebbsfleet United,0,0,D
+25/01/2020,Sutton United,Solihull Moors,0,0,D
+25/01/2020,Maidenhead United,Eastleigh,2,0,H
+25/01/2020,Hartlepool United,Stockport County,2,0,H
+25/01/2020,Harrogate Town,Wrexham,0,2,A
+25/01/2020,Dover Athletic,Aldershot Town,2,0,H
+25/01/2020,Dagenham & Redbridge,Notts County,2,0,H
+25/01/2020,Chesterfield,AFC Fylde,1,1,D
+25/01/2020,Boreham Wood,Barrow,1,1,D
+25/01/2020,Bromley,Barnet,1,2,A
+28/01/2020,Solihull Moors,Barrow,0,0,D
+28/01/2020,Ebbsfleet United,Woking,2,1,H
+28/01/2020,Halifax Town,Dover Athletic,4,2,H
+28/01/2020,Eastleigh,Aldershot Town,0,0,D
+01/02/2020,Notts County,Chesterfield,3,0,H
+01/02/2020,Wrexham,Dagenham & Redbridge,0,0,D
+01/02/2020,Solihull Moors,Maidenhead United,0,2,A
+01/02/2020,Stockport County,Dover Athletic,0,2,A
+01/02/2020,Yeovil Town,Chorley,1,1,D
+01/02/2020,Halifax Town,Bromley,2,1,H
+01/02/2020,AFC Fylde,Boreham Wood,1,2,A
+01/02/2020,Aldershot Town,Harrogate Town,1,1,D
+01/02/2020,Barnet,Hartlepool United,2,1,H
+01/02/2020,Barrow,Torquay United,2,1,H
+01/02/2020,Eastleigh,Woking,2,0,H
+01/02/2020,Ebbsfleet United,Sutton United,1,1,D
+04/02/2020,Dover Athletic,Barrow,2,1,H
+08/02/2020,Dagenham & Redbridge,Stockport County,1,1,D
+08/02/2020,Bromley,Solihull Moors,2,2,D
+08/02/2020,Chesterfield,Wrexham,3,2,H
+08/02/2020,Hartlepool United,Aldershot Town,2,0,H
+11/02/2020,Eastleigh,AFC Fylde,2,2,D
+11/02/2020,Solihull Moors,Barnet,1,0,H
+11/02/2020,Harrogate Town,Yeovil Town,3,0,H
+15/02/2020,Stockport County,Bromley,1,0,H
+15/02/2020,Ebbsfleet United,Chorley,1,0,H
+15/02/2020,Notts County,Woking,1,1,D
+18/02/2020,Barrow,Dover Athletic,1,0,H
+22/02/2020,Torquay United,Halifax Town,1,0,H
+22/02/2020,Maidenhead United,Aldershot Town,1,2,A
+22/02/2020,Hartlepool United,Notts County,2,0,H
+22/02/2020,Harrogate Town,Eastleigh,3,0,H
+22/02/2020,Dagenham & Redbridge,Solihull Moors,2,0,H
+22/02/2020,Chorley,Barnet,0,1,A
+22/02/2020,Woking,Stockport County,1,1,D
+22/02/2020,Sutton United,Barrow,2,2,D
+22/02/2020,Dover Athletic,AFC Fylde,5,1,H
+22/02/2020,Chesterfield,Ebbsfleet United,4,0,H
+22/02/2020,Bromley,Wrexham,0,2,A
+22/02/2020,Boreham Wood,Yeovil Town,1,0,H
+25/02/2020,Maidenhead United,Ebbsfleet United,1,3,A
+25/02/2020,Aldershot Town,Boreham Wood,3,2,H
+29/02/2020,Woking,Maidenhead United,2,0,H
+29/02/2020,Bromley,Sutton United,0,1,A
+29/02/2020,Solihull Moors,Dover Athletic,3,0,H
+29/02/2020,Boreham Wood,Hartlepool United,1,1,D
+29/02/2020,Barrow,Dagenham & Redbridge,2,1,H
+29/02/2020,Torquay United,Chorley,2,0,H
+29/02/2020,Yeovil Town,Wrexham,3,0,H
+29/02/2020,Ebbsfleet United,Stockport County,0,1,A
+03/03/2020,Halifax Town,Sutton United,1,0,H
+03/03/2020,Chesterfield,Harrogate Town,3,4,A
+03/03/2020,Barnet,Boreham Wood,2,2,D
+03/03/2020,AFC Fylde,Notts County,1,2,A
+03/03/2020,Chorley,Eastleigh,1,2,A
+03/03/2020,Solihull Moors,Hartlepool United,0,1,A
+07/03/2020,Sutton United,Torquay United,2,0,H
+07/03/2020,Chorley,Chesterfield,1,2,A
+07/03/2020,Dover Athletic,Yeovil Town,0,1,A
+07/03/2020,Halifax Town,Woking,0,2,A
+07/03/2020,Hartlepool United,Ebbsfleet United,0,1,A
+07/03/2020,Maidenhead United,Boreham Wood,0,1,A
+07/03/2020,Stockport County,Barnet,1,1,D
+07/03/2020,AFC Fylde,Solihull Moors,0,0,D
+07/03/2020,Wrexham,Eastleigh,0,0,D
+07/03/2020,Harrogate Town,Bromley,1,1,D
+07/03/2020,Aldershot Town,Dagenham & Redbridge,0,1,A
+07/03/2020,Barrow,Notts County,0,2,A
+10/03/2020,Dagenham & Redbridge,AFC Fylde,1,2,A
+10/03/2020,Woking,Barnet,1,3,A
+10/03/2020,Notts County,Aldershot Town,3,1,H
+14/03/2020,Sutton United,Hartlepool United,1,1,D
+14/03/2020,Notts County,Eastleigh,4,0,H
+14/03/2020,Maidenhead United,Stockport County,1,2,A
+14/03/2020,Dover Athletic,Chesterfield,1,1,D
+14/03/2020,AFC Fylde,Aldershot Town,1,0,H
+14/03/2020,Halifax Town,Ebbsfleet United,0,1,A

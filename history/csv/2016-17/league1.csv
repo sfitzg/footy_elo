@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+06/08/2016,Bolton Wanderers,Sheffield United,1,0,H
+06/08/2016,Bradford City,Port Vale,0,0,D
+06/08/2016,Bury,Charlton Athletic,2,0,H
+06/08/2016,Millwall,Oldham Athletic,3,0,H
+06/08/2016,Northampton Town,Fleetwood Town,1,1,D
+06/08/2016,Oxford United,Chesterfield,1,1,D
+06/08/2016,Rochdale,Peterborough United,2,3,A
+06/08/2016,Scunthorpe United,Bristol Rovers,3,1,H
+06/08/2016,Shrewsbury Town,Milton Keynes Dons,0,1,A
+06/08/2016,Southend United,Gillingham,1,3,A
+06/08/2016,Swindon Town,Coventry City,1,0,H
+06/08/2016,Walsall,AFC Wimbledon,3,1,H
+13/08/2016,AFC Wimbledon,Bolton Wanderers,1,2,A
+13/08/2016,Charlton Athletic,Northampton Town,1,1,D
+13/08/2016,Chesterfield,Swindon Town,3,1,H
+13/08/2016,Coventry City,Shrewsbury Town,0,0,D
+13/08/2016,Fleetwood Town,Scunthorpe United,2,2,D
+13/08/2016,Gillingham,Bury,2,1,H
+13/08/2016,Milton Keynes Dons,Millwall,2,2,D
+13/08/2016,Oldham Athletic,Walsall,0,0,D
+13/08/2016,Peterborough United,Bradford City,0,1,A
+13/08/2016,Port Vale,Southend United,2,0,H
+13/08/2016,Sheffield United,Rochdale,1,1,D
+14/08/2016,Bristol Rovers,Oxford United,2,1,H
+16/08/2016,AFC Wimbledon,Scunthorpe United,1,2,A
+16/08/2016,Charlton Athletic,Shrewsbury Town,3,0,H
+16/08/2016,Chesterfield,Walsall,2,0,H
+16/08/2016,Coventry City,Bury,0,0,D
+16/08/2016,Gillingham,Swindon Town,1,1,D
+16/08/2016,Milton Keynes Dons,Bradford City,1,2,A
+16/08/2016,Oldham Athletic,Northampton Town,0,0,D
+16/08/2016,Peterborough United,Millwall,5,1,H
+16/08/2016,Port Vale,Rochdale,1,0,H
+16/08/2016,Sheffield United,Southend United,0,3,A
+17/08/2016,Bristol Rovers,Bolton Wanderers,1,2,A
+17/08/2016,Fleetwood Town,Oxford United,2,0,H
+20/08/2016,Bolton Wanderers,Fleetwood Town,2,1,H
+20/08/2016,Bradford City,Coventry City,3,1,H
+20/08/2016,Bury,Oldham Athletic,0,1,A
+20/08/2016,Millwall,Sheffield United,2,1,H
+20/08/2016,Northampton Town,AFC Wimbledon,0,0,D
+20/08/2016,Oxford United,Peterborough United,2,1,H
+20/08/2016,Rochdale,Milton Keynes Dons,0,1,A
+20/08/2016,Scunthorpe United,Gillingham,5,0,H
+20/08/2016,Shrewsbury Town,Chesterfield,2,1,H
+20/08/2016,Southend United,Bristol Rovers,1,1,D
+20/08/2016,Swindon Town,Port Vale,1,0,H
+20/08/2016,Walsall,Charlton Athletic,1,2,A
+27/08/2016,Bradford City,Oldham Athletic,1,1,D
+27/08/2016,Charlton Athletic,Bolton Wanderers,1,1,D
+27/08/2016,Chesterfield,Millwall,1,3,A
+27/08/2016,Coventry City,Northampton Town,1,1,D
+27/08/2016,Milton Keynes Dons,Peterborough United,0,2,A
+27/08/2016,Port Vale,Scunthorpe United,3,1,H
+27/08/2016,Rochdale,AFC Wimbledon,1,1,D
+27/08/2016,Sheffield United,Oxford United,2,1,H
+27/08/2016,Shrewsbury Town,Gillingham,2,3,A
+27/08/2016,Southend United,Fleetwood Town,0,2,A
+27/08/2016,Walsall,Bury,3,3,D
+03/09/2016,Bury,Port Vale,4,1,H
+03/09/2016,Peterborough United,Swindon Town,2,2,D
+03/09/2016,AFC Wimbledon,Chesterfield,2,1,H
+03/09/2016,Bolton Wanderers,Southend United,1,1,D
+03/09/2016,Oxford United,Rochdale,1,0,H
+03/09/2016,Fleetwood Town,Coventry City,2,0,H
+03/09/2016,Millwall,Bradford City,1,1,D
+03/09/2016,Oldham Athletic,Shrewsbury Town,2,3,A
+04/09/2016,Gillingham,Sheffield United,1,2,A
+04/09/2016,Northampton Town,Milton Keynes Dons,3,2,H
+10/09/2016,Peterborough United,Port Vale,2,2,D
+10/09/2016,Oxford United,Swindon Town,2,0,H
+10/09/2016,Oldham Athletic,Chesterfield,0,0,D
+10/09/2016,AFC Wimbledon,Sheffield United,2,3,A
+10/09/2016,Bolton Wanderers,Milton Keynes Dons,1,1,D
+10/09/2016,Bristol Rovers,Rochdale,2,2,D
+10/09/2016,Bury,Shrewsbury Town,2,1,H
+10/09/2016,Fleetwood Town,Charlton Athletic,2,2,D
+10/09/2016,Gillingham,Bradford City,1,1,D
+10/09/2016,Millwall,Coventry City,1,1,D
+10/09/2016,Northampton Town,Walsall,2,0,H
+10/09/2016,Scunthorpe United,Southend United,4,0,H
+13/09/2016,Bristol Rovers,Walsall,1,1,D
+17/09/2016,Walsall,Bolton Wanderers,1,0,H
+17/09/2016,Swindon Town,Bury,1,2,A
+17/09/2016,Bradford City,Bristol Rovers,1,1,D
+17/09/2016,Charlton Athletic,AFC Wimbledon,1,2,A
+17/09/2016,Chesterfield,Northampton Town,3,1,H
+17/09/2016,Coventry City,Oldham Athletic,0,0,D
+17/09/2016,Milton Keynes Dons,Oxford United,0,0,D
+17/09/2016,Port Vale,Gillingham,2,1,H
+17/09/2016,Rochdale,Fleetwood Town,2,1,H
+17/09/2016,Sheffield United,Peterborough United,1,0,H
+17/09/2016,Shrewsbury Town,Scunthorpe United,0,1,A
+17/09/2016,Southend United,Millwall,3,1,H
+20/09/2016,Swindon Town,Bristol Rovers,1,2,A
+20/09/2016,Scunthorpe United,Charlton Athletic,0,0,D
+24/09/2016,AFC Wimbledon,Shrewsbury Town,1,1,D
+24/09/2016,Bolton Wanderers,Bradford City,0,0,D
+24/09/2016,Bristol Rovers,Port Vale,2,1,H
+24/09/2016,Bury,Chesterfield,2,1,H
+24/09/2016,Fleetwood Town,Milton Keynes Dons,1,4,A
+24/09/2016,Gillingham,Coventry City,2,1,H
+24/09/2016,Millwall,Rochdale,2,3,A
+24/09/2016,Northampton Town,Southend United,4,0,H
+24/09/2016,Oldham Athletic,Swindon Town,0,2,A
+24/09/2016,Oxford United,Charlton Athletic,1,1,D
+24/09/2016,Peterborough United,Walsall,1,1,D
+24/09/2016,Scunthorpe United,Sheffield United,2,2,D
+27/09/2016,Bradford City,Fleetwood Town,2,1,H
+27/09/2016,Charlton Athletic,Oldham Athletic,1,1,D
+27/09/2016,Chesterfield,Gillingham,3,3,D
+27/09/2016,Milton Keynes Dons,Bury,1,3,A
+27/09/2016,Port Vale,Millwall,3,1,H
+27/09/2016,Rochdale,Bolton Wanderers,1,0,H
+27/09/2016,Sheffield United,Bristol Rovers,1,0,H
+27/09/2016,Shrewsbury Town,Peterborough United,1,1,D
+27/09/2016,Southend United,Oxford United,2,1,H
+27/09/2016,Swindon Town,Northampton Town,1,3,A
+27/09/2016,Walsall,Scunthorpe United,1,4,A
+28/09/2016,Coventry City,AFC Wimbledon,2,2,D
+01/10/2016,AFC Wimbledon,Gillingham,2,0,H
+01/10/2016,Bolton Wanderers,Oxford United,0,2,A
+01/10/2016,Bury,Scunthorpe United,1,2,A
+01/10/2016,Charlton Athletic,Rochdale,0,1,A
+01/10/2016,Chesterfield,Bradford City,0,1,A
+01/10/2016,Fleetwood Town,Sheffield United,1,1,D
+01/10/2016,Northampton Town,Bristol Rovers,2,3,A
+01/10/2016,Oldham Athletic,Milton Keynes Dons,0,2,A
+01/10/2016,Port Vale,Coventry City,0,2,A
+01/10/2016,Shrewsbury Town,Swindon Town,1,1,D
+01/10/2016,Southend United,Peterborough United,1,1,D
+01/10/2016,Walsall,Millwall,2,1,H
+08/10/2016,Swindon Town,Bolton Wanderers,0,1,A
+08/10/2016,Bradford City,Shrewsbury Town,2,0,H
+08/10/2016,Gillingham,Oldham Athletic,1,2,A
+08/10/2016,Rochdale,Southend United,3,0,H
+08/10/2016,Scunthorpe United,Northampton Town,1,1,D
+08/10/2016,Peterborough United,Bury,3,1,H
+09/10/2016,Oxford United,AFC Wimbledon,1,3,A
+09/10/2016,Milton Keynes Dons,Port Vale,0,1,A
+15/10/2016,Southend United,Chesterfield,1,0,H
+15/10/2016,Sheffield United,Port Vale,4,0,H
+15/10/2016,Scunthorpe United,Milton Keynes Dons,2,1,H
+15/10/2016,Rochdale,Bury,2,0,H
+15/10/2016,AFC Wimbledon,Swindon Town,0,0,D
+15/10/2016,Bolton Wanderers,Oldham Athletic,2,0,H
+15/10/2016,Bristol Rovers,Gillingham,2,1,H
+15/10/2016,Charlton Athletic,Coventry City,3,0,H
+15/10/2016,Fleetwood Town,Peterborough United,2,0,H
+15/10/2016,Northampton Town,Millwall,1,3,A
+15/10/2016,Oxford United,Bradford City,1,0,H
+15/10/2016,Walsall,Shrewsbury Town,3,2,H
+18/10/2016,Shrewsbury Town,Sheffield United,0,3,A
+18/10/2016,Port Vale,Charlton Athletic,1,1,D
+18/10/2016,Peterborough United,Northampton Town,3,0,H
+18/10/2016,Oldham Athletic,Scunthorpe United,2,0,H
+18/10/2016,Bradford City,Southend United,1,1,D
+18/10/2016,Bury,AFC Wimbledon,1,2,A
+18/10/2016,Chesterfield,Fleetwood Town,0,1,A
+18/10/2016,Coventry City,Oxford United,2,1,H
+18/10/2016,Gillingham,Walsall,1,1,D
+18/10/2016,Millwall,Bolton Wanderers,0,2,A
+18/10/2016,Milton Keynes Dons,Bristol Rovers,3,3,D
+18/10/2016,Swindon Town,Rochdale,3,0,H
+22/10/2016,Millwall,Fleetwood Town,2,1,H
+22/10/2016,Swindon Town,Walsall,0,2,A
+22/10/2016,Shrewsbury Town,Northampton Town,2,4,A
+22/10/2016,Port Vale,Oxford United,2,2,D
+22/10/2016,Bradford City,Sheffield United,3,3,D
+22/10/2016,Chesterfield,Scunthorpe United,0,3,A
+22/10/2016,Coventry City,Rochdale,2,0,H
+22/10/2016,Gillingham,Charlton Athletic,1,1,D
+22/10/2016,Peterborough United,AFC Wimbledon,0,1,A
+22/10/2016,Milton Keynes Dons,Southend United,0,3,A
+22/10/2016,Oldham Athletic,Bristol Rovers,0,2,A
+24/10/2016,Bury,Bolton Wanderers,0,2,A
+29/10/2016,Walsall,Coventry City,1,1,D
+29/10/2016,Scunthorpe United,Swindon Town,4,1,H
+29/10/2016,Southend United,Shrewsbury Town,1,1,D
+29/10/2016,Bolton Wanderers,Port Vale,3,1,H
+29/10/2016,Oxford United,Millwall,1,2,A
+29/10/2016,AFC Wimbledon,Bradford City,2,3,A
+29/10/2016,Sheffield United,Milton Keynes Dons,2,1,H
+29/10/2016,Bristol Rovers,Peterborough United,1,2,A
+29/10/2016,Charlton Athletic,Chesterfield,1,0,H
+29/10/2016,Fleetwood Town,Gillingham,2,1,H
+29/10/2016,Northampton Town,Bury,3,2,H
+29/10/2016,Rochdale,Oldham Athletic,1,0,H
+01/11/2016,Bristol Rovers,Fleetwood Town,2,1,H
+01/11/2016,Coventry City,Chesterfield,2,0,H
+12/11/2016,Millwall,Bristol Rovers,4,0,H
+12/11/2016,Port Vale,Fleetwood Town,2,1,H
+12/11/2016,Swindon Town,Charlton Athletic,3,0,H
+12/11/2016,Bradford City,Rochdale,4,0,H
+12/11/2016,Bury,Southend United,1,4,A
+12/11/2016,Coventry City,Scunthorpe United,0,1,A
+12/11/2016,Gillingham,Northampton Town,2,1,H
+12/11/2016,Oldham Athletic,AFC Wimbledon,0,0,D
+12/11/2016,Milton Keynes Dons,Walsall,1,1,D
+12/11/2016,Shrewsbury Town,Oxford United,2,0,H
+13/11/2016,Peterborough United,Bolton Wanderers,1,0,H
+13/11/2016,Chesterfield,Sheffield United,1,4,A
+19/11/2016,Southend United,Bradford City,3,0,H
+19/11/2016,Walsall,Gillingham,1,2,A
+19/11/2016,AFC Wimbledon,Bury,5,1,H
+19/11/2016,Bolton Wanderers,Millwall,2,0,H
+19/11/2016,Bristol Rovers,Milton Keynes Dons,0,0,D
+19/11/2016,Charlton Athletic,Port Vale,2,0,H
+19/11/2016,Fleetwood Town,Chesterfield,2,1,H
+19/11/2016,Northampton Town,Peterborough United,0,1,A
+19/11/2016,Oxford United,Coventry City,4,1,H
+19/11/2016,Rochdale,Swindon Town,4,0,H
+19/11/2016,Scunthorpe United,Oldham Athletic,1,0,H
+19/11/2016,Sheffield United,Shrewsbury Town,2,1,H
+22/11/2016,Southend United,Swindon Town,1,1,D
+22/11/2016,Sheffield United,Bury,1,0,H
+22/11/2016,Bradford City,Northampton Town,1,0,H
+22/11/2016,Bristol Rovers,Charlton Athletic,1,5,A
+22/11/2016,Fleetwood Town,Shrewsbury Town,3,0,H
+22/11/2016,Millwall,AFC Wimbledon,0,0,D
+22/11/2016,Milton Keynes Dons,Chesterfield,2,3,A
+22/11/2016,Oxford United,Gillingham,1,0,H
+22/11/2016,Peterborough United,Scunthorpe United,0,2,A
+22/11/2016,Port Vale,Oldham Athletic,2,2,D
+22/11/2016,Rochdale,Walsall,4,0,H
+22/11/2016,Bolton Wanderers,Coventry City,1,0,H
+26/11/2016,Walsall,Southend United,0,0,D
+26/11/2016,Shrewsbury Town,Port Vale,0,0,D
+26/11/2016,AFC Wimbledon,Fleetwood Town,2,2,D
+26/11/2016,Bury,Millwall,2,3,A
+26/11/2016,Charlton Athletic,Sheffield United,1,1,D
+26/11/2016,Chesterfield,Bristol Rovers,3,2,H
+26/11/2016,Coventry City,Milton Keynes Dons,1,2,A
+26/11/2016,Gillingham,Rochdale,3,0,H
+26/11/2016,Northampton Town,Bolton Wanderers,0,1,A
+26/11/2016,Scunthorpe United,Oxford United,1,1,D
+26/11/2016,Swindon Town,Bradford City,1,0,H
+29/11/2016,Sheffield United,Walsall,0,1,A
+10/12/2016,Oxford United,Oldham Athletic,1,1,D
+10/12/2016,Southend United,Coventry City,3,1,H
+10/12/2016,Milton Keynes Dons,AFC Wimbledon,1,0,H
+10/12/2016,Bradford City,Charlton Athletic,0,0,D
+10/12/2016,Bristol Rovers,Bury,4,2,H
+10/12/2016,Fleetwood Town,Walsall,2,1,H
+10/12/2016,Millwall,Shrewsbury Town,0,1,A
+10/12/2016,Sheffield United,Swindon Town,4,0,H
+10/12/2016,Peterborough United,Chesterfield,5,2,H
+10/12/2016,Port Vale,Northampton Town,2,3,A
+10/12/2016,Rochdale,Scunthorpe United,3,2,H
+12/12/2016,Bolton Wanderers,Gillingham,4,0,H
+15/12/2016,Coventry City,Sheffield United,1,2,A
+17/12/2016,Walsall,Bradford City,1,1,D
+17/12/2016,Chesterfield,Bolton Wanderers,1,0,H
+17/12/2016,AFC Wimbledon,Port Vale,4,0,H
+17/12/2016,Bury,Oxford United,2,3,A
+17/12/2016,Charlton Athletic,Peterborough United,0,2,A
+17/12/2016,Swindon Town,Fleetwood Town,1,1,D
+17/12/2016,Gillingham,Milton Keynes Dons,1,0,H
+17/12/2016,Northampton Town,Rochdale,2,3,A
+17/12/2016,Oldham Athletic,Southend United,0,2,A
+17/12/2016,Scunthorpe United,Millwall,3,0,H
+17/12/2016,Shrewsbury Town,Bristol Rovers,2,0,H
+21/12/2016,Millwall,Charlton Athletic,3,1,H
+26/12/2016,Millwall,Swindon Town,2,0,H
+26/12/2016,Southend United,AFC Wimbledon,3,0,H
+26/12/2016,Bolton Wanderers,Shrewsbury Town,2,1,H
+26/12/2016,Bradford City,Scunthorpe United,0,0,D
+26/12/2016,Bristol Rovers,Coventry City,4,1,H
+26/12/2016,Fleetwood Town,Bury,0,0,D
+26/12/2016,Sheffield United,Oldham Athletic,2,0,H
+26/12/2016,Milton Keynes Dons,Charlton Athletic,0,1,A
+26/12/2016,Oxford United,Northampton Town,0,1,A
+26/12/2016,Peterborough United,Gillingham,1,1,D
+26/12/2016,Port Vale,Walsall,0,1,A
+26/12/2016,Rochdale,Chesterfield,3,0,H
+30/12/2016,Rochdale,Shrewsbury Town,2,1,H
+30/12/2016,Millwall,Gillingham,2,1,H
+30/12/2016,Milton Keynes Dons,Swindon Town,3,2,H
+30/12/2016,Port Vale,Chesterfield,1,0,H
+31/12/2016,Bradford City,Bury,1,1,D
+31/12/2016,Sheffield United,Northampton Town,1,0,H
+31/12/2016,Southend United,Charlton Athletic,1,1,D
+31/12/2016,Bolton Wanderers,Scunthorpe United,2,1,H
+31/12/2016,Peterborough United,Coventry City,1,1,D
+31/12/2016,Bristol Rovers,AFC Wimbledon,2,0,H
+31/12/2016,Fleetwood Town,Oldham Athletic,1,0,H
+31/12/2016,Oxford United,Walsall,0,0,D
+02/01/2017,Bury,Sheffield United,1,3,A
+02/01/2017,AFC Wimbledon,Millwall,2,2,D
+02/01/2017,Walsall,Rochdale,0,2,A
+02/01/2017,Charlton Athletic,Bristol Rovers,4,1,H
+02/01/2017,Chesterfield,Milton Keynes Dons,0,0,D
+02/01/2017,Coventry City,Bolton Wanderers,2,2,D
+02/01/2017,Gillingham,Oxford United,0,1,A
+02/01/2017,Northampton Town,Bradford City,1,2,A
+02/01/2017,Oldham Athletic,Port Vale,0,0,D
+02/01/2017,Scunthorpe United,Peterborough United,1,1,D
+02/01/2017,Shrewsbury Town,Fleetwood Town,0,1,A
+02/01/2017,Swindon Town,Southend United,0,0,D
+07/01/2017,Southend United,Sheffield United,2,4,A
+07/01/2017,Bradford City,Chesterfield,2,0,H
+07/01/2017,Bristol Rovers,Northampton Town,5,0,H
+07/01/2017,Scunthorpe United,Bury,3,2,H
+07/01/2017,Swindon Town,Shrewsbury Town,1,1,D
+14/01/2017,Charlton Athletic,Millwall,0,0,D
+14/01/2017,Walsall,Sheffield United,4,1,H
+14/01/2017,Southend United,Rochdale,2,1,H
+14/01/2017,Shrewsbury Town,Bradford City,1,0,H
+14/01/2017,Oldham Athletic,Gillingham,1,0,H
+14/01/2017,Northampton Town,Scunthorpe United,1,2,A
+14/01/2017,Fleetwood Town,Bristol Rovers,3,1,H
+14/01/2017,Chesterfield,Coventry City,1,0,H
+14/01/2017,AFC Wimbledon,Oxford United,2,1,H
+14/01/2017,Bolton Wanderers,Swindon Town,1,2,A
+14/01/2017,Bury,Peterborough United,5,1,H
+20/01/2017,Port Vale,Bury,2,2,D
+21/01/2017,Milton Keynes Dons,Northampton Town,5,3,H
+21/01/2017,Rochdale,Oxford United,0,4,A
+21/01/2017,Sheffield United,Gillingham,2,2,D
+21/01/2017,Shrewsbury Town,Oldham Athletic,1,0,H
+21/01/2017,Swindon Town,Peterborough United,0,1,A
+21/01/2017,Walsall,Bristol Rovers,3,1,H
+21/01/2017,Bradford City,Millwall,1,1,D
+21/01/2017,Coventry City,Fleetwood Town,0,1,A
+21/01/2017,Chesterfield,AFC Wimbledon,0,0,D
+24/01/2017,Sheffield United,Fleetwood Town,0,2,A
+24/01/2017,Oldham Athletic,Peterborough United,2,0,H
+28/01/2017,Scunthorpe United,Port Vale,3,2,H
+28/01/2017,Peterborough United,Milton Keynes Dons,0,4,A
+28/01/2017,Oldham Athletic,Bradford City,1,2,A
+28/01/2017,Northampton Town,Coventry City,3,0,H
+28/01/2017,Gillingham,Shrewsbury Town,1,1,D
+28/01/2017,Fleetwood Town,Southend United,1,1,D
+28/01/2017,Bury,Walsall,3,3,D
+28/01/2017,Bolton Wanderers,Charlton Athletic,1,2,A
+28/01/2017,Bristol Rovers,Swindon Town,1,0,H
+01/02/2017,Millwall,Walsall,0,0,D
+04/02/2017,Walsall,Northampton Town,2,1,H
+04/02/2017,Southend United,Scunthorpe United,3,1,H
+04/02/2017,Shrewsbury Town,Bury,2,1,H
+04/02/2017,Sheffield United,AFC Wimbledon,4,0,H
+04/02/2017,Rochdale,Bristol Rovers,0,0,D
+04/02/2017,Port Vale,Peterborough United,0,3,A
+04/02/2017,Milton Keynes Dons,Bolton Wanderers,1,1,D
+04/02/2017,Bradford City,Gillingham,2,2,D
+04/02/2017,Coventry City,Millwall,0,2,A
+04/02/2017,Chesterfield,Oldham Athletic,0,1,A
+04/02/2017,Charlton Athletic,Fleetwood Town,1,1,D
+05/02/2017,Swindon Town,Oxford United,1,2,A
+07/02/2017,Milton Keynes Dons,Oldham Athletic,1,0,H
+11/02/2017,Bury,Swindon Town,1,0,H
+11/02/2017,Fleetwood Town,Rochdale,0,0,D
+11/02/2017,Scunthorpe United,Shrewsbury Town,0,1,A
+11/02/2017,Peterborough United,Sheffield United,0,1,A
+11/02/2017,Oxford United,Milton Keynes Dons,1,0,H
+11/02/2017,Oldham Athletic,Coventry City,3,2,H
+11/02/2017,Northampton Town,Chesterfield,3,1,H
+11/02/2017,Bristol Rovers,Bradford City,1,1,D
+11/02/2017,Millwall,Southend United,1,0,H
+11/02/2017,Gillingham,Port Vale,1,1,D
+11/02/2017,AFC Wimbledon,Charlton Athletic,1,1,D
+11/02/2017,Bolton Wanderers,Walsall,4,1,H
+14/02/2017,Northampton Town,Swindon Town,2,1,H
+14/02/2017,Scunthorpe United,Walsall,0,0,D
+14/02/2017,Peterborough United,Shrewsbury Town,2,1,H
+14/02/2017,Oxford United,Southend United,0,2,A
+14/02/2017,Oldham Athletic,Charlton Athletic,1,0,H
+14/02/2017,Millwall,Port Vale,2,0,H
+14/02/2017,Gillingham,Chesterfield,1,1,D
+14/02/2017,Fleetwood Town,Bradford City,2,1,H
+14/02/2017,Bury,Milton Keynes Dons,0,0,D
+14/02/2017,Bristol Rovers,Sheffield United,0,0,D
+14/02/2017,AFC Wimbledon,Coventry City,1,1,D
+14/02/2017,Bolton Wanderers,Rochdale,1,0,H
+18/02/2017,Milton Keynes Dons,Fleetwood Town,0,1,A
+18/02/2017,Port Vale,Bristol Rovers,1,1,D
+18/02/2017,Sheffield United,Scunthorpe United,1,1,D
+18/02/2017,Rochdale,Charlton Athletic,3,3,D
+18/02/2017,Chesterfield,Bury,1,2,A
+18/02/2017,Shrewsbury Town,AFC Wimbledon,2,1,H
+18/02/2017,Southend United,Northampton Town,2,2,D
+18/02/2017,Swindon Town,Oldham Athletic,0,0,D
+18/02/2017,Walsall,Peterborough United,2,0,H
+18/02/2017,Coventry City,Gillingham,2,1,H
+18/02/2017,Bradford City,Bolton Wanderers,2,2,D
+21/02/2017,Millwall,Chesterfield,0,0,D
+21/02/2017,Gillingham,AFC Wimbledon,2,2,D
+21/02/2017,Peterborough United,Southend United,1,4,A
+21/02/2017,Charlton Athletic,Oxford United,0,1,A
+25/02/2017,Oldham Athletic,Millwall,0,0,D
+25/02/2017,Peterborough United,Rochdale,3,1,H
+25/02/2017,Milton Keynes Dons,Shrewsbury Town,2,1,H
+25/02/2017,Gillingham,Southend United,2,1,H
+25/02/2017,Port Vale,Bradford City,1,2,A
+25/02/2017,Sheffield United,Bolton Wanderers,2,0,H
+25/02/2017,Fleetwood Town,Northampton Town,3,0,H
+25/02/2017,AFC Wimbledon,Walsall,1,0,H
+25/02/2017,Bristol Rovers,Scunthorpe United,1,1,D
+25/02/2017,Charlton Athletic,Bury,0,1,A
+25/02/2017,Chesterfield,Oxford United,0,4,A
+25/02/2017,Coventry City,Swindon Town,1,3,A
+28/02/2017,Swindon Town,Gillingham,3,1,H
+28/02/2017,Bolton Wanderers,Bristol Rovers,1,1,D
+28/02/2017,Scunthorpe United,AFC Wimbledon,1,2,A
+28/02/2017,Northampton Town,Oldham Athletic,1,2,A
+28/02/2017,Millwall,Peterborough United,1,0,H
+28/02/2017,Bury,Coventry City,2,1,H
+28/02/2017,Bradford City,Milton Keynes Dons,2,2,D
+28/02/2017,Shrewsbury Town,Charlton Athletic,4,3,H
+04/03/2017,Bolton Wanderers,AFC Wimbledon,1,1,D
+04/03/2017,Swindon Town,Chesterfield,0,1,A
+04/03/2017,Southend United,Port Vale,1,1,D
+04/03/2017,Shrewsbury Town,Coventry City,0,0,D
+04/03/2017,Scunthorpe United,Fleetwood Town,0,2,A
+04/03/2017,Rochdale,Sheffield United,3,3,D
+04/03/2017,Oxford United,Bristol Rovers,0,2,A
+04/03/2017,Northampton Town,Charlton Athletic,2,1,H
+04/03/2017,Millwall,Milton Keynes Dons,2,1,H
+04/03/2017,Bury,Gillingham,1,2,A
+04/03/2017,Bradford City,Peterborough United,1,0,H
+04/03/2017,Walsall,Oldham Athletic,2,0,H
+07/03/2017,Charlton Athletic,Scunthorpe United,2,1,H
+07/03/2017,Walsall,Chesterfield,1,0,H
+07/03/2017,Oxford United,Sheffield United,2,3,A
+11/03/2017,Gillingham,Scunthorpe United,3,2,H
+11/03/2017,Milton Keynes Dons,Rochdale,2,2,D
+11/03/2017,Fleetwood Town,Bolton Wanderers,2,4,A
+11/03/2017,Coventry City,Bradford City,0,2,A
+11/03/2017,Oldham Athletic,Bury,0,0,D
+11/03/2017,Chesterfield,Shrewsbury Town,1,1,D
+11/03/2017,Peterborough United,Oxford United,1,2,A
+11/03/2017,Port Vale,Swindon Town,3,2,H
+11/03/2017,AFC Wimbledon,Northampton Town,0,1,A
+11/03/2017,Bristol Rovers,Southend United,2,0,H
+11/03/2017,Charlton Athletic,Walsall,1,1,D
+14/03/2017,Coventry City,Southend United,0,2,A
+14/03/2017,Walsall,Fleetwood Town,0,1,A
+14/03/2017,Swindon Town,Sheffield United,2,4,A
+14/03/2017,Scunthorpe United,Rochdale,2,1,H
+14/03/2017,Oldham Athletic,Oxford United,2,1,H
+14/03/2017,Northampton Town,Port Vale,2,1,H
+14/03/2017,Gillingham,Bolton Wanderers,0,4,A
+14/03/2017,Chesterfield,Peterborough United,3,3,D
+14/03/2017,Charlton Athletic,Bradford City,1,1,D
+14/03/2017,AFC Wimbledon,Milton Keynes Dons,2,0,H
+14/03/2017,Bury,Bristol Rovers,3,0,H
+17/03/2017,Port Vale,Shrewsbury Town,2,1,H
+18/03/2017,Bolton Wanderers,Northampton Town,2,1,H
+18/03/2017,Oxford United,Scunthorpe United,2,1,H
+18/03/2017,Southend United,Walsall,3,2,H
+18/03/2017,Sheffield United,Charlton Athletic,2,1,H
+18/03/2017,Rochdale,Gillingham,4,1,H
+18/03/2017,Bradford City,Swindon Town,2,1,H
+18/03/2017,Bristol Rovers,Chesterfield,2,1,H
+18/03/2017,Peterborough United,Oldham Athletic,1,1,D
+18/03/2017,Millwall,Bury,0,0,D
+18/03/2017,Milton Keynes Dons,Coventry City,1,0,H
+18/03/2017,Fleetwood Town,AFC Wimbledon,0,0,D
+21/03/2017,Coventry City,Port Vale,2,1,H
+21/03/2017,Oxford United,Bolton Wanderers,2,4,A
+21/03/2017,Rochdale,Millwall,3,3,D
+25/03/2017,Oldham Athletic,Sheffield United,1,1,D
+25/03/2017,Gillingham,Peterborough United,0,1,A
+25/03/2017,Shrewsbury Town,Bolton Wanderers,0,2,A
+25/03/2017,Coventry City,Bristol Rovers,1,0,H
+25/03/2017,Port Vale,Milton Keynes Dons,0,0,D
+25/03/2017,Chesterfield,Rochdale,1,3,A
+25/03/2017,Bury,Fleetwood Town,0,0,D
+25/03/2017,Swindon Town,Millwall,1,0,H
+25/03/2017,AFC Wimbledon,Southend United,0,2,A
+25/03/2017,Northampton Town,Oxford United,0,0,D
+26/03/2017,Scunthorpe United,Bradford City,3,2,H
+28/03/2017,Sheffield United,Millwall,2,0,H
+28/03/2017,Oxford United,Bury,5,1,H
+28/03/2017,AFC Wimbledon,Rochdale,3,1,H
+01/04/2017,Southend United,Oldham Athletic,3,0,H
+01/04/2017,Peterborough United,Charlton Athletic,2,0,H
+01/04/2017,Milton Keynes Dons,Gillingham,3,2,H
+01/04/2017,Millwall,Scunthorpe United,3,1,H
+01/04/2017,Rochdale,Northampton Town,1,1,D
+01/04/2017,Fleetwood Town,Swindon Town,0,1,A
+01/04/2017,Bolton Wanderers,Chesterfield,0,0,D
+01/04/2017,Bradford City,Walsall,1,0,H
+01/04/2017,Bristol Rovers,Shrewsbury Town,2,0,H
+01/04/2017,Port Vale,AFC Wimbledon,2,0,H
+04/04/2017,Rochdale,Port Vale,3,0,H
+04/04/2017,Shrewsbury Town,Millwall,1,2,A
+04/04/2017,Charlton Athletic,Milton Keynes Dons,0,2,A
+04/04/2017,Southend United,Bolton Wanderers,0,1,A
+05/04/2017,Oxford United,Fleetwood Town,1,3,A
+05/04/2017,Sheffield United,Coventry City,2,0,H
+08/04/2017,Gillingham,Millwall,1,1,D
+08/04/2017,AFC Wimbledon,Bristol Rovers,0,1,A
+08/04/2017,Bury,Bradford City,0,2,A
+08/04/2017,Charlton Athletic,Southend United,2,1,H
+08/04/2017,Chesterfield,Port Vale,1,0,H
+08/04/2017,Coventry City,Peterborough United,1,0,H
+08/04/2017,Swindon Town,Milton Keynes Dons,1,1,D
+08/04/2017,Northampton Town,Sheffield United,1,2,A
+08/04/2017,Oldham Athletic,Fleetwood Town,2,0,H
+08/04/2017,Scunthorpe United,Bolton Wanderers,1,0,H
+08/04/2017,Shrewsbury Town,Rochdale,1,0,H
+08/04/2017,Walsall,Oxford United,1,1,D
+13/04/2017,Bury,Rochdale,0,1,A
+14/04/2017,Swindon Town,AFC Wimbledon,0,0,D
+14/04/2017,Bradford City,Oxford United,1,0,H
+14/04/2017,Chesterfield,Southend United,0,4,A
+14/04/2017,Coventry City,Charlton Athletic,1,1,D
+14/04/2017,Gillingham,Bristol Rovers,3,1,H
+14/04/2017,Millwall,Northampton Town,3,0,H
+14/04/2017,Milton Keynes Dons,Scunthorpe United,0,1,A
+14/04/2017,Peterborough United,Fleetwood Town,1,2,A
+14/04/2017,Port Vale,Sheffield United,0,3,A
+14/04/2017,Shrewsbury Town,Walsall,1,1,D
+15/04/2017,Oldham Athletic,Bolton Wanderers,1,0,H
+17/04/2017,Fleetwood Town,Millwall,1,0,H
+17/04/2017,Sheffield United,Bradford City,3,0,H
+17/04/2017,AFC Wimbledon,Peterborough United,0,0,D
+17/04/2017,Bristol Rovers,Oldham Athletic,1,0,H
+17/04/2017,Charlton Athletic,Gillingham,3,0,H
+17/04/2017,Walsall,Swindon Town,1,0,H
+17/04/2017,Northampton Town,Shrewsbury Town,1,1,D
+17/04/2017,Oxford United,Port Vale,2,0,H
+17/04/2017,Rochdale,Coventry City,2,0,H
+17/04/2017,Scunthorpe United,Chesterfield,3,1,H
+17/04/2017,Southend United,Milton Keynes Dons,1,2,A
+18/04/2017,Bolton Wanderers,Bury,0,0,D
+22/04/2017,Millwall,Oxford United,0,3,A
+22/04/2017,Bradford City,AFC Wimbledon,3,0,H
+22/04/2017,Bury,Northampton Town,3,0,H
+22/04/2017,Chesterfield,Charlton Athletic,1,2,A
+22/04/2017,Coventry City,Walsall,1,0,H
+22/04/2017,Gillingham,Fleetwood Town,2,3,A
+22/04/2017,Shrewsbury Town,Southend United,1,0,H
+22/04/2017,Milton Keynes Dons,Sheffield United,0,3,A
+22/04/2017,Oldham Athletic,Rochdale,1,1,D
+22/04/2017,Peterborough United,Bristol Rovers,4,2,H
+22/04/2017,Port Vale,Bolton Wanderers,0,2,A
+22/04/2017,Swindon Town,Scunthorpe United,1,2,A
+25/04/2017,Walsall,Port Vale,0,1,A
+30/04/2017,AFC Wimbledon,Oldham Athletic,0,0,D
+30/04/2017,Bolton Wanderers,Peterborough United,3,0,H
+30/04/2017,Bristol Rovers,Millwall,3,4,A
+30/04/2017,Charlton Athletic,Swindon Town,3,0,H
+30/04/2017,Fleetwood Town,Port Vale,0,0,D
+30/04/2017,Northampton Town,Gillingham,0,0,D
+30/04/2017,Oxford United,Shrewsbury Town,2,0,H
+30/04/2017,Rochdale,Bradford City,1,1,D
+30/04/2017,Scunthorpe United,Coventry City,3,1,H
+30/04/2017,Sheffield United,Chesterfield,3,2,H
+30/04/2017,Southend United,Bury,1,0,H
+30/04/2017,Walsall,Milton Keynes Dons,1,4,A

@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+06/08/2022,Aldershot Town,Solihull Moors,1,4,A
+06/08/2022,Altrincham,Maidstone United,1,1,D
+06/08/2022,Dagenham & Redbridge,Gateshead,2,2,D
+06/08/2022,Dorking Wanderers,Chesterfield,2,2,D
+06/08/2022,Barnet,Halifax Town,2,0,H
+06/08/2022,Notts County,Maidenhead United,3,0,H
+06/08/2022,Southend United,Boreham Wood,0,1,A
+06/08/2022,Torquay United,Oldham Athletic,0,0,D
+06/08/2022,Wealdstone,Bromley,3,2,H
+06/08/2022,Wrexham,Eastleigh,2,1,H
+06/08/2022,York City,Woking,2,0,H
+06/08/2022,Scunthorpe United,Yeovil Town,2,1,H
+13/08/2022,Boreham Wood,Notts County,2,2,D
+13/08/2022,Bromley,Altrincham,0,0,D
+13/08/2022,Eastleigh,Wealdstone,1,0,H
+13/08/2022,Chesterfield,Aldershot Town,1,0,H
+13/08/2022,Gateshead,Barnet,2,2,D
+13/08/2022,Woking,Dagenham & Redbridge,2,0,H
+13/08/2022,Halifax Town,Torquay United,0,1,A
+13/08/2022,Maidenhead United,Scunthorpe United,3,2,H
+13/08/2022,Maidstone United,York City,2,1,H
+13/08/2022,Solihull Moors,Southend United,1,1,D
+13/08/2022,Yeovil Town,Wrexham,1,1,D
+13/08/2022,Oldham Athletic,Dorking Wanderers,3,2,H
+16/08/2022,Boreham Wood,Aldershot Town,1,2,A
+16/08/2022,Bromley,Torquay United,1,0,H
+16/08/2022,Eastleigh,Dagenham & Redbridge,1,1,D
+16/08/2022,Chesterfield,Wrexham,2,0,H
+16/08/2022,Gateshead,Notts County,1,1,D
+16/08/2022,Woking,Scunthorpe United,2,0,H
+16/08/2022,Halifax Town,Southend United,0,0,D
+16/08/2022,Maidenhead United,Altrincham,2,0,H
+16/08/2022,Maidstone United,Dorking Wanderers,2,4,A
+16/08/2022,Oldham Athletic,Wealdstone,1,2,A
+16/08/2022,Yeovil Town,Barnet,1,2,A
+17/08/2022,Solihull Moors,York City,1,1,D
+20/08/2022,Aldershot Town,Bromley,0,1,A
+20/08/2022,Altrincham,Yeovil Town,2,2,D
+20/08/2022,Dagenham & Redbridge,Maidenhead United,1,0,H
+20/08/2022,Dorking Wanderers,Gateshead,2,1,H
+20/08/2022,Barnet,Woking,2,0,H
+20/08/2022,Scunthorpe United,Solihull Moors,3,4,A
+20/08/2022,Southend United,Oldham Athletic,1,0,H
+20/08/2022,Torquay United,Boreham Wood,0,1,A
+20/08/2022,Wealdstone,Halifax Town,1,0,H
+20/08/2022,Wrexham,Maidstone United,5,0,H
+20/08/2022,York City,Eastleigh,0,1,A
+20/08/2022,Notts County,Chesterfield,2,2,D
+26/08/2022,Oldham Athletic,Aldershot Town,2,1,H
+26/08/2022,Chesterfield,Barnet,3,1,H
+27/08/2022,Boreham Wood,Altrincham,1,1,D
+27/08/2022,Bromley,Scunthorpe United,1,0,H
+27/08/2022,Eastleigh,Southend United,2,1,H
+27/08/2022,Gateshead,Wealdstone,0,1,A
+27/08/2022,Halifax Town,Notts County,1,4,A
+27/08/2022,Maidenhead United,York City,0,1,A
+27/08/2022,Maidstone United,Torquay United,1,0,H
+27/08/2022,Solihull Moors,Dorking Wanderers,3,0,H
+27/08/2022,Yeovil Town,Dagenham & Redbridge,1,0,H
+27/08/2022,Woking,Wrexham,2,3,A
+29/08/2022,Aldershot Town,Maidstone United,1,3,A
+29/08/2022,Altrincham,Chesterfield,1,2,A
+29/08/2022,Dagenham & Redbridge,Bromley,4,1,H
+29/08/2022,Dorking Wanderers,Boreham Wood,1,4,A
+29/08/2022,Notts County,Solihull Moors,1,0,H
+29/08/2022,Scunthorpe United,Halifax Town,0,2,A
+29/08/2022,Southend United,Maidenhead United,2,0,H
+29/08/2022,Torquay United,Woking,1,3,A
+29/08/2022,Wealdstone,Yeovil Town,0,0,D
+29/08/2022,York City,Oldham Athletic,1,1,D
+29/08/2022,Barnet,Eastleigh,3,1,H
+30/08/2022,Wrexham,Gateshead,3,1,H
+03/09/2022,Aldershot Town,Barnet,3,1,H
+03/09/2022,Bromley,Eastleigh,2,1,H
+03/09/2022,Dagenham & Redbridge,Notts County,0,5,A
+03/09/2022,Dorking Wanderers,Wrexham,0,5,A
+03/09/2022,Gateshead,Maidstone United,4,1,H
+03/09/2022,Maidenhead United,Halifax Town,1,1,D
+03/09/2022,Oldham Athletic,Chesterfield,0,2,A
+03/09/2022,Scunthorpe United,Boreham Wood,0,2,A
+03/09/2022,Solihull Moors,Altrincham,5,1,H
+03/09/2022,Southend United,Torquay United,1,2,A
+03/09/2022,Yeovil Town,York City,0,1,A
+04/09/2022,Wealdstone,Woking,1,1,D
+13/09/2022,York City,Bromley,2,1,H
+13/09/2022,Wrexham,Dagenham & Redbridge,4,1,H
+13/09/2022,Torquay United,Solihull Moors,1,4,A
+13/09/2022,Notts County,Aldershot Town,2,0,H
+13/09/2022,Maidstone United,Wealdstone,1,1,D
+13/09/2022,Halifax Town,Gateshead,2,0,H
+13/09/2022,Woking,Oldham Athletic,3,0,H
+13/09/2022,Chesterfield,Southend United,3,2,H
+13/09/2022,Barnet,Dorking Wanderers,0,1,A
+13/09/2022,Eastleigh,Yeovil Town,1,1,D
+13/09/2022,Boreham Wood,Maidenhead United,1,0,H
+13/09/2022,Altrincham,Scunthorpe United,2,2,D
+17/09/2022,Scunthorpe United,York City,1,1,D
+17/09/2022,Yeovil Town,Chesterfield,2,2,D
+17/09/2022,Wealdstone,Torquay United,1,1,D
+17/09/2022,Southend United,Wrexham,0,0,D
+17/09/2022,Solihull Moors,Barnet,1,1,D
+17/09/2022,Oldham Athletic,Eastleigh,3,2,H
+17/09/2022,Maidenhead United,Woking,1,0,H
+17/09/2022,Gateshead,Boreham Wood,1,1,D
+17/09/2022,Dorking Wanderers,Notts County,3,1,H
+17/09/2022,Dagenham & Redbridge,Altrincham,4,1,H
+17/09/2022,Bromley,Maidstone United,3,0,H
+17/09/2022,Aldershot Town,Halifax Town,5,1,H
+24/09/2022,Bromley,Oldham Athletic,3,0,H
+24/09/2022,Dagenham & Redbridge,Barnet,5,4,H
+24/09/2022,Eastleigh,Halifax Town,1,0,H
+24/09/2022,Woking,Solihull Moors,2,0,H
+24/09/2022,Maidenhead United,Gateshead,0,1,A
+24/09/2022,Maidstone United,Chesterfield,1,2,A
+24/09/2022,York City,Notts County,1,3,A
+24/09/2022,Scunthorpe United,Dorking Wanderers,3,2,H
+24/09/2022,Wealdstone,Southend United,0,1,A
+24/09/2022,Wrexham,Torquay United,6,0,H
+24/09/2022,Yeovil Town,Boreham Wood,1,1,D
+24/09/2022,Altrincham,Aldershot Town,1,0,H
+01/10/2022,Boreham Wood,Maidstone United,3,1,H
+01/10/2022,Torquay United,Scunthorpe United,1,1,D
+01/10/2022,Southend United,Yeovil Town,1,0,H
+01/10/2022,Solihull Moors,Bromley,2,2,D
+01/10/2022,Oldham Athletic,Wrexham,1,2,A
+01/10/2022,Notts County,Altrincham,3,1,H
+01/10/2022,Halifax Town,Woking,0,4,A
+01/10/2022,Gateshead,Eastleigh,1,1,D
+01/10/2022,Chesterfield,Maidenhead United,1,2,A
+01/10/2022,Barnet,York City,0,5,A
+01/10/2022,Dorking Wanderers,Dagenham & Redbridge,5,1,H
+01/10/2022,Aldershot Town,Wealdstone,1,2,A
+04/10/2022,Aldershot Town,Eastleigh,0,0,D
+04/10/2022,Southend United,Woking,1,1,D
+04/10/2022,Solihull Moors,Wealdstone,2,1,H
+04/10/2022,Oldham Athletic,Scunthorpe United,2,2,D
+04/10/2022,Notts County,Wrexham,1,0,H
+04/10/2022,Halifax Town,York City,1,0,H
+04/10/2022,Gateshead,Altrincham,1,3,A
+04/10/2022,Chesterfield,Dagenham & Redbridge,2,3,A
+04/10/2022,Barnet,Maidstone United,4,3,H
+04/10/2022,Dorking Wanderers,Yeovil Town,1,1,D
+04/10/2022,Boreham Wood,Bromley,0,2,A
+04/10/2022,Torquay United,Maidenhead United,2,3,A
+08/10/2022,Dagenham & Redbridge,Southend United,1,1,D
+08/10/2022,Altrincham,Dorking Wanderers,4,1,H
+08/10/2022,Bromley,Gateshead,1,1,D
+08/10/2022,Eastleigh,Chesterfield,2,1,H
+08/10/2022,Woking,Notts County,2,3,A
+08/10/2022,Maidenhead United,Oldham Athletic,1,1,D
+08/10/2022,Scunthorpe United,Aldershot Town,3,3,D
+08/10/2022,Wealdstone,Boreham Wood,1,2,A
+08/10/2022,Wrexham,Barnet,7,5,H
+08/10/2022,Yeovil Town,Solihull Moors,1,0,H
+08/10/2022,York City,Torquay United,1,0,H
+08/10/2022,Maidstone United,Halifax Town,1,1,D
+11/10/2022,York City,Dagenham & Redbridge,1,1,D
+21/10/2022,Notts County,Maidstone United,3,0,H
+22/10/2022,Southend United,Scunthorpe United,3,0,H
+22/10/2022,Solihull Moors,Eastleigh,3,0,H
+22/10/2022,Oldham Athletic,Yeovil Town,2,0,H
+22/10/2022,Halifax Town,Dagenham & Redbridge,2,0,H
+22/10/2022,Torquay United,Altrincham,4,4,D
+22/10/2022,Chesterfield,Bromley,3,2,H
+22/10/2022,Barnet,Maidenhead United,2,1,H
+22/10/2022,Dorking Wanderers,Wealdstone,3,1,H
+22/10/2022,Boreham Wood,Wrexham,1,1,D
+22/10/2022,Aldershot Town,York City,2,1,H
+22/10/2022,Gateshead,Woking,1,3,A
+25/10/2022,York City,Chesterfield,1,1,D
+25/10/2022,Yeovil Town,Aldershot Town,0,2,A
+25/10/2022,Wrexham,Halifax Town,3,1,H
+25/10/2022,Wealdstone,Notts County,1,6,A
+25/10/2022,Scunthorpe United,Gateshead,3,1,H
+25/10/2022,Altrincham,Oldham Athletic,1,0,H
+25/10/2022,Maidstone United,Southend United,0,3,A
+25/10/2022,Maidenhead United,Solihull Moors,0,2,A
+25/10/2022,Woking,Dorking Wanderers,3,3,D
+25/10/2022,Eastleigh,Torquay United,1,0,H
+25/10/2022,Dagenham & Redbridge,Boreham Wood,1,1,D
+25/10/2022,Bromley,Barnet,1,3,A
+28/10/2022,Barnet,Scunthorpe United,1,1,D
+29/10/2022,Dagenham & Redbridge,Wealdstone,4,1,H
+29/10/2022,Dorking Wanderers,Aldershot Town,0,3,A
+29/10/2022,Chesterfield,Boreham Wood,2,0,H
+29/10/2022,Gateshead,Solihull Moors,1,1,D
+29/10/2022,Woking,Eastleigh,1,0,H
+29/10/2022,Maidstone United,Yeovil Town,1,1,D
+29/10/2022,Notts County,Torquay United,4,0,H
+29/10/2022,Wrexham,Altrincham,4,0,H
+29/10/2022,York City,Southend United,0,2,A
+29/10/2022,Halifax Town,Oldham Athletic,2,1,H
+29/10/2022,Maidenhead United,Bromley,1,0,H
+01/11/2022,Altrincham,Wealdstone,0,1,A
+01/11/2022,Eastleigh,Scunthorpe United,2,0,H
+01/11/2022,Barnet,Southend United,0,3,A
+01/11/2022,Chesterfield,Gateshead,2,1,H
+01/11/2022,Woking,Yeovil Town,1,0,H
+01/11/2022,Wrexham,Maidenhead United,1,0,H
+01/11/2022,Maidstone United,Solihull Moors,0,0,D
+01/11/2022,Notts County,Bromley,1,1,D
+01/11/2022,Torquay United,Aldershot Town,6,1,H
+08/11/2022,Southend United,Notts County,2,2,D
+08/11/2022,Altrincham,Barnet,0,2,A
+08/11/2022,Boreham Wood,York City,1,1,D
+08/11/2022,Eastleigh,Maidstone United,5,2,H
+08/11/2022,Solihull Moors,Halifax Town,0,1,A
+08/11/2022,Yeovil Town,Maidenhead United,0,0,D
+09/11/2022,Torquay United,Dorking Wanderers,3,3,D
+09/11/2022,Scunthorpe United,Wrexham,1,3,A
+09/11/2022,Bromley,Woking,0,2,A
+12/11/2022,Yeovil Town,Gateshead,3,1,H
+12/11/2022,Altrincham,York City,2,1,H
+12/11/2022,Wealdstone,Wrexham,0,0,D
+12/11/2022,Torquay United,Chesterfield,1,5,A
+12/11/2022,Southend United,Dorking Wanderers,2,0,H
+12/11/2022,Aldershot Town,Maidenhead United,1,2,A
+12/11/2022,Boreham Wood,Woking,0,1,A
+12/11/2022,Bromley,Halifax Town,1,1,D
+12/11/2022,Eastleigh,Notts County,0,2,A
+12/11/2022,Oldham Athletic,Barnet,0,2,A
+12/11/2022,Scunthorpe United,Maidstone United,0,2,A
+12/11/2022,Solihull Moors,Dagenham & Redbridge,0,3,A
+19/11/2022,York City,Wealdstone,1,2,A
+19/11/2022,Wrexham,Aldershot Town,2,0,H
+19/11/2022,Notts County,Yeovil Town,0,0,D
+19/11/2022,Maidstone United,Oldham Athletic,0,0,D
+19/11/2022,Maidenhead United,Eastleigh,2,1,H
+19/11/2022,Dagenham & Redbridge,Scunthorpe United,2,1,H
+19/11/2022,Dorking Wanderers,Bromley,2,3,A
+19/11/2022,Barnet,Torquay United,1,0,H
+19/11/2022,Chesterfield,Solihull Moors,2,0,H
+19/11/2022,Gateshead,Southend United,3,1,H
+19/11/2022,Woking,Altrincham,1,1,D
+19/11/2022,Halifax Town,Boreham Wood,1,0,H
+26/11/2022,Altrincham,Eastleigh,2,1,H
+26/11/2022,Wealdstone,Scunthorpe United,3,1,H
+26/11/2022,Torquay United,Gateshead,1,1,D
+26/11/2022,Maidstone United,Maidenhead United,3,2,H
+26/11/2022,Dorking Wanderers,York City,1,0,H
+26/11/2022,Aldershot Town,Southend United,2,0,H
+26/11/2022,Yeovil Town,Halifax Town,1,0,H
+03/12/2022,Southend United,Altrincham,2,2,D
+03/12/2022,York City,Wrexham,1,1,D
+03/12/2022,Eastleigh,Boreham Wood,1,0,H
+03/12/2022,Dagenham & Redbridge,Torquay United,0,1,A
+03/12/2022,Solihull Moors,Oldham Athletic,2,1,H
+03/12/2022,Scunthorpe United,Notts County,1,4,A
+03/12/2022,Maidenhead United,Dorking Wanderers,1,1,D
+03/12/2022,Halifax Town,Chesterfield,1,0,H
+03/12/2022,Woking,Maidstone United,3,1,H
+03/12/2022,Gateshead,Aldershot Town,0,2,A
+03/12/2022,Barnet,Wealdstone,2,0,H
+06/12/2022,Boreham Wood,Oldham Athletic,2,1,H
+06/12/2022,Halifax Town,Dorking Wanderers,3,1,H
+10/12/2022,Chesterfield,Dorking Wanderers,3,1,H
+10/12/2022,Woking,York City,0,2,A
+10/12/2022,Maidenhead United,Notts County,3,4,A
+10/12/2022,Maidstone United,Altrincham,2,3,A
+10/12/2022,Yeovil Town,Scunthorpe United,0,0,D
+10/12/2022,Bromley,Wealdstone,3,3,D
+10/12/2022,Eastleigh,Wrexham,0,2,A
+11/12/2022,Oldham Athletic,Torquay United,3,2,H
+13/12/2022,Dorking Wanderers,Maidstone United,3,2,H
+13/12/2022,Notts County,Gateshead,2,0,H
+26/12/2022,Southend United,Bromley,0,1,A
+26/12/2022,Altrincham,Halifax Town,2,1,H
+26/12/2022,Dagenham & Redbridge,Maidstone United,1,0,H
+26/12/2022,York City,Gateshead,0,3,A
+26/12/2022,Wrexham,Solihull Moors,5,0,H
+26/12/2022,Wealdstone,Maidenhead United,3,2,H
+26/12/2022,Torquay United,Yeovil Town,1,1,D
+26/12/2022,Aldershot Town,Woking,1,2,A
+26/12/2022,Scunthorpe United,Chesterfield,1,2,A
+26/12/2022,Notts County,Oldham Athletic,4,1,H
+26/12/2022,Barnet,Boreham Wood,2,1,H
+26/12/2022,Dorking Wanderers,Eastleigh,1,1,D
+01/01/2023,Eastleigh,Dorking Wanderers,4,0,H
+01/01/2023,Oldham Athletic,Notts County,2,2,D
+01/01/2023,Bromley,Southend United,0,0,D
+01/01/2023,Woking,Aldershot Town,4,1,H
+01/01/2023,Halifax Town,Altrincham,2,2,D
+01/01/2023,Maidenhead United,Wealdstone,0,0,D
+01/01/2023,Yeovil Town,Torquay United,2,0,H
+01/01/2023,Chesterfield,Scunthorpe United,4,1,H
+02/01/2023,Gateshead,York City,2,2,D
+02/01/2023,Maidstone United,Dagenham & Redbridge,0,1,A
+02/01/2023,Solihull Moors,Wrexham,1,2,A
+02/01/2023,Boreham Wood,Barnet,1,1,D
+07/01/2023,York City,Maidstone United,4,1,H
+07/01/2023,Wealdstone,Eastleigh,3,1,H
+07/01/2023,Dagenham & Redbridge,Woking,1,2,A
+07/01/2023,Dorking Wanderers,Oldham Athletic,1,5,A
+07/01/2023,Barnet,Gateshead,1,1,D
+07/01/2023,Scunthorpe United,Maidenhead United,3,0,H
+07/01/2023,Southend United,Solihull Moors,3,0,H
+07/01/2023,Aldershot Town,Notts County,0,3,A
+07/01/2023,Torquay United,Halifax Town,1,0,H
+10/01/2023,Aldershot Town,Dagenham & Redbridge,0,2,A
+10/01/2023,Notts County,Boreham Wood,1,1,D
+10/01/2023,Wrexham,Bromley,2,1,H
+14/01/2023,Scunthorpe United,Woking,0,2,A
+14/01/2023,Bromley,Yeovil Town,4,1,H
+17/01/2023,Solihull Moors,Aldershot Town,1,2,A
+17/01/2023,Altrincham,Maidenhead United,3,2,H
+21/01/2023,Bromley,Aldershot Town,2,2,D
+21/01/2023,Maidstone United,Wrexham,2,3,A
+24/01/2023,Gateshead,Wrexham,0,3,A
+24/01/2023,Oldham Athletic,York City,2,0,H
+24/01/2023,Maidstone United,Aldershot Town,0,3,A
+24/01/2023,Bromley,Dagenham & Redbridge,1,1,D
+24/01/2023,Chesterfield,Altrincham,1,0,H
+25/01/2023,Halifax Town,Scunthorpe United,0,1,A
+28/01/2023,Dagenham & Redbridge,Yeovil Town,0,2,A
+28/01/2023,Aldershot Town,Oldham Athletic,1,1,D
+28/01/2023,York City,Maidenhead United,1,2,A
+28/01/2023,Altrincham,Boreham Wood,0,2,A
+28/01/2023,Wealdstone,Gateshead,1,2,A
+28/01/2023,Torquay United,Maidstone United,1,0,H
+28/01/2023,Southend United,Eastleigh,1,3,A
+28/01/2023,Scunthorpe United,Bromley,1,1,D
+28/01/2023,Notts County,Halifax Town,1,0,H
+28/01/2023,Barnet,Chesterfield,3,0,H
+28/01/2023,Dorking Wanderers,Solihull Moors,0,3,A
+31/01/2023,Woking,Torquay United,1,1,D
+31/01/2023,Solihull Moors,Notts County,1,2,A
+31/01/2023,Yeovil Town,Wealdstone,0,0,D
+31/01/2023,Aldershot Town,Boreham Wood,0,1,A
+31/01/2023,Eastleigh,Barnet,0,2,A
+03/02/2023,Scunthorpe United,Barnet,1,3,A
+04/02/2023,Oldham Athletic,Halifax Town,0,1,A
+04/02/2023,Eastleigh,Woking,1,0,H
+04/02/2023,Yeovil Town,Maidstone United,2,2,D
+04/02/2023,Bromley,Maidenhead United,1,1,D
+04/02/2023,Aldershot Town,Dorking Wanderers,2,0,H
+04/02/2023,Altrincham,Wrexham,1,2,A
+04/02/2023,Wealdstone,Dagenham & Redbridge,1,0,H
+04/02/2023,Solihull Moors,Gateshead,0,2,A
+04/02/2023,Southend United,York City,2,0,H
+04/02/2023,Torquay United,Notts County,1,2,A
+04/02/2023,Boreham Wood,Chesterfield,1,0,H
+07/02/2023,York City,Solihull Moors,2,3,A
+07/02/2023,Maidenhead United,Southend United,1,2,A
+07/02/2023,Oldham Athletic,Dagenham & Redbridge,4,2,H
+07/02/2023,Halifax Town,Barnet,1,3,A
+07/02/2023,Chesterfield,Woking,1,3,A
+11/02/2023,Wrexham,Wealdstone,3,1,H
+11/02/2023,Woking,Boreham Wood,2,2,D
+11/02/2023,Chesterfield,Notts County,1,2,A
+11/02/2023,Dagenham & Redbridge,Solihull Moors,2,1,H
+14/02/2023,Dagenham & Redbridge,Eastleigh,0,1,A
+14/02/2023,Altrincham,Bromley,1,2,A
+14/02/2023,Aldershot Town,Chesterfield,1,1,D
+14/02/2023,Notts County,Barnet,4,1,H
+14/02/2023,Boreham Wood,Solihull Moors,1,1,D
+14/02/2023,Southend United,Halifax Town,2,1,H
+14/02/2023,Wrexham,Woking,2,2,D
+14/02/2023,Oldham Athletic,Gateshead,2,2,D
+18/02/2023,Bromley,Dorking Wanderers,2,0,H
+18/02/2023,Altrincham,Woking,3,1,H
+18/02/2023,Torquay United,Barnet,2,1,H
+18/02/2023,Southend United,Gateshead,1,0,H
+18/02/2023,Aldershot Town,Wrexham,3,4,A
+18/02/2023,Wealdstone,York City,3,1,H
+18/02/2023,Yeovil Town,Notts County,1,4,A
+18/02/2023,Boreham Wood,Halifax Town,1,1,D
+18/02/2023,Solihull Moors,Chesterfield,0,0,D
+18/02/2023,Scunthorpe United,Dagenham & Redbridge,3,2,H
+18/02/2023,Oldham Athletic,Maidstone United,2,0,H
+18/02/2023,Eastleigh,Maidenhead United,1,0,H
+21/02/2023,Maidenhead United,Yeovil Town,2,0,H
+21/02/2023,Maidstone United,Eastleigh,1,3,A
+21/02/2023,Notts County,Southend United,4,0,H
+21/02/2023,Wrexham,Scunthorpe United,2,0,H
+21/02/2023,York City,Boreham Wood,1,1,D
+21/02/2023,Halifax Town,Solihull Moors,1,1,D
+21/02/2023,Woking,Bromley,2,1,H
+21/02/2023,Gateshead,Oldham Athletic,2,1,H
+21/02/2023,Chesterfield,Wealdstone,1,1,D
+21/02/2023,Barnet,Altrincham,2,4,A
+21/02/2023,Dorking Wanderers,Torquay United,3,2,H
+21/02/2023,Dagenham & Redbridge,Aldershot Town,2,1,H
+25/02/2023,Altrincham,Solihull Moors,4,1,H
+25/02/2023,Boreham Wood,Scunthorpe United,2,0,H
+25/02/2023,Barnet,Aldershot Town,4,1,H
+25/02/2023,Chesterfield,Oldham Athletic,0,1,A
+25/02/2023,Woking,Wealdstone,1,1,D
+25/02/2023,Halifax Town,Maidenhead United,0,1,A
+25/02/2023,Maidstone United,Gateshead,1,1,D
+25/02/2023,Torquay United,Southend United,1,2,A
+25/02/2023,Wrexham,Dorking Wanderers,3,1,H
+25/02/2023,York City,Yeovil Town,2,1,H
+25/02/2023,Notts County,Dagenham & Redbridge,1,2,A
+25/02/2023,Eastleigh,Bromley,0,0,D
+28/02/2023,Wrexham,Chesterfield,2,1,H
+28/02/2023,Eastleigh,York City,1,0,H
+28/02/2023,Halifax Town,Wealdstone,5,0,H
+28/02/2023,Maidenhead United,Dagenham & Redbridge,2,1,H
+28/02/2023,Yeovil Town,Altrincham,1,1,D
+28/02/2023,Torquay United,Bromley,1,2,A
+28/02/2023,Boreham Wood,Dorking Wanderers,1,0,H
+28/02/2023,Maidstone United,Scunthorpe United,1,1,D
+28/02/2023,Barnet,Oldham Athletic,1,3,A
+03/03/2023,Southend United,Barnet,0,1,A
+04/03/2023,Oldham Athletic,Boreham Wood,0,2,A
+04/03/2023,Dagenham & Redbridge,York City,2,1,H
+04/03/2023,Bromley,Notts County,1,1,D
+04/03/2023,Aldershot Town,Torquay United,1,1,D
+04/03/2023,Gateshead,Chesterfield,1,2,A
+04/03/2023,Scunthorpe United,Eastleigh,0,1,A
+04/03/2023,Wealdstone,Altrincham,4,0,H
+04/03/2023,Yeovil Town,Woking,0,1,A
+04/03/2023,Maidenhead United,Wrexham,2,2,D
+04/03/2023,Dorking Wanderers,Halifax Town,0,0,D
+04/03/2023,Solihull Moors,Maidstone United,2,0,H
+07/03/2023,Maidenhead United,Boreham Wood,0,1,A
+07/03/2023,Scunthorpe United,Altrincham,2,0,H
+07/03/2023,Solihull Moors,Torquay United,3,2,H
+07/03/2023,Southend United,Chesterfield,1,2,A
+07/03/2023,Gateshead,Halifax Town,0,0,D
+07/03/2023,Dorking Wanderers,Barnet,2,1,H
+07/03/2023,Bromley,York City,0,3,A
+07/03/2023,Dagenham & Redbridge,Wrexham,0,4,A
+07/03/2023,Yeovil Town,Eastleigh,1,0,H
+07/03/2023,Wealdstone,Maidstone United,2,1,H
+07/03/2023,Oldham Athletic,Woking,1,0,H
+11/03/2023,Chesterfield,Yeovil Town,1,1,D
+11/03/2023,Woking,Maidenhead United,2,0,H
+11/03/2023,Torquay United,Wealdstone,1,2,A
+11/03/2023,Wrexham,Southend United,1,0,H
+11/03/2023,Notts County,Dorking Wanderers,3,1,H
+11/03/2023,Eastleigh,Oldham Athletic,1,0,H
+14/03/2023,York City,Altrincham,1,2,A
+14/03/2023,Maidenhead United,Aldershot Town,1,1,D
+14/03/2023,Solihull Moors,Scunthorpe United,3,1,H
+14/03/2023,Boreham Wood,Southend United,1,0,H
+14/03/2023,Notts County,Eastleigh,3,1,H
+14/03/2023,Wealdstone,Chesterfield,0,4,A
+14/03/2023,Barnet,Yeovil Town,2,1,H
+18/03/2023,Barnet,Notts County,1,1,D
+18/03/2023,Dagenham & Redbridge,Oldham Athletic,1,1,D
+18/03/2023,Eastleigh,Altrincham,3,2,H
+18/03/2023,Bromley,Wrexham,1,2,A
+18/03/2023,Woking,Chesterfield,0,1,A
+18/03/2023,Maidenhead United,Maidstone United,2,1,H
+18/03/2023,Scunthorpe United,Wealdstone,4,1,H
+18/03/2023,York City,Dorking Wanderers,2,1,H
+18/03/2023,Solihull Moors,Boreham Wood,2,0,H
+18/03/2023,Southend United,Aldershot Town,1,2,A
+18/03/2023,Gateshead,Torquay United,1,1,D
+18/03/2023,Halifax Town,Yeovil Town,1,1,D
+25/03/2023,Altrincham,Southend United,1,0,H
+25/03/2023,Boreham Wood,Eastleigh,0,0,D
+25/03/2023,Dorking Wanderers,Maidenhead United,3,1,H
+25/03/2023,Chesterfield,Halifax Town,2,0,H
+25/03/2023,Notts County,Scunthorpe United,4,0,H
+25/03/2023,Oldham Athletic,Solihull Moors,1,1,D
+25/03/2023,Torquay United,Dagenham & Redbridge,1,2,A
+25/03/2023,Wealdstone,Barnet,0,2,A
+25/03/2023,Maidstone United,Woking,1,2,A
+25/03/2023,Wrexham,York City,3,0,H
+25/03/2023,Yeovil Town,Bromley,0,1,A
+25/03/2023,Aldershot Town,Gateshead,2,3,A
+28/03/2023,Altrincham,Notts County,0,2,A
+28/03/2023,Woking,Barnet,1,1,D
+28/03/2023,Boreham Wood,Torquay United,0,1,A
+28/03/2023,York City,Scunthorpe United,0,0,D
+28/03/2023,Maidstone United,Bromley,2,3,A
+28/03/2023,Halifax Town,Aldershot Town,2,0,H
+28/03/2023,Gateshead,Dagenham & Redbridge,3,0,H
+28/03/2023,Wealdstone,Oldham Athletic,2,2,D
+28/03/2023,Dorking Wanderers,Southend United,1,0,H
+01/04/2023,Maidstone United,Boreham Wood,0,4,A
+01/04/2023,Yeovil Town,Southend United,0,2,A
+01/04/2023,Dagenham & Redbridge,Dorking Wanderers,0,2,A
+01/04/2023,Bromley,Solihull Moors,4,0,H
+01/04/2023,Wrexham,Oldham Athletic,5,1,H
+01/04/2023,Scunthorpe United,Torquay United,0,1,A
+01/04/2023,Maidenhead United,Chesterfield,0,0,D
+03/04/2023,York City,Barnet,1,0,H
+04/04/2023,Gateshead,Yeovil Town,4,0,H
+07/04/2023,Gateshead,Scunthorpe United,2,0,H
+07/04/2023,Notts County,Wealdstone,3,0,H
+07/04/2023,Barnet,Bromley,1,1,D
+07/04/2023,Oldham Athletic,Altrincham,2,2,D
+07/04/2023,Solihull Moors,Maidenhead United,1,1,D
+07/04/2023,Southend United,Maidstone United,2,0,H
+07/04/2023,Torquay United,Eastleigh,2,0,H
+07/04/2023,Halifax Town,Wrexham,3,1,H
+07/04/2023,Chesterfield,York City,1,3,A
+07/04/2023,Dorking Wanderers,Woking,1,2,A
+07/04/2023,Aldershot Town,Yeovil Town,1,1,D
+07/04/2023,Boreham Wood,Dagenham & Redbridge,0,1,A
+10/04/2023,Dagenham & Redbridge,Chesterfield,0,1,A
+10/04/2023,Altrincham,Gateshead,0,1,A
+10/04/2023,York City,Halifax Town,0,3,A
+10/04/2023,Eastleigh,Aldershot Town,3,3,D
+10/04/2023,Woking,Southend United,1,1,D
+10/04/2023,Maidenhead United,Torquay United,1,3,A
+10/04/2023,Maidstone United,Barnet,0,0,D
+10/04/2023,Scunthorpe United,Oldham Athletic,0,2,A
+10/04/2023,Wrexham,Notts County,3,2,H
+10/04/2023,Yeovil Town,Dorking Wanderers,0,1,A
+10/04/2023,Bromley,Boreham Wood,1,1,D
+12/04/2023,Eastleigh,Gateshead,2,5,A
+15/04/2023,Torquay United,York City,3,2,H
+15/04/2023,Barnet,Wrexham,0,0,D
+15/04/2023,Aldershot Town,Scunthorpe United,2,1,H
+15/04/2023,Boreham Wood,Wealdstone,1,0,H
+15/04/2023,Dorking Wanderers,Altrincham,3,2,H
+15/04/2023,Chesterfield,Eastleigh,3,2,H
+15/04/2023,Gateshead,Bromley,0,3,A
+15/04/2023,Halifax Town,Maidstone United,3,0,H
+15/04/2023,Oldham Athletic,Maidenhead United,1,0,H
+15/04/2023,Notts County,Woking,3,0,H
+15/04/2023,Southend United,Dagenham & Redbridge,2,0,H
+15/04/2023,Solihull Moors,Yeovil Town,2,2,D
+18/04/2023,Chesterfield,Torquay United,5,1,H
+18/04/2023,Oldham Athletic,Southend United,2,0,H
+18/04/2023,Gateshead,Dorking Wanderers,0,0,D
+18/04/2023,Halifax Town,Bromley,1,1,D
+18/04/2023,Wrexham,Yeovil Town,3,0,H
+18/04/2023,Altrincham,Dagenham & Redbridge,2,2,D
+18/04/2023,Barnet,Solihull Moors,1,0,H
+18/04/2023,Wealdstone,Aldershot Town,0,1,A
+22/04/2023,York City,Aldershot Town,2,2,D
+22/04/2023,Yeovil Town,Oldham Athletic,0,3,A
+22/04/2023,Wealdstone,Dorking Wanderers,2,2,D
+22/04/2023,Altrincham,Torquay United,2,2,D
+22/04/2023,Bromley,Chesterfield,2,0,H
+22/04/2023,Dagenham & Redbridge,Halifax Town,0,0,D
+22/04/2023,Eastleigh,Solihull Moors,0,0,D
+22/04/2023,Woking,Gateshead,2,1,H
+22/04/2023,Maidenhead United,Barnet,1,1,D
+22/04/2023,Maidstone United,Notts County,2,5,A
+22/04/2023,Scunthorpe United,Southend United,1,3,A
+22/04/2023,Wrexham,Boreham Wood,3,1,H
+25/04/2023,Wealdstone,Solihull Moors,3,0,H
+25/04/2023,Woking,Halifax Town,0,1,A
+25/04/2023,Boreham Wood,Gateshead,0,2,A
+29/04/2023,Aldershot Town,Altrincham,1,1,D
+29/04/2023,Boreham Wood,Yeovil Town,1,0,H
+29/04/2023,Dorking Wanderers,Scunthorpe United,2,1,H
+29/04/2023,Barnet,Dagenham & Redbridge,0,2,A
+29/04/2023,Chesterfield,Maidstone United,4,0,H
+29/04/2023,Gateshead,Maidenhead United,4,0,H
+29/04/2023,Halifax Town,Eastleigh,1,1,D
+29/04/2023,Notts County,York City,1,1,D
+29/04/2023,Oldham Athletic,Bromley,1,1,D
+29/04/2023,Solihull Moors,Woking,0,1,A
+29/04/2023,Southend United,Wealdstone,2,1,H
+29/04/2023,Torquay United,Wrexham,1,1,D

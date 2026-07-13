@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+30/07/2022,Bradford City,Doncaster Rovers,0,0,D
+30/07/2022,Carlisle United,Crawley Town,1,0,H
+30/07/2022,Walsall,Hartlepool United,4,0,H
+30/07/2022,Harrogate Town,Swindon Town,3,0,H
+30/07/2022,Leyton Orient,Grimsby Town,2,0,H
+30/07/2022,Northampton Town,Colchester United,3,2,H
+30/07/2022,Rochdale,Crewe Alexandra,1,2,A
+30/07/2022,Salford City,Mansfield Town,2,0,H
+30/07/2022,Stockport County,Barrow,2,3,A
+30/07/2022,Sutton United,Newport County,1,1,D
+30/07/2022,Tranmere Rovers,Stevenage,1,2,A
+30/07/2022,AFC Wimbledon,Gillingham,2,0,H
+06/08/2022,Barrow,Bradford City,3,2,H
+06/08/2022,Colchester United,Carlisle United,1,1,D
+06/08/2022,Crawley Town,Leyton Orient,0,1,A
+06/08/2022,Crewe Alexandra,Harrogate Town,3,0,H
+06/08/2022,Doncaster Rovers,Sutton United,2,1,H
+06/08/2022,Gillingham,Rochdale,1,0,H
+06/08/2022,Stevenage,Stockport County,2,1,H
+06/08/2022,Grimsby Town,Northampton Town,1,1,D
+06/08/2022,Hartlepool United,AFC Wimbledon,0,0,D
+06/08/2022,Mansfield Town,Tranmere Rovers,1,0,H
+06/08/2022,Newport County,Walsall,0,1,A
+06/08/2022,Swindon Town,Salford City,0,0,D
+13/08/2022,Bradford City,Newport County,2,0,H
+13/08/2022,Carlisle United,Swindon Town,1,1,D
+13/08/2022,Walsall,Stevenage,1,1,D
+13/08/2022,Harrogate Town,Crawley Town,0,0,D
+13/08/2022,Leyton Orient,Mansfield Town,1,0,H
+13/08/2022,Northampton Town,Hartlepool United,2,1,H
+13/08/2022,Rochdale,Grimsby Town,0,1,A
+13/08/2022,Salford City,Crewe Alexandra,3,0,H
+13/08/2022,Stockport County,Colchester United,1,0,H
+13/08/2022,Sutton United,Barrow,1,0,H
+13/08/2022,Tranmere Rovers,Gillingham,3,0,H
+13/08/2022,AFC Wimbledon,Doncaster Rovers,2,2,D
+16/08/2022,Barrow,Walsall,2,1,H
+16/08/2022,Colchester United,Bradford City,1,0,H
+16/08/2022,Crawley Town,Northampton Town,2,3,A
+16/08/2022,Crewe Alexandra,Sutton United,1,0,H
+16/08/2022,Gillingham,Harrogate Town,0,2,A
+16/08/2022,Stevenage,Rochdale,1,0,H
+16/08/2022,Hartlepool United,Tranmere Rovers,0,0,D
+16/08/2022,Mansfield Town,AFC Wimbledon,5,2,H
+16/08/2022,Newport County,Salford City,2,3,A
+16/08/2022,Swindon Town,Leyton Orient,1,1,D
+16/08/2022,Doncaster Rovers,Stockport County,2,1,H
+20/08/2022,Newport County,Tranmere Rovers,2,1,H
+20/08/2022,Hartlepool United,Bradford City,1,3,A
+20/08/2022,Barrow,Harrogate Town,1,0,H
+20/08/2022,Colchester United,Leyton Orient,1,3,A
+20/08/2022,Crawley Town,AFC Wimbledon,0,2,A
+20/08/2022,Crewe Alexandra,Northampton Town,2,2,D
+20/08/2022,Doncaster Rovers,Salford City,2,1,H
+20/08/2022,Gillingham,Walsall,0,0,D
+20/08/2022,Stevenage,Carlisle United,2,1,H
+20/08/2022,Grimsby Town,Sutton United,0,0,D
+20/08/2022,Mansfield Town,Stockport County,2,1,H
+20/08/2022,Swindon Town,Rochdale,3,0,H
+27/08/2022,AFC Wimbledon,Barrow,0,1,A
+27/08/2022,Bradford City,Crewe Alexandra,0,0,D
+27/08/2022,Carlisle United,Gillingham,1,0,H
+27/08/2022,Walsall,Grimsby Town,1,2,A
+27/08/2022,Harrogate Town,Newport County,0,4,A
+27/08/2022,Leyton Orient,Hartlepool United,4,2,H
+27/08/2022,Northampton Town,Doncaster Rovers,0,1,A
+27/08/2022,Rochdale,Crawley Town,1,1,D
+27/08/2022,Salford City,Stevenage,1,0,H
+27/08/2022,Stockport County,Swindon Town,1,1,D
+27/08/2022,Sutton United,Mansfield Town,2,1,H
+27/08/2022,Tranmere Rovers,Colchester United,2,0,H
+03/09/2022,Gillingham,Swindon Town,0,0,D
+03/09/2022,Bradford City,Walsall,2,1,H
+03/09/2022,Carlisle United,Rochdale,3,3,D
+03/09/2022,Colchester United,Hartlepool United,1,1,D
+03/09/2022,Crewe Alexandra,Stevenage,1,2,A
+03/09/2022,Doncaster Rovers,Mansfield Town,1,3,A
+03/09/2022,Sutton United,Harrogate Town,2,1,H
+03/09/2022,Leyton Orient,Tranmere Rovers,2,0,H
+03/09/2022,Newport County,Grimsby Town,0,2,A
+03/09/2022,Northampton Town,Barrow,3,1,H
+03/09/2022,Salford City,Crawley Town,2,2,D
+03/09/2022,Stockport County,AFC Wimbledon,1,0,H
+13/09/2022,Harrogate Town,Salford City,0,1,A
+13/09/2022,Rochdale,Leyton Orient,0,1,A
+13/09/2022,Mansfield Town,Carlisle United,0,0,D
+13/09/2022,Hartlepool United,Crewe Alexandra,1,1,D
+13/09/2022,Tranmere Rovers,Bradford City,1,2,A
+13/09/2022,Swindon Town,Sutton United,3,2,H
+13/09/2022,Grimsby Town,Gillingham,1,1,D
+13/09/2022,Walsall,Colchester United,1,1,D
+13/09/2022,Stevenage,Newport County,1,0,H
+13/09/2022,Crawley Town,Stockport County,3,2,H
+13/09/2022,Barrow,Doncaster Rovers,2,0,H
+13/09/2022,AFC Wimbledon,Northampton Town,0,2,A
+17/09/2022,Sutton United,Hartlepool United,2,0,H
+17/09/2022,Bradford City,Stevenage,3,0,H
+17/09/2022,Carlisle United,AFC Wimbledon,2,1,H
+17/09/2022,Colchester United,Grimsby Town,0,1,A
+17/09/2022,Crewe Alexandra,Crawley Town,1,0,H
+17/09/2022,Doncaster Rovers,Swindon Town,0,1,A
+17/09/2022,Leyton Orient,Walsall,1,0,H
+17/09/2022,Newport County,Barrow,0,2,A
+17/09/2022,Northampton Town,Rochdale,3,0,H
+17/09/2022,Salford City,Tranmere Rovers,0,1,A
+17/09/2022,Gillingham,Mansfield Town,0,2,A
+17/09/2022,Stockport County,Harrogate Town,0,0,D
+24/09/2022,Northampton Town,Stockport County,2,1,H
+24/09/2022,Barrow,Leyton Orient,0,2,A
+24/09/2022,Bradford City,AFC Wimbledon,2,2,D
+24/09/2022,Colchester United,Rochdale,0,1,A
+24/09/2022,Crewe Alexandra,Mansfield Town,1,2,A
+24/09/2022,Doncaster Rovers,Crawley Town,4,1,H
+24/09/2022,Stevenage,Harrogate Town,1,0,H
+24/09/2022,Walsall,Tranmere Rovers,0,1,A
+24/09/2022,Grimsby Town,Swindon Town,1,2,A
+24/09/2022,Hartlepool United,Gillingham,0,0,D
+24/09/2022,Newport County,Carlisle United,1,1,D
+24/09/2022,Sutton United,Salford City,1,2,A
+27/09/2022,Grimsby Town,Carlisle United,1,2,A
+30/09/2022,Mansfield Town,Hartlepool United,2,2,D
+01/10/2022,Carlisle United,Crewe Alexandra,0,0,D
+01/10/2022,Crawley Town,Stevenage,1,2,A
+01/10/2022,Gillingham,Sutton United,1,0,H
+01/10/2022,Leyton Orient,Newport County,1,2,A
+01/10/2022,Harrogate Town,Bradford City,1,2,A
+01/10/2022,Salford City,Grimsby Town,1,1,D
+01/10/2022,Stockport County,Walsall,1,1,D
+01/10/2022,Swindon Town,Northampton Town,1,2,A
+01/10/2022,Tranmere Rovers,Barrow,1,0,H
+01/10/2022,AFC Wimbledon,Colchester United,2,1,H
+01/10/2022,Rochdale,Doncaster Rovers,1,2,A
+04/10/2022,Stevenage,Sutton United,3,0,H
+04/10/2022,Hartlepool United,Doncaster Rovers,2,1,H
+04/10/2022,Swindon Town,Newport County,1,0,H
+04/10/2022,Walsall,Northampton Town,1,0,H
+08/10/2022,Crewe Alexandra,Gillingham,1,1,D
+08/10/2022,Newport County,Rochdale,0,1,A
+08/10/2022,Hartlepool United,Carlisle United,1,3,A
+08/10/2022,Barrow,Mansfield Town,0,1,A
+08/10/2022,Bradford City,Stockport County,0,1,A
+08/10/2022,Northampton Town,Salford City,0,1,A
+08/10/2022,Sutton United,Tranmere Rovers,0,2,A
+08/10/2022,Walsall,AFC Wimbledon,3,1,H
+08/10/2022,Grimsby Town,Crawley Town,3,0,H
+08/10/2022,Stevenage,Swindon Town,2,0,H
+08/10/2022,Doncaster Rovers,Leyton Orient,1,1,D
+08/10/2022,Colchester United,Harrogate Town,2,1,H
+14/10/2022,Tranmere Rovers,Crewe Alexandra,3,0,H
+15/10/2022,Swindon Town,Colchester United,1,0,H
+15/10/2022,Stockport County,Grimsby Town,1,3,A
+15/10/2022,Salford City,Bradford City,0,1,A
+15/10/2022,Rochdale,Barrow,2,1,H
+15/10/2022,AFC Wimbledon,Sutton United,0,1,A
+15/10/2022,Gillingham,Stevenage,1,1,D
+15/10/2022,Crawley Town,Newport County,2,1,H
+15/10/2022,Harrogate Town,Hartlepool United,2,1,H
+15/10/2022,Mansfield Town,Walsall,2,1,H
+15/10/2022,Leyton Orient,Northampton Town,0,0,D
+15/10/2022,Carlisle United,Doncaster Rovers,3,0,H
+22/10/2022,Crawley Town,Mansfield Town,3,2,H
+22/10/2022,Crewe Alexandra,Doncaster Rovers,1,1,D
+22/10/2022,Swindon Town,Hartlepool United,2,1,H
+22/10/2022,Gillingham,Barrow,1,1,D
+22/10/2022,Stevenage,Northampton Town,2,3,A
+22/10/2022,Grimsby Town,Bradford City,0,0,D
+22/10/2022,Harrogate Town,Tranmere Rovers,1,1,D
+22/10/2022,Newport County,Colchester United,1,0,H
+22/10/2022,Rochdale,AFC Wimbledon,1,2,A
+22/10/2022,Salford City,Stockport County,0,2,A
+22/10/2022,Sutton United,Walsall,1,1,D
+22/10/2022,Carlisle United,Leyton Orient,2,3,A
+25/10/2022,Doncaster Rovers,Stevenage,0,1,A
+25/10/2022,AFC Wimbledon,Crewe Alexandra,1,1,D
+25/10/2022,Tranmere Rovers,Rochdale,1,1,D
+25/10/2022,Stockport County,Carlisle United,2,0,H
+25/10/2022,Northampton Town,Sutton United,2,2,D
+25/10/2022,Mansfield Town,Newport County,0,0,D
+25/10/2022,Leyton Orient,Gillingham,2,0,H
+25/10/2022,Hartlepool United,Salford City,0,2,A
+25/10/2022,Walsall,Harrogate Town,3,1,H
+25/10/2022,Colchester United,Crawley Town,2,2,D
+25/10/2022,Bradford City,Swindon Town,1,1,D
+25/10/2022,Barrow,Grimsby Town,1,0,H
+29/10/2022,Walsall,Rochdale,1,0,H
+29/10/2022,Hartlepool United,Grimsby Town,2,1,H
+29/10/2022,Leyton Orient,Salford City,1,0,H
+29/10/2022,Mansfield Town,Swindon Town,2,5,A
+29/10/2022,Tranmere Rovers,Carlisle United,0,2,A
+29/10/2022,AFC Wimbledon,Harrogate Town,3,2,H
+29/10/2022,Stockport County,Sutton United,3,0,H
+29/10/2022,Doncaster Rovers,Gillingham,1,0,H
+29/10/2022,Northampton Town,Newport County,1,1,D
+29/10/2022,Barrow,Crewe Alexandra,3,0,H
+29/10/2022,Bradford City,Crawley Town,1,1,D
+29/10/2022,Colchester United,Stevenage,1,1,D
+01/11/2022,Tranmere Rovers,Stockport County,0,0,D
+01/11/2022,Barrow,Colchester United,3,1,H
+08/11/2022,Mansfield Town,Bradford City,1,2,A
+08/11/2022,Rochdale,Salford City,1,0,H
+08/11/2022,AFC Wimbledon,Leyton Orient,2,0,H
+08/11/2022,Harrogate Town,Carlisle United,3,3,D
+12/11/2022,Sutton United,Bradford City,0,2,A
+12/11/2022,Salford City,AFC Wimbledon,0,0,D
+12/11/2022,Carlisle United,Walsall,0,0,D
+12/11/2022,Crawley Town,Barrow,1,0,H
+12/11/2022,Crewe Alexandra,Colchester United,1,0,H
+12/11/2022,Gillingham,Northampton Town,0,2,A
+12/11/2022,Stevenage,Hartlepool United,1,0,H
+12/11/2022,Grimsby Town,Doncaster Rovers,1,3,A
+12/11/2022,Harrogate Town,Leyton Orient,0,2,A
+12/11/2022,Newport County,Stockport County,1,2,A
+12/11/2022,Rochdale,Mansfield Town,0,1,A
+12/11/2022,Swindon Town,Tranmere Rovers,1,1,D
+19/11/2022,Tranmere Rovers,AFC Wimbledon,0,2,A
+19/11/2022,Swindon Town,Crewe Alexandra,0,1,A
+19/11/2022,Barrow,Hartlepool United,3,1,H
+19/11/2022,Bradford City,Northampton Town,1,3,A
+19/11/2022,Colchester United,Doncaster Rovers,3,0,H
+19/11/2022,Walsall,Crawley Town,2,1,H
+19/11/2022,Grimsby Town,Stevenage,1,1,D
+19/11/2022,Harrogate Town,Mansfield Town,3,0,H
+19/11/2022,Newport County,Gillingham,2,0,H
+19/11/2022,Salford City,Carlisle United,1,4,A
+19/11/2022,Stockport County,Leyton Orient,1,2,A
+19/11/2022,Sutton United,Rochdale,1,0,H
+22/11/2022,Crawley Town,Gillingham,0,0,D
+02/12/2022,Crewe Alexandra,Newport County,1,2,A
+02/12/2022,Doncaster Rovers,Walsall,0,2,A
+02/12/2022,Stevenage,Barrow,5,0,H
+03/12/2022,Northampton Town,Tranmere Rovers,0,0,D
+03/12/2022,Gillingham,Salford City,0,3,A
+03/12/2022,Leyton Orient,Bradford City,3,0,H
+03/12/2022,AFC Wimbledon,Grimsby Town,1,0,H
+03/12/2022,Carlisle United,Sutton United,1,1,D
+03/12/2022,Crawley Town,Swindon Town,2,0,H
+03/12/2022,Hartlepool United,Stockport County,0,5,A
+03/12/2022,Mansfield Town,Colchester United,2,1,H
+03/12/2022,Rochdale,Harrogate Town,1,4,A
+09/12/2022,Crawley Town,Hartlepool United,0,2,A
+10/12/2022,Stevenage,Mansfield Town,0,0,D
+10/12/2022,Grimsby Town,Tranmere Rovers,2,1,H
+10/12/2022,Newport County,Doncaster Rovers,0,1,A
+10/12/2022,Sutton United,Colchester United,1,0,H
+10/12/2022,Swindon Town,AFC Wimbledon,0,0,D
+17/12/2022,Barrow,Swindon Town,0,1,A
+17/12/2022,Leyton Orient,Sutton United,2,0,H
+20/12/2022,Northampton Town,Carlisle United,2,1,H
+26/12/2022,Crawley Town,Sutton United,1,2,A
+26/12/2022,Carlisle United,Bradford City,1,0,H
+26/12/2022,Salford City,Barrow,1,1,D
+26/12/2022,Mansfield Town,Northampton Town,1,1,D
+26/12/2022,Harrogate Town,Grimsby Town,3,2,H
+26/12/2022,Gillingham,Colchester United,0,1,A
+26/12/2022,Rochdale,Hartlepool United,1,2,A
+26/12/2022,Stockport County,Crewe Alexandra,2,0,H
+26/12/2022,Swindon Town,Walsall,1,2,A
+26/12/2022,Tranmere Rovers,Doncaster Rovers,3,0,H
+26/12/2022,AFC Wimbledon,Newport County,1,1,D
+27/12/2022,Leyton Orient,Stevenage,0,0,D
+29/12/2022,Crewe Alexandra,Carlisle United,0,3,A
+29/12/2022,Barrow,Tranmere Rovers,1,2,A
+29/12/2022,Bradford City,Harrogate Town,1,0,H
+29/12/2022,Colchester United,AFC Wimbledon,1,2,A
+29/12/2022,Walsall,Stockport County,0,2,A
+29/12/2022,Grimsby Town,Salford City,1,4,A
+29/12/2022,Hartlepool United,Mansfield Town,1,2,A
+29/12/2022,Northampton Town,Swindon Town,1,2,A
+29/12/2022,Sutton United,Gillingham,2,1,H
+29/12/2022,Doncaster Rovers,Rochdale,4,3,H
+30/12/2022,Newport County,Leyton Orient,0,0,D
+30/12/2022,Stevenage,Crawley Town,3,1,H
+01/01/2023,Bradford City,Salford City,3,2,H
+01/01/2023,Colchester United,Swindon Town,1,0,H
+01/01/2023,Grimsby Town,Stockport County,1,0,H
+01/01/2023,Doncaster Rovers,Carlisle United,2,1,H
+01/01/2023,Walsall,Mansfield Town,2,1,H
+01/01/2023,Hartlepool United,Harrogate Town,3,3,D
+01/01/2023,Sutton United,AFC Wimbledon,2,1,H
+01/01/2023,Crewe Alexandra,Tranmere Rovers,1,0,H
+02/01/2023,Stevenage,Gillingham,1,0,H
+02/01/2023,Newport County,Crawley Town,2,2,D
+02/01/2023,Barrow,Rochdale,0,0,D
+02/01/2023,Northampton Town,Leyton Orient,1,0,H
+07/01/2023,Harrogate Town,Colchester United,1,3,A
+07/01/2023,Leyton Orient,Doncaster Rovers,1,0,H
+07/01/2023,Mansfield Town,Barrow,2,3,A
+07/01/2023,Rochdale,Newport County,1,1,D
+07/01/2023,Tranmere Rovers,Sutton United,2,2,D
+07/01/2023,Crewe Alexandra,AFC Wimbledon,0,0,D
+07/01/2023,Salford City,Northampton Town,2,1,H
+10/01/2023,Bradford City,Rochdale,1,2,A
+14/01/2023,Swindon Town,Grimsby Town,5,0,H
+14/01/2023,Tranmere Rovers,Walsall,1,1,D
+14/01/2023,AFC Wimbledon,Bradford City,0,0,D
+14/01/2023,Leyton Orient,Barrow,0,0,D
+14/01/2023,Stockport County,Northampton Town,2,0,H
+14/01/2023,Salford City,Sutton United,2,0,H
+14/01/2023,Harrogate Town,Stevenage,1,1,D
+14/01/2023,Gillingham,Hartlepool United,2,0,H
+14/01/2023,Carlisle United,Newport County,2,0,H
+14/01/2023,Rochdale,Colchester United,1,2,A
+14/01/2023,Mansfield Town,Crewe Alexandra,1,1,D
+21/01/2023,Hartlepool United,Rochdale,2,0,H
+21/01/2023,Stevenage,Leyton Orient,3,0,H
+21/01/2023,Colchester United,Gillingham,0,2,A
+24/01/2023,Carlisle United,Hartlepool United,3,1,H
+24/01/2023,Stockport County,Bradford City,0,0,D
+24/01/2023,Colchester United,Salford City,1,1,D
+28/01/2023,Tranmere Rovers,Leyton Orient,1,0,H
+28/01/2023,Swindon Town,Gillingham,3,3,D
+28/01/2023,Harrogate Town,Sutton United,0,1,A
+28/01/2023,Crawley Town,Salford City,3,2,H
+28/01/2023,AFC Wimbledon,Stockport County,1,0,H
+28/01/2023,Mansfield Town,Doncaster Rovers,4,1,H
+28/01/2023,Rochdale,Carlisle United,0,1,A
+28/01/2023,Hartlepool United,Colchester United,1,2,A
+28/01/2023,Barrow,Northampton Town,0,2,A
+31/01/2023,Carlisle United,Barrow,5,1,H
+31/01/2023,Salford City,Walsall,1,0,H
+31/01/2023,Crewe Alexandra,Stockport County,1,1,D
+04/02/2023,Bradford City,Mansfield Town,1,1,D
+04/02/2023,Crewe Alexandra,Grimsby Town,0,3,A
+04/02/2023,Doncaster Rovers,Hartlepool United,0,1,A
+04/02/2023,Gillingham,Crawley Town,1,0,H
+04/02/2023,Northampton Town,Walsall,0,0,D
+04/02/2023,Colchester United,Barrow,1,1,D
+04/02/2023,Carlisle United,Harrogate Town,0,1,A
+04/02/2023,Salford City,Rochdale,2,1,H
+04/02/2023,Stockport County,Tranmere Rovers,3,2,H
+04/02/2023,Sutton United,Stevenage,0,0,D
+04/02/2023,Leyton Orient,AFC Wimbledon,1,0,H
+04/02/2023,Newport County,Swindon Town,2,1,H
+07/02/2023,Doncaster Rovers,Tranmere Rovers,2,0,H
+07/02/2023,Crewe Alexandra,Leyton Orient,0,2,A
+11/02/2023,Tranmere Rovers,Salford City,1,0,H
+11/02/2023,Swindon Town,Doncaster Rovers,0,2,A
+11/02/2023,Mansfield Town,Gillingham,2,0,H
+11/02/2023,Hartlepool United,Sutton United,2,2,D
+11/02/2023,Harrogate Town,Stockport County,1,3,A
+11/02/2023,AFC Wimbledon,Carlisle United,0,0,D
+11/02/2023,Grimsby Town,Colchester United,0,1,A
+11/02/2023,Walsall,Leyton Orient,1,1,D
+11/02/2023,Stevenage,Bradford City,2,3,A
+11/02/2023,Crawley Town,Crewe Alexandra,2,2,D
+11/02/2023,Barrow,Newport County,0,1,A
+11/02/2023,Rochdale,Northampton Town,1,1,D
+14/02/2023,Bradford City,Tranmere Rovers,2,0,H
+14/02/2023,Colchester United,Walsall,0,0,D
+14/02/2023,Crewe Alexandra,Hartlepool United,2,0,H
+14/02/2023,Doncaster Rovers,Barrow,1,0,H
+14/02/2023,Gillingham,Grimsby Town,2,1,H
+14/02/2023,Leyton Orient,Rochdale,2,1,H
+14/02/2023,Sutton United,Swindon Town,2,1,H
+14/02/2023,Stockport County,Crawley Town,2,1,H
+14/02/2023,Newport County,Stevenage,2,2,D
+14/02/2023,Northampton Town,AFC Wimbledon,0,0,D
+14/02/2023,Salford City,Harrogate Town,1,1,D
+14/02/2023,Carlisle United,Mansfield Town,0,4,A
+18/02/2023,Walsall,Newport County,1,1,D
+18/02/2023,Leyton Orient,Crawley Town,1,0,H
+18/02/2023,AFC Wimbledon,Hartlepool United,2,2,D
+18/02/2023,Rochdale,Gillingham,0,2,A
+18/02/2023,Salford City,Swindon Town,1,2,A
+18/02/2023,Stockport County,Stevenage,2,0,H
+18/02/2023,Sutton United,Doncaster Rovers,2,0,H
+18/02/2023,Bradford City,Barrow,0,1,A
+18/02/2023,Northampton Town,Grimsby Town,1,2,A
+18/02/2023,Tranmere Rovers,Mansfield Town,0,2,A
+18/02/2023,Harrogate Town,Crewe Alexandra,2,2,D
+18/02/2023,Carlisle United,Colchester United,1,0,H
+21/02/2023,Rochdale,Stockport County,1,2,A
+21/02/2023,Hartlepool United,Newport County,0,1,A
+21/02/2023,Walsall,Crewe Alexandra,0,0,D
+21/02/2023,Grimsby Town,Harrogate Town,0,0,D
+25/02/2023,Grimsby Town,Leyton Orient,2,2,D
+25/02/2023,Gillingham,AFC Wimbledon,2,1,H
+25/02/2023,Colchester United,Northampton Town,0,1,A
+25/02/2023,Barrow,Stockport County,1,0,H
+25/02/2023,Newport County,Sutton United,0,2,A
+25/02/2023,Swindon Town,Harrogate Town,3,0,H
+25/02/2023,Crawley Town,Carlisle United,2,5,A
+25/02/2023,Doncaster Rovers,Bradford City,0,1,A
+25/02/2023,Stevenage,Tranmere Rovers,0,1,A
+25/02/2023,Mansfield Town,Salford City,2,5,A
+25/02/2023,Crewe Alexandra,Rochdale,1,1,D
+25/02/2023,Hartlepool United,Walsall,3,3,D
+28/02/2023,Gillingham,Bradford City,0,2,A
+28/02/2023,Barrow,Salford City,1,1,D
+28/02/2023,AFC Wimbledon,Stevenage,2,3,A
+28/02/2023,Tranmere Rovers,Crawley Town,1,0,H
+28/02/2023,Harrogate Town,Northampton Town,1,1,D
+04/03/2023,Tranmere Rovers,Hartlepool United,1,1,D
+04/03/2023,Sutton United,Crewe Alexandra,1,1,D
+04/03/2023,Stockport County,Doncaster Rovers,0,0,D
+04/03/2023,Salford City,Newport County,3,1,H
+04/03/2023,Rochdale,Stevenage,2,0,H
+04/03/2023,Northampton Town,Crawley Town,1,0,H
+04/03/2023,AFC Wimbledon,Mansfield Town,1,3,A
+04/03/2023,Harrogate Town,Gillingham,0,0,D
+04/03/2023,Leyton Orient,Swindon Town,1,1,D
+04/03/2023,Walsall,Barrow,0,1,A
+04/03/2023,Bradford City,Colchester United,2,0,H
+04/03/2023,Carlisle United,Grimsby Town,2,0,H
+07/03/2023,Doncaster Rovers,Harrogate Town,0,2,A
+07/03/2023,Grimsby Town,Newport County,1,1,D
+07/03/2023,Walsall,Bradford City,0,0,D
+07/03/2023,Stockport County,Gillingham,0,0,D
+07/03/2023,Sutton United,Crawley Town,3,0,H
+10/03/2023,Crewe Alexandra,Salford City,4,3,H
+11/03/2023,Swindon Town,Carlisle United,1,2,A
+11/03/2023,Barrow,Sutton United,0,0,D
+11/03/2023,Crawley Town,Harrogate Town,3,1,H
+11/03/2023,Newport County,Bradford City,1,1,D
+11/03/2023,Hartlepool United,Northampton Town,1,1,D
+11/03/2023,Grimsby Town,Rochdale,1,0,H
+11/03/2023,Stevenage,Walsall,3,1,H
+11/03/2023,Gillingham,Tranmere Rovers,2,0,H
+11/03/2023,Colchester United,Stockport County,0,1,A
+11/03/2023,Doncaster Rovers,AFC Wimbledon,2,1,H
+14/03/2023,Northampton Town,Mansfield Town,1,0,H
+14/03/2023,Stevenage,Crewe Alexandra,1,0,H
+14/03/2023,Sutton United,Grimsby Town,0,1,A
+14/03/2023,Newport County,AFC Wimbledon,1,1,D
+14/03/2023,Walsall,Swindon Town,0,0,D
+18/03/2023,Rochdale,Swindon Town,4,4,D
+18/03/2023,AFC Wimbledon,Crawley Town,0,1,A
+18/03/2023,Tranmere Rovers,Newport County,1,3,A
+18/03/2023,Stockport County,Mansfield Town,1,1,D
+18/03/2023,Harrogate Town,Barrow,1,0,H
+18/03/2023,Northampton Town,Crewe Alexandra,1,0,H
+18/03/2023,Salford City,Doncaster Rovers,3,1,H
+18/03/2023,Walsall,Gillingham,2,0,H
+18/03/2023,Bradford City,Hartlepool United,2,2,D
+18/03/2023,Carlisle United,Stevenage,0,0,D
+18/03/2023,Leyton Orient,Colchester United,2,2,D
+21/03/2023,Crawley Town,Doncaster Rovers,1,1,D
+21/03/2023,Bradford City,Carlisle United,0,0,D
+21/03/2023,Gillingham,Crewe Alexandra,2,1,H
+22/03/2023,Mansfield Town,Grimsby Town,0,0,D
+25/03/2023,Stevenage,Salford City,1,3,A
+25/03/2023,Mansfield Town,Sutton United,0,0,D
+25/03/2023,Hartlepool United,Leyton Orient,1,1,D
+25/03/2023,Grimsby Town,Walsall,1,1,D
+25/03/2023,Barrow,AFC Wimbledon,2,1,H
+25/03/2023,Colchester United,Tranmere Rovers,1,1,D
+25/03/2023,Crawley Town,Rochdale,2,0,H
+25/03/2023,Doncaster Rovers,Northampton Town,0,2,A
+25/03/2023,Gillingham,Carlisle United,1,0,H
+25/03/2023,Swindon Town,Stockport County,0,1,A
+28/03/2023,AFC Wimbledon,Walsall,2,0,H
+28/03/2023,Crawley Town,Grimsby Town,1,1,D
+31/03/2023,Stockport County,Salford City,1,1,D
+31/03/2023,Tranmere Rovers,Harrogate Town,1,1,D
+01/04/2023,Leyton Orient,Carlisle United,1,0,H
+01/04/2023,AFC Wimbledon,Rochdale,0,1,A
+01/04/2023,Northampton Town,Stevenage,1,1,D
+01/04/2023,Mansfield Town,Crawley Town,4,1,H
+01/04/2023,Bradford City,Grimsby Town,3,2,H
+01/04/2023,Barrow,Gillingham,2,1,H
+01/04/2023,Colchester United,Newport County,0,0,D
+01/04/2023,Doncaster Rovers,Crewe Alexandra,0,2,A
+01/04/2023,Walsall,Sutton United,1,1,D
+01/04/2023,Hartlepool United,Swindon Town,2,1,H
+07/04/2023,Stevenage,Colchester United,1,1,D
+07/04/2023,Sutton United,Stockport County,0,1,A
+07/04/2023,Salford City,Leyton Orient,0,2,A
+07/04/2023,Rochdale,Walsall,4,2,H
+07/04/2023,Carlisle United,Tranmere Rovers,2,0,H
+07/04/2023,Crawley Town,Bradford City,0,0,D
+07/04/2023,Crewe Alexandra,Barrow,3,0,H
+07/04/2023,Gillingham,Doncaster Rovers,1,0,H
+07/04/2023,Swindon Town,Mansfield Town,2,4,A
+07/04/2023,Grimsby Town,Hartlepool United,1,4,A
+07/04/2023,Harrogate Town,AFC Wimbledon,2,2,D
+07/04/2023,Newport County,Northampton Town,3,0,H
+10/04/2023,Doncaster Rovers,Grimsby Town,1,2,A
+10/04/2023,Stockport County,Newport County,4,0,H
+10/04/2023,Northampton Town,Gillingham,2,1,H
+10/04/2023,Tranmere Rovers,Swindon Town,1,0,H
+10/04/2023,Barrow,Crawley Town,4,0,H
+10/04/2023,Bradford City,Sutton United,3,1,H
+10/04/2023,Colchester United,Crewe Alexandra,4,0,H
+10/04/2023,Mansfield Town,Rochdale,1,1,D
+10/04/2023,Walsall,Carlisle United,0,0,D
+10/04/2023,Hartlepool United,Stevenage,1,1,D
+10/04/2023,Leyton Orient,Harrogate Town,2,2,D
+10/04/2023,AFC Wimbledon,Salford City,2,3,A
+15/04/2023,Sutton United,Leyton Orient,0,2,A
+15/04/2023,Swindon Town,Barrow,0,0,D
+15/04/2023,Salford City,Colchester United,0,1,A
+15/04/2023,Stevenage,AFC Wimbledon,2,1,H
+15/04/2023,Carlisle United,Northampton Town,0,0,D
+15/04/2023,Crawley Town,Tranmere Rovers,2,1,H
+15/04/2023,Crewe Alexandra,Walsall,2,0,H
+15/04/2023,Gillingham,Stockport County,1,1,D
+15/04/2023,Rochdale,Bradford City,0,3,A
+15/04/2023,Grimsby Town,Mansfield Town,1,1,D
+15/04/2023,Harrogate Town,Doncaster Rovers,2,2,D
+15/04/2023,Newport County,Hartlepool United,2,0,H
+18/04/2023,Salford City,Hartlepool United,2,0,H
+18/04/2023,Sutton United,Northampton Town,1,2,A
+18/04/2023,Rochdale,Tranmere Rovers,2,2,D
+18/04/2023,Newport County,Mansfield Town,1,2,A
+18/04/2023,Harrogate Town,Walsall,3,0,H
+18/04/2023,Carlisle United,Stockport County,2,2,D
+18/04/2023,Crawley Town,Colchester United,0,0,D
+18/04/2023,Gillingham,Leyton Orient,2,0,H
+18/04/2023,Stevenage,Doncaster Rovers,1,0,H
+18/04/2023,Grimsby Town,Barrow,1,0,H
+18/04/2023,Swindon Town,Bradford City,1,0,H
+22/04/2023,Stockport County,Rochdale,1,0,H
+22/04/2023,Tranmere Rovers,Grimsby Town,2,0,H
+22/04/2023,AFC Wimbledon,Swindon Town,1,5,A
+22/04/2023,Northampton Town,Harrogate Town,3,1,H
+22/04/2023,Mansfield Town,Stevenage,1,0,H
+22/04/2023,Barrow,Carlisle United,0,1,A
+22/04/2023,Bradford City,Gillingham,2,2,D
+22/04/2023,Colchester United,Sutton United,4,1,H
+22/04/2023,Doncaster Rovers,Newport County,1,3,A
+22/04/2023,Walsall,Salford City,2,3,A
+22/04/2023,Hartlepool United,Crawley Town,0,2,A
+22/04/2023,Leyton Orient,Crewe Alexandra,2,0,H
+25/04/2023,Swindon Town,Stevenage,0,1,A
+25/04/2023,Newport County,Harrogate Town,2,3,A
+25/04/2023,Mansfield Town,Leyton Orient,1,2,A
+25/04/2023,Grimsby Town,Crewe Alexandra,2,0,H
+29/04/2023,AFC Wimbledon,Tranmere Rovers,1,1,D
+29/04/2023,Carlisle United,Salford City,2,3,A
+29/04/2023,Crawley Town,Walsall,0,0,D
+29/04/2023,Crewe Alexandra,Swindon Town,2,1,H
+29/04/2023,Doncaster Rovers,Colchester United,1,0,H
+29/04/2023,Gillingham,Newport County,1,2,A
+29/04/2023,Stevenage,Grimsby Town,2,0,H
+29/04/2023,Hartlepool United,Barrow,3,1,H
+29/04/2023,Leyton Orient,Stockport County,0,3,A
+29/04/2023,Mansfield Town,Harrogate Town,1,2,A
+29/04/2023,Northampton Town,Bradford City,1,2,A
+29/04/2023,Rochdale,Sutton United,4,1,H
+03/05/2023,Crewe Alexandra,Bradford City,3,2,H
+08/05/2023,Barrow,Stevenage,0,1,A
+08/05/2023,Bradford City,Leyton Orient,1,1,D
+08/05/2023,Colchester United,Mansfield Town,0,2,A
+08/05/2023,Walsall,Doncaster Rovers,2,1,H
+08/05/2023,Grimsby Town,AFC Wimbledon,1,0,H
+08/05/2023,Harrogate Town,Rochdale,1,1,D
+08/05/2023,Newport County,Crewe Alexandra,2,2,D
+08/05/2023,Salford City,Gillingham,0,1,A
+08/05/2023,Stockport County,Hartlepool United,1,1,D
+08/05/2023,Sutton United,Carlisle United,1,1,D
+08/05/2023,Swindon Town,Crawley Town,2,1,H
+08/05/2023,Tranmere Rovers,Northampton Town,0,1,A

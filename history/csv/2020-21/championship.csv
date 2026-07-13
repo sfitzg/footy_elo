@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+11/09/2020,Watford,Middlesbrough,1,0,H
+12/09/2020,Birmingham City,Brentford,1,0,H
+12/09/2020,Wycombe Wanderers,Rotherham United,0,1,A
+12/09/2020,Queens Park Rangers,Nottingham Forest,2,0,H
+12/09/2020,Derby County,Reading,0,2,A
+12/09/2020,Preston North End,Swansea City,0,1,A
+12/09/2020,Bristol City,Coventry City,2,1,H
+12/09/2020,Huddersfield Town,Norwich City,0,1,A
+12/09/2020,Cardiff City,Sheffield Wednesday,0,2,A
+12/09/2020,Millwall,Stoke City,0,0,D
+12/09/2020,Barnsley,Luton Town,0,1,A
+12/09/2020,AFC Bournemouth,Blackburn Rovers,3,2,H
+18/09/2020,Coventry City,Queens Park Rangers,3,2,H
+19/09/2020,Nottingham Forest,Cardiff City,0,2,A
+19/09/2020,Blackburn Rovers,Wycombe Wanderers,5,0,H
+19/09/2020,Swansea City,Birmingham City,0,0,D
+19/09/2020,Norwich City,Preston North End,2,2,D
+19/09/2020,Sheffield Wednesday,Watford,0,0,D
+19/09/2020,Middlesbrough,AFC Bournemouth,1,1,D
+19/09/2020,Brentford,Huddersfield Town,3,0,H
+19/09/2020,Luton Town,Derby County,2,1,H
+19/09/2020,Reading,Barnsley,2,0,H
+19/09/2020,Rotherham United,Millwall,0,1,A
+20/09/2020,Stoke City,Bristol City,0,2,A
+25/09/2020,Huddersfield Town,Nottingham Forest,1,0,H
+26/09/2020,Watford,Luton Town,1,0,H
+26/09/2020,Wycombe Wanderers,Swansea City,0,2,A
+26/09/2020,Queens Park Rangers,Middlesbrough,1,1,D
+26/09/2020,Birmingham City,Rotherham United,1,1,D
+26/09/2020,Derby County,Blackburn Rovers,0,4,A
+26/09/2020,Preston North End,Stoke City,0,1,A
+26/09/2020,Cardiff City,Reading,1,2,A
+26/09/2020,Millwall,Brentford,1,1,D
+26/09/2020,Barnsley,Coventry City,0,0,D
+27/09/2020,Bristol City,Sheffield Wednesday,2,0,H
+27/09/2020,AFC Bournemouth,Norwich City,1,0,H
+02/10/2020,Coventry City,AFC Bournemouth,1,3,A
+03/10/2020,Norwich City,Derby County,0,1,A
+03/10/2020,Blackburn Rovers,Cardiff City,0,0,D
+03/10/2020,Swansea City,Millwall,2,1,H
+03/10/2020,Nottingham Forest,Bristol City,1,2,A
+03/10/2020,Sheffield Wednesday,Queens Park Rangers,1,1,D
+03/10/2020,Middlesbrough,Barnsley,2,1,H
+03/10/2020,Luton Town,Wycombe Wanderers,2,0,H
+03/10/2020,Reading,Watford,1,0,H
+03/10/2020,Rotherham United,Huddersfield Town,1,1,D
+04/10/2020,Brentford,Preston North End,2,4,A
+04/10/2020,Stoke City,Birmingham City,1,1,D
+16/10/2020,Derby County,Watford,0,1,A
+17/10/2020,Blackburn Rovers,Nottingham Forest,0,1,A
+17/10/2020,Swansea City,Huddersfield Town,1,2,A
+17/10/2020,Birmingham City,Sheffield Wednesday,0,1,A
+17/10/2020,Middlesbrough,Reading,0,0,D
+17/10/2020,Brentford,Coventry City,2,0,H
+17/10/2020,Luton Town,Stoke City,0,2,A
+17/10/2020,Barnsley,Bristol City,2,2,D
+17/10/2020,AFC Bournemouth,Queens Park Rangers,0,0,D
+17/10/2020,Rotherham United,Norwich City,1,2,A
+17/10/2020,Wycombe Wanderers,Millwall,1,2,A
+18/10/2020,Preston North End,Cardiff City,0,1,A
+20/10/2020,Coventry City,Swansea City,1,1,D
+20/10/2020,Millwall,Luton Town,2,0,H
+20/10/2020,Huddersfield Town,Derby County,1,0,H
+20/10/2020,Norwich City,Birmingham City,1,0,H
+20/10/2020,Nottingham Forest,Rotherham United,1,1,D
+20/10/2020,Bristol City,Middlesbrough,0,1,A
+20/10/2020,Reading,Wycombe Wanderers,1,0,H
+21/10/2020,Queens Park Rangers,Preston North End,0,2,A
+21/10/2020,Sheffield Wednesday,Brentford,1,2,A
+21/10/2020,Cardiff City,AFC Bournemouth,1,1,D
+21/10/2020,Watford,Blackburn Rovers,3,1,H
+21/10/2020,Stoke City,Barnsley,2,2,D
+23/10/2020,Nottingham Forest,Derby County,1,1,D
+24/10/2020,Watford,AFC Bournemouth,1,1,D
+24/10/2020,Queens Park Rangers,Birmingham City,0,0,D
+24/10/2020,Stoke City,Brentford,3,2,H
+24/10/2020,Norwich City,Wycombe Wanderers,2,1,H
+24/10/2020,Sheffield Wednesday,Luton Town,0,1,A
+24/10/2020,Bristol City,Swansea City,1,1,D
+24/10/2020,Huddersfield Town,Preston North End,1,2,A
+24/10/2020,Cardiff City,Middlesbrough,1,1,D
+24/10/2020,Coventry City,Blackburn Rovers,0,4,A
+24/10/2020,Millwall,Barnsley,1,1,D
+24/10/2020,Reading,Rotherham United,3,0,H
+27/10/2020,Barnsley,Queens Park Rangers,3,0,H
+27/10/2020,Blackburn Rovers,Reading,2,4,A
+27/10/2020,Swansea City,Stoke City,2,0,H
+27/10/2020,Middlesbrough,Coventry City,2,0,H
+27/10/2020,Brentford,Norwich City,1,1,D
+27/10/2020,Wycombe Wanderers,Watford,1,1,D
+28/10/2020,Preston North End,Millwall,0,2,A
+28/10/2020,Birmingham City,Huddersfield Town,2,1,H
+28/10/2020,Derby County,Cardiff City,1,1,D
+28/10/2020,Luton Town,Nottingham Forest,1,1,D
+28/10/2020,AFC Bournemouth,Bristol City,1,0,H
+28/10/2020,Rotherham United,Sheffield Wednesday,3,0,H
+30/10/2020,Coventry City,Reading,3,2,H
+31/10/2020,Bristol City,Norwich City,1,3,A
+31/10/2020,Swansea City,Blackburn Rovers,2,0,H
+31/10/2020,Queens Park Rangers,Cardiff City,3,2,H
+31/10/2020,Stoke City,Rotherham United,1,0,H
+31/10/2020,Middlesbrough,Nottingham Forest,1,0,H
+31/10/2020,Preston North End,Birmingham City,1,2,A
+31/10/2020,Luton Town,Brentford,0,3,A
+31/10/2020,Millwall,Huddersfield Town,0,3,A
+31/10/2020,Barnsley,Watford,1,0,H
+31/10/2020,AFC Bournemouth,Derby County,1,1,D
+31/10/2020,Wycombe Wanderers,Sheffield Wednesday,1,0,H
+03/11/2020,Norwich City,Millwall,0,0,D
+03/11/2020,Sheffield Wednesday,AFC Bournemouth,1,0,H
+03/11/2020,Huddersfield Town,Bristol City,1,2,A
+03/11/2020,Brentford,Swansea City,1,1,D
+03/11/2020,Blackburn Rovers,Middlesbrough,0,0,D
+03/11/2020,Cardiff City,Barnsley,3,0,H
+04/11/2020,Watford,Stoke City,3,2,H
+04/11/2020,Reading,Preston North End,0,3,A
+04/11/2020,Birmingham City,Wycombe Wanderers,1,2,A
+04/11/2020,Nottingham Forest,Coventry City,2,1,H
+04/11/2020,Derby County,Queens Park Rangers,0,1,A
+04/11/2020,Rotherham United,Luton Town,0,1,A
+06/11/2020,Cardiff City,Bristol City,0,1,A
+07/11/2020,Reading,Stoke City,0,3,A
+07/11/2020,Blackburn Rovers,Queens Park Rangers,3,1,H
+07/11/2020,Norwich City,Swansea City,1,0,H
+07/11/2020,Birmingham City,AFC Bournemouth,1,3,A
+07/11/2020,Nottingham Forest,Wycombe Wanderers,2,0,H
+07/11/2020,Derby County,Barnsley,0,2,A
+07/11/2020,Sheffield Wednesday,Millwall,0,0,D
+07/11/2020,Huddersfield Town,Luton Town,1,1,D
+07/11/2020,Brentford,Middlesbrough,0,0,D
+07/11/2020,Watford,Coventry City,3,2,H
+07/11/2020,Rotherham United,Preston North End,2,1,H
+20/11/2020,Coventry City,Birmingham City,0,0,D
+21/11/2020,AFC Bournemouth,Reading,4,2,H
+21/11/2020,Swansea City,Rotherham United,1,0,H
+21/11/2020,Queens Park Rangers,Watford,1,1,D
+21/11/2020,Stoke City,Huddersfield Town,4,3,H
+21/11/2020,Middlesbrough,Norwich City,0,1,A
+21/11/2020,Preston North End,Sheffield Wednesday,1,0,H
+21/11/2020,Bristol City,Derby County,1,0,H
+21/11/2020,Luton Town,Blackburn Rovers,1,1,D
+21/11/2020,Millwall,Cardiff City,1,1,D
+21/11/2020,Barnsley,Nottingham Forest,2,0,H
+21/11/2020,Wycombe Wanderers,Brentford,0,0,D
+24/11/2020,Queens Park Rangers,Rotherham United,3,2,H
+24/11/2020,Luton Town,Birmingham City,1,1,D
+24/11/2020,Stoke City,Norwich City,2,3,A
+24/11/2020,Wycombe Wanderers,Huddersfield Town,0,0,D
+24/11/2020,Preston North End,Blackburn Rovers,0,3,A
+24/11/2020,Barnsley,Brentford,0,1,A
+24/11/2020,AFC Bournemouth,Nottingham Forest,2,0,H
+25/11/2020,Middlesbrough,Derby County,3,0,H
+25/11/2020,Millwall,Reading,1,1,D
+25/11/2020,Swansea City,Sheffield Wednesday,1,1,D
+25/11/2020,Bristol City,Watford,0,0,D
+25/11/2020,Coventry City,Cardiff City,1,0,H
+27/11/2020,Brentford,Queens Park Rangers,2,1,H
+28/11/2020,Reading,Bristol City,3,1,H
+28/11/2020,Blackburn Rovers,Barnsley,2,1,H
+28/11/2020,Norwich City,Coventry City,1,1,D
+28/11/2020,Birmingham City,Millwall,0,0,D
+28/11/2020,Derby County,Wycombe Wanderers,1,1,D
+28/11/2020,Sheffield Wednesday,Stoke City,0,0,D
+28/11/2020,Huddersfield Town,Middlesbrough,3,2,H
+28/11/2020,Cardiff City,Luton Town,4,0,H
+28/11/2020,Watford,Preston North End,4,1,H
+28/11/2020,Rotherham United,AFC Bournemouth,2,2,D
+29/11/2020,Nottingham Forest,Swansea City,0,1,A
+01/12/2020,Cardiff City,Huddersfield Town,3,0,H
+01/12/2020,Queens Park Rangers,Bristol City,1,2,A
+01/12/2020,Birmingham City,Barnsley,1,2,A
+01/12/2020,Derby County,Coventry City,1,1,D
+01/12/2020,AFC Bournemouth,Preston North End,2,3,A
+01/12/2020,Rotherham United,Brentford,0,2,A
+02/12/2020,Middlesbrough,Swansea City,2,1,H
+02/12/2020,Blackburn Rovers,Millwall,2,1,H
+02/12/2020,Nottingham Forest,Watford,0,0,D
+02/12/2020,Sheffield Wednesday,Reading,1,1,D
+02/12/2020,Luton Town,Norwich City,3,1,H
+02/12/2020,Wycombe Wanderers,Stoke City,0,1,A
+04/12/2020,Barnsley,AFC Bournemouth,0,4,A
+05/12/2020,Reading,Nottingham Forest,2,0,H
+05/12/2020,Swansea City,Luton Town,2,0,H
+05/12/2020,Stoke City,Middlesbrough,1,0,H
+05/12/2020,Norwich City,Sheffield Wednesday,2,1,H
+05/12/2020,Preston North End,Wycombe Wanderers,2,2,D
+05/12/2020,Bristol City,Birmingham City,0,1,A
+05/12/2020,Huddersfield Town,Queens Park Rangers,2,0,H
+05/12/2020,Brentford,Blackburn Rovers,2,2,D
+05/12/2020,Coventry City,Rotherham United,3,1,H
+05/12/2020,Watford,Cardiff City,0,1,A
+05/12/2020,Millwall,Derby County,0,1,A
+08/12/2020,Swansea City,AFC Bournemouth,0,0,D
+08/12/2020,Huddersfield Town,Sheffield Wednesday,2,0,H
+08/12/2020,Coventry City,Luton Town,0,0,D
+08/12/2020,Watford,Rotherham United,2,0,H
+08/12/2020,Millwall,Queens Park Rangers,1,1,D
+08/12/2020,Stoke City,Cardiff City,1,2,A
+09/12/2020,Preston North End,Middlesbrough,3,0,H
+09/12/2020,Norwich City,Nottingham Forest,2,1,H
+09/12/2020,Bristol City,Blackburn Rovers,1,0,H
+09/12/2020,Brentford,Derby County,0,0,D
+09/12/2020,Barnsley,Wycombe Wanderers,2,1,H
+09/12/2020,Reading,Birmingham City,1,2,A
+12/12/2020,Cardiff City,Swansea City,0,2,A
+12/12/2020,Blackburn Rovers,Norwich City,1,2,A
+12/12/2020,Queens Park Rangers,Reading,0,1,A
+12/12/2020,Birmingham City,Watford,0,1,A
+12/12/2020,Nottingham Forest,Brentford,1,3,A
+12/12/2020,Derby County,Stoke City,0,0,D
+12/12/2020,Sheffield Wednesday,Barnsley,1,2,A
+12/12/2020,Middlesbrough,Millwall,3,0,H
+12/12/2020,Luton Town,Preston North End,3,0,H
+12/12/2020,AFC Bournemouth,Huddersfield Town,5,0,H
+12/12/2020,Rotherham United,Bristol City,2,0,H
+12/12/2020,Wycombe Wanderers,Coventry City,1,2,A
+15/12/2020,Queens Park Rangers,Stoke City,0,0,D
+15/12/2020,Nottingham Forest,Sheffield Wednesday,2,0,H
+15/12/2020,Bristol City,Millwall,0,2,A
+15/12/2020,Barnsley,Preston North End,2,1,H
+15/12/2020,AFC Bournemouth,Wycombe Wanderers,1,0,H
+15/12/2020,Watford,Brentford,1,1,D
+16/12/2020,Derby County,Swansea City,2,0,H
+16/12/2020,Middlesbrough,Luton Town,1,0,H
+16/12/2020,Cardiff City,Birmingham City,3,2,H
+16/12/2020,Blackburn Rovers,Rotherham United,2,1,H
+16/12/2020,Coventry City,Huddersfield Town,0,0,D
+16/12/2020,Reading,Norwich City,1,2,A
+18/12/2020,Preston North End,Bristol City,1,0,H
+19/12/2020,Norwich City,Cardiff City,2,0,H
+19/12/2020,Swansea City,Barnsley,2,0,H
+19/12/2020,Stoke City,Blackburn Rovers,1,0,H
+19/12/2020,Birmingham City,Middlesbrough,1,4,A
+19/12/2020,Sheffield Wednesday,Coventry City,1,0,H
+19/12/2020,Huddersfield Town,Watford,2,0,H
+19/12/2020,Brentford,Reading,3,1,H
+19/12/2020,Luton Town,AFC Bournemouth,0,0,D
+19/12/2020,Millwall,Nottingham Forest,1,1,D
+19/12/2020,Wycombe Wanderers,Queens Park Rangers,1,1,D
+26/12/2020,Blackburn Rovers,Sheffield Wednesday,1,1,D
+26/12/2020,Queens Park Rangers,Swansea City,0,2,A
+26/12/2020,Nottingham Forest,Birmingham City,0,0,D
+26/12/2020,Derby County,Preston North End,0,1,A
+26/12/2020,Bristol City,Wycombe Wanderers,2,1,H
+26/12/2020,Cardiff City,Brentford,2,3,A
+26/12/2020,Coventry City,Stoke City,0,0,D
+26/12/2020,Barnsley,Huddersfield Town,2,1,H
+26/12/2020,Reading,Luton Town,2,1,H
+26/12/2020,Watford,Norwich City,1,0,H
+29/12/2020,Birmingham City,Derby County,0,4,A
+29/12/2020,Sheffield Wednesday,Middlesbrough,2,1,H
+29/12/2020,Norwich City,Queens Park Rangers,1,1,D
+29/12/2020,Preston North End,Coventry City,2,0,H
+29/12/2020,Huddersfield Town,Blackburn Rovers,2,1,H
+29/12/2020,Luton Town,Bristol City,2,1,H
+29/12/2020,Rotherham United,Barnsley,1,2,A
+29/12/2020,Wycombe Wanderers,Cardiff City,2,1,H
+29/12/2020,Stoke City,Nottingham Forest,1,1,D
+30/12/2020,Brentford,AFC Bournemouth,2,1,H
+30/12/2020,Swansea City,Reading,0,0,D
+01/01/2021,Sheffield Wednesday,Derby County,1,0,H
+02/01/2021,Swansea City,Watford,2,1,H
+02/01/2021,Norwich City,Barnsley,1,0,H
+02/01/2021,Birmingham City,Blackburn Rovers,0,2,A
+02/01/2021,Preston North End,Nottingham Forest,0,1,A
+02/01/2021,Huddersfield Town,Reading,1,2,A
+02/01/2021,Millwall,Coventry City,1,2,A
+02/01/2021,Wycombe Wanderers,Middlesbrough,1,3,A
+02/01/2021,Stoke City,AFC Bournemouth,0,1,A
+12/01/2021,Luton Town,Queens Park Rangers,0,2,A
+12/01/2021,AFC Bournemouth,Millwall,1,1,D
+16/01/2021,Middlesbrough,Birmingham City,0,1,A
+16/01/2021,Blackburn Rovers,Stoke City,1,1,D
+16/01/2021,Nottingham Forest,Millwall,3,1,H
+16/01/2021,Derby County,Rotherham United,0,1,A
+16/01/2021,Bristol City,Preston North End,2,0,H
+16/01/2021,Cardiff City,Norwich City,1,2,A
+16/01/2021,Watford,Huddersfield Town,2,0,H
+16/01/2021,AFC Bournemouth,Luton Town,0,1,A
+16/01/2021,Barnsley,Swansea City,0,2,A
+19/01/2021,Derby County,AFC Bournemouth,1,0,H
+19/01/2021,Reading,Coventry City,3,0,H
+19/01/2021,Watford,Barnsley,1,0,H
+19/01/2021,Rotherham United,Stoke City,3,3,D
+20/01/2021,Norwich City,Bristol City,2,0,H
+20/01/2021,Nottingham Forest,Middlesbrough,1,2,A
+20/01/2021,Huddersfield Town,Millwall,0,1,A
+20/01/2021,Cardiff City,Queens Park Rangers,0,1,A
+20/01/2021,Brentford,Luton Town,1,0,H
+20/01/2021,Birmingham City,Preston North End,0,1,A
+22/01/2021,Stoke City,Watford,1,2,A
+23/01/2021,Queens Park Rangers,Derby County,0,1,A
+24/01/2021,Preston North End,Reading,0,0,D
+24/01/2021,Middlesbrough,Blackburn Rovers,0,1,A
+26/01/2021,Millwall,Watford,0,0,D
+26/01/2021,Bristol City,Huddersfield Town,2,1,H
+27/01/2021,Middlesbrough,Rotherham United,0,3,A
+27/01/2021,Coventry City,Sheffield Wednesday,2,0,H
+27/01/2021,Swansea City,Brentford,1,1,D
+27/01/2021,Barnsley,Cardiff City,2,2,D
+29/01/2021,Reading,AFC Bournemouth,3,1,H
+30/01/2021,Norwich City,Middlesbrough,0,0,D
+30/01/2021,Cardiff City,Millwall,1,1,D
+30/01/2021,Brentford,Wycombe Wanderers,7,2,H
+30/01/2021,Rotherham United,Swansea City,1,3,A
+30/01/2021,Blackburn Rovers,Luton Town,1,0,H
+30/01/2021,Birmingham City,Coventry City,1,1,D
+30/01/2021,Nottingham Forest,Barnsley,0,0,D
+30/01/2021,Derby County,Bristol City,1,0,H
+30/01/2021,Sheffield Wednesday,Preston North End,1,0,H
+30/01/2021,Huddersfield Town,Stoke City,1,1,D
+01/02/2021,Watford,Queens Park Rangers,1,2,A
+02/02/2021,Millwall,Norwich City,0,0,D
+02/02/2021,Coventry City,Nottingham Forest,1,2,A
+02/02/2021,AFC Bournemouth,Sheffield Wednesday,1,2,A
+02/02/2021,Wycombe Wanderers,Birmingham City,0,0,D
+03/02/2021,Rotherham United,Derby County,3,0,H
+03/02/2021,Brentford,Bristol City,3,2,H
+05/02/2021,Swansea City,Norwich City,2,0,H
+06/02/2021,Coventry City,Watford,0,0,D
+06/02/2021,Queens Park Rangers,Blackburn Rovers,1,0,H
+06/02/2021,Stoke City,Reading,0,0,D
+06/02/2021,Middlesbrough,Brentford,1,4,A
+06/02/2021,Preston North End,Rotherham United,1,2,A
+06/02/2021,Bristol City,Cardiff City,0,2,A
+06/02/2021,Luton Town,Huddersfield Town,1,1,D
+06/02/2021,Millwall,Sheffield Wednesday,4,1,H
+06/02/2021,AFC Bournemouth,Birmingham City,3,2,H
+06/02/2021,Wycombe Wanderers,Nottingham Forest,0,3,A
+09/02/2021,Rotherham United,Cardiff City,1,2,A
+09/02/2021,Sheffield Wednesday,Wycombe Wanderers,2,0,H
+10/02/2021,Reading,Brentford,1,3,A
+12/02/2021,Blackburn Rovers,Preston North End,1,2,A
+13/02/2021,Nottingham Forest,AFC Bournemouth,0,0,D
+13/02/2021,Norwich City,Stoke City,4,1,H
+13/02/2021,Birmingham City,Luton Town,0,1,A
+13/02/2021,Derby County,Middlesbrough,2,1,H
+13/02/2021,Huddersfield Town,Wycombe Wanderers,2,3,A
+13/02/2021,Cardiff City,Coventry City,3,1,H
+13/02/2021,Watford,Bristol City,6,0,H
+13/02/2021,Reading,Millwall,1,2,A
+14/02/2021,Brentford,Barnsley,0,2,A
+16/02/2021,Preston North End,Watford,0,1,A
+16/02/2021,Stoke City,Sheffield Wednesday,1,0,H
+16/02/2021,Middlesbrough,Huddersfield Town,2,1,H
+16/02/2021,Bristol City,Reading,0,2,A
+16/02/2021,Wycombe Wanderers,Derby County,1,2,A
+16/02/2021,Luton Town,Cardiff City,0,2,A
+17/02/2021,Swansea City,Nottingham Forest,1,0,H
+17/02/2021,Queens Park Rangers,Brentford,2,1,H
+17/02/2021,Coventry City,Norwich City,0,2,A
+17/02/2021,Millwall,Birmingham City,2,0,H
+17/02/2021,Barnsley,Blackburn Rovers,2,1,H
+17/02/2021,AFC Bournemouth,Rotherham United,1,0,H
+19/02/2021,Watford,Derby County,2,1,H
+20/02/2021,Coventry City,Brentford,2,0,H
+20/02/2021,Queens Park Rangers,AFC Bournemouth,2,1,H
+20/02/2021,Stoke City,Luton Town,3,0,H
+20/02/2021,Norwich City,Rotherham United,1,0,H
+20/02/2021,Nottingham Forest,Blackburn Rovers,1,0,H
+20/02/2021,Sheffield Wednesday,Birmingham City,0,1,A
+20/02/2021,Bristol City,Barnsley,0,1,A
+20/02/2021,Huddersfield Town,Swansea City,4,1,H
+20/02/2021,Cardiff City,Preston North End,4,0,H
+20/02/2021,Millwall,Wycombe Wanderers,0,0,D
+20/02/2021,Reading,Middlesbrough,0,2,A
+23/02/2021,Birmingham City,Norwich City,1,3,A
+23/02/2021,Derby County,Huddersfield Town,2,0,H
+23/02/2021,Middlesbrough,Bristol City,1,3,A
+23/02/2021,Luton Town,Millwall,1,1,D
+23/02/2021,Rotherham United,Nottingham Forest,0,1,A
+23/02/2021,Wycombe Wanderers,Reading,1,0,H
+24/02/2021,Swansea City,Coventry City,1,0,H
+24/02/2021,Brentford,Sheffield Wednesday,3,0,H
+24/02/2021,Barnsley,Stoke City,2,0,H
+24/02/2021,Blackburn Rovers,Watford,2,3,A
+24/02/2021,Preston North End,Queens Park Rangers,0,0,D
+24/02/2021,AFC Bournemouth,Cardiff City,1,2,A
+26/02/2021,Derby County,Nottingham Forest,1,1,D
+27/02/2021,AFC Bournemouth,Watford,1,0,H
+27/02/2021,Blackburn Rovers,Coventry City,1,1,D
+27/02/2021,Swansea City,Bristol City,1,3,A
+27/02/2021,Birmingham City,Queens Park Rangers,2,1,H
+27/02/2021,Middlesbrough,Cardiff City,1,1,D
+27/02/2021,Preston North End,Huddersfield Town,3,0,H
+27/02/2021,Brentford,Stoke City,2,1,H
+27/02/2021,Luton Town,Sheffield Wednesday,3,2,H
+27/02/2021,Barnsley,Millwall,2,1,H
+27/02/2021,Rotherham United,Reading,0,1,A
+28/02/2021,Wycombe Wanderers,Norwich City,0,2,A
+02/03/2021,Huddersfield Town,Birmingham City,1,1,D
+02/03/2021,Cardiff City,Derby County,4,0,H
+02/03/2021,Coventry City,Middlesbrough,1,2,A
+02/03/2021,Millwall,Preston North End,2,1,H
+02/03/2021,Nottingham Forest,Luton Town,0,1,A
+02/03/2021,Reading,Blackburn Rovers,1,0,H
+03/03/2021,Norwich City,Brentford,1,0,H
+03/03/2021,Queens Park Rangers,Barnsley,1,3,A
+03/03/2021,Watford,Wycombe Wanderers,2,0,H
+03/03/2021,Sheffield Wednesday,Rotherham United,1,2,A
+03/03/2021,Bristol City,AFC Bournemouth,1,2,A
+03/03/2021,Stoke City,Swansea City,1,2,A
+05/03/2021,Huddersfield Town,Cardiff City,0,0,D
+06/03/2021,Watford,Nottingham Forest,1,0,H
+06/03/2021,Swansea City,Middlesbrough,2,1,H
+06/03/2021,Stoke City,Wycombe Wanderers,2,0,H
+06/03/2021,Norwich City,Luton Town,3,0,H
+06/03/2021,Preston North End,AFC Bournemouth,1,1,D
+06/03/2021,Bristol City,Queens Park Rangers,0,2,A
+06/03/2021,Coventry City,Derby County,1,0,H
+06/03/2021,Millwall,Blackburn Rovers,0,2,A
+06/03/2021,Barnsley,Birmingham City,1,0,H
+06/03/2021,Reading,Sheffield Wednesday,3,0,H
+09/03/2021,Blackburn Rovers,Swansea City,1,1,D
+09/03/2021,Queens Park Rangers,Wycombe Wanderers,1,0,H
+10/03/2021,Barnsley,Derby County,0,0,D
+12/03/2021,Blackburn Rovers,Brentford,0,1,A
+13/03/2021,Luton Town,Swansea City,0,1,A
+13/03/2021,Queens Park Rangers,Huddersfield Town,0,1,A
+13/03/2021,Birmingham City,Bristol City,0,3,A
+13/03/2021,Nottingham Forest,Reading,1,1,D
+13/03/2021,Derby County,Millwall,0,1,A
+13/03/2021,Middlesbrough,Stoke City,3,0,H
+13/03/2021,Cardiff City,Watford,1,2,A
+13/03/2021,AFC Bournemouth,Barnsley,2,3,A
+13/03/2021,Wycombe Wanderers,Preston North End,1,0,H
+14/03/2021,Sheffield Wednesday,Norwich City,1,2,A
+16/03/2021,Derby County,Brentford,2,2,D
+16/03/2021,Middlesbrough,Preston North End,2,0,H
+16/03/2021,Cardiff City,Stoke City,0,0,D
+16/03/2021,Luton Town,Coventry City,2,0,H
+16/03/2021,Rotherham United,Watford,1,4,A
+16/03/2021,AFC Bournemouth,Swansea City,3,0,H
+17/03/2021,Queens Park Rangers,Millwall,3,2,H
+17/03/2021,Nottingham Forest,Norwich City,0,2,A
+17/03/2021,Wycombe Wanderers,Barnsley,1,3,A
+17/03/2021,Blackburn Rovers,Bristol City,0,0,D
+17/03/2021,Birmingham City,Reading,2,1,H
+17/03/2021,Sheffield Wednesday,Huddersfield Town,1,1,D
+20/03/2021,Brentford,Nottingham Forest,1,1,D
+20/03/2021,Stoke City,Derby County,1,0,H
+20/03/2021,Norwich City,Blackburn Rovers,1,1,D
+20/03/2021,Preston North End,Luton Town,0,1,A
+20/03/2021,Bristol City,Rotherham United,0,2,A
+20/03/2021,Coventry City,Wycombe Wanderers,0,0,D
+20/03/2021,Watford,Birmingham City,3,0,H
+20/03/2021,Millwall,Middlesbrough,1,0,H
+20/03/2021,Barnsley,Sheffield Wednesday,1,2,A
+20/03/2021,Reading,Queens Park Rangers,1,1,D
+20/03/2021,Swansea City,Cardiff City,0,1,A
+02/04/2021,Queens Park Rangers,Coventry City,3,0,H
+02/04/2021,Derby County,Luton Town,2,0,H
+02/04/2021,Preston North End,Norwich City,1,1,D
+02/04/2021,Bristol City,Stoke City,0,2,A
+02/04/2021,Cardiff City,Nottingham Forest,0,1,A
+02/04/2021,Watford,Sheffield Wednesday,1,0,H
+02/04/2021,Millwall,Rotherham United,1,0,H
+02/04/2021,AFC Bournemouth,Middlesbrough,3,1,H
+02/04/2021,Wycombe Wanderers,Blackburn Rovers,1,0,H
+02/04/2021,Barnsley,Reading,1,1,D
+02/04/2021,Birmingham City,Swansea City,1,0,H
+03/04/2021,Huddersfield Town,Brentford,1,1,D
+05/04/2021,Middlesbrough,Watford,1,1,D
+05/04/2021,Blackburn Rovers,AFC Bournemouth,0,2,A
+05/04/2021,Swansea City,Preston North End,0,1,A
+05/04/2021,Stoke City,Millwall,1,2,A
+05/04/2021,Nottingham Forest,Queens Park Rangers,3,1,H
+05/04/2021,Luton Town,Barnsley,1,2,A
+05/04/2021,Coventry City,Bristol City,3,1,H
+05/04/2021,Reading,Derby County,3,1,H
+05/04/2021,Rotherham United,Wycombe Wanderers,0,3,A
+05/04/2021,Sheffield Wednesday,Cardiff City,5,0,H
+06/04/2021,Brentford,Birmingham City,0,0,D
+06/04/2021,Norwich City,Huddersfield Town,7,0,H
+09/04/2021,Watford,Reading,2,0,H
+10/04/2021,Millwall,Swansea City,0,3,A
+10/04/2021,Queens Park Rangers,Sheffield Wednesday,4,1,H
+10/04/2021,Birmingham City,Stoke City,2,0,H
+10/04/2021,Derby County,Norwich City,0,1,A
+10/04/2021,Preston North End,Brentford,0,5,A
+10/04/2021,Bristol City,Nottingham Forest,0,0,D
+10/04/2021,Huddersfield Town,Rotherham United,0,0,D
+10/04/2021,Cardiff City,Blackburn Rovers,2,2,D
+10/04/2021,Barnsley,Middlesbrough,2,0,H
+10/04/2021,AFC Bournemouth,Coventry City,4,1,H
+10/04/2021,Wycombe Wanderers,Luton Town,1,3,A
+13/04/2021,Huddersfield Town,AFC Bournemouth,1,2,A
+13/04/2021,Sheffield Wednesday,Swansea City,0,2,A
+13/04/2021,Rotherham United,Queens Park Rangers,3,1,H
+15/04/2021,Rotherham United,Coventry City,0,1,A
+16/04/2021,Blackburn Rovers,Derby County,2,1,H
+16/04/2021,Reading,Cardiff City,1,1,D
+17/04/2021,Swansea City,Wycombe Wanderers,2,2,D
+17/04/2021,Stoke City,Preston North End,0,0,D
+17/04/2021,Nottingham Forest,Huddersfield Town,0,2,A
+17/04/2021,Sheffield Wednesday,Bristol City,1,1,D
+17/04/2021,Middlesbrough,Queens Park Rangers,1,2,A
+17/04/2021,Brentford,Millwall,0,0,D
+17/04/2021,Luton Town,Watford,1,0,H
+17/04/2021,Norwich City,AFC Bournemouth,1,3,A
+18/04/2021,Rotherham United,Birmingham City,0,1,A
+18/04/2021,Coventry City,Barnsley,2,0,H
+20/04/2021,Norwich City,Watford,0,1,A
+20/04/2021,Brentford,Cardiff City,1,1,D
+20/04/2021,Swansea City,Queens Park Rangers,0,1,A
+20/04/2021,Sheffield Wednesday,Blackburn Rovers,1,0,H
+20/04/2021,Preston North End,Derby County,3,0,H
+21/04/2021,Millwall,AFC Bournemouth,1,4,A
+21/04/2021,Rotherham United,Middlesbrough,1,2,A
+21/04/2021,Wycombe Wanderers,Bristol City,2,1,H
+21/04/2021,Stoke City,Coventry City,2,3,A
+21/04/2021,Birmingham City,Nottingham Forest,1,1,D
+21/04/2021,Huddersfield Town,Barnsley,0,1,A
+21/04/2021,Luton Town,Reading,0,0,D
+24/04/2021,AFC Bournemouth,Brentford,0,1,A
+24/04/2021,Blackburn Rovers,Huddersfield Town,5,2,H
+24/04/2021,Queens Park Rangers,Norwich City,1,3,A
+24/04/2021,Nottingham Forest,Stoke City,1,1,D
+24/04/2021,Derby County,Birmingham City,1,2,A
+24/04/2021,Middlesbrough,Sheffield Wednesday,3,1,H
+24/04/2021,Cardiff City,Wycombe Wanderers,2,1,H
+24/04/2021,Coventry City,Preston North End,0,1,A
+24/04/2021,Watford,Millwall,1,0,H
+24/04/2021,Barnsley,Rotherham United,1,0,H
+25/04/2021,Reading,Swansea City,2,2,D
+25/04/2021,Bristol City,Luton Town,2,3,A
+27/04/2021,Brentford,Rotherham United,1,0,H
+01/05/2021,Sheffield Wednesday,Nottingham Forest,0,0,D
+01/05/2021,Swansea City,Derby County,2,1,H
+01/05/2021,Stoke City,Queens Park Rangers,0,2,A
+01/05/2021,Norwich City,Reading,4,1,H
+01/05/2021,Birmingham City,Cardiff City,0,4,A
+01/05/2021,Preston North End,Barnsley,2,0,H
+01/05/2021,Huddersfield Town,Coventry City,1,1,D
+01/05/2021,Brentford,Watford,2,0,H
+01/05/2021,Luton Town,Middlesbrough,1,1,D
+01/05/2021,Millwall,Bristol City,4,1,H
+01/05/2021,Rotherham United,Blackburn Rovers,1,1,D
+01/05/2021,Wycombe Wanderers,AFC Bournemouth,1,0,H
+04/05/2021,Luton Town,Rotherham United,0,0,D
+08/05/2021,Blackburn Rovers,Birmingham City,5,2,H
+08/05/2021,Queens Park Rangers,Luton Town,3,1,H
+08/05/2021,Nottingham Forest,Preston North End,1,2,A
+08/05/2021,Derby County,Sheffield Wednesday,3,3,D
+08/05/2021,Middlesbrough,Wycombe Wanderers,0,3,A
+08/05/2021,Bristol City,Brentford,1,3,A
+08/05/2021,Cardiff City,Rotherham United,1,1,D
+08/05/2021,Coventry City,Millwall,6,1,H
+08/05/2021,Watford,Swansea City,2,0,H
+08/05/2021,Barnsley,Norwich City,2,2,D
+08/05/2021,Reading,Huddersfield Town,2,2,D
+08/05/2021,AFC Bournemouth,Stoke City,0,2,A

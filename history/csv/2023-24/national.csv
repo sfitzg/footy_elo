@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR
+05/08/2023,Aldershot Town,Oxford City,5,2,H
+05/08/2023,Altrincham,Dagenham & Redbridge,1,1,D
+05/08/2023,Barnet,Hartlepool United,3,2,H
+05/08/2023,Chesterfield,Dorking Wanderers,4,3,H
+05/08/2023,Gateshead,Boreham Wood,2,2,D
+05/08/2023,Halifax Town,Bromley,2,0,H
+05/08/2023,Kidderminster Harriers,Woking,0,0,D
+05/08/2023,Maidenhead United,AFC Fylde,2,2,D
+05/08/2023,Solihull Moors,Eastleigh,1,1,D
+05/08/2023,Southend United,Oldham Athletic,4,0,H
+05/08/2023,Wealdstone,York City,2,1,H
+05/08/2023,Rochdale,Ebbsfleet United,0,1,A
+12/08/2023,AFC Fylde,Chesterfield,2,4,A
+12/08/2023,Boreham Wood,Halifax Town,2,0,H
+12/08/2023,Dagenham & Redbridge,Southend United,0,2,A
+12/08/2023,Dorking Wanderers,Maidenhead United,0,2,A
+12/08/2023,Eastleigh,Wealdstone,0,0,D
+12/08/2023,Ebbsfleet United,Solihull Moors,1,2,A
+12/08/2023,Woking,Altrincham,2,3,A
+12/08/2023,Hartlepool United,Gateshead,2,1,H
+12/08/2023,Oldham Athletic,Aldershot Town,5,1,H
+12/08/2023,Oxford City,Rochdale,0,1,A
+12/08/2023,York City,Kidderminster Harriers,0,1,A
+12/08/2023,Bromley,Barnet,0,2,A
+15/08/2023,AFC Fylde,Kidderminster Harriers,2,1,H
+15/08/2023,Bromley,Wealdstone,1,1,D
+15/08/2023,Dagenham & Redbridge,Gateshead,2,4,A
+15/08/2023,Dorking Wanderers,Southend United,2,1,H
+15/08/2023,Eastleigh,Barnet,3,3,D
+15/08/2023,Ebbsfleet United,Aldershot Town,2,0,H
+15/08/2023,Woking,Rochdale,3,2,H
+15/08/2023,Hartlepool United,Maidenhead United,3,1,H
+15/08/2023,Oldham Athletic,Halifax Town,1,2,A
+15/08/2023,Oxford City,Chesterfield,1,2,A
+15/08/2023,York City,Altrincham,2,2,D
+16/08/2023,Boreham Wood,Solihull Moors,1,2,A
+19/08/2023,Chesterfield,Oldham Athletic,1,1,D
+19/08/2023,Aldershot Town,York City,1,1,D
+19/08/2023,Altrincham,Boreham Wood,1,1,D
+19/08/2023,Barnet,Woking,2,0,H
+19/08/2023,Gateshead,Ebbsfleet United,4,1,H
+19/08/2023,Halifax Town,Oxford City,1,1,D
+19/08/2023,Kidderminster Harriers,Bromley,0,0,D
+19/08/2023,Maidenhead United,Dagenham & Redbridge,1,0,H
+19/08/2023,Rochdale,Eastleigh,2,0,H
+19/08/2023,Solihull Moors,Dorking Wanderers,3,0,H
+19/08/2023,Southend United,Hartlepool United,2,3,A
+19/08/2023,Wealdstone,AFC Fylde,3,2,H
+25/08/2023,Solihull Moors,Halifax Town,1,1,D
+25/08/2023,Southend United,Eastleigh,2,0,H
+25/08/2023,Rochdale,Bromley,2,2,D
+26/08/2023,Aldershot Town,Wealdstone,3,1,H
+26/08/2023,Altrincham,Chesterfield,2,1,H
+26/08/2023,Boreham Wood,Oldham Athletic,0,0,D
+26/08/2023,Dagenham & Redbridge,Barnet,1,0,H
+26/08/2023,Dorking Wanderers,York City,2,2,D
+26/08/2023,Ebbsfleet United,Kidderminster Harriers,3,0,H
+26/08/2023,Gateshead,Woking,1,3,A
+26/08/2023,Maidenhead United,Oxford City,0,0,D
+26/08/2023,Hartlepool United,AFC Fylde,3,1,H
+28/08/2023,AFC Fylde,Altrincham,3,3,D
+28/08/2023,Bromley,Southend United,2,1,H
+28/08/2023,Eastleigh,Aldershot Town,3,0,H
+28/08/2023,Barnet,Ebbsfleet United,3,2,H
+28/08/2023,Chesterfield,Hartlepool United,3,2,H
+28/08/2023,Woking,Dorking Wanderers,2,0,H
+28/08/2023,Halifax Town,Gateshead,0,0,D
+28/08/2023,Kidderminster Harriers,Maidenhead United,0,0,D
+28/08/2023,Oldham Athletic,Solihull Moors,0,2,A
+28/08/2023,Oxford City,Boreham Wood,4,0,H
+28/08/2023,Wealdstone,Dagenham & Redbridge,0,2,A
+28/08/2023,York City,Rochdale,1,3,A
+02/09/2023,Aldershot Town,Chesterfield,3,4,A
+02/09/2023,Altrincham,Bromley,1,2,A
+02/09/2023,Boreham Wood,Barnet,0,1,A
+02/09/2023,Dagenham & Redbridge,AFC Fylde,3,1,H
+02/09/2023,Dorking Wanderers,Eastleigh,0,0,D
+02/09/2023,Ebbsfleet United,York City,4,1,H
+02/09/2023,Hartlepool United,Wealdstone,2,1,H
+02/09/2023,Maidenhead United,Woking,0,0,D
+02/09/2023,Rochdale,Halifax Town,0,1,A
+02/09/2023,Solihull Moors,Oxford City,3,3,D
+02/09/2023,Southend United,Kidderminster Harriers,2,1,H
+02/09/2023,Gateshead,Oldham Athletic,2,2,D
+09/09/2023,Halifax Town,Southend United,1,1,D
+09/09/2023,AFC Fylde,Aldershot Town,0,2,A
+09/09/2023,Bromley,Maidenhead United,4,1,H
+09/09/2023,Eastleigh,Gateshead,0,6,A
+09/09/2023,Barnet,Altrincham,3,0,H
+09/09/2023,Chesterfield,Dagenham & Redbridge,3,1,H
+09/09/2023,Woking,Solihull Moors,1,1,D
+09/09/2023,Kidderminster Harriers,Rochdale,1,1,D
+09/09/2023,Oldham Athletic,Dorking Wanderers,0,0,D
+09/09/2023,Oxford City,Hartlepool United,5,2,H
+09/09/2023,Wealdstone,Ebbsfleet United,2,1,H
+09/09/2023,York City,Boreham Wood,2,2,D
+16/09/2023,AFC Fylde,Eastleigh,1,2,A
+16/09/2023,Aldershot Town,Gateshead,1,1,D
+16/09/2023,Bromley,Oldham Athletic,3,0,H
+16/09/2023,Ebbsfleet United,Chesterfield,0,1,A
+16/09/2023,Halifax Town,Dorking Wanderers,0,1,A
+16/09/2023,Hartlepool United,Woking,0,2,A
+16/09/2023,Maidenhead United,Boreham Wood,0,1,A
+16/09/2023,Oxford City,Dagenham & Redbridge,0,0,D
+16/09/2023,Rochdale,Barnet,4,2,H
+16/09/2023,Wealdstone,Altrincham,0,0,D
+16/09/2023,York City,Southend United,3,0,H
+16/09/2023,Kidderminster Harriers,Solihull Moors,0,1,A
+19/09/2023,Altrincham,Hartlepool United,2,2,D
+19/09/2023,Dagenham & Redbridge,Bromley,0,1,A
+19/09/2023,Dorking Wanderers,Wealdstone,3,1,H
+19/09/2023,Eastleigh,Oxford City,2,2,D
+19/09/2023,Barnet,Aldershot Town,2,1,H
+19/09/2023,Chesterfield,Halifax Town,3,2,H
+19/09/2023,Gateshead,Kidderminster Harriers,3,0,H
+19/09/2023,Woking,Ebbsfleet United,1,1,D
+19/09/2023,Oldham Athletic,York City,2,0,H
+19/09/2023,Solihull Moors,AFC Fylde,2,1,H
+19/09/2023,Southend United,Maidenhead United,2,0,H
+19/09/2023,Boreham Wood,Rochdale,1,1,D
+23/09/2023,Woking,York City,1,2,A
+23/09/2023,Altrincham,Ebbsfleet United,6,1,H
+23/09/2023,Boreham Wood,Aldershot Town,1,2,A
+23/09/2023,Dagenham & Redbridge,Hartlepool United,0,1,A
+23/09/2023,Dorking Wanderers,Rochdale,1,2,A
+23/09/2023,Eastleigh,Kidderminster Harriers,2,1,H
+23/09/2023,Barnet,Halifax Town,0,0,D
+23/09/2023,Chesterfield,Wealdstone,3,2,H
+23/09/2023,Gateshead,Maidenhead United,3,0,H
+23/09/2023,Oldham Athletic,Oxford City,4,0,H
+23/09/2023,Solihull Moors,Bromley,1,1,D
+23/09/2023,Southend United,AFC Fylde,1,2,A
+26/09/2023,AFC Fylde,Boreham Wood,2,2,D
+26/09/2023,Aldershot Town,Southend United,1,1,D
+26/09/2023,Bromley,Eastleigh,1,0,H
+26/09/2023,Ebbsfleet United,Dorking Wanderers,0,1,A
+26/09/2023,Halifax Town,Dagenham & Redbridge,0,0,D
+26/09/2023,Hartlepool United,Solihull Moors,0,2,A
+26/09/2023,Kidderminster Harriers,Oldham Athletic,1,2,A
+26/09/2023,Maidenhead United,Altrincham,0,1,A
+26/09/2023,Oxford City,Gateshead,0,4,A
+26/09/2023,Wealdstone,Woking,1,0,H
+26/09/2023,York City,Barnet,2,4,A
+26/09/2023,Rochdale,Chesterfield,1,2,A
+30/09/2023,AFC Fylde,Woking,0,2,A
+30/09/2023,Aldershot Town,Dagenham & Redbridge,3,2,H
+30/09/2023,Bromley,Gateshead,3,1,H
+30/09/2023,Ebbsfleet United,Boreham Wood,3,1,H
+30/09/2023,Halifax Town,Eastleigh,2,3,A
+30/09/2023,Hartlepool United,Dorking Wanderers,0,2,A
+30/09/2023,Kidderminster Harriers,Barnet,1,2,A
+30/09/2023,Maidenhead United,Chesterfield,1,1,D
+30/09/2023,Rochdale,Southend United,2,2,D
+30/09/2023,Wealdstone,Oldham Athletic,1,1,D
+30/09/2023,York City,Solihull Moors,2,2,D
+30/09/2023,Oxford City,Altrincham,1,2,A
+03/10/2023,Altrincham,Aldershot Town,2,1,H
+03/10/2023,Dagenham & Redbridge,York City,1,2,A
+03/10/2023,Dorking Wanderers,Kidderminster Harriers,0,1,A
+03/10/2023,Eastleigh,Ebbsfleet United,5,2,H
+03/10/2023,Barnet,AFC Fylde,2,1,H
+03/10/2023,Chesterfield,Bromley,2,0,H
+03/10/2023,Gateshead,Wealdstone,2,1,H
+03/10/2023,Woking,Halifax Town,1,2,A
+03/10/2023,Oldham Athletic,Maidenhead United,1,1,D
+03/10/2023,Solihull Moors,Rochdale,2,0,H
+03/10/2023,Southend United,Oxford City,2,0,H
+04/10/2023,Boreham Wood,Hartlepool United,1,0,H
+07/10/2023,Boreham Wood,Chesterfield,0,2,A
+07/10/2023,Ebbsfleet United,Halifax Town,0,2,A
+07/10/2023,Gateshead,Altrincham,0,2,A
+07/10/2023,Woking,Southend United,0,2,A
+07/10/2023,Hartlepool United,Eastleigh,3,1,H
+07/10/2023,Kidderminster Harriers,Wealdstone,1,0,H
+07/10/2023,Maidenhead United,Rochdale,2,2,D
+07/10/2023,Oldham Athletic,Dagenham & Redbridge,1,1,D
+07/10/2023,Oxford City,AFC Fylde,3,0,H
+07/10/2023,Solihull Moors,Aldershot Town,0,1,A
+07/10/2023,York City,Bromley,2,2,D
+07/10/2023,Dorking Wanderers,Barnet,2,3,A
+21/10/2023,AFC Fylde,Ebbsfleet United,1,1,D
+21/10/2023,Aldershot Town,Hartlepool United,2,1,H
+21/10/2023,Bromley,Oxford City,3,1,H
+21/10/2023,Dagenham & Redbridge,Woking,2,1,H
+21/10/2023,Eastleigh,York City,3,1,H
+21/10/2023,Barnet,Maidenhead United,3,2,H
+21/10/2023,Halifax Town,Kidderminster Harriers,2,1,H
+21/10/2023,Rochdale,Oldham Athletic,3,4,A
+21/10/2023,Southend United,Solihull Moors,5,0,H
+21/10/2023,Wealdstone,Boreham Wood,1,1,D
+24/10/2023,Wealdstone,Oxford City,3,1,H
+24/10/2023,Southend United,Ebbsfleet United,3,0,H
+24/10/2023,Aldershot Town,Maidenhead United,4,2,H
+24/10/2023,Altrincham,Kidderminster Harriers,1,1,D
+24/10/2023,Bromley,Dorking Wanderers,2,1,H
+24/10/2023,Dagenham & Redbridge,Boreham Wood,1,3,A
+24/10/2023,Eastleigh,Woking,0,1,A
+24/10/2023,Barnet,Solihull Moors,1,1,D
+24/10/2023,Chesterfield,York City,4,0,H
+24/10/2023,Halifax Town,Hartlepool United,2,1,H
+24/10/2023,Rochdale,Gateshead,2,2,D
+24/10/2023,AFC Fylde,Oldham Athletic,3,0,H
+28/10/2023,York City,Halifax Town,1,1,D
+28/10/2023,Solihull Moors,Wealdstone,1,0,H
+28/10/2023,Boreham Wood,Southend United,1,1,D
+28/10/2023,Dorking Wanderers,Aldershot Town,2,1,H
+28/10/2023,Ebbsfleet United,Dagenham & Redbridge,0,1,A
+28/10/2023,Gateshead,AFC Fylde,0,4,A
+28/10/2023,Woking,Bromley,0,1,A
+28/10/2023,Hartlepool United,Rochdale,2,3,A
+28/10/2023,Kidderminster Harriers,Chesterfield,1,3,A
+28/10/2023,Maidenhead United,Eastleigh,3,2,H
+28/10/2023,Oldham Athletic,Altrincham,2,2,D
+28/10/2023,Oxford City,Barnet,0,2,A
+04/11/2023,Dorking Wanderers,Dagenham & Redbridge,1,3,A
+11/11/2023,Wealdstone,Rochdale,3,2,H
+11/11/2023,AFC Fylde,York City,0,2,A
+11/11/2023,Aldershot Town,Kidderminster Harriers,1,0,H
+11/11/2023,Altrincham,Southend United,2,0,H
+11/11/2023,Boreham Wood,Bromley,1,1,D
+11/11/2023,Chesterfield,Barnet,4,2,H
+11/11/2023,Gateshead,Dorking Wanderers,6,0,H
+11/11/2023,Hartlepool United,Ebbsfleet United,2,2,D
+11/11/2023,Maidenhead United,Halifax Town,1,0,H
+11/11/2023,Oldham Athletic,Eastleigh,1,1,D
+11/11/2023,Oxford City,Woking,3,2,H
+11/11/2023,Dagenham & Redbridge,Solihull Moors,1,2,A
+18/11/2023,York City,Hartlepool United,1,3,A
+18/11/2023,Bromley,AFC Fylde,1,0,H
+18/11/2023,Dorking Wanderers,Boreham Wood,2,1,H
+18/11/2023,Eastleigh,Altrincham,2,1,H
+18/11/2023,Ebbsfleet United,Oxford City,0,4,A
+18/11/2023,Barnet,Gateshead,0,2,A
+18/11/2023,Woking,Oldham Athletic,0,1,A
+18/11/2023,Halifax Town,Wealdstone,1,0,H
+18/11/2023,Kidderminster Harriers,Dagenham & Redbridge,0,1,A
+18/11/2023,Rochdale,Aldershot Town,2,1,H
+18/11/2023,Solihull Moors,Maidenhead United,1,2,A
+18/11/2023,Southend United,Chesterfield,2,1,H
+21/11/2023,Halifax Town,AFC Fylde,2,2,D
+21/11/2023,York City,Oxford City,2,0,H
+21/11/2023,Bromley,Aldershot Town,2,3,A
+21/11/2023,Eastleigh,Boreham Wood,2,1,H
+21/11/2023,Ebbsfleet United,Maidenhead United,1,1,D
+21/11/2023,Woking,Chesterfield,0,2,A
+21/11/2023,Rochdale,Altrincham,3,0,H
+21/11/2023,Kidderminster Harriers,Hartlepool United,1,1,D
+21/11/2023,Solihull Moors,Gateshead,1,2,A
+22/11/2023,Barnet,Oldham Athletic,1,4,A
+25/11/2023,Wealdstone,Barnet,3,2,H
+25/11/2023,Oldham Athletic,Ebbsfleet United,1,4,A
+25/11/2023,Oxford City,Kidderminster Harriers,2,2,D
+25/11/2023,AFC Fylde,Dorking Wanderers,3,3,D
+25/11/2023,Aldershot Town,Halifax Town,1,0,H
+25/11/2023,Altrincham,Solihull Moors,6,1,H
+25/11/2023,Boreham Wood,Woking,4,2,H
+25/11/2023,Dagenham & Redbridge,Rochdale,1,2,A
+25/11/2023,Chesterfield,Eastleigh,3,2,H
+25/11/2023,Gateshead,Southend United,1,1,D
+25/11/2023,Hartlepool United,Bromley,1,4,A
+25/11/2023,Maidenhead United,York City,1,1,D
+02/12/2023,Bromley,Rochdale,1,0,H
+02/12/2023,Oxford City,Maidenhead United,1,4,A
+02/12/2023,Kidderminster Harriers,Ebbsfleet United,2,0,H
+16/12/2023,Southend United,Bromley,1,2,A
+16/12/2023,Solihull Moors,Oldham Athletic,2,3,A
+16/12/2023,Rochdale,York City,0,0,D
+16/12/2023,Maidenhead United,Kidderminster Harriers,1,0,H
+16/12/2023,Hartlepool United,Chesterfield,0,1,A
+16/12/2023,Ebbsfleet United,Barnet,1,1,D
+16/12/2023,Dorking Wanderers,Woking,1,2,A
+16/12/2023,Dagenham & Redbridge,Wealdstone,0,2,A
+16/12/2023,Boreham Wood,Oxford City,2,1,H
+16/12/2023,Altrincham,AFC Fylde,2,1,H
+16/12/2023,Aldershot Town,Eastleigh,3,5,A
+16/12/2023,Gateshead,Halifax Town,0,2,A
+23/12/2023,AFC Fylde,Dagenham & Redbridge,1,1,D
+23/12/2023,York City,Ebbsfleet United,1,1,D
+23/12/2023,Wealdstone,Hartlepool United,4,4,D
+23/12/2023,Oxford City,Solihull Moors,1,2,A
+23/12/2023,Oldham Athletic,Gateshead,1,2,A
+23/12/2023,Kidderminster Harriers,Southend United,1,2,A
+23/12/2023,Halifax Town,Rochdale,2,2,D
+23/12/2023,Woking,Maidenhead United,0,0,D
+23/12/2023,Chesterfield,Aldershot Town,4,1,H
+23/12/2023,Barnet,Boreham Wood,6,0,H
+23/12/2023,Eastleigh,Dorking Wanderers,2,1,H
+23/12/2023,Bromley,Altrincham,2,2,D
+26/12/2023,Aldershot Town,Woking,0,0,D
+26/12/2023,Altrincham,Halifax Town,1,2,A
+26/12/2023,Boreham Wood,Kidderminster Harriers,1,1,D
+26/12/2023,Dagenham & Redbridge,Eastleigh,4,1,H
+26/12/2023,Dorking Wanderers,Oxford City,0,2,A
+26/12/2023,Ebbsfleet United,Bromley,2,3,A
+26/12/2023,Hartlepool United,Oldham Athletic,1,3,A
+26/12/2023,Maidenhead United,Wealdstone,0,2,A
+26/12/2023,Rochdale,AFC Fylde,2,0,H
+26/12/2023,Solihull Moors,Chesterfield,2,0,H
+26/12/2023,Southend United,Barnet,0,2,A
+26/12/2023,Gateshead,York City,1,1,D
+30/12/2023,Bromley,Ebbsfleet United,5,1,H
+30/12/2023,Barnet,Southend United,1,0,H
+30/12/2023,Oldham Athletic,Hartlepool United,2,0,H
+30/12/2023,Kidderminster Harriers,Boreham Wood,1,2,A
+01/01/2024,AFC Fylde,Rochdale,2,0,H
+01/01/2024,Eastleigh,Dagenham & Redbridge,4,4,D
+01/01/2024,Woking,Aldershot Town,2,3,A
+01/01/2024,York City,Gateshead,2,0,H
+01/01/2024,Halifax Town,Altrincham,0,0,D
+01/01/2024,Oxford City,Dorking Wanderers,1,2,A
+01/01/2024,Chesterfield,Solihull Moors,3,2,H
+06/01/2024,Maidenhead United,Bromley,0,0,D
+06/01/2024,Altrincham,Barnet,3,2,H
+06/01/2024,Dorking Wanderers,Oldham Athletic,0,1,A
+06/01/2024,Hartlepool United,Oxford City,2,1,H
+06/01/2024,Ebbsfleet United,Wealdstone,2,0,H
+06/01/2024,Solihull Moors,Woking,3,0,H
+06/01/2024,Rochdale,Kidderminster Harriers,2,0,H
+06/01/2024,Southend United,Halifax Town,3,0,H
+07/01/2024,Boreham Wood,York City,1,1,D
+09/01/2024,AFC Fylde,Hartlepool United,2,1,H
+09/01/2024,Barnet,Dagenham & Redbridge,2,1,H
+10/01/2024,Chesterfield,Gateshead,5,0,H
+13/01/2024,Eastleigh,Southend United,0,1,A
+16/01/2024,Chesterfield,Altrincham,2,1,H
+20/01/2024,Kidderminster Harriers,Aldershot Town,4,2,H
+20/01/2024,Ebbsfleet United,Hartlepool United,0,1,A
+20/01/2024,Dorking Wanderers,Gateshead,1,0,H
+20/01/2024,Bromley,Boreham Wood,2,2,D
+23/01/2024,Dagenham & Redbridge,Dorking Wanderers,2,1,H
+23/01/2024,Chesterfield,Woking,1,0,H
+23/01/2024,Hartlepool United,Kidderminster Harriers,0,1,A
+23/01/2024,Maidenhead United,Ebbsfleet United,0,1,A
+23/01/2024,AFC Fylde,Halifax Town,2,2,D
+23/01/2024,Oldham Athletic,Barnet,2,0,H
+23/01/2024,Oxford City,York City,1,2,A
+23/01/2024,Aldershot Town,Bromley,1,1,D
+24/01/2024,Boreham Wood,Eastleigh,4,4,D
+27/01/2024,AFC Fylde,Bromley,1,0,H
+27/01/2024,Boreham Wood,Dorking Wanderers,0,3,A
+27/01/2024,Aldershot Town,Rochdale,3,1,H
+27/01/2024,Oldham Athletic,Woking,0,1,A
+27/01/2024,Dagenham & Redbridge,Kidderminster Harriers,0,1,A
+27/01/2024,Chesterfield,Southend United,3,0,H
+27/01/2024,Gateshead,Barnet,2,1,H
+27/01/2024,Hartlepool United,York City,2,1,H
+27/01/2024,Maidenhead United,Solihull Moors,2,1,H
+27/01/2024,Wealdstone,Halifax Town,2,0,H
+27/01/2024,Oxford City,Ebbsfleet United,1,0,H
+27/01/2024,Altrincham,Eastleigh,4,0,H
+30/01/2024,Solihull Moors,Dagenham & Redbridge,1,1,D
+30/01/2024,Wealdstone,Aldershot Town,3,3,D
+03/02/2024,Dorking Wanderers,AFC Fylde,1,3,A
+03/02/2024,Barnet,Wealdstone,1,1,D
+03/02/2024,Woking,Boreham Wood,0,1,A
+03/02/2024,Halifax Town,Aldershot Town,1,2,A
+03/02/2024,Eastleigh,Chesterfield,1,3,A
+03/02/2024,Ebbsfleet United,Oldham Athletic,0,0,D
+03/02/2024,York City,Maidenhead United,1,1,D
+03/02/2024,Southend United,Gateshead,0,1,A
+03/02/2024,Kidderminster Harriers,Oxford City,3,2,H
+03/02/2024,Rochdale,Dagenham & Redbridge,1,2,A
+03/02/2024,Bromley,Hartlepool United,1,2,A
+03/02/2024,Solihull Moors,Altrincham,0,1,A
+06/02/2024,Dagenham & Redbridge,Chesterfield,1,2,A
+06/02/2024,Halifax Town,Solihull Moors,1,3,A
+06/02/2024,Woking,Oxford City,2,0,H
+06/02/2024,Wealdstone,Maidenhead United,0,1,A
+06/02/2024,Gateshead,Eastleigh,1,1,D
+10/02/2024,Boreham Wood,Maidenhead United,1,0,H
+10/02/2024,Dagenham & Redbridge,Oxford City,7,1,H
+10/02/2024,Dorking Wanderers,Halifax Town,1,3,A
+10/02/2024,Eastleigh,AFC Fylde,1,2,A
+10/02/2024,Chesterfield,Ebbsfleet United,2,2,D
+10/02/2024,Southend United,York City,0,1,A
+10/02/2024,Woking,Hartlepool United,1,1,D
+10/02/2024,Altrincham,Rochdale,3,0,H
+13/02/2024,Oldham Athletic,Boreham Wood,2,1,H
+13/02/2024,York City,Dorking Wanderers,0,1,A
+13/02/2024,Aldershot Town,AFC Fylde,0,5,A
+13/02/2024,Halifax Town,Maidenhead United,2,1,H
+17/02/2024,Aldershot Town,Altrincham,2,0,H
+17/02/2024,Hartlepool United,Boreham Wood,3,1,H
+17/02/2024,Halifax Town,Woking,2,1,H
+17/02/2024,Ebbsfleet United,Eastleigh,3,0,H
+17/02/2024,Bromley,Chesterfield,4,3,H
+17/02/2024,AFC Fylde,Barnet,2,4,A
+17/02/2024,Maidenhead United,Oldham Athletic,1,3,A
+17/02/2024,Oxford City,Southend United,0,0,D
+17/02/2024,Rochdale,Solihull Moors,1,2,A
+17/02/2024,Wealdstone,Gateshead,2,4,A
+17/02/2024,York City,Dagenham & Redbridge,1,1,D
+17/02/2024,Kidderminster Harriers,Dorking Wanderers,0,0,D
+20/02/2024,Hartlepool United,Altrincham,3,2,H
+20/02/2024,Ebbsfleet United,Woking,1,0,H
+20/02/2024,Bromley,Dagenham & Redbridge,2,2,D
+20/02/2024,Aldershot Town,Barnet,1,0,H
+20/02/2024,Maidenhead United,Southend United,1,2,A
+20/02/2024,Oxford City,Eastleigh,2,5,A
+20/02/2024,York City,Oldham Athletic,1,1,D
+20/02/2024,AFC Fylde,Solihull Moors,2,2,D
+20/02/2024,Kidderminster Harriers,Gateshead,0,2,A
+24/02/2024,Dagenham & Redbridge,Halifax Town,0,1,A
+24/02/2024,Dorking Wanderers,Ebbsfleet United,1,4,A
+24/02/2024,Barnet,York City,2,0,H
+24/02/2024,Chesterfield,Rochdale,2,2,D
+24/02/2024,Altrincham,Maidenhead United,1,3,A
+24/02/2024,Gateshead,Oxford City,4,0,H
+24/02/2024,Woking,Wealdstone,1,1,D
+24/02/2024,Oldham Athletic,Kidderminster Harriers,1,2,A
+24/02/2024,Boreham Wood,AFC Fylde,4,0,H
+24/02/2024,Eastleigh,Bromley,2,0,H
+24/02/2024,Southend United,Aldershot Town,4,1,H
+24/02/2024,Solihull Moors,Hartlepool United,2,1,H
+27/02/2024,Eastleigh,Oldham Athletic,1,2,A
+27/02/2024,Barnet,Chesterfield,0,2,A
+27/02/2024,Southend United,Altrincham,2,1,H
+27/02/2024,Solihull Moors,Kidderminster Harriers,0,1,A
+27/02/2024,Rochdale,Wealdstone,3,0,H
+27/02/2024,Woking,Gateshead,3,2,H
+02/03/2024,York City,Wealdstone,2,3,A
+02/03/2024,Oxford City,Aldershot Town,1,2,A
+02/03/2024,Oldham Athletic,Southend United,1,1,D
+02/03/2024,Hartlepool United,Barnet,1,2,A
+02/03/2024,Ebbsfleet United,Rochdale,2,1,H
+02/03/2024,Eastleigh,Solihull Moors,3,3,D
+02/03/2024,Dagenham & Redbridge,Altrincham,3,1,H
+02/03/2024,Bromley,Halifax Town,2,0,H
+02/03/2024,Boreham Wood,Gateshead,1,1,D
+02/03/2024,AFC Fylde,Maidenhead United,4,1,H
+02/03/2024,Dorking Wanderers,Chesterfield,4,1,H
+05/03/2024,Southend United,Wealdstone,1,1,D
+05/03/2024,Altrincham,Dorking Wanderers,2,1,H
+05/03/2024,York City,AFC Fylde,1,3,A
+05/03/2024,Gateshead,Solihull Moors,2,3,A
+05/03/2024,Oldham Athletic,Bromley,0,0,D
+05/03/2024,Barnet,Rochdale,2,0,H
+05/03/2024,Woking,Kidderminster Harriers,2,1,H
+09/03/2024,Kidderminster Harriers,York City,0,0,D
+09/03/2024,Rochdale,Oxford City,2,2,D
+09/03/2024,Southend United,Dagenham & Redbridge,1,1,D
+09/03/2024,Maidenhead United,Dorking Wanderers,4,2,H
+09/03/2024,Halifax Town,Boreham Wood,2,1,H
+09/03/2024,Chesterfield,AFC Fylde,4,1,H
+09/03/2024,Aldershot Town,Oldham Athletic,2,0,H
+09/03/2024,Altrincham,Woking,0,1,A
+12/03/2024,Southend United,Dorking Wanderers,2,0,H
+12/03/2024,Rochdale,Woking,2,1,H
+12/03/2024,Kidderminster Harriers,AFC Fylde,1,1,D
+12/03/2024,Gateshead,Dagenham & Redbridge,1,0,H
+12/03/2024,Chesterfield,Oxford City,2,0,H
+12/03/2024,Altrincham,York City,6,1,H
+12/03/2024,Aldershot Town,Ebbsfleet United,4,1,H
+12/03/2024,Solihull Moors,Boreham Wood,2,0,H
+16/03/2024,Bromley,Kidderminster Harriers,0,0,D
+16/03/2024,AFC Fylde,Wealdstone,1,2,A
+16/03/2024,Dagenham & Redbridge,Maidenhead United,4,1,H
+16/03/2024,Hartlepool United,Southend United,0,0,D
+16/03/2024,Woking,Barnet,1,0,H
+16/03/2024,York City,Aldershot Town,1,0,H
+16/03/2024,Ebbsfleet United,Gateshead,4,2,H
+16/03/2024,Eastleigh,Rochdale,1,4,A
+16/03/2024,Boreham Wood,Altrincham,0,1,A
+16/03/2024,Dorking Wanderers,Solihull Moors,1,1,D
+16/03/2024,Oldham Athletic,Chesterfield,2,2,D
+17/03/2024,Oxford City,Halifax Town,0,2,A
+19/03/2024,Barnet,Eastleigh,2,1,H
+20/03/2024,Wealdstone,Bromley,0,1,A
+20/03/2024,Halifax Town,Chesterfield,4,2,H
+23/03/2024,Altrincham,Gateshead,2,3,A
+23/03/2024,Bromley,York City,0,2,A
+23/03/2024,Dagenham & Redbridge,Oldham Athletic,0,0,D
+23/03/2024,AFC Fylde,Oxford City,2,1,H
+23/03/2024,Chesterfield,Boreham Wood,3,0,H
+23/03/2024,Rochdale,Maidenhead United,1,0,H
+23/03/2024,Southend United,Woking,0,0,D
+23/03/2024,Aldershot Town,Solihull Moors,1,1,D
+23/03/2024,Wealdstone,Kidderminster Harriers,1,1,D
+23/03/2024,Eastleigh,Hartlepool United,1,1,D
+23/03/2024,Barnet,Dorking Wanderers,6,0,H
+26/03/2024,Solihull Moors,Southend United,0,3,A
+26/03/2024,Gateshead,Hartlepool United,7,1,H
+26/03/2024,Altrincham,Wealdstone,4,1,H
+29/03/2024,Maidenhead United,Aldershot Town,4,0,H
+29/03/2024,Oldham Athletic,AFC Fylde,1,3,A
+29/03/2024,Oxford City,Wealdstone,1,0,H
+29/03/2024,Kidderminster Harriers,Altrincham,1,3,A
+29/03/2024,Hartlepool United,Halifax Town,1,0,H
+29/03/2024,York City,Chesterfield,2,1,H
+29/03/2024,Woking,Eastleigh,0,1,A
+29/03/2024,Gateshead,Rochdale,1,0,H
+29/03/2024,Solihull Moors,Barnet,2,2,D
+29/03/2024,Boreham Wood,Dagenham & Redbridge,1,4,A
+29/03/2024,Dorking Wanderers,Bromley,0,2,A
+29/03/2024,Ebbsfleet United,Southend United,1,1,D
+01/04/2024,Dagenham & Redbridge,Ebbsfleet United,1,1,D
+01/04/2024,Eastleigh,Maidenhead United,2,3,A
+01/04/2024,Chesterfield,Kidderminster Harriers,1,3,A
+01/04/2024,Rochdale,Hartlepool United,1,1,D
+01/04/2024,Southend United,Boreham Wood,4,2,H
+01/04/2024,Wealdstone,Solihull Moors,0,1,A
+01/04/2024,Altrincham,Oldham Athletic,1,0,H
+01/04/2024,Bromley,Woking,1,1,D
+01/04/2024,Barnet,Oxford City,3,1,H
+01/04/2024,Aldershot Town,Dorking Wanderers,1,1,D
+02/04/2024,Halifax Town,York City,1,1,D
+06/04/2024,York City,Eastleigh,0,1,A
+06/04/2024,Boreham Wood,Wealdstone,4,0,H
+06/04/2024,Maidenhead United,Barnet,2,2,D
+06/04/2024,Hartlepool United,Aldershot Town,2,0,H
+06/04/2024,Oldham Athletic,Rochdale,1,1,D
+06/04/2024,Dorking Wanderers,Altrincham,0,0,D
+06/04/2024,Kidderminster Harriers,Halifax Town,0,2,A
+06/04/2024,Woking,Dagenham & Redbridge,3,2,H
+06/04/2024,Ebbsfleet United,AFC Fylde,2,1,H
+09/04/2024,Maidenhead United,Hartlepool United,3,1,H
+09/04/2024,Barnet,Bromley,1,1,D
+09/04/2024,Wealdstone,Southend United,1,2,A
+09/04/2024,Solihull Moors,Ebbsfleet United,3,0,H
+11/04/2024,Wealdstone,Dorking Wanderers,4,2,H
+11/04/2024,AFC Fylde,Gateshead,2,0,H
+13/04/2024,Oxford City,Oldham Athletic,0,0,D
+13/04/2024,York City,Woking,2,0,H
+13/04/2024,Aldershot Town,Boreham Wood,0,3,A
+13/04/2024,Maidenhead United,Gateshead,2,1,H
+13/04/2024,Rochdale,Dorking Wanderers,1,1,D
+13/04/2024,Kidderminster Harriers,Eastleigh,0,1,A
+13/04/2024,Hartlepool United,Dagenham & Redbridge,1,1,D
+13/04/2024,AFC Fylde,Southend United,0,2,A
+13/04/2024,Bromley,Solihull Moors,3,0,H
+13/04/2024,Ebbsfleet United,Altrincham,0,2,A
+13/04/2024,Halifax Town,Barnet,0,2,A
+13/04/2024,Wealdstone,Chesterfield,1,0,H
+15/04/2024,Gateshead,Chesterfield,2,1,H
+16/04/2024,Rochdale,Boreham Wood,0,0,D
+16/04/2024,Wealdstone,Eastleigh,0,1,A
+16/04/2024,Halifax Town,Ebbsfleet United,0,0,D
+16/04/2024,Oxford City,Bromley,1,3,A
+17/04/2024,Gateshead,Aldershot Town,0,1,A
+18/04/2024,Halifax Town,Oldham Athletic,2,2,D
+20/04/2024,Altrincham,Oxford City,1,0,H
+20/04/2024,Boreham Wood,Ebbsfleet United,0,0,D
+20/04/2024,Dagenham & Redbridge,Aldershot Town,3,3,D
+20/04/2024,Dorking Wanderers,Hartlepool United,3,4,A
+20/04/2024,Eastleigh,Halifax Town,0,3,A
+20/04/2024,Barnet,Kidderminster Harriers,4,1,H
+20/04/2024,Chesterfield,Maidenhead United,3,2,H
+20/04/2024,Gateshead,Bromley,2,1,H
+20/04/2024,Woking,AFC Fylde,3,0,H
+20/04/2024,Oldham Athletic,Wealdstone,2,3,A
+20/04/2024,Solihull Moors,York City,1,0,H
+20/04/2024,Southend United,Rochdale,1,2,A
